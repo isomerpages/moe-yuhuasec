@@ -2,6 +2,7 @@ collections:
   about-yhss:
     output: true
     order:
+      - Our People/.keep
       - Our Story/School History.md
       - Our Story/School Crest.md
       - Our Story/Motto, Vision Mission & Values.md
