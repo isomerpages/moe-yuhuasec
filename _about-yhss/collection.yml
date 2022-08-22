@@ -2,7 +2,7 @@ collections:
   about-yhss:
     output: true
     order:
-      - Our People/Support Staff.md
+      - Our People/Executive, Administrative & Support Staff.md
       - Our People/.keep
       - Our Story/School History.md
       - Our Story/School Crest.md
