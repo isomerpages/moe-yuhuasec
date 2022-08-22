@@ -2,6 +2,7 @@ collections:
   about-yhss:
     output: true
     order:
+      - Our People/School Management Committee.md
       - Our People/2022 Form Teachers.md
       - Our People/Executive, Administrative & Support Staff.md
       - Our People/.keep
