@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  about-yhss:
     output: true
     order:
       - folder-page.md
