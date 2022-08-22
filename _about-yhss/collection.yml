@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Our Story/.keep
-      - Our Story/subfolder-page.md
+      - Our Story/Our School Song.md
       - Open House Site.md
       - JOY Ceremony.md
