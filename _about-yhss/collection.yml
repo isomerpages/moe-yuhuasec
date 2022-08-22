@@ -2,7 +2,7 @@ collections:
   about-yhss:
     output: true
     order:
-      - Open House Site.md
-      - JOY Ceremony.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
+      - Open House Site.md
+      - JOY Ceremony.md
