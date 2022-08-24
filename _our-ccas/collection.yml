@@ -2,4 +2,5 @@ collections:
   our-ccas:
     output: true
     order:
+      - Uniformed Groups/National Police Cadet Corps.md
       - Uniformed Groups/.keep
