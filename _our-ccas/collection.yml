@@ -2,6 +2,7 @@ collections:
   our-ccas:
     output: true
     order:
+      - Clubs and Societies/.keep
       - Visual Performing Arts/Visual Performing Arts.md
       - Visual Performing Arts/Choir.md
       - Visual Performing Arts/Concert Band.md
