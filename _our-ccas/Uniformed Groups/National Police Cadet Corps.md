@@ -22,8 +22,7 @@ NPCC is an organisation that firmly believes in the development of character, le
 Website:  
 [https://www.facebook.com/YHSSNP](https://www.facebook.com/YHSSNP)
 
-Our Team
---------
+### Our Team
 
 **Teacher Officers**  
 
@@ -41,8 +40,7 @@ Mdm Kavitha
 
   
 
-Milestones
-----------
+### Milestones
 
 **Proficiency Badges**  
 
@@ -58,73 +56,65 @@ Milestones
 
 **Enrichment**
 
-**Sec.1**: First Aid certification
-
-**Sec.2**: One-Star Kayaking certification
-
-**S****ec.3**: Air Pistol
+**Sec.1**: First Aid certification    
+**Sec.2**: One-Star Kayaking certification   
+**Sec.3**: Air Pistol
 
 **Visits**
 
-**Sec.1**: Police Heritage Centre (PHC)
-
-**Sec.2**: Neighbourhood Police Centre (NPC)
-
+**Sec.1**: Police Heritage Centre (PHC)   
+**Sec.2**: Neighbourhood Police Centre (NPC)   
 **Sec.3**: Home Team Gallery (HTG) 
 
   
 
 **Courses / Activities**
 
-**Sec.1**: Field Cooking, Swearing-In, Games Day, CSI (Level 1)
-
-**Sec.2**: SGSecure, Unarmed Tactic Course, .22 Revolver Shoot, Cadet Leader Course, Road Safety Marshals, CSI (Level 2)  
-
+**Sec.1**: Field Cooking, Swearing-In, Games Day, CSI (Level 1)   
+**Sec.2**: SGSecure, Unarmed Tactic Course, .22 Revolver Shoot, Cadet Leader Course, Road Safety Marshals, CSI (Level 2)     
 **Sec.3**: LMSC, .22 Revolver Shoot Test, Advanced CSI
 
   
 
 **Camps**
 
-**Sec.1**: Unit Annual Camp cum Field Cooking
-
-**Sec.2**: Adventure Training Camp
-
+**Sec.1**: Unit Annual Camp cum Field Cooking  
+**Sec.2**: Adventure Training Camp   
 **Sec.3**: Survival Training Camp
 
   
 
 **HQ Parades**
-
-● NPCC Annual Parade
-
-● Police Day Parade
-
-● SYF Opening
-
-● National Day Parade
+* NPCC Annual Parade
+* Police Day Parade
+* SYF Opening
+* National Day Parade
 
   
 
 **Competition**
 
-● .22 Shooting Competition
-
-● .38 Shooting Competition
-
-● Campcraft Competition (bi-annual)
-
-● Inter-unit Drills Competition (bi-annual)
-
-● X-Challenge (bi-annual)
-
-● Youth Video Competition
+* .22 Shooting Competition
+*  .38 Shooting Competition
+* Campcraft Competition (bi-annual)
+* Inter-unit Drills Competition (bi-annual)
+* X-Challenge (bi-annual)
+* Youth Video Competition
 
 **Overseas Educational Visit by HQ**
 
-● OEV to Brunei (Sec.2)
+* OEV to Brunei (Sec.2)
+* OEV to Hong Kong (Sec.3)
 
-● OEV to Hong Kong (Sec.3)
+### Achievements
 
-Achievements
-------------
+![](/images/SPF.jpg)
+
+1. SPF-NPCC Badge 2019  
+
+* Zahwah Tay@Wei Na (413)
+* Viczent Lim (412)
+
+![](/images/UOPA.jpeg)
+
+2. Unit Overall Achievement Award 2018 – Gold Award
