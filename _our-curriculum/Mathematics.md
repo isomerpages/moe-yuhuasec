@@ -95,3 +95,11 @@ The iStrive programme supports students who have good achievements in Math at lo
 The programme starts during the first few weeks of the November school holiday to cover topics in another stream so that these students are able to start the following year on an equal footing as their other peers.
 
 To ensure adequate support in terms of their subject learning and emotional well-being, consultations will be held fortnightly throughout the students’ first year in a new stream.
+
+### Home-based Learning
+
+Home-based learning has become a vital learning platform for continual learning during the circuit breaker period. Teachers collaborated with each other to create more online learning resources and share them with colleagues to further enhance the effectiveness of home-based learning.
+
+To encourage self-directed learning, the Mathematics department uploaded lesson materials for their classes in Student Learning Space (SLS). Assignments were marked and feedback given regularly for every assignment to ensure the continuity of students’ learning progress.
+
+The Covid-19 pandemic has, in fact, created an opportunity for teachers to look at all the possibilities of learning experiences and platforms for our students by using ICT-enabled affordances in the future.
