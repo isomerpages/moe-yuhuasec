@@ -49,3 +49,19 @@ Lower secondary students visited the Science Centre and enjoyed the Mass Escape 
 Upper secondary students were engaged in playing Math board games called Jungle Stumble in school. Students got very excited as the game was based not only on mathematical skills and understanding, but also pure luck! Therefore, anyone could win it. 
 
 Our teachers strive to provide a highly engaging environment during lesson enactment. We believe experiential learning would provide greater joy in the learning of Mathematics. For example, the teaching of the concept of factorisation and trigonometry can be made more fun & enjoyable through concrete visualisations and measurement. Watch the two videos below on how the joy of learning math is made alive!
+
+![](/images/10.png)
+
+![](/images/11.jpg)
+
+Our teachers strive to provide a highly engaging environment during lesson enactment. We believe experiential learning would provide greater joy in the learning of Mathematics. For example, the teaching of the concept of factorisation and trigonometry can be made more fun & enjoyable through concrete visualisations and measurement. Watch the two videos below on how the joy of learning math is made alive!
+
+(video to be uploaded to yt)
+Trigonometry comes Alive
+
+(video to be uploaded to yt) 
+Factorisation using Alge-tiles
+
+**3\. EBS iExperience programme**
+
+Through the 2D1N EBS iExperience programme, students are immersed in various aspects of business and services so that they can find greater meaning in what they have learned. The activities for the learning journey will be based on lessons that have already been covered in the classroom. The information collected during the learning journey will be used for the mini‐coursework.
