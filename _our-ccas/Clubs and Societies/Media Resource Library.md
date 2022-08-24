@@ -61,3 +61,12 @@ Info Ambassadors worked on thematic displays based on local and overseas writers
 **World Book Day 2021** 
 
 Info ambassadors and EL teachers were able to use their creativity to dress up as their favourite book characters creating a colourful parade representing a wide variety of novels, from Alice in Wonderland, and Macbeth to Where’s Wally and Harry Potter. The students had a wonderful time, sharing about their favourite characters and storybooks with their friends on the world book day, conducted by the EL department.
+
+![](/images/l7.jpg)
+
+### Other Websites
+
+How to browse through our school library collection?  
+You can access OPAC (Online Public Access Catalogue) to search for the availability of the books in the school libraries and check if they have any overdue books. OPAC can be accessed from mobile too. Our book recommendations are also available at this following link
+
+[https://schoolibrary.moe.edu.sg/yuhuasec/](https://schoolibrary.moe.edu.sg/yuhuasec/)
