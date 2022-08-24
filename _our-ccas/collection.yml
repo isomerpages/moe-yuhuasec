@@ -2,6 +2,7 @@ collections:
   our-ccas:
     output: true
     order:
+      - Visual Performing Arts/Harmonica Band.md
       - Visual Performing Arts/StageWright.md
       - Visual Performing Arts/.keep
       - Physical Sports/Floorball.md
