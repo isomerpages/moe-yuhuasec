@@ -2,5 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
+      - Sexuality Education.md
       - Student Leadership.md
       - Yuhua CARES.md
