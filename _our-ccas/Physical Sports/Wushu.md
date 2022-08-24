@@ -44,3 +44,12 @@ Captain (Administration): Soo Tse Siang (304)
 
 <img src="/images/wu%202.png" 
      style="width:50%">
+		 
+**National School Games Competition**  
+
+B’ Div Competition    
+C’ Div Competition 
+
+**National Wushu Championships**
+
+CCA Camp
