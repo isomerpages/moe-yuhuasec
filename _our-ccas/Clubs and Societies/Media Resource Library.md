@@ -29,20 +29,15 @@ Our Team
 
 **Teachers**  
 
-Mr Muhamed Hafiz Bin Mohamed Ridwan
-
-Mrs Chinnamah silvarajoo
-
-Mdm Lalitha
-
+Mr Muhamed Hafiz Bin Mohamed Ridwan    
+Mrs Chinnamah silvarajoo   
+Mdm Lalitha   
 Mr Joshua Yeo (Librarian)
 
 **Student Leaders**
 
-President: Nandhika (309)
-
-Vice President: Hiew Xue Yi (308)
-
+President: Nandhika (309)    
+Vice President: Hiew Xue Yi (308)   
 Vice President: Kerk Shi Min (308)
 
 Key Events of the Year
