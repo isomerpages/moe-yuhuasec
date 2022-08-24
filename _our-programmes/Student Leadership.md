@@ -22,3 +22,13 @@ We aspire to develop Servant Leaders who are self-motivated and have the desire 
 ### Project Gratitude
 
 Project Gratitude is an annual series of events in the first half of the year where Student Leaders lead their peers and classmates in seeking a deeper understanding of the roles of various members of the school community, especially the non-teaching staff. Student Leaders empathise and help non-teaching staff make the school a better environment to do their duties. Project Gratitude is a platform for the student leaders to canvass support from their peers towards expressing gratitude towards these staff.
+
+![](/images/Student%20Leadership%202.png)
+
+![](/images/Student%20Leadership%203.jpg)
+
+![](/images/Student%20Leadership%204.jpg)
+
+![](/images/Student%20Leadership%205.jpg)
+
+![](/images/Student%20Leadership%206.jpg)
