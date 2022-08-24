@@ -52,7 +52,6 @@ BB Blaze 2018 ( Bronze Honour Roll)
 Founder's Award 2018 (SSG Yang Sheng)    
 JM Fraser Award 2019 (Bronze)
 
-Social Media
-------------
+### Social Media
 
 [https://www.instagram.com/bb28th/](https://www.instagram.com/bb28th/)
