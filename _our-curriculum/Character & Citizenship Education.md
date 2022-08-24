@@ -31,6 +31,14 @@ The customised CCE curriculum in YHSS that comprises of the following components
 
 Other key programmes include Values in Action (VIA) projects, National Education (NE) programmes, Cyber Wellness Carnival, Education and Career Guidance (ECG) Institutes of Higher Learning (IHL) Fair, Alumni Talks and Elective Modules (EM)/ Advanced Elective Modules (AEM).
 
-  
-
 Sec 2 VIA (Visit to Elderly Homes):
+
+![](/images/1abc.jpg)
+
+ECG IHL/ Alumni Talks:
+
+![](/images/2abc.jpg)
+
+ECG Elective Modules (EM):
+
+![](/images/4abc.jpg)
