@@ -19,3 +19,15 @@ Apart from competencies students must also have the right attitudes to continual
 ![](/images/math%20framework.jpg)
 
 ![](/images/Math%20framewk.jpg)
+
+### Signature Programme(s)
+
+**Joy of Learning Mathematics**
+
+**1\. Y-Venture**
+
+Y-Venture aims to excite the Joy of Learning Mathematics through gamifications and experiential learning.
+
+During the learning activity, students work in small groups to solve a series of math-related problems which would then lead to more clues or number codes required to open the combination locks before they can escape from different rooms and finally be set free.
+
+Y-Venture challenges students to reason, communicate and apply metacognitive skills that they have learnt in their Math class. Our escape rooms provides students great enjoyment in learning mathematics and at the same time, inculcates the values of resilience, perseverance and cooperation to complete the mission.
