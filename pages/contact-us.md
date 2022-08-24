@@ -5,18 +5,21 @@ permalink: /contact-us/
 agency_name: Yuhua Secondary School
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
+      - " 35 Jurong West Street 41"
+      - Singapore 649406
+      - ""
     operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
-    maps_link: ""
-    title: Main Office
+      - days: Mon-Fri
+        time: 7.30am - 5.00pm
+        description: Closed on Weekends & Public Holidays
+      - days: Buses
+        time: ""
+        description: 49, 98, 99, 185, 187, 198, 335, 502
+      - days: Nearest MRT Station
+        time: ""
+        description: Lakeside MRT
+    maps_link: https://goo.gl/maps/fzVtxSMWW6oanomG8
+    title: Address
   - address:
       - 109 North Bridge Road
       - Singapore 179097
