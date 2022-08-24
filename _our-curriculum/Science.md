@@ -19,24 +19,18 @@ The Yuhua Science Department comprises of 14 dedicated and caring Science teache
 
 The Department takes reference from MOE’s Science Curriculum Framework, which encapsulates the thrust of Science education in Singapore to prepare our students to be sufficiently adept as effective citizens, be able to function in and contribute to an increasingly technologically-driven society.
 
-![](/images/sci.jpg)
+<img src="/images/sci.jpg" 
+     style="width:50%">
 
  The department aims to make the learning of Science fun while making it relevant to everyday life.  
 
-Signature Programme(s)
-----------------------
-
-  
+### Signature Programme(s)
 
 **iSEE** 
 
 **SCIENTIFIC EXPERIENTIAL & EXPLORATORY LEARNING PROGRAMME**
 
-  
-
 The iSEE programme is the signature programme of the Yuhua Science Department. It is explicitly linked to the various parts of the science curriculum. It provides regular pulses of learning opportunities which are progressive in nature such that they delve into the depth of the subject content. 
-
-  
 
 The iSEE learning programme will cover 3 fields in science, namely, 
 
@@ -44,11 +38,7 @@ The iSEE learning programme will cover 3 fields in science, namely, 
 (ii) chemistry and our environment, and   
 (iii) the physical world around us. 
 
-  
-
 To facilitate the inquiry learning process, all lower secondary students will experience the phases of inquiry learning by participating in modules covering each field/area. Each module will provide students with learning experiences (LE), exploratory and explanatory opportunities (EO) and extension of their learning to new contexts (EL). 
-
-  
 
 For example, the Secondary 2 students underwent an iSee module on the theme “Interactions” (Physical world around us) and were tasked to design a “solar cooker” which was used for cooking marshmallows. The project allows students to demonstrate their learning from the chapters on Energy and Work Done, Effects of Heat and its Transmission, as well as Chemical Changes, and allows the students to extend their learning to new contexts. 
 
