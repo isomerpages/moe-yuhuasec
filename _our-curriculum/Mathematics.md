@@ -78,3 +78,20 @@ Due to the Covid-19 pandemic, the trainings were carried out online. The selecte
 
 ![](/images/MATH3.jpg)
 Self-practice SMO questions at home
+
+### Academic Support Programmes
+
+**1\. iBelieve and Booster Programmes**  
+The iBelieve and Booster Programmes are targeted for selected lower secondary students. These after-school programmes aim to strengthen our students’ foundation in Mathematics and increase their level of confidence.  
+  
+So, what’s the feedback from the students? All of them agreed that they were happy and enjoying themselves as their teachers create positive learning environment during these afternoon activity lessons.
+
+![](/images/15.jpg)
+
+**2\. iSTRIVE Programme**
+
+The iStrive programme supports students who have good achievements in Math at lower secondary and are offered Math in a more challenging stream as they progress to the next level.
+
+The programme starts during the first few weeks of the November school holiday to cover topics in another stream so that these students are able to start the following year on an equal footing as their other peers.
+
+To ensure adequate support in terms of their subject learning and emotional well-being, consultations will be held fortnightly throughout the students’ first year in a new stream.
