@@ -40,3 +40,10 @@ Covid-19 has presented a unique set of challenges for our Yuhua Choir since 2020
 Despite this, the Choir managed to add some festive cheer to the Chinese New Year celebrations by putting up a multi-language song item
 
 which included the different racial groups! A few students (and even alumni) from other CCAs collaborated with us by being our musicians.
+
+
+![](/images/c2.jpg)
+
+![](/images/c3.jpg)
+
+![](/images/c5.jpg)
