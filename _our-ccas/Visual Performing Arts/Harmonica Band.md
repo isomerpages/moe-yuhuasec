@@ -31,3 +31,7 @@ Mr Mohamed Hafiz Bin Mohamed Ridwan
 
 Singapore Youth Festival Arts Presentation  
 JOY of Yuhua
+
+![](/images/SYF%20Rehearsals.jpg)
+
+![](/images/SYF%20Teams.jpg)
