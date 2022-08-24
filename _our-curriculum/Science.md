@@ -40,10 +40,8 @@ The iSEE programme is the signature programme of the Yuhua Science Department. I
 
 The iSEE learning programme will cover 3 fields in science, namely, 
 
-(i) biodiversity, 
-
-(ii) chemistry and our environment, and 
-
+(i) biodiversity,    
+(ii) chemistry and our environment, and   
 (iii) the physical world around us. 
 
   
