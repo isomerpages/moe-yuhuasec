@@ -2,7 +2,7 @@ logo: /images/yhss.jpg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: About Yhss
+    collection: about-yhss
+  - title: Our Curriculum
     collection: about-yhss
