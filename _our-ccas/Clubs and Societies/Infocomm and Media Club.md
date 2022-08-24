@@ -27,3 +27,9 @@ Mr Dolly Yansen
 ### CCA Highlights
 
 **Daily P.A. System duty for Morning Assembly**
+<img src="/images/2abc.png" 
+     style="width:70%">
+
+**Videography and Photography**
+<img src="/images/3abc.png" 
+     style="width:70%">
