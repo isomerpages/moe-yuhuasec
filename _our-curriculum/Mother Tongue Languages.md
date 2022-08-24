@@ -37,3 +37,35 @@ Upon completion of the programme, students should be able to:
 
 1.  Communicate in their non-mother tongue language in everyday situations using simple phrases and sentences
 2.  Develop cross-cultural appreciation and build stronger cross-ethnic relationships
+
+![](/images/MTL%201.png)
+![](/images/MTL%202.png)
+![](/images/MTL%204.png)
+![](/images/MTL%205.png)
+![](/images/MTL%206.png)
+
+**Sharing at Malay Language Seminar 2022**
+
+![](/images/PHOTO-2022-04-04-14-50-54.jpg)
+
+![](/images/IMG-20220315-WA0009%202.jpg)
+
+![](/images/IMG-20220315-WA0019%202.jpg)
+
+Every year, the Malay Language Centre of Singapore (MLCS) and the Academy of Singapore Teachers, organises the annual Malay Language Seminar. This year, Yuhua Secondary School’s  Malay Language Unit was honoured to be selected to share their PLT findings at the 2022 Malay Language Seminar.
+
+The theme of year’s seminar is The Arif Budiman Vision: Weaving the Excellence of Teaching and Learning of Malay Language and Culture in the Universe of Life (_Visi Arif Budiman: Menyulam Kecemerlangan PdP Bahasa dan Kebudayaan Melayu di Tengah Angkasaraya Kehidupan)._
+
+The objectives of the seminar are as follows:
+
+a.     To enhance teachers’ knowledge to plan and carry out effective Malay language teaching and learning;  
+
+b.     To enhance teachers’ professional development in conducting school-based research; and
+
+c.      To provide platform for teachers to share their research findings and best practices.
+
+Mr Muhammad Shukri and Mdm Noorlinda Abdullah who were the school presenters, confidently shared on the application of CSI Planning method as well as ABC Dialogue in strengthening student narrative writing. The ML unit’s research has the objective of strengthening students' understanding of question and writing abilities in the 2 main domains of writing namely – effective planning and dialogue.
+
+CSI planning and ABC Dialogue are applied to help students establish their clarity of thoughts in planning before starting the process of writing a narrative essay. This process can help increase students’ confidence in writing narrative essays. Embroidering the theory of Locus of Control in this process allows students to apply certain parts in improving the quality of their writing. This technique is expected to strengthen students' writing and help them master the 2 main domains of writing.
+
+Participants who attended our presentation were impressed and gave positive feedback on the effectiveness of the writing method. The Malay Language unit is definitely looking forward to present their upcoming teaching and learning practices in future Malay Language Seminar.
