@@ -30,3 +30,18 @@ We look forward to you being part of our Yuhua family.   
 
 **Dr Quah Saw Han**   
 **Advisor of Parent Support Group 2022**
+
+### 2022 YHSS PSG EXCO Members
+
+**Chairperson**  
+• Ms Amy Ng
+
+![](/images/Amy.jpeg)
+
+**Vice Chairperson**    
+• Mr Lim Tick Hook
+
+![](/images/Lim%20Tick%20Hook.jpeg)
+
+**Secretary**  
+• Ms Tina Sia
