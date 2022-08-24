@@ -27,3 +27,11 @@ Participants (students and staff) take part in a 2.4km run in Jurong Central Par
 **Sports Education Programme (SEP)**
 
 This programme for the lower secondary students enables them to experience sports like bowling and archery that are not taught during PE lessons. It aims to arouse students’ interest in continual sports participation, especially during their leisure time.
+
+![](/images/PE1.jpg)
+
+**Annual Secondary 3 Adventure Camp** 
+
+The programme is to provide students with an opportunity to participate in adventurous outdoor activities (e.g. rock wall climbing, water rafting, zip line, forest trek) and apply school values in an authentic outdoor setting.
+
+![](/images/Annual%20Secondary%202%20Adventure%20Camp_2.jpg)
