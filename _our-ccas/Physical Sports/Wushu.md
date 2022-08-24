@@ -67,3 +67,36 @@ CCA Camp
 Cheng Kei Win (Nanquan)- Top 10   
 Cheng Kei Win (Nandao)- Top 10    
 Soo Tse Siang (Sword)- Top 10
+
+![](/images/wu%206.jpg)
+
+![](/images/wu%207.jpg)
+
+**National Wushu Championships 2019**    
+Group weapon B div girls- Gold 
+
+**National Wushu Championships 2019**   
+Group weapon B div girls- Gold 
+
+Eunice Low Jia Hui     
+Begum Nor Atikah    
+Lim Jing Yi     
+Ng Ning Xuan, Connie     
+Lau Jia Hui      
+Soo Lee Shuen
+
+  
+
+Cheng Kei Win- Gold in Nangun Youth Category
+
+Lau Jia Hui- Gold in Spear Youth Category
+
+Jervois Ng Wei Qiang- Gold in Cudgel Youth Category
+
+Jervois Ng Wei Qiang- Gold in Nandao Youth Category
+
+Begum Nor Atikah- Silver in Broadsword Youth Category
+
+Cheng Kei Win- Bronze in Nanquan Youth Category
+
+Lau Jia Hui- Silver in Changquan Youth Category
