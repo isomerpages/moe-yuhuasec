@@ -53,3 +53,17 @@ C’ Div Competition 
 **National Wushu Championships**
 
 CCA Camp
+
+![](/images/wu%203.jpg)
+
+![](/images/wu%204.jpg)
+
+![](/images/wu%205.png)
+
+### Achievements
+
+**National School Games B div 2021**
+
+Cheng Kei Win (Nanquan)- Top 10   
+Cheng Kei Win (Nandao)- Top 10    
+Soo Tse Siang (Sword)- Top 10
