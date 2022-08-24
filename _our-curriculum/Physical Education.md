@@ -35,3 +35,5 @@ This programme for the lower secondary students enables them to experience sport
 The programme is to provide students with an opportunity to participate in adventurous outdoor activities (e.g. rock wall climbing, water rafting, zip line, forest trek) and apply school values in an authentic outdoor setting.
 
 ![](/images/Annual%20Secondary%202%20Adventure%20Camp_2.jpg)
+
+![](/images/Annual%20Secondary%202%20Adventure%20Camp_1.jpg)
