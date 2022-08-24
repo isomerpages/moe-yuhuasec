@@ -39,3 +39,5 @@ Y-Venture challenges students to reason, communicate and apply metacognitive ski
 The Mathematics department provides opportunities for all students to enjoy learning through fun activities. Some of these activities go beyond the classroom environment such as learning journeys and classroom experiential learning activities.
 
 Lower secondary students visited the Science Centre and enjoyed the Mass Escape Game and DinoQuest.
+
+**Learning Journey to Singapore Science Centre**
