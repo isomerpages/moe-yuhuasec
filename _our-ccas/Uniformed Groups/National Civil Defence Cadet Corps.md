@@ -44,10 +44,10 @@ Our cadets undergo a specially designed, varied and challenging training program
 
 **Key events of the year**
 
-\- YHSS NCDCC Unit Camp    
-\- Courses aligned with the Cadet Proficiency Badge Scheme (CPBS)   
-\- Visits to Civil Defence Academy, Civil Defence Heritage Centre, Jurong Fire Station and Dart Base.   
-\- Sec 1 Affirmation Day    
-\- Sec 3 Specialisation Course- Medical Response, Urban Search and Rescue, Fire Safety   
-\- Participating in NCDCC Service Month – School and Community sharing of Civil Defence knowledge    
-\- Precision Drill Competition
+* YHSS NCDCC Unit Camp    
+* Courses aligned with the Cadet Proficiency Badge Scheme (CPBS)   
+* Visits to Civil Defence Academy, Civil Defence Heritage Centre, Jurong Fire Station and Dart Base.   
+* Sec 1 Affirmation Day    
+* Sec 3 Specialisation Course- Medical Response, Urban Search and Rescue, Fire Safety   
+* Participating in NCDCC Service Month – School and Community sharing of Civil Defence knowledge    
+* Precision Drill Competition
