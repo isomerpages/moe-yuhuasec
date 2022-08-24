@@ -41,3 +41,6 @@ Captain (Administration): Soo Tse Siang (304)
 
 **CNY Performance**   
 \-> Watch our 2020 performance here! ([YHSS CNY wushu video 2021](https://www.youtube.com/watch?v=mSvglVwJGXc))
+
+<img src="/images/wu%202.png" 
+     style="width:50%">
