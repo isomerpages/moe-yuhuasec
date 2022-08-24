@@ -50,3 +50,7 @@ Examples of the Term Projects include the following :
 i. Ted Talk for Sec 2    
  ii. Analysis of pop songs for Sec 2 Literature     
 iii. Travel brochure design and feature writing for Sec 3.
+
+![](/images/EL.jpg)
+
+![](/images/67097737_1107672902766124_2556523405419479040_n.jpg)
