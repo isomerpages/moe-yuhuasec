@@ -36,12 +36,30 @@ We look forward to you being part of our Yuhua family.   
 **Chairperson**  
 • Ms Amy Ng
 
-![](/images/Amy.jpeg)
+<img src="/images/Amy.jpeg" 
+     style="width:25%">
 
 **Vice Chairperson**    
 • Mr Lim Tick Hook
 
-![](/images/Lim%20Tick%20Hook.jpeg)
+<img src="/images/Lim%20Tick%20Hook.jpeg" 
+     style="width:25%">
 
 **Secretary**  
 • Ms Tina Sia
+
+<img src="/images/Tina.jpeg" 
+     style="width:25%">
+
+**Events Coordinator**  
+• Mr Gregory Poo
+
+<img src="/images/Gregory.jpeg" 
+     style="width:25%">
+
+
+**Advisor**    
+• Dr Quah Saw Han
+
+<img src="/images/Saw%20Han.jpeg" 
+     style="width:25%">
