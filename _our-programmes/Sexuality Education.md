@@ -52,7 +52,7 @@ b.     Character and Citizenship Education (CCE)
 
 **At Yuhua Secondary School, the following Sexuality Education lessons will be taught in 2022:**
 
-You may access the 2022 CCE schedule here: [CCE Schedule 2022.docx](https://yuhuasec.moe.edu.sg/qql/slot/u516/CCE%20Schedule%202022.docx) - docx
+You may access the 2022 CCE schedule here: [CCE Schedule 2022.docx](https://yuhuasec.moe.edu.sg/qql/slot/u516/CCE%20Schedule%202022.docx) 
 
   
 
@@ -65,3 +65,17 @@ You may access the 2022 CCE schedule here: [CCE Schedule 2022.docx](https://yuh
 **At Yuhua Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#D9D9D9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Topics/Lessons</th><th style="background-color:#D9D9D9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Programme Learning Objectives</th><th style="background-color:#D9D9D9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Time Period</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mass Talk by HPB appointed vendor</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Awareness of the different STIs and HIV/AIDS<br>• Modes of transmission<br>• Modes of protection, specifically on how the condom is used<br>• Consequences and impact of STIs/HIV<br> </td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Term 3 Week 5</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Classroom-based Lesson</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br> </td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Term 3 Week 6</td></tr></tbody></table>
+
+**INFORMATION FOR PARENTS**
+
+10. Parents may opt their children out of the **Sexuality Education lessons**, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
+
+  
+
+11. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here. - word doc](https://yuhuasec.moe.edu.sg/qql/slot/u516/Sexuality%20Education%20Parents%20Opt-Out%20form%20Annex%20A.docx)The completed form is to be submitted by **09/02/2022**. 
+
+12. Parents who wish to opt their Sec 3 and 4 children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here. - word doc](https://yuhuasec.moe.edu.sg/qql/slot/u516/eTeens%20opt%20out%20letter%202022_Annex%20B.docx) The completed form is to be submitted by **09/02/2022**.
+
+13.   Parents can contact the school at [yuhua\_ss@moe.edu.sg](mailto:yuhua_ss@moe.edu.sg) or 65661985 for discussion or to seek clarification about the school’s sexuality education programme.
+
+14.   Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
