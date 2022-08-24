@@ -43,3 +43,5 @@ Yuhua Intra-Floorball Championships 
 ### Achievements
 
 Singapore Floorball Association (SFA) B’ Division Plate Competition – 4th Place
+
+![](/images/ff.jpg)
