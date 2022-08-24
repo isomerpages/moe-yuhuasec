@@ -41,3 +41,11 @@ The Mathematics department provides opportunities for all students to enjoy lear
 Lower secondary students visited the Science Centre and enjoyed the Mass Escape Game and DinoQuest.
 
 **Learning Journey to Singapore Science Centre**
+
+![](/images/MATH2.jpg)
+
+![](/images/9abc.jpg)
+
+Upper secondary students were engaged in playing Math board games called Jungle Stumble in school. Students got very excited as the game was based not only on mathematical skills and understanding, but also pure luck! Therefore, anyone could win it. 
+
+Our teachers strive to provide a highly engaging environment during lesson enactment. We believe experiential learning would provide greater joy in the learning of Mathematics. For example, the teaching of the concept of factorisation and trigonometry can be made more fun & enjoyable through concrete visualisations and measurement. Watch the two videos below on how the joy of learning math is made alive!
