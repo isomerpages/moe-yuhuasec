@@ -14,3 +14,7 @@ description: ""
 ### Department Introduction
 
 The Yuhua Science Department comprises of 14 dedicated and caring Science teachers, as well as 3 lab technicians.
+
+![](/images/Science%201.jpg)
+
+The Department takes reference from MOE’s Science Curriculum Framework, which encapsulates the thrust of Science education in Singapore to prepare our students to be sufficiently adept as effective citizens, be able to function in and contribute to an increasingly technologically-driven society.
