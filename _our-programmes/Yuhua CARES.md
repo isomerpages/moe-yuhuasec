@@ -20,3 +20,6 @@ Yuhua C.A.R.E.S is our school’s unique Values in Action (VIA) program to help 
 **Middle finger (strongest finger)**: Highlights the importance of learning skills to be successful in serving the community
 
 **Ring finger**: Shows our long-term commitment to a cause
+
+
+### Program Summary
