@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Character & Citizenship Education.md
       - English Language and Literature.md
       - Humanities.md
       - Information, Communication & Technology.md
