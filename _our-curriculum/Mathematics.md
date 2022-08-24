@@ -103,3 +103,5 @@ Home-based learning has become a vital learning platform for continual learning 
 To encourage self-directed learning, the Mathematics department uploaded lesson materials for their classes in Student Learning Space (SLS). Assignments were marked and feedback given regularly for every assignment to ensure the continuity of students’ learning progress.
 
 The Covid-19 pandemic has, in fact, created an opportunity for teachers to look at all the possibilities of learning experiences and platforms for our students by using ICT-enabled affordances in the future.
+
+![](/images/MATH41.jpg)
