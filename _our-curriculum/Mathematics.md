@@ -31,3 +31,11 @@ Y-Venture aims to excite the Joy of Learning Mathematics through gamifications 
 During the learning activity, students work in small groups to solve a series of math-related problems which would then lead to more clues or number codes required to open the combination locks before they can escape from different rooms and finally be set free.
 
 Y-Venture challenges students to reason, communicate and apply metacognitive skills that they have learnt in their Math class. Our escape rooms provides students great enjoyment in learning mathematics and at the same time, inculcates the values of resilience, perseverance and cooperation to complete the mission.
+
+![](/images/MATH1.jpg)
+
+**2. Experiential Learning Activities**  
+
+The Mathematics department provides opportunities for all students to enjoy learning through fun activities. Some of these activities go beyond the classroom environment such as learning journeys and classroom experiential learning activities.
+
+Lower secondary students visited the Science Centre and enjoyed the Mass Escape Game and DinoQuest.
