@@ -94,3 +94,8 @@ Jervois Ng Wei Qiang- Gold in Nandao Youth Category
 Begum Nor Atikah- Silver in Broadsword Youth Category   
 Cheng Kei Win- Bronze in Nanquan Youth Category  
 Lau Jia Hui- Silver in Changquan Youth Category
+
+
+![](/images/wu%208.jpg)
+
+![](/images/wuwu.png)
