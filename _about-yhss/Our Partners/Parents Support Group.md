@@ -63,3 +63,11 @@ We look forward to you being part of our Yuhua family.   
 
 <img src="/images/Saw%20Han.jpeg" 
      style="width:25%">
+
+### PSG Gallery
+
+insert photos
+
+### Sign up for Parent Support Group
+
+Fill in the form [here](https://form.gov.sg/61c8f7732efd780012552976).
