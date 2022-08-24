@@ -20,22 +20,20 @@ locations:
         description: Lakeside MRT
     maps_link: https://goo.gl/maps/fzVtxSMWW6oanomG8
     title: Address
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: +65 6566 1985
+      - email: ""
+      - other: ""
+    title: General Office
+  - content:
+      - phone: +65 6569 6689
+      - email: ""
+      - other: ""
+    title: Fax
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: yuhua_ss@moe.edu.sg
       - other: ""
-    title: Careers
+    title: Email
 ---
