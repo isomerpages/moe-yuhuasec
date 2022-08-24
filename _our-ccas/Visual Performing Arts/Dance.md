@@ -37,3 +37,9 @@ Vice President: Nurul Sakinah bte Samsudin (306)
 Singapore Youth Festival
 
 JOY of Yuhua
+
+![](/images/2020.jpeg)
+
+### Achievements
+
+Singapore Youth Festival – Certificate of Accomplishment
