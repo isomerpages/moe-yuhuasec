@@ -65,3 +65,16 @@ Factorisation using Alge-tiles
 **3\. EBS iExperience programme**
 
 Through the 2D1N EBS iExperience programme, students are immersed in various aspects of business and services so that they can find greater meaning in what they have learned. The activities for the learning journey will be based on lessons that have already been covered in the classroom. The information collected during the learning journey will be used for the mini‐coursework.
+
+(video to be uploaded to yt) 
+
+(video to be uploaded to yt) 
+
+### Talent Development Programme
+
+The Mathematics Department Talent Development Programme enables students with strong interest and talent in Mathematics to challenge themselves by participating in the Singapore Mathematical Olympiads (SMO) and All Singapore Secondary Mathematics Competitions.
+
+Due to the Covid-19 pandemic, the trainings were carried out online. The selected students demonstrated responsibility and resilience as they practiced on their own following and sought feedback from their teachers through virtual meetings.
+
+![](/images/MATH3.jpg)
+Self-practice SMO questions at home
