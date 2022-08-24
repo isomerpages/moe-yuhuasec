@@ -24,3 +24,16 @@ Mdm Suhana Zainal (OIC)
 Mr Raguvaran (2IC)    
 Ms Hu Longmei    
 Mdm Zakiah Haron
+
+![](/images/Teachers.jpeg)
+
+### CCA Leaders
+
+President: Loke Jen Lin (303)  
+Vice President: Nurul Sakinah bte Samsudin (306)  
+
+### Key Events of the Year
+
+Singapore Youth Festival
+
+JOY of Yuhua
