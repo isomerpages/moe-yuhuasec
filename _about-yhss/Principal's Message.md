@@ -20,6 +20,5 @@ I hope you are as excited as I am with 2022, and I look forward to your continue
 
 Let’s <b>Dare to CARE<sup>3</sup></b> together, as we build a community where learners flourish!
 
-Mr Kevin Pang
-
+Mr Kevin Pang    
 Principal, Yuhua Secondary School
