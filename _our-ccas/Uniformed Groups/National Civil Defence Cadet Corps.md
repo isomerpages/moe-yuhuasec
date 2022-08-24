@@ -52,7 +52,7 @@ Our cadets undergo a specially designed, varied and challenging training program
 * Participating in NCDCC Service Month – School and Community sharing of Civil Defence knowledge    
 * Precision Drill Competition
 
-![](/images/ncd3.jpg)
+![](/images/ncd1.jpg)
 ![](/images/ncd2.jpg)
 
 ### Achievements
@@ -78,3 +78,7 @@ SCDF-NCDCC Pinnacle Award: Warrant Officer Yu Yang Ming from class 407
 The second award is the SCDF-NCDCC Pinnacle Award. It is the highest accolade given to the most outstanding cadet in NCDCC. 
 
 Over the past 4 years in NCDCC, Warrant Officer Yang Ming who was the Assistant Unit Sergeant Major of the unit in 2020, has displayed exceptional character, outstanding leadership qualities and have made extensive contributions to the unit and HQ at the national level.
+
+![](/images/ncd3.jpg)
+
+![](/images/ncd6.jpg)
