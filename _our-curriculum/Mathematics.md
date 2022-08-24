@@ -6,3 +6,6 @@ description: ""
 # **Mathematics**
 
 ### Our Team
+
+
+![](/images/MATH.jpg)
