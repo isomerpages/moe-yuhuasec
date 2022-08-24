@@ -7,7 +7,7 @@ third_nav_title: Our Partners
 # **School Advisory Committee**
 
 | SN 	| Appointment 	| Name 	|
-|:---:	|:---:	|:---:	|
+|---	|---	|---	|
 | 1 	| Chairman 	|   Mr James Teo Wee Wee, <br>BBM, PBM 	|
 | 2 	| Vice Chairman 	| Mr Chua Lee San, <br>BBM, PBM 	|
 | 3 	| Honorary Treasurer 	|  Mr Tay Kerk Khong, <br>BBM, PBM 	|
@@ -18,4 +18,3 @@ third_nav_title: Our Partners
 | 8 	| Member  	|  Mr Tan Kah Ann 	|
 | 9 	| Member  	|   Mdm Chua Kah Hoon, Doreen 	|
 | 10 	| Member  	| Mr Paul Kok Kuan Pow 	|
-
