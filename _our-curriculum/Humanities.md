@@ -6,3 +6,5 @@ description: ""
 # **Humanities**
 
 ### Our Team
+
+![](/images/Humanities.jpg)
