@@ -17,3 +17,5 @@ The (MA)3 Mathematics Framework focuses on developing three key student competen
 Apart from competencies students must also have the right attitudes to continually adapt and grow in a world that is rapidly evolving and highly connected. Hence we emphasise three desired student attitudes in problem solving in Yuhua namely Active, Articulate and Accurate in the learning of Mathematics in Yuhua.
 
 ![](/images/math%20framework.jpg)
+
+![](/images/Math%20framewk.jpg)
