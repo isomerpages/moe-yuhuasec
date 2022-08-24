@@ -87,16 +87,10 @@ Soo Lee Shuen
 
   
 
-Cheng Kei Win- Gold in Nangun Youth Category
-
-Lau Jia Hui- Gold in Spear Youth Category
-
-Jervois Ng Wei Qiang- Gold in Cudgel Youth Category
-
-Jervois Ng Wei Qiang- Gold in Nandao Youth Category
-
-Begum Nor Atikah- Silver in Broadsword Youth Category
-
-Cheng Kei Win- Bronze in Nanquan Youth Category
-
+Cheng Kei Win- Gold in Nangun Youth Category   
+Lau Jia Hui- Gold in Spear Youth Category   
+Jervois Ng Wei Qiang- Gold in Cudgel Youth Category  
+Jervois Ng Wei Qiang- Gold in Nandao Youth Category  
+Begum Nor Atikah- Silver in Broadsword Youth Category   
+Cheng Kei Win- Bronze in Nanquan Youth Category  
 Lau Jia Hui- Silver in Changquan Youth Category
