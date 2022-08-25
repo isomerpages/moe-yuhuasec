@@ -37,5 +37,5 @@ Music Infusion intend to infuse music to all other areas of the school by provid
 
 A series of workshop used to support the learning of Aesthetics.  Secondary One and Two students will be experience the learning of music and dance. As a student progresses to secondary three, he/ she will continue mastering the music module that they have learnt in lower secondary. This deepens students learning of music. 
 
-
-![](/images/LLP%204.png)
+<img src="/images/LLP%204.jpg" 
+     style="width:50%">
