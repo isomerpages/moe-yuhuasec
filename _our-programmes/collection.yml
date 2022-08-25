@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Overseas Learning/IP.md
       - Overseas Learning/.keep
       - Positive Education.md
       - Sexuality Education.md
