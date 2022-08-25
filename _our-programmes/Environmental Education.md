@@ -83,3 +83,10 @@ All hands on deck as students work hand in hand with their peers and teachers in
 **Actual Aesthetics day**
 
 Class representatives (students or form teachers) parade their costumes during Project Runaway, the Yuhua Secondary recycled Edition.
+
+![](/images/EE8.png)
+Students and form teachers parading their costumes in the runway  
+
+**6. Amazing Trail**
+
+The objective of the Earthmazing race is to commemorate Earth Day and to create an awareness of the various environmental issues that plague our planet. As part of their Values in Action project, Sec 4 and 5 students must conceptualise and create eight different stations, each addressing a particular environmental issue, to educate and encourage their juniors (secondary three students and Environmental Care Representatives from sec 1 and 2) to do their part for the environment.
