@@ -23,3 +23,34 @@ The Integrated Humanities Overseas Fieldwork aims to enable students to:
 2. Reflect on their own and peers’ experiences during the fieldtrip, specifically on knowledge, skills and values acquired and how it can translate into actions.  
 
 3. Develop positive character values of CaRe3 (Care, Responsibility, Respect, Resilience) through the school/village immersion\* programme.
+
+**Integrated Humanities Overseas Fieldwork**
+
+**Introduction**
+
+  
+
+The Integrated Humanities Overseas Fieldwork first started in 2014. It has evolved from an overseas learning journey to an overseas fieldwork, guided by the Humanities department framework, Appreciate, Comprehend and Envision (ACE). 
+
+  
+
+Through this programme, our students will be stretched beyond the classroom and syllabus. Regardless of their Humanities electives, students learn to appreciate the historical and geographical aspects of Siem Reap, Cambodia and draw connections between what they have learnt in classroom with real life. They are also required to plan for activities, to mingle with the local students. At the end of every day, students will reflect deeply about the day’s learning points and they were encouraged to envision a better future for themselves and their community.
+
+**Programme Objectives**
+
+The Integrated Humanities Overseas Fieldwork aims to enable students to:
+
+1. Appreciate and learn about the Cambodian culture and how it can have an impact on Cambodia’s economy through tourism.
+
+2. Reflect on their own and peers’ experiences during the fieldtrip, specifically on knowledge, skills and values acquired and how it can translate into actions.  
+
+3. Develop positive character values of CaRe3 (Care, Responsibility, Respect, Resilience) through the school/village immersion\* programme.
+
+**Photographs**
+
+![](/images/Picture1.png)
+All smiles at Changi Airport before departure.
+
+![](/images/Picture2.png)
+
+First stop, students learn how Senteurs d’ Angkor empowers women, improve income earning in villages through outsourcing of material and while creating products that preserves and promote the Cambodian culture.
