@@ -34,3 +34,20 @@ Environmental education should not be limited to a classroom setting. Through an
 a) management of food waste   
 b) the practice of the 3Rs- Reduce, Reuse, Recycle, and   
 c) sustainable tourism.
+
+![](/images/EE2.png)
+
+**3. Foodprints** 
+
+The school conducts food reduction awareness campaigns in order to inculcate good habits amongst students to avoid food wastage. Sec 4N and 4NT students are tasked to champion this campaign in school through a school Values in Action project. 
+
+The students first work as independent learners to research on issues concerning food wastage. Utilizing CCE periods dedicated to their VIA project, they then plan their project using the service learning methodology to address the issue. 
+
+The project encompasses the following forms: 
+
+* Creating posters to be displayed in the classrooms
+* Conducting an assembly talk
+* putting up a game/ activity booth during the food Waste Carnival
+* producing a skit to showcase the importance of food waste reduction
+
+Last year, the Food Waste exhibition was held on 26 April 2019, where students’ skits were played on the screen in the canteen and a total of 8 booths with different activities on food waste were set up by the students for their juniors.
