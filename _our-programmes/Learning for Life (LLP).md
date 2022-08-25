@@ -39,3 +39,13 @@ A series of workshop used to support the learning of Aesthetics.  Secondary One
 
 <img src="/images/LLP%204.jpg" 
      style="width:50%">
+		 
+		 
+### Camp MELODY
+
+**Objectives of Camp MELODY:** 
+
+*   To allow all secondary one students to experience our Learning for Life Programme, _MELODY_.
+*     To spread the Yuhua Spirit and create the Yuhua experience through the camp. 
+    
+*   To nurture Yuhuans who are confident, inquisitive, creative, committed and disciplined.
