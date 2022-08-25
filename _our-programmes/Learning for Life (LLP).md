@@ -37,7 +37,7 @@ Music Infusion intend to infuse music to all other areas of the school by provid
 
 A series of workshop used to support the learning of Aesthetics.  Secondary One and Two students will be experience the learning of music and dance. As a student progresses to secondary three, he/ she will continue mastering the music module that they have learnt in lower secondary. This deepens students learning of music. 
 
-<img src="/images/LLP%204.jpg" 
+<img src="/images/LLP%204.png" 
      style="width:50%">
 		 
 		 
@@ -49,3 +49,9 @@ A series of workshop used to support the learning of Aesthetics.  Secondary One
 *     To spread the Yuhua Spirit and create the Yuhua experience through the camp. 
     
 *   To nurture Yuhuans who are confident, inquisitive, creative, committed and disciplined.
+
+![](/images/LLP%205.png)
+
+### Aesthetics Day
+
+Yuhua Aesthetics Day is a valuable platform for showcasing, sharing and nurturing our students’ work and to celebrate their creative and artistic accomplishments. It is a day where the performing and visual arts are celebrated to inspire budding talents through performances and visual arts as we promote the culture of creativity, expression and lifelong learning.
