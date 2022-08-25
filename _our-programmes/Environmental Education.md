@@ -51,3 +51,15 @@ The project encompasses the following forms: 
 * producing a skit to showcase the importance of food waste reduction
 
 Last year, the Food Waste exhibition was held on 26 April 2019, where students’ skits were played on the screen in the canteen and a total of 8 booths with different activities on food waste were set up by the students for their juniors.
+
+![](/images/EE3.png)
+
+**4. Awareness Presentation Sessions**  
+
+ **Paper Recycling**
+
+The school has embarked on an active paper recycling project since February 2019. Each Environmental Care Repetitive (ECR) of the class prepares one paper recycling box and places it in a corner of their classroom. Environmental Care Representatives takes the ownership of the project by informing their classmates about the corner, brief the class about the expectations and the routines to be carried out for the project. All recycled paper are subsequently deposited at the main recycling bins.   
+
+**Plastic Recycling**
+
+The school also embarks on an active Plastic Recycling Initiative and training is carried out for all Environmental Care Representatives so that they could monitor and take charge of this initiative.
