@@ -23,3 +23,16 @@ According to Seligman, **PERMA** makes up five important building blocks of we
 **Relationships** – being authentically connected to others   
 **Meaning** – finding purpose and fulfillment in what you do    
 **Achievement** – a sense of accomplishment and success
+
+
+![](/images/PERMA.png)
+
+
+**How Am I Feeling?**  
+
+*   Do I have a positive outlook in different situations?
+*   Do I persevere even when a task is difficult?
+*   Do I have a supportive community to journey through school with?
+*   Do I find purpose and fulfilment in what I do?
+*   Do I feel proud about the things I do?
+*   Where am I on the Mental Health Continuum below?
