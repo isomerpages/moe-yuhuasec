@@ -56,3 +56,5 @@ All smiles at Changi Airport before departure.
 First stop, students learn how Senteurs d’ Angkor empowers women, improve income earning in villages through outsourcing of material and while creating products that preserves and promote the Cambodian culture.
 
 ![](/images/Picture3.png)
+
+Watching the sun rise over Angkor Wat and getting the opportunity to climb up the ‘heaven’ complex, where in the past, only Kings were allowed to be up there.
