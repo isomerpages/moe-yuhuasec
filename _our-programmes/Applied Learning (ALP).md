@@ -26,3 +26,5 @@ CODER aims to 
 The programme introduces Scratch (developed by MIT Media Lab) and micro-controller programming to students to provide basic coding experience. Through Scratch and micro-controllers, all students will go through a series of structured programmes where they will be equipped with essential content knowledge on the programming languages, Robotic basics, tools, and problem-solving. 3D printing technology will be introduced as one of the platforms to realise their ideas in solving the problems.   
 
 The programme is also balanced with a focus on soft skills, which include presentation and communication. Students are required to work in teams for data research, information analysis, and field work that will involve critical and inventive thinking, reasoning and decision making.
+
+![](/images/alp.jpg)
