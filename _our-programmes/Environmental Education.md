@@ -63,3 +63,10 @@ The school has embarked on an active paper recycling project since February 2019
 **Plastic Recycling**
 
 The school also embarks on an active Plastic Recycling Initiative and training is carried out for all Environmental Care Representatives so that they could monitor and take charge of this initiative.
+
+![](/images/EE4.png)
+ECRs and volunteers counting the recycled bottles and students recycling plastic cups.
+
+![](/images/EE5.png)
+ECRs sending the plastic bottles and cups to the main recycling bins.
+
