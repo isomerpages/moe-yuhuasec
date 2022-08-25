@@ -52,3 +52,11 @@ Learning a musical instrument often requires a high level of resilience and disc
 Yuhuans will experience _MELODY_ at three different tiers. At tier 1 (Experience), our students get to experience the ARTS as audiences or participants through the school’s Aesthetics assembly as well as planned curriculum. This tier exposes our students to various genres of music through various form of performing arts and also to experience the learning of musical instruments formally through the General Music Programme (GMP). The music lessons planned by the school’s music teacher, encourage them to pick up the skills in playing the ukulele (Sec 1) and the keyboard (Sec2), catering to the needs and abilities of lower secondary students.
 
 Our secondary one freshmen get to experience _MELODY_ through an orientation camp that allow them to be immersed in the school’s music culture. Camp MELODY is championed by the leaders from the concert band as well as the student council. The leaders from concert band took charge of the planning and execution of music related activities such as STOMP infusion workshop, STOMP campfire, sectional introduction, mass dance and foot drill under the guidance of teachers.
+
+![](/images/music3.jpg)
+
+Tier 2 (Enrich) provides opportunities for Yuhuans to develop their interests and talents through music infusion enrichment programmes such as Music + Dance (Sec 1), Music + Drama (Sec 2), Music + Visual Arts (Sec 3) and  various performing arts CCAs where they learn to express themselves through music and lead in music related activities. The rigorous practice for accuracy hones self -discipline and builds on teamwork.
+
+![](/images/music4.jpg)
+
+In Tier 3 (Excel), Yuhuans are given the platforms such as Lunchtime Melody and Aesthetics Day to recognize their strengths and talents through music and other various form of arts to showcase their learning and mastery. For those who want to take music at a higher level, they can pursue their passion through EMP where they can continue mastering the music module that they have learnt in lower secondary, deepening their formal education in music.
