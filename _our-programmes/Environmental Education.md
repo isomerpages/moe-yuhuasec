@@ -79,3 +79,7 @@ A classroom is turned into a special centre where students ‘shop’ for recycl
 
 ![](/images/EE7.png)
 All hands on deck as students work hand in hand with their peers and teachers in preparation for Aesthetics Day.
+
+**Actual Aesthetics day**
+
+Class representatives (students or form teachers) parade their costumes during Project Runaway, the Yuhua Secondary recycled Edition.
