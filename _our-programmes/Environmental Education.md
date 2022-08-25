@@ -70,3 +70,6 @@ ECRs and volunteers counting the recycled bottles and students recycling plastic
 ![](/images/EE5.png)
 ECRs sending the plastic bottles and cups to the main recycling bins.
 
+**5. Aesthetics Day**
+
+Aesthetics Day is Yuhua Secondary School’s very own annual fashion show where students turn recycled materials into runway costumes. All Sec 1 to 3 students are involved in this event.
