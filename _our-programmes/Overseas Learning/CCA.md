@@ -42,3 +42,38 @@ _Students visited famous performing arts venues such as the Cloud Gate dance the
 ![](/images/Picture5.png)
 
 _The students also visited the National Center for Traditional Arts where local artisans taught them how to create some handicrafts_
+
+![](/images/Picture6.png)
+
+![](/images/Picture8.png)
+
+**_Visits to famous landmarks / tourist sites_**
+
+_Students visited Lanyang Museum, and the National Palace Museum,to learn more about the history of Taiwan, and the unique history of the Yilan region._
+
+![](/images/Picture9.png)
+_Lanyang Museum_
+
+![](/images/Picture10.png)
+_National Palace Museum_
+
+The students also visited Shifen Waterfalls, and Yeliu geopark to learn about the geological features of the region.
+
+![](/images/Picture11.png)
+_Shifen Waterfalls_
+
+![](/images/Picture12.png)
+_Visiting Yeh Liu Geopark_
+
+![](/images/Picture13.png)
+
+![](/images/Picture14.png)
+
+![](/images/Picture15.png)
+
+To end the trip, our students visited Jiufen village to pen down their wishes , hopes and aspirations onto the sky lanterns and release them into the sky.
+
+![](/images/Picture16.png)
+
+![](/images/Picture17.png)
+_Releasing a Sky Lantern with wishes for the year ahead._
