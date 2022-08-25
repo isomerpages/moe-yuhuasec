@@ -42,12 +42,7 @@ According to Seligman, **PERMA** makes up five important building blocks of we
 
 **Mindful Breathing Exercise**
 
-  
-
 If you are feeling stressed or down, try the following mindful breathing exercise, which would only take 3-5 minutes:
-
-  
-
 *   Settle yourself into a comfortable position, and allow your eyes to close. It would be helpful if you can find a quiet place, or somewhere free of distractions.
 *   Start by taking several long, deep breaths, breathing in through your nose, and breathing out through your mouth.
 *   Bring your attention to how the air enters through your nose, and enters your lungs. Notice that as this happens, your lungs and ribs start moving upwards and outwards.
@@ -56,8 +51,6 @@ If you are feeling stressed or down, try the following mindful breathing exercis
 *   You may find that during this time, your mind starts to wander – you could be distracted by the sound of a friend walking by, or the chirping of a bird. Or you might simply be distracted by the thoughts running through your head. When you notice this, gently bring your attention back to your breathing.
 *   For the next 10 breaths, you will focus on the sensations in your body. Notice how the fine hair on your skin tingles ever so slightly when there is a breeze. Notice how your muscles work together to allow your body to sit upright. You may start to feel a little distracted by an ache in your body, or any itch.
 *    Finally, for the last 10 breaths, bring into your mind a happy thought or experience. It could be something good that happened to you, or something that makes you happy. Focus on that thought, and when you are ready, gently open your eyes, and bring your attention to notice the room or space that you are in.
-
-  
 
  **How Can Positive Education Help Me?**
 
