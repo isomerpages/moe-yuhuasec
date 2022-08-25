@@ -36,3 +36,9 @@ Our Student put up a joint performance (Choir Singing together with Harmonica Ac
 **_Visits to centres for performing arts & cultural activities_**
 
 _Students visited famous performing arts venues such as the Cloud Gate dance theatre, and attended a professional music performance by a local orchestra featuring accomplished Taiwanese musicians._
+
+![](/images/Picture4.png)
+
+![](/images/Picture5.png)
+
+_The students also visited the National Center for Traditional Arts where local artisans taught them how to create some handicrafts_
