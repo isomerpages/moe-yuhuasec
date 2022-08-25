@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Positive Education.md
       - Sexuality Education.md
       - Student Leadership.md
       - Yuhua CARES.md
