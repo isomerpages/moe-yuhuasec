@@ -21,3 +21,21 @@ _Enhanced Music Programme (EMP)_ 
 
 *   The EMP is an upper secondary music programme designed for musically-inclined students to develop their musical potential and talent.
 *   Students in the EMP will take the GCE ‘O’ Level Music Examinations in Secondary 4.
+
+<img src="/images/LLP%201.jpg" 
+     style="width:50%">
+
+<img src="/images/LLP%202.jpg" 
+     style="width:50%">
+
+<img src="/images/LLP%203.jpg" 
+     style="width:50%">
+
+Our Music CCAs, Concert Band and Harmonica Band are platforms used to developed talented students in music. As champions in this area, they will get to learn a musical instrument in depth and have ample opportunities to express themselves through music and lead in music related activities.  The rigorous practice for accuracy hones self -discipline and builds on teamwork.   
+
+Music Infusion intend to infuse music to all other areas of the school by providing music entourage and music stage. This includes our Aesthetics Learning Programme, camp MELODY, the various platforms for students to express themselves through music such as Melodies of Yuhua and Aesthetics Day. The school is also tapping on some existing collaborations with our existing partners to provide various opportunities to expose Yuhuans to the arts. 
+
+A series of workshop used to support the learning of Aesthetics.  Secondary One and Two students will be experience the learning of music and dance. As a student progresses to secondary three, he/ she will continue mastering the music module that they have learnt in lower secondary. This deepens students learning of music. 
+
+
+![](/images/LLP%204.png)
