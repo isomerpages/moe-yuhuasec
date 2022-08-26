@@ -8,7 +8,7 @@ description: ""
 ### Class Timetable for Semester 2
 
 Dear parents/students, you may access a copy of the class timetable here:  
-[](/files/2022%20Sem%202%20TT_22%20Jun_Classes.pdf)  
+[2022 Sem 2 TT_22 Jun_Classes.pdf](/files/2022%20Sem%202%20TT_22%20Jun_Classes.pdf)  
 
 ### Term 3 Newsletter
 
