@@ -44,3 +44,17 @@ Our Visual and Performing Arts groups have also been a source of school pride, a
 | Stagewright<br>(English Drama) 	| Certificate of Accomplishment 	| Certificates of Distinction & Accomplishment 	|
 | Choir 	| Certificate of Accomplishment 	| Participated in SYF 2021 through recording (no benchmarking) 	|
 | Dance 	| Certificate of Accomplishment 	| Certificate of Accomplishment 	|
+
+**Sports**
+
+Our Sports CCAs are strong in their development of character, and through this, our Yuhuans do their best to live up to the values of grit and resilience, demonstrating good sportsmanship through all competitions that they participate in.
+
+| CCA 	| 2019 	| 2020 	| 2021 	| 2022 	|
+|---	|---	|---	|---	|---	|
+| Volleyball Boys 	| 2nd in West Zone Competition (NSG)<br><br>Top 8 in National rounds (NSG) 	| Top 4 in West Zone Competition (NSG) 	| Top 6 in West Zone Competition (NSG) 	| 5th in West Zone Competition (NSG) 	|
+| Volleyball Girls 	| - 	| - 	| Top 6 in West Zone Competition (NSG) 	| Top 8 in West Zone Competition (NSG) 	|
+| Floorball Boys 	| Singapore Floorball Association (SFA) B’ Division Plate Competition – 4th Place 	| - 	| - 	| 3rd in Group Rounds (NSG) 	|
+| Football Boys 	| - 	| - 	| - 	| 3rd in Group Rounds (NSG) 	|
+| Tchoukball Boys 	| - 	| - 	| - 	| - 	|
+| Tchoukball Girls 	| - 	| - 	| - 	| - 	|
+| Wushu 	| Singapore National Wushu & Sanda Championships 2019 - Group event - Gold 	| - 	| - 	| - 	|
