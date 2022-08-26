@@ -4,18 +4,17 @@ title: Yuhua Secondary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      title: Yuhua Secondary School
+      background: /images/yhss.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
+        - title: Open House Site
+          description: More information here!
+          url: https://sites.google.com/moe.edu.sg/yhss-e-openhouse/home
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
@@ -29,5 +28,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
