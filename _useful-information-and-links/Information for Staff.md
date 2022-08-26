@@ -259,8 +259,8 @@ For Human Resource Matters.
 
 <div>
 <div style="float: left">
-<a href="http://intranet.moe.gov.sg/Pages/Home.aspx">
-<img src="/images/hr%20online.png"
+<a href="https://icon.moe.edu.sg/saas/usercenter/index.do">
+<img src="/images/icon.jpg"
      style="width:100%">
 </a> Click on the HR Online Logo. <br>
 For Human Resource Matters.
@@ -276,8 +276,27 @@ For Human Resource Matters.
 <br>
 <br>
 
+##### 7. OPAL 2.0 - One Portal All Learners
 
-![](/images/icon.jpg)
+<div>
+<div style="float: left">
+<a href="https://www.opal2.moe.edu.sg/app/learner">
+<img src="/images/OPAL2%20Logo.png"
+     style="width:100%">
+</a> Click on the OPAL2.0 Logo.  <br>
+For Training Courses, Details, Communities of Practice, Teaching Resources and Professional Development Resources.
+	</div>
+</div> 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ![](/images/OPAL2%20Logo.png)
 
