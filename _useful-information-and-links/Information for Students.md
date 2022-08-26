@@ -105,8 +105,28 @@ For Teaching, Learning and School-based Assessment of English.
 
 <div>
 <div style="float: left">
-<a href="https://www.elportals.sg/">
+<a href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login">
 <img src="/images/portal.jpg"
+     style="width:100%">
+</a> Click on the iMTL Logo. <br>
+For Teaching, Learning and School-based Assessment of Mother Tongue Languages.
+	</div>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### e-Library OPAC
+
+<div>
+<div style="float: left">
+<a href="https://schoolibrary.spydus.com.sg/yuhuasec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">
+<img src="/images/library(1).jpg"
      style="width:100%">
 </a> Click on the iMTL Logo. <br>
 For Teaching, Learning and School-based Assessment of Mother Tongue Languages.
