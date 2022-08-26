@@ -38,12 +38,12 @@ You can find the Term 1 Newsletter below.
 Dear parents, resources shared during our Secondary 2 PTM are now available.  
   
 You may access a copy of the slides from our Principal's Address here:   
-[2022 YHSS Sec 2 PTM - Ps Presentation.pdf](https://yuhuasec.moe.edu.sg/qql/slot/u516/2022%20YHSS%20Sec%202%20PTM%20-%20Ps%20Presentation.pdf)  
+[2022 YHSS Sec 2 PTM - Ps Presentation.pdf](/files/2022%20YHSS%20Sec%202%20PTM%20-%20Ps%20Presentation.pdf)  
   
 You may access a copy of the slides from our VP's sharing here:   
-[VP Sharing - Update on Curriculum Assessment and Post-Sec Articulation Matters under Full SBB.pdf](https://yuhuasec.moe.edu.sg/qql/slot/u516/VP%20Sharing%20-%20Update%20on%20Curriculum%20Assessment%20and%20Post-Sec%20Articulation%20Matters%20under%20Full%20SBB.pdf)  
+[VP Sharing - Update on Curriculum Assessment and Post-Sec Articulation Matters under Full SBB.pdf](/files/VP%20Sharing%20-%20Update%20on%20Curriculum%20Assessment%20and%20Post-Sec%20Articulation%20Matters%20under%20Full%20SBB.pdf) 
   
 **Information on Subject Selection**  
-Information for 201: [For Class 201 2022 Sec 2 PTM\_ Subject Selection Exercise.pdf](https://yuhuasec.moe.edu.sg/qql/slot/u516/For%20Class%20201%202022%20Sec%202%20PTM_%20Subject%20Selection%20Exercise.pdf)  
-Information for 202 & 203: [For Class 202-203 2022 Sec 2 PTM\_Subject Selection Exercise.pdf](https://yuhuasec.moe.edu.sg/qql/slot/u516/For%20Class%20202-203%202022%20Sec%202%20PTM_Subject%20Selection%20Exercise.pdf)  
-Information for 204-207: [For Class 204-207 2022 Sec 2 PTM\_Subject Selection Exercise.pdf](https://yuhuasec.moe.edu.sg/qql/slot/u516/For%20Class%20204-207%202022%20Sec%202%20PTM_Subject%20Selection%20Exercise.pdf)
+Information for 201: [For Class 201 2022 Sec 2 PTM\_ Subject Selection Exercise.pdf](/files/For%20Class%20201%202022%20Sec%202%20PTM_%20Subject%20Selection%20Exercise.pdf)  
+Information for 202 & 203: [For Class 202-203 2022 Sec 2 PTM\_Subject Selection Exercise.pdf](/files/For%20Class%20202-203%202022%20Sec%202%20PTM_Subject%20Selection%20Exercise.pdf)  
+Information for 204-207: [For Class 204-207 2022 Sec 2 PTM\_Subject Selection Exercise.pdf](/files/For%20Class%20204-207%202022%20Sec%202%20PTM_Subject%20Selection%20Exercise.pdf)
