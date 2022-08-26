@@ -13,3 +13,21 @@ description: ""
 ### Yuhua Learning Portals
 
 ##### 1\. Singapore Student Learning Space
+
+<div>
+<div style="float: left">
+<a href="https://vle.learning.moe.edu.sg/login">
+<img src="/images/SLSlogo.jpg"
+     style="width:100%">
+</a> Click on the Student Learning Space Logo to login.
+	</div>
+</div> 
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
