@@ -31,3 +31,8 @@ As part of their programs, our Uniformed Groups go through an annual performance
 | NCDCC 	| UOPA Gold 	| UOPA Gold 	|
 | NCC 	| Certificate of Participation 	| Certificate of Distinction 	|
 | Boys Brigade 	| JM Fraser Bronze 	| JM Fraser Silver 	|
+
+
+**Visual & Performing Arts (VPA)**
+
+Our Visual and Performing Arts groups have also been a source of school pride, and do well nationally as well. They participate in public performances and the bi-annual Singapore Youth Festival (SYF) organized by the Arts Education Branch. The SYF provides an opportunity for our Yuhuans to demonstrate their talents and be benchmarked against other schools. Our Visual and Performing Arts groups have done the school proud in recent years.
