@@ -262,8 +262,8 @@ For Human Resource Matters.
 <a href="https://icon.moe.edu.sg/saas/usercenter/index.do">
 <img src="/images/icon.jpg"
      style="width:100%">
-</a> Click on the HR Online Logo. <br>
-For Human Resource Matters.
+</a> Click on the MOE ICON email Logo.<br>
+For MOE Email.
 	</div>
 </div> 
 
@@ -297,5 +297,14 @@ For Training Courses, Details, Communities of Practice, Teaching Resources and P
 <br>
 <br>
 
+##### 8. HR Portal
 
-![](/images/HRP%20Logo.png)
+<div>
+<div style="float: left">
+<a href="https://www.opal2.moe.edu.sg/app/learner">
+<img src="/images/HRP%20Logo.png"
+     style="width:50%">
+</a> Click on the HR Portal Logo<br>
+For Pay and Claims Needs and Leave application.
+	</div>
+</div> 
