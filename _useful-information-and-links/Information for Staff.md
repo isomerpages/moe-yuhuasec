@@ -134,4 +134,37 @@ For Access to the Mathematics E-learning System.
 
 ### MOE HQ & HR Portals
 
-##### 1. SC Mobile 
+##### 1. SC Mobile
+
+<div>
+<div style="float: left">
+<a href="https://scmobile.moe.edu.sg/login">
+<img src="/images/SCMobile.jpg"
+     style="width:100%">
+</a> Click on the SC Mobile Logo. <br>
+For Marking Students' Attendance.
+	</div>
+</div> 
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![](/images/SC.jpg)
+
+![](/images/moe%20intranet.jpg)
+
+![](/images/MIMS%20Portal%20Logo.png)
+
+![](/images/hr%20online.png)
+
+![](/images/icon.jpg)
+
+![](/images/OPAL2%20Logo.png)
+
+![](/images/HRP%20Logo.png)
