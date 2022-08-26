@@ -24,3 +24,10 @@ Co-Curricular Activities are important platforms for Yuhuans to explore their in
 **Uniformed Groups (UG)**
 
 As part of their programs, our Uniformed Groups go through an annual performance review and are benchmarked with other schools by their respective headquarters. We are glad to share that our Uniformed Groups grow from strength to strength and were recognized for their efforts over the years.
+
+| CCA 	| 2019 (Awarded in 2020) 	| 2021(awarded in 2022) 	|
+|---	|---	|---	|
+| NPCC 	| UOPA Gold 	| UOPA Gold 	|
+| NCDCC 	| UOPA Gold 	| UOPA Gold 	|
+| NCC 	| Certificate of Participation 	| Certificate of Distinction 	|
+| Boys Brigade 	| JM Fraser Bronze 	| JM Fraser Silver 	|
