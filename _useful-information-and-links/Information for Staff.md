@@ -155,6 +155,27 @@ For Marking Students' Attendance.
 <br>
 <br>
 
+##### 2. School Cockpit
+
+<div>
+<div style="float: left">
+<a href="https://schoolcockpit.moe.gov.sg/CP/scapp/security">
+<img src="/images/SC.jpg"
+     style="width:100%">
+</a> Click on the School Cockpit Logo. <br>
+For School Cockpit Matters. Refer to School for Details.<br>
+Please open in Internet Explorer.
+	</div>
+</div> 
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ![](/images/SC.jpg)
 
 ![](/images/moe%20intranet.jpg)
