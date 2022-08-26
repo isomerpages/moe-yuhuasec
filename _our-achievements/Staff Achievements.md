@@ -28,3 +28,15 @@ Has undertaken initiatives to promote Tamil language which should extend beyond 
 
 
 ### Congratulations to Our Officers!
+
+![](/images/MOE%20Service%20Excellence%20Awards%20MSEA%202021%20Gold.jpg)
+
+![](/images/MOE%20Service%20Excellence%20Awards%20MSEA%202021%20List%20Silver.jpg)
+
+![](/images/MOE%20Service%20Excellence%20Awards%20MSEA%202021%20Platinum.jpg)
+
+![](/images/National%20Day%20Awards%202021%20Commendation%20Medal.jpg)
+
+![](/images/National%20Day%20Awards%202021%20Long%20Service%20Medal.jpg)
+
+![](/images/MOE%20Academy%20Awards%202021%20for%20Professional%20Development.jpg)
