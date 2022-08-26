@@ -116,3 +116,46 @@ Has undertaken initiatives to promote Tamil language which should extend beyond 
 | 69 	| Tan Wei Min Isaac 	| MOE Service Excellence Award (MSEA) - Silver 	|
 | 70 	| Yang Yan 	| MOE Service Excellence Award (MSEA) - Silver 	|
 | 71 	| Zakiah Binte Haron 	| MOE Service Excellence Award (MSEA) - Silver 	|
+
+
+### Year of 2020
+
+| S/No 	| Name 	| Achievements 	|
+|---	|---	|---	|
+| 1 	| Lek Mei Xuan 	| National Day Commendation Medal 	|
+| 2 	| Loh Kai Ling 	| AST Academy Awards - Associate of AST Award 	|
+| 3 	| Tan Sheng Yan Samuel 	| AST Academy Awards - Associate of AST Award 	|
+| 4 	| Raguvaran Rajenderan 	| AST Academy Awards - Associate of AST Award 	|
+| 5 	| Gejavalli Ramasamy 	| AST Academy Awards - Associate of AST Award 	|
+| 6 	| Loh Kai Ling 	| NIE Caring Teacher Award 	|
+| 7 	| Kavitha Karunanithi 	| NIE Caring Teacher Award 	|
+| 8 	| Cheong Ai Hwa 	| NIE Caring Teacher Award 	|
+| 9 	| Tan Kwang Chee 	| NIE Caring Teacher Award 	|
+| 10 	| Chung Voon Rou 	| NIE Caring Teacher Award 	|
+| 11 	| Hong Wei Li Shirlyn 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 12 	| Jee Jia Woei 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 13 	| Muhammad Hafiz 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 14 	| Rafilah Idris 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 15 	| Low Han Yi Kenny 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 16 	| Wilfred Lim 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 17 	| Tan Chek Heng Joshua 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 18 	| Choo Chee Ser 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 19 	| Zamran Bin Sa'at 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 20 	| Noraini Bte Kadir 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 21 	| Sarah Bte Mohamed 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 22 	| Tan Swe Kim 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 23 	| Siti Maisurah 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 24 	| Wang Runjia 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 25 	| shahidah Binte Safii 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 26 	| Chan May Foon 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 27 	| Koh Li Yun Jamie 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 28 	| Thilashinee 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 29 	| Ang Geok Lin Nick 	| MOE Service Excellence Award (MSEA) - Gold 	|
+| 30 	| Yeo Aik Ser 	| MOE Service Excellence Award (MSEA) - Gold 	|
+| 31 	| Loh Kai Ling 	| MOE Service Excellence Award (MSEA) - Gold 	|
+| 32 	| Poh Pin Liang Jeffrey 	| MOE Service Excellence Award (MSEA) - Gold 	|
+| 33 	| Tan Siew Yin Jane 	| MOE Service Excellence Award (MSEA) - Gold 	|
+| 34 	| Lee Yi Xin 	| MOE Service Excellence Award (MSEA) - Gold 	|
+| 35 	| Sim Hock Guan 	| MOE Service Excellence Award (MSEA) - Gold 	|
+| 36 	| Cai Zhengyu 	| MOE Service Excellence Award (MSEA) - Gold & Platinum 	|
+| 37 	| Kang Yin Ga Germain 	| MOE Service Excellence Award (MSEA) - Gold & Platinum 	|
