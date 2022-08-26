@@ -18,13 +18,19 @@ sections:
         - title: Sec 2 & Upper Sec PTM 2022
           description: Access resources here!
           url: https://staging.dn2m6q5jv5ezt.amplifyapp.com/useful-information-and-links/information-for-parents
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infopic:
+      title: Posting well-wishes and messages!
+      subtitle: Care for our teachers by
+      description: We sincerely invite you to show care for our teachers by sharing
+        your well-wishes
+      button: HERE!
+      url: www.ThankYouCher.edu.sg
+      image: /images/2d620f2ea_4844.png
+      alt: Image alt text
 ---
