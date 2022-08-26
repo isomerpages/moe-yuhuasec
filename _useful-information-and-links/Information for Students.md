@@ -49,4 +49,16 @@ Click [here](https://sites.google.com/moe.edu.sg/yhss-hbl/help-for-students/sec
 <img src="/images/SLSlogo.jpg"
      style="width:100%">
 </a> Click on the Student Learning Space Logo to login.
-</div>
+	</div>
+</div> 
+
+### My Skills Future Portal
+
+<div>
+<div style="float: left">
+<a href="https://www.myskillsfuture.sg/content/student/en/secondary.html">
+<img src="/images/MySkillsFuture.jpg"
+     style="width:100%">
+</a> Click on the Student Learning Space Logo to login.
+	</div>
+</div> 
