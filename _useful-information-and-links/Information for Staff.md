@@ -282,7 +282,7 @@ For Human Resource Matters.
 <div style="float: left">
 <a href="https://www.opal2.moe.edu.sg/app/learner">
 <img src="/images/OPAL2%20Logo.png"
-     style="width:100%">
+     style="width:50%">
 </a> Click on the OPAL2.0 Logo.  <br>
 For Training Courses, Details, Communities of Practice, Teaching Resources and Professional Development Resources.
 	</div>
@@ -297,7 +297,5 @@ For Training Courses, Details, Communities of Practice, Teaching Resources and P
 <br>
 <br>
 
-
-![](/images/OPAL2%20Logo.png)
 
 ![](/images/HRP%20Logo.png)
