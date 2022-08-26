@@ -25,7 +25,7 @@ To learn more about how you can support your child in the NDLP journey, you can 
 
 *   [Touch Community Services](https://help123.sg/)
 
-### **For more tips, check out MOE’s Parent Kit on cyber wellness by scanning the QR code
+### For more tips, check out MOE’s Parent Kit on cyber wellness by scanning the QR code
 
 <img src="/images/MOE%20Parents%20Kit.png" 
-     style="width:25%">
+     style="width:50%">
