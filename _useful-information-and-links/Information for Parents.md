@@ -72,3 +72,17 @@ Complete the online application via this link [https://go.gov.sg/moe-fas-yuhua-
 
 <img src="/images/FAS%20QR%20CODE.png" 
      style="width:25%">
+		 
+Option 2: Via hardcopy/ softcopy application form  
+
+Download the MOE FAS application form [here](/files/MOE-FAS-application-form.pdf) or collect the hardcopy form from the school’s General Office.  Please scan and email the required documents together with the completed form to [yuhua\_ss@moe.edu.sg](mailto:yuhua_ss@moe.edu.sg), attention to Mdm Lim Seok Har & Mdm Noraini.  Alternatively, the form and documents can be submitted/mailed to the school’s General Office.
+
+### Parents Gateway
+
+Dear Parents,   
+
+We are pleased to inform you that our school is now onboard Parents Gateway. Parents Gateway is a mobile app specially designed for parents. Developed by MOE and GovTech, the app allows parents to engage with schools, receive information and perform a range of administrative functions such as giving consent for school trips.
+
+We would like to invite you to download the Parents Gateway mobile app on your mobile phone (available on iOS and Android platforms only) and perform a simple one-time onboarding process. 
+
+From 1 April 2019, parents who are onboard Parents Gateway will receive information via the mobile app. The school will continue to issue hardcopy letters to parents who are unable to come onboard Parents Gateway.
