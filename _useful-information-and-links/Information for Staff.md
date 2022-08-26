@@ -255,7 +255,7 @@ For Human Resource Matters.
 <br>
 <br>
 
-##### 6. ICONnect Email
+##### 6. ICONnect Email - not found
 
 <div>
 <div style="float: left">
@@ -307,4 +307,4 @@ For Training Courses, Details, Communities of Practice, Teaching Resources and P
 </a> Click on the HR Portal Logo<br>
 For Pay and Claims Needs and Leave application.
 	</div>
-</div> 
+</div>
