@@ -52,7 +52,7 @@ Schools may also choose to roll out applications other than those listed above. 
 
 #### **Further Queries**
 
-Should there be any further queries or clarification, please take a look at our deck of slides from our Parents Engagement Webinar, FAQ section or drop us your question via the School Email (yuhua\_ss@moe.edu.sg).
+Should there be any further queries or clarification, please take a look at our deck of slides from our Parents Engagement Webinar, FAQ section or drop us your question via the School Email [yuhua_ss@moe.edu.sg](yuhua_ss@moe.edu.sg).
 
 [Briefing for Parents for Phase 2 Schools_30 April 2021.pdf](/files/Briefing%20for%20Parents%20for%20Phase%202%20Schools_30%20April%202021%20for%20sharing.pdf)
 
