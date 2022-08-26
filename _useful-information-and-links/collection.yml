@@ -2,4 +2,5 @@ collections:
   useful-information-and-links:
     output: true
     order:
+      - Announcements.md
       - School Calendar.md
