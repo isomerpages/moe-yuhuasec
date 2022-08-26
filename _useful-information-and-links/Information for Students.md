@@ -132,3 +132,23 @@ For Teaching, Learning and School-based Assessment of Mother Tongue Languages.
 For Access to a world of information, details of newest books, magazines and digital resources and loan records.
 	</div>
 </div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### ACE Learning for Math
+
+<div>
+<div style="float: left">
+<a href="https://www.ace-learning.com/">
+<img src="/images/math.jpg"
+     style="width:100%">
+</a> Click on the ACE Learning Logo. <br>
+For Access to the Mathematics E-learning System.
+	</div>
+</div>
