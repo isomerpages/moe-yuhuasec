@@ -20,7 +20,7 @@ You can find the Term 3 Newsletter below.
 
 Dear Parents/Guardians and students,  
 You can find the Term 2 Newsletter below.  
-[](/files/YHSS%202022%20Term%202%20Letter.pdf)  
+[YHSS 2022 Term 2 Letter.pdf](/files/YHSS%202022%20Term%202%20Letter.pdf)  
 
 ### Term 1 Newsletter
 Dear Parents/Guardians and students,   
