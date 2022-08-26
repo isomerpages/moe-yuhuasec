@@ -18,6 +18,9 @@ sections:
         - title: Sec 2 & Upper Sec PTM 2022
           description: Access resources here!
           url: https://staging.dn2m6q5jv5ezt.amplifyapp.com/useful-information-and-links/information-for-parents
+        - title: Calendar of Events
+          description: Click here!
+          url: https://staging.dn2m6q5jv5ezt.amplifyapp.com/useful-information-and-links/school-calendar
   - infopic:
       title: Posting well-wishes and messages!
       subtitle: Care for our teachers by
