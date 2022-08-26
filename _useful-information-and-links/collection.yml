@@ -2,6 +2,7 @@ collections:
   useful-information-and-links:
     output: true
     order:
+      - NDL Programme/National Digital Literacy Programme.md
       - NDL Programme/Important Information for Parents.md
       - NDL Programme/FAQs.md
       - NDL Programme/Media Resources on NDLP.md
