@@ -52,6 +52,9 @@ Click [here](https://sites.google.com/moe.edu.sg/yhss-hbl/help-for-students/sec
 	</div>
 </div> 
 
+
+
+
 ### My Skills Future Portal
 
 <div>
@@ -61,4 +64,18 @@ Click [here](https://sites.google.com/moe.edu.sg/yhss-hbl/help-for-students/sec
      style="width:100%">
 </a> Click on the Student Learning Space Logo to login.
 	</div>
-</div> 
+</div>
+
+
+
+### EL Portal
+
+<div>
+<div style="float: left">
+<a href="https://www.elportals.sg/">
+<img src="/images/EL%20PORTAL.jpg"
+     style="width:100%">
+</a> Click on the EL Portals Logo. <br>
+For Teaching, Learning and School-based Assessment of English.
+	</div>
+</div>
