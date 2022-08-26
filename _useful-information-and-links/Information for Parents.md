@@ -86,3 +86,12 @@ We are pleased to inform you that our school is now onboard Parents Gateway. Par
 We would like to invite you to download the Parents Gateway mobile app on your mobile phone (available on iOS and Android platforms only) and perform a simple one-time onboarding process. 
 
 From 1 April 2019, parents who are onboard Parents Gateway will receive information via the mobile app. The school will continue to issue hardcopy letters to parents who are unable to come onboard Parents Gateway.
+
+<img src="/images/tPG-SingPass.jpg" 
+     style="width:25%">
+
+[Instructional Guide for Onboarding to Parents Gateway](https://yuhuasec-moe-edu-sg-admin.cwp.sg/qql/slot/u516/parents%20and%20students/Instructional%20Guide%20-%20Parents%20Gateway.pdf)  
+
+[Parents Guide for PG Travel Declaration Update](https://yuhuasec-moe-edu-sg-admin.cwp.sg/qql/slot/u516/parents%20and%20students/Parents%20Guide%20for%20PG%20Travel%20Declaration%20Update%20Particulars%20-%208%20May%2019.pdf)  
+
+[Frequently Asked Questions for Parents](https://yuhuasec-moe-edu-sg-admin.cwp.sg/qql/slot/u516/parents%20and%20students/Frequently%20Asked%20Questions%20for%20Parents.pdf)
