@@ -36,3 +36,11 @@ As part of their programs, our Uniformed Groups go through an annual performance
 **Visual & Performing Arts (VPA)**
 
 Our Visual and Performing Arts groups have also been a source of school pride, and do well nationally as well. They participate in public performances and the bi-annual Singapore Youth Festival (SYF) organized by the Arts Education Branch. The SYF provides an opportunity for our Yuhuans to demonstrate their talents and be benchmarked against other schools. Our Visual and Performing Arts groups have done the school proud in recent years.
+
+| CCA 	| 2019 	| 2021 	|
+|---	|---	|---	|
+| Concert Band 	| Certificate of Distinction 	| Certificate of Accomplishment 	|
+| Harmonica Band 	| Certificate of Accomplishment 	| Certificates of Distinction & Accomplishment 	|
+| Stagewright<br>(English Drama) 	| Certificate of Accomplishment 	| Certificates of Distinction & Accomplishment 	|
+| Choir 	| Certificate of Accomplishment 	| Participated in SYF 2021 through recording (no benchmarking) 	|
+| Dance 	| Certificate of Accomplishment 	| Certificate of Accomplishment 	|
