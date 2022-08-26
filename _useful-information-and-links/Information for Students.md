@@ -61,7 +61,7 @@ Click [here](https://sites.google.com/moe.edu.sg/yhss-hbl/help-for-students/sec
 <div style="float: left">
 <a href="https://www.myskillsfuture.sg/content/student/en/secondary.html">
 <img src="/images/MySkillsFuture.jpg"
-     style="width:100%">
+     style="width:70%">
 </a> Click on the My Skills Future Logo<br>  
 For informed choices in education and career guidance and life long learning through the use of career-related tools and information.
 	</div>
