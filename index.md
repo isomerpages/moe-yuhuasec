@@ -15,9 +15,9 @@ sections:
         - title: Open House Site
           description: More information here!
           url: https://sites.google.com/moe.edu.sg/yhss-e-openhouse/home
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Sec 2 & Upper Sec PTM 2022
+          description: Access resources here!
+          url: https://staging.dn2m6q5jv5ezt.amplifyapp.com/useful-information-and-links/information-for-parents
         - title: Page A
           description: Page A is important too
           url: /privacy/
