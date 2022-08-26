@@ -238,7 +238,7 @@ For MOE Admin Matters. Refer to School for Details.
 
 <div>
 <div style="float: left">
-<a href="http://intranet.moe.gov.sg/Pages/Home.aspx">
+<a href="https://intranet.moe.gov.sg/hronline">
 <img src="/images/hr%20online.png"
      style="width:100%">
 </a> Click on the HR Online Logo. <br>
