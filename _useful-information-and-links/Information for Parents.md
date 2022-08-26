@@ -60,13 +60,15 @@ You may access a copy of the slides from our Principal's Address here: 
 You may view a video of the sharing by our ECG Counsellor [here.](https://drive.google.com/file/d/1zWd9tuh5l-bHPTdMnlw1IpJmx7uWtNcs/view?usp=sharing)  
   
 
-Financial Assistance Scheme (FAS)
----------------------------------
+### Financial Assistance Scheme (FAS)
 
-Please click [here](https://yuhuasec-moe-edu-sg-admin.cwp.sg/qql/slot/u820/MOE_FAS_Pamphlet_2022.pdf) for more information on FAS or refer to the [MOE website](https://www.moe.gov.sg/financial-matters/financial-assistance) for further information.
+Please click [here](/files/MOE_FAS_Pamphlet_2022.pdf) for more information on FAS or refer to the [MOE website](https://www.moe.gov.sg/financial-matters/financial-assistance) for further information.
 
 **Application Process**
 
 Option 1: Online application
 
 Complete the online application via this link [https://go.gov.sg/moe-fas-yuhua-sec-sch](https://go.gov.sg/moe-fas-yuhua-sec-sch) or by scanning the QR code below. Singpass login is required.
+
+<img src="/images/FAS%20QR%20CODE.png" 
+     style="width:25%">
