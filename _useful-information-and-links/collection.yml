@@ -1,4 +1,5 @@
 collections:
   useful-information-and-links:
     output: true
-    order: []
+    order:
+      - School Calendar.md
