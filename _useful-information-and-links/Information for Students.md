@@ -48,5 +48,5 @@ Click [here](https://sites.google.com/moe.edu.sg/yhss-hbl/help-for-students/sec
 <a href="https://vle.learning.moe.edu.sg/login">
 <img src="/images/SLSlogo.jpg"
      style="width:100%">
-</a>
+</a> Click on the Student Learning Space Logo to login.
 </div>
