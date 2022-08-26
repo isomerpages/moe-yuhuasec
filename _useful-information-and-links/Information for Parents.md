@@ -48,4 +48,25 @@ Information for 201: [For Class 201 2022 Sec 2 PTM\_ Subject Selection Exercise
 Information for 202 & 203: [For Class 202-203 2022 Sec 2 PTM\_Subject Selection Exercise.pdf](/files/For%20Class%20202-203%202022%20Sec%202%20PTM_Subject%20Selection%20Exercise.pdf)  
 Information for 204-207: [For Class 204-207 2022 Sec 2 PTM\_Subject Selection Exercise.pdf](/files/For%20Class%20204-207%202022%20Sec%202%20PTM_Subject%20Selection%20Exercise.pdf)
 
-### \[Upper Secondary] Parent Teacher Meeting 2022  
+### \[Upper Secondary] Parent Teacher Meeting 2022
+
+![](/images/Screenshot%2015.png)
+
+Dear parents, resources shared during our Upper Secondary PTM are now available.  
+  
+You may access a copy of the slides from our Principal's Address here:   
+[2022 YHSS Upper Sec PTM.pdf](https://yuhuasec.moe.edu.sg/qql/slot/u1025/2022%20YHSS%20Upper%20Sec%20PTM.pdf)  - file exceeds 5MB
+  
+You may view a video of the sharing by our ECG Counsellor [here.](https://drive.google.com/file/d/1zWd9tuh5l-bHPTdMnlw1IpJmx7uWtNcs/view?usp=sharing)  
+  
+
+Financial Assistance Scheme (FAS)
+---------------------------------
+
+Please click [here](https://yuhuasec-moe-edu-sg-admin.cwp.sg/qql/slot/u820/MOE_FAS_Pamphlet_2022.pdf) for more information on FAS or refer to the [MOE website](https://www.moe.gov.sg/financial-matters/financial-assistance) for further information.
+
+**Application Process**
+
+Option 1: Online application
+
+Complete the online application via this link [https://go.gov.sg/moe-fas-yuhua-sec-sch](https://go.gov.sg/moe-fas-yuhua-sec-sch) or by scanning the QR code below. Singpass login is required.
