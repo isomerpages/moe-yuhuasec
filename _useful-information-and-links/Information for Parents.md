@@ -3,6 +3,8 @@ title: Information for Parents
 permalink: /useful-information-and-links/information-for-parents
 description: ""
 ---
+# **Information for Parents**
+
 ### Class Timetable for Semester 2
 
 Dear parents/students, you may access a copy of the class timetable here:  
@@ -23,4 +25,4 @@ You can find the Term 2 Newsletter below.
 ### Term 1 Newsletter
 Dear Parents/Guardians and students,   
 You can find the Term 1 Newsletter below.  
-[YHSS 2022 Term 1 Letter.pdf](/files/YHSS%202022%20Term%201%20Letter.pdf)  
+[YHSS 2022 Term 1 Letter.pdf](/files/YHSS%202022%20Term%201%20Letter.pdf)
