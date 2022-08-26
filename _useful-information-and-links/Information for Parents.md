@@ -47,3 +47,5 @@ You may access a copy of the slides from our VP's sharing here: 
 Information for 201: [For Class 201 2022 Sec 2 PTM\_ Subject Selection Exercise.pdf](/files/For%20Class%20201%202022%20Sec%202%20PTM_%20Subject%20Selection%20Exercise.pdf)  
 Information for 202 & 203: [For Class 202-203 2022 Sec 2 PTM\_Subject Selection Exercise.pdf](/files/For%20Class%20202-203%202022%20Sec%202%20PTM_Subject%20Selection%20Exercise.pdf)  
 Information for 204-207: [For Class 204-207 2022 Sec 2 PTM\_Subject Selection Exercise.pdf](/files/For%20Class%20204-207%202022%20Sec%202%20PTM_Subject%20Selection%20Exercise.pdf)
+
+### \[Upper Secondary] Parent Teacher Meeting 2022  
