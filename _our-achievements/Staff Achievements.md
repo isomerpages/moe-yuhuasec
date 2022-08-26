@@ -168,3 +168,44 @@ Has undertaken initiatives to promote Tamil language which should extend beyond 
 
 
 ### Year of 2019
+
+
+| S/No 	| Name 	| Achievements 	|
+|---	|---	|---	|
+| 1 	| Hoe Yeow Kong Roger 	| National Day Commendation Medal 	|
+| 2 	| Chng Puay Keong 	| National Day Commendation Medal 	|
+| 3 	| Sng Wee Yoke Leroy 	| National Day Commendation Medal 	|
+| 4 	| Gejavalli Ramasamy 	| AST Academy Awards - Associate of AST Award 	|
+| 5 	| Yeo Aik Ser 	| AST Academy Awards - Associate of AST Award 	|
+| 6 	| Lek Mei Xuan 	| AST Academy Awards - Associate of AST Award 	|
+| 7 	| Wang Runjia 	| AST Academy Awards - Associate of AST Award 	|
+| 8 	| Lek Mei Xuan 	| MOE Service Excellence Award (MSEA) - Gold & Platinum 	|
+| 9 	| Law Hwai Bin 	| MOE Service Excellence Award (MSEA) - Gold 	|
+| 10 	| Salmiyati Salim 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 11 	| Muliyahna Bte Sani 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 12 	| Ya'akob Bin Md Yasin 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 13 	| Hoe Yeow Kong Roger 	| National Day Commendation Medal 	|
+| 14 	| Chng Puay Keong 	| National Day Commendation Medal 	|
+| 15 	| Sng Wee Yoke Leroy 	| National Day Commendation Medal 	|
+| 16 	| Gejavalli Ramasamy 	| AST Academy Awards - Associate of AST Award 	|
+| 17 	| Yeo Aik Ser 	| AST Academy Awards - Associate of AST Award 	|
+| 18 	| Lek Mei Xuan 	| AST Academy Awards - Associate of AST Award 	|
+| 19 	| Wang Runjia 	| AST Academy Awards - Associate of AST Award 	|
+| 20 	| Lek Mei Xuan 	| MOE Service Excellence Award (MSEA) - Gold & Platinum 	|
+| 21 	| Law Hwai Bin 	| MOE Service Excellence Award (MSEA) - Gold 	|
+| 22 	| Salmiyati Salim 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 23 	| Muliyahna Bte Sani 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 24 	| Ya'akob Bin Md Yasin 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 25 	| Hoe Yeow Kong Roger 	| National Day Commendation Medal 	|
+| 26 	| Chng Puay Keong 	| National Day Commendation Medal 	|
+| 27 	| Sng Wee Yoke Leroy 	| National Day Commendation Medal 	|
+| 28 	| Gejavalli Ramasamy 	| AST Academy Awards - Associate of AST Award 	|
+| 29 	| Yeo Aik Ser 	| AST Academy Awards - Associate of AST Award 	|
+| 30 	| Lek Mei Xuan 	| AST Academy Awards - Associate of AST Award 	|
+| 31 	| Wang Runjia 	| AST Academy Awards - Associate of AST Award 	|
+| 32 	| Lek Mei Xuan 	| MOE Service Excellence Award (MSEA) - Gold & Platinum 	|
+| 33 	| Law Hwai Bin 	| MOE Service Excellence Award (MSEA) - Gold 	|
+| 34 	| Salmiyati Salim 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 35 	| Muliyahna Bte Sani 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 36 	| Ya'akob Bin Md Yasin 	| MOE Service Excellence Award (MSEA) - Silver 	|
+| 37 	| Kang Yin Ga Germain 	| MOE Service Excellence Award (MSEA) - Gold & Platinum 	|
