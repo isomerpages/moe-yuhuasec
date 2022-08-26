@@ -154,6 +154,13 @@ For Marking Students' Attendance.
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ##### 2. School Cockpit
 
@@ -176,13 +183,99 @@ Please open in Internet Explorer.
 <br>
 <br>
 <br>
-![](/images/SC.jpg)
+<br>
+<br>
+<br>
 
-![](/images/moe%20intranet.jpg)
+##### 3. MOE Intranet
 
-![](/images/MIMS%20Portal%20Logo.png)
+<div>
+<div style="float: left">
+<a href="http://intranet.moe.gov.sg/Pages/Home.aspx">
+<img src="/images/moe%20intranet.jpg"
+     style="width:100%">
+</a> Click on the MOE Intranet Logo. <br>
+For MOE Admin Matters. Refer to School for Details.
+	</div>
+</div> 
 
-![](/images/hr%20online.png)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+##### 4. Reset MIMS Password
+
+<div>
+<div style="float: left">
+<a href="https://portal.mims.moe.gov.sg/idmdash/">
+<img src="/images/MIMS%20Portal%20Logo.png"
+     style="width:100%">
+</a> Click on the MIMS Portal Logo to reset password. <br>
+	For SSOE Service Desk: 1800 7663 663<br>Email: <a href="help@moe.edu.sg">help@moe.edu.sg</a>
+	</div>
+</div> 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+##### 5. HR Online
+
+<div>
+<div style="float: left">
+<a href="http://intranet.moe.gov.sg/Pages/Home.aspx">
+<img src="/images/hr%20online.png"
+     style="width:100%">
+</a> Click on the HR Online Logo. <br>
+For Human Resource Matters.
+	</div>
+</div> 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+##### 6. ICONnect Email
+
+<div>
+<div style="float: left">
+<a href="http://intranet.moe.gov.sg/Pages/Home.aspx">
+<img src="/images/hr%20online.png"
+     style="width:100%">
+</a> Click on the HR Online Logo. <br>
+For Human Resource Matters.
+	</div>
+</div> 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ![](/images/icon.jpg)
 
