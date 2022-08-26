@@ -58,3 +58,7 @@ Our Sports CCAs are strong in their development of character, and through this, 
 | Tchoukball Boys 	| - 	| - 	| - 	| - 	|
 | Tchoukball Girls 	| - 	| - 	| - 	| - 	|
 | Wushu 	| Singapore National Wushu & Sanda Championships 2019 - Group event - Gold 	| - 	| - 	| - 	|
+
+**Student CCA Achievements**
+
+Beyond these accomplishments as a group, we have our students who excelled individually in their CCAs, receiving awards and accolades for their drive to excel in their areas of passion and interest.
