@@ -90,8 +90,8 @@ From 1 April 2019, parents who are onboard Parents Gateway will receive informat
 <img src="/images/tPG-SingPass.jpg" 
      style="width:25%">
 
-[Instructional Guide for Onboarding to Parents Gateway](https://yuhuasec-moe-edu-sg-admin.cwp.sg/qql/slot/u516/parents%20and%20students/Instructional%20Guide%20-%20Parents%20Gateway.pdf)  
+* [Instructional Guide for Onboarding to Parents Gateway](/files/Instructional%20Guide%20-%20Parents%20Gateway.pdf)  
+* [Parents Guide for PG Travel Declaration Update](/files/Parents%20Guide%20for%20PG%20Travel%20Declaration%20Update%20Particulars%20-%208%20May%2019.pdf)  
+* [Frequently Asked Questions for Parents](/files/Frequently%20Asked%20Questions%20for%20Parents.pdf)
 
-[Parents Guide for PG Travel Declaration Update](https://yuhuasec-moe-edu-sg-admin.cwp.sg/qql/slot/u516/parents%20and%20students/Parents%20Guide%20for%20PG%20Travel%20Declaration%20Update%20Particulars%20-%208%20May%2019.pdf)  
-
-[Frequently Asked Questions for Parents](https://yuhuasec-moe-edu-sg-admin.cwp.sg/qql/slot/u516/parents%20and%20students/Frequently%20Asked%20Questions%20for%20Parents.pdf)
+We look forward to your support. Thank you very much!
