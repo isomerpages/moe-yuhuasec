@@ -7,7 +7,8 @@ description: ""
 
 ### Photo Gallery of our CCAs in Action!
 
-![](/images/Band%20SYF%202021.jpg)
+<img src="/images/Band%20SYF%202021.jpg" 
+     style="width:70%">
 
 ![](/images/Boys%20Bridage_JM_Frasier.jpg)
 
@@ -16,6 +17,7 @@ description: ""
 ![](/images/Concert%20Band%20SYF%202019.jpg)
 
 ![](/images/Dance%20SYF%202021.jpg)
+uploaded 5 out of 23 images)
 
 ### Co-Curricular Activities in Yuhua
 
