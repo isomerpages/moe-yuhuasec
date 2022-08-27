@@ -8,8 +8,7 @@ third_nav_title: Our Partners
 
 ![](/images/PSG%20Group%20Photo.jpeg)
 
-Yuhua Secondary School Parent Support Group
--------------------------------------------
+### Yuhua Secondary School Parent Support Group
 
 “It takes a village to raise a child” – so a common saying goes.  Since 2000, the members of Yuhua Secondary School Parent Support Group have been supporting one another, the teachers, and the school leaders, in creating and maintaining a safe and nurturing environment where Yuhuans, our “children”, can flourish as curious and adaptable learners who care for themselves, for others and for the community.  
 
@@ -73,6 +72,20 @@ We look forward to you being part of our Yuhua family.   
 ![](/images/9d5e1c1b1_64919.jpg)
 
 ![](/images/c4dbd2b39_64920.jpg)
+
+##### Effective Parenting Style Workshop
+
+![](/images/410494a30_64922.jpg)
+
+##### Family bonding adventure & activity
+
+![](/images/ec52ebb72_64924.jpg)
+
+![](/images/d85eed3bf_64925.jpg)
+
+
+
+
 
 ### Sign up for Parent Support Group
 
