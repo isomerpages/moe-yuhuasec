@@ -127,7 +127,18 @@ We look forward to you being part of our Yuhua family.   
 		 
 <img src="/images/063d0bd34_64942.jpg" 
      style="width:60%">
+		 
+![](/images/9afb2654c_64943.jpg)
 
+##### Values in action programme @ Lee Ah Mooi Old Aged Home
+
+![](/images/9a61b0764_64945.jpg)
+
+![](/images/8d38d917a_64946.jpg)
+
+![](/images/17ea57ee8_64947.jpg)
+
+![](/images/307b11ff0_64948.jpg)
 
 ### Sign up for Parent Support Group
 
