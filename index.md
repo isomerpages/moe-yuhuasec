@@ -25,9 +25,9 @@ sections:
       title: Posting well-wishes and messages!
       subtitle: Care for our teachers by
       description: We sincerely invite you to show care for our teachers by sharing
-        your well-wishes
-      button: HERE!
-      url: www.ThankYouCher.edu.sg
+        your well-wishes!
+      button: click here to find out more!
+      url: https://staging.dn2m6q5jv5ezt.amplifyapp.com/useful-information-and-links/information-for-students
       image: /images/2d620f2ea_4844.png
       alt: Image alt text
   - infopic:
