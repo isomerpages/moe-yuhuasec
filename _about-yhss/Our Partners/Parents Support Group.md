@@ -85,7 +85,7 @@ We look forward to you being part of our Yuhua family.   
 
 ![](/images/6a1c2532e_64926.jpg)
 
-##### idk what
+##### Festive celebrations with Parenting Talks
 
 ![](/images/58eedf2e4_64928.jpg)
 
@@ -100,6 +100,30 @@ We look forward to you being part of our Yuhua family.   
 ![](/images/89cdb82b6_64933.jpg)
 
 ![](/images/0d89c79b0_64934.png)
+
+##### Learning Fiesta 
+
+![](/images/f2c7afe8c_64936.jpg)
+
+![](/images/b5cc338df_64937.jpg)
+
+![](/images/f2a7dc700_64938.jpg)
+
+
+##### PSG in action
+
+![](/images/e8e0deaab_66030.jpg)
+
+![](/images/802103019_66031.jpg)
+
+![](/images/5f40360a1_66032.jpg)
+
+##### School Events with PSG
+
+![](/images/f04ab172d_64940.jpg)
+
+<img src="/images/d54b3b0bd_64941.jpg" 
+     style="width:60%">
 
 ### Sign up for Parent Support Group
 
