@@ -66,7 +66,13 @@ We look forward to you being part of our Yuhua family.   
 
 ### PSG Gallery
 
-insert photos
+##### Career Guidance sharing 2014 by parent-support group members
+
+![](/images/cce28d6d3_64918.jpg)
+
+![](/images/9d5e1c1b1_64919.jpg)
+
+![](/images/c4dbd2b39_64920.jpg)
 
 ### Sign up for Parent Support Group
 
