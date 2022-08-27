@@ -124,6 +124,10 @@ We look forward to you being part of our Yuhua family.   
 
 <img src="/images/d54b3b0bd_64941.jpg" 
      style="width:60%">
+		 
+<img src="/images/063d0bd34_64942.jpg" 
+     style="width:60%">
+
 
 ### Sign up for Parent Support Group
 
