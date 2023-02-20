@@ -1,24 +1,32 @@
 ---
 title: Information for Students
-permalink: /useful-information-and-links/information-for-students
+permalink: /useful-information-and-links/information-for-students/
 description: ""
 ---
 # **Information for Students**
 
-### CARE for our teachers by posting your well wishes and thank you messages
+### Class Timetable for Semester 1 (2023)
 
-Dear Alumni and Students,
+Dear students, you may access your class timetable for Semester 1 below:  
 
-This Teacher’s Day, let your teachers in Yuhua Secondary School know how you have been positively influenced by them.  We sincerely invite you to show care for our teachers by sharing your well-wishes at [www.ThankYouCher.edu.sg](http://www.thankyoucher.edu.sg/)
+[Timetable for all classes.](/files/2023%20Sem%201%20TT_classes_29%20Dec.pdf)
 
-Thank you!
+### Term 1 Letter for 2023
+----------------------
+[Term 1 Letter](/files/YHSS%202023%20Term%201%20Letter.pdf)
 
-[](http://www.thankyoucher.edu.sg/)
+### Student Handbook 2023
+---------------------
 
-### Class Timetable for Semester 2
+You may access the Student Handbook for 2023 [here](https://go.gov.sg/yhsshandbook).
 
-Dear students, you may access your class timetable for Semester 2 below:  
-[2022 Sem 2 TT_22 Jun_Classes.pdf](/files/2022%20Sem%202%20TT_22%20Jun_Classes.pdf)  
+### 2022 Yearbook
+-------------
+You may access the Yearbook for 2022 [here](https://drive.google.com/file/d/1TVPs2zkkpFvoi74Vc8_lGODeP3CzF4lK/view?usp=share_link).
+
+### School Photos
+-------------
+You may access the school photos at this [album](https://www.flickr.com/photos/197130688@N02/albums).
 
 ### Student HBL Site
 
