@@ -1,9 +1,16 @@
 ---
 title: Announcements
-permalink: /useful-information-and-links/announcements
+permalink: /useful-information-and-links/announcements/
 description: ""
 ---
 # **Announcements**
+### Nomination for President's Award and Outstanding Youth in Education Award
+-------------------------------------------------------------------------
+**_Do you know of an outstanding teacher? Show your appreciation by nominating him/her for the_** **_President’s Award for Teachers (PAT) or the Outstanding Youth in Education Award (OYEA)!_**!
+
+![](/images/APicture2.png)
+![](/images/APicture3.png)
+
 
 ### Nomination for Outstanding Computing Teacher Award 2022
 
