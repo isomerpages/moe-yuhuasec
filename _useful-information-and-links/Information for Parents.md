@@ -1,9 +1,53 @@
 ---
 title: Information for Parents
-permalink: /useful-information-and-links/information-for-parents
+permalink: /useful-information-and-links/information-for-parents/
 description: ""
 ---
 # **Information for Parents**
+### 2023 Weighted Assessment 1 Schedule
+-----------------------------------
+
+Dear Parents,  
+You may access the Weighted Assessment 1 (WA1) Schedules for 2023 by clicking on the links below:
+
+[Secondary 1 - WA1 Parent Letter](/files/11Sec%201%20WA1_Parent%20Letter%202023.pdf)
+
+[Secondary 2 - WA1 Parent Letter](/files/Sec%202%20WA1_Parent%20Letter%202023.pdf)
+
+[Secondary 3 - WA1 Parent Letter](/files/Sec%203%20WA1_Parent%20Letter%202023.pdf)
+
+[Secondary 4/5 - WA1 Parent Letter](/files/Sec%2045%20WA1_Parent%20Letter%202023.pdf)
+
+### Term 1 Letter for 2023
+----------------------
+Dear Parents,  
+You may access the Term 1 Letter for 2023 [here.](/files/1111YHSS%202023%20Term%201%20Letter.pdf)
+
+### 2023 Booklists
+--------------
+Secondary 2 (2023)
+
+[2 Normal (Technical)](/files/YHSS%20S2NT.pdf)
+
+[2 Normal (Academic)](/files/YHSS%20S2NA.pdf)
+
+[2 Express](/files/YHSS%20S2EXP.pdf)
+
+Secondary 3 (2023)
+
+[3 Normal (Technical)](/files/YHSS%20S3NT.pdf)
+
+[3 Normal (Academic)](/files/YHSS%20S3NA.pdf)
+
+[3 Express](/files/YHSS%20S3EXP.pdf)
+
+Secondary 4 (2023)
+
+[4 Normal (Technical)](/files/YHSS%20S4NT.pdf)
+
+[4 Normal (Academic)](/files/YHSS%20S4NA.pdf)
+
+[4 Express](/files/YHSS%20S4EXP.pdf)
 
 ### Class Timetable for Semester 2
 
