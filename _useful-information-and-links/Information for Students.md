@@ -45,10 +45,6 @@ Click [here](https://sites.google.com/moe.edu.sg/yhss-hbl/help-for-students/sec
 
 [2022 Sem 1 Timetable.pdf](/files/2022%20Sem%201%20TT_6%20Jan_classes.pdf)
 
-### Student Handbook
-
-[Yuhua Handbook.pdf](https://yuhuasec.moe.edu.sg/qql/slot/u820/Yuhua%20Handbook%202021%20final_2021%20jan.pdf)
-
 ### Singapore Student Learning Space
 
 <div>
