@@ -1,0 +1,16 @@
+collections:
+  our-programmes:
+    output: true
+    order:
+      - After School Engagement Programme.md
+      - Applied Learning (ALP).md
+      - Enhanced Music Programme (EMP).md
+      - Environmental Education.md
+      - Learning for Life (LLP).md
+      - Overseas Learning/CCA.md
+      - Overseas Learning/IP.md
+      - Overseas Learning/.keep
+      - Positive Education.md
+      - Sexuality Education.md
+      - Student Leadership.md
+      - Yuhua CARES.md

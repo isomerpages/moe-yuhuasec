@@ -2,31 +2,38 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Yuhua Secondary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - " 35 Jurong West Street 41"
+      - Singapore 649406
+      - ""
     operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+      - days: Mon-Fri
+        time: 7.30am - 5.00pm
+        description: Closed on Weekends & Public Holidays
+      - days: Buses
+        time: ""
+        description: 49, 98, 99, 185, 187, 198, 335, 502
+      - days: Nearest MRT Station
+        time: ""
+        description: Lakeside MRT
+    maps_link: https://goo.gl/maps/fzVtxSMWW6oanomG8
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6566 1985
+      - email: ""
+      - other: ""
+    title: General Office
+  - content:
+      - phone: +65 6569 6689
+      - email: ""
+      - other: ""
+    title: Fax
+  - content:
+      - phone: ""
+      - email: yuhua_ss@moe.edu.sg
+      - other: ""
+    title: Email
 ---

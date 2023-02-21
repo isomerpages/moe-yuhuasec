@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/yhss.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Yhss
+    collection: about-yhss
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Our CCAs
+    collection: our-ccas
+  - title: Our Programmes
+    collection: our-programmes
+  - title: Our Achievements
+    collection: our-achievements
+  - title: Useful infomation and links
+    collection: useful-information-and-links

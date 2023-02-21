@@ -1,0 +1,13 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - Aesthetics Craft & Technology.md
+      - Character & Citizenship Education.md
+      - English Language and Literature.md
+      - Humanities.md
+      - Information, Communication & Technology.md
+      - Mathematics.md
+      - Mother Tongue Languages.md
+      - Physical Education.md
+      - Science.md
