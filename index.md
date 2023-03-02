@@ -22,20 +22,13 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infopic:
-      title: Posting well-wishes and messages!
-      subtitle: Care for our teachers by
-      description: We sincerely invite you to show care for our teachers by sharing
-        your well-wishes!
-      button: click here to find out more!
-      url: https://staging.dn2m6q5jv5ezt.amplifyapp.com/useful-information-and-links/information-for-students
-      image: /images/2d620f2ea_4844.png
-      alt: Image alt text
-  - infopic:
-      title: Teachers' Day Homecoming!
-      subtitle: Inviting our alumni for
-      description: "For more information, "
-      button: click here!
-      url: /Inviting-our-alumni-for-Teachers-Day-Homecoming
-      image: /images/ebed1db86_4818.jpg
+      title: YH Café
+      subtitle: Yuhua in the news
+      description: "Our canteen was featured in Lianhe Zaobao recently. An inviting
+        space for students to dine and play amidst lush greenery, it's
+        definitely been a big hit! "
+      button: click here to read the article!
+      url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
+      image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
       alt: Image alt text
 ---
