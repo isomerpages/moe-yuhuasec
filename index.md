@@ -22,6 +22,14 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infopic:
+      title: Direct School Admissions (DSA) 2023
+      subtitle: DSA 2023
+      description: You may now access the DSA information for 2023 via the following link
+      button: Click here
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/direct-school-admissions-dsa
+      image: /images/dsa2023.png
+      alt: Image alt text
+  - infopic:
       title: YH Café
       subtitle: Yuhua in the news
       description: "Our canteen was featured in Lianhe Zaobao recently. An inviting
