@@ -15,7 +15,7 @@ Yuhua Secondary School will be offering Direct School Admission in the following
 
 
 
-| CCA Talent Area | CCA | Gender(s) |
+| DSA Talent Area | CCA | Gender(s) |
 | -------- | -------- | -------- |
 | Robotics     | Tinkering &amp; Robotics Club     | Boys &amp; Girls     |
 | Concert Band    | Concert Band     | Boys &amp; Girls     |
