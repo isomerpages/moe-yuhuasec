@@ -4,6 +4,25 @@ permalink: /useful-information-and-links/information-for-parents/
 description: ""
 ---
 # **Information for Parents**
+
+### 2023 Upper Sec PTM
+-----------------------------------
+
+Dear Parents, 
+
+You may access the materials shared during the Upper Sec PTM via the links below:
+
+[1. Principal's Sharing](/files/1%20Principal's%20Sharing%20for%20Upper%20Sec%20PTM.pdf)
+
+[2. ECG Counsellor's Sharing](/files/2%20ECG%20Cousellor's%20Sharing%20for%20Upper%20Sec%20PTM.pdf)
+
+[3. Year Head's Sharing](/files/3%20YH's%20Sharing%20for%20Upper%20Sec%20PTM.pdf)
+
+
+
+
+
+
 ### 2023 Weighted Assessment 1 Schedule
 -----------------------------------
 
