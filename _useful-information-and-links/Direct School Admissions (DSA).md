@@ -86,11 +86,11 @@ Applicants should:
 
 **HOW TO APPLY**
 
-The application period is from&nbsp;**5 May 2022, 9.00am to 1 June 2022, 3.00pm**
+The application period is from&nbsp;**5 May 2023, 9.00am to 1 June 2023, 3.00pm**
 
 _The selection trials will be conducted in person on the premises of Yuhua Secondary School._
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11am to 1 June 2022, 3pm.
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2023, 11am to 1 June 2023, 3pm.
 
 For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)
 
