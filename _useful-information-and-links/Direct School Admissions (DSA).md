@@ -24,3 +24,88 @@ Yuhua Secondary School will be offering Direct School Admission in the following
 | Volleyball     | Volleyball     | Boys &amp; Girls     |
 
 We invite students who wish to grow their talent and passion in these areas to become a part of our Yuhua family in 2024.
+
+        
+Students admitted through DSA will also have the opportunity to stretch their potential in their area of interest by choosing the Enhanced Music Programme or Electronics as a subject in Secondary Three & Four.
+
+![](/images/screenshot%20(148).png)
+
+Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+
+**SELECTION CRITERIA** 
+
+**General Criteria**
+
+Applicants should:
+1.  Have represented their primary school in Singapore Youth Festival, SPSSC National School Games, or other equivalent competitions related to the talent area which they are applying for.
+
+3.  Display positive attributes such as initiative, leadership, discipline and teamwork through teacher’s (primary school) remarks, and have a Good conduct grading in their latest Holistic Development Profile.
+
+**Talent Specific Criteria**
+
+**Robotics (Tinkering & Robotics Club)**
+
+Applicants should:
+1. Demonstrate strong passion for, and motivation in coding and/or robotics
+2. Possess computational-thinking skills or basic programming knowledge in Arduino (Sketch) or LEGO Mindstorm/EV3
+3. Have participated in local/international coding-related competitions (e.g. National Junior Robotics Competition, First Lego League, National Robopreneur Carnival) 
+
+**Concert Band**
+
+Applicants should:
+1. Be able to play a relevant musical instrument for the Concert Band
+2. Have participated in a local/international competition, festival or performance (eg: SYF, SIBF, SNYO, National Day Parade, Mosaic Music Festival)
+3. Possess attainment of certification in woodwind or brass instrument/music exams i.e. ABRSM is preferred though not compulsory.
+
+**Choir**
+
+Applicants should:
+
+1. Demonstrate a passion for choral singing & enjoys performing in front of an audience
+2. Have participated in a local/international competition, festival or performance (eg: SYF, singing competitions)
+3. Possess relevant experience / track record in the chosen area of performing arts (e.g. ABRSM / equivalent for Piano/ certificate from music academy / school)
+Harmonica Ensemble (Harmonica Band)
+Applicants should:
+4. Be able to play a relevant musical instrument (Harmonica, Piano, Synthesizer, Guitar, Percussion instrument)
+5. Have participated in a local/international competition, festival or performance (eg: SYF, SIBF, SNYO, National Day Parade, Mosaic Music Festival)
+6. Possess relevant experience / track record in the chosen area of performing arts (e.g. ABRSM / equivalent for Piano/ certificate from music academy / school)
+
+**Volleyball**
+
+Applicants should:
+
+1. Demonstrate strong potential in Volleyball
+2. Have represented school in competitions and obtained achievements at zonal/national level
+3. Be medically/physically fit (possess minimally a Bronze in NAPFA from P5 onwards)
+
+**HOW TO APPLY**
+
+The application period is from **4 May 2023, 11.00am to 31 May 2023, 3.00pm.**
+
+*The selection trials will be conducted in person on the premises of Yuhua Secondary School.*
+
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 1 June 2022, 3pm.
+
+For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec
+
+Key Dates:
+
+![](/images/screenshot%20(149).png)
+
+
+
+**Essential Information**
+
+Successful DSA-Sec candidates are NOT allowed to participate in the Secondary One (S1) Posting Exercise. However, if they are eligible for third language and/or course options, they may enter these options during the S1 Option Submission period.
+
+Successful DSA-Sec candidates are NOT allowed to transfer to another school after the release of the PSLE results. 
+
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
+
+For further queries, you may contact Mr Wilfred Yan (SH/CCA) at 6566 1985 or email: yuhua_ss@moe.edu.sg
+
+
+
+
+
+
