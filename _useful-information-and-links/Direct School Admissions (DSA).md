@@ -55,17 +55,17 @@ Applicants should:
 Applicants should:
 1. Be able to play a relevant musical instrument for the Concert Band
 2. Have participated in a local/international competition, festival or performance (eg: SYF, SIBF, SNYO, National Day Parade, Mosaic Music Festival)
-3. Possess attainment of certification in woodwind or brass instrument/music exams i.e. ABRSM is preferred though not compulsory.
+3. Possess attainment of certification in woodwind or brass instrument/music exams i.e. ABRSM is preferred though not compulsory
 
 **Choir**
 
 Applicants should:
 
-1. Demonstrate a passion for choral singing & enjoys performing in front of an audience
+1. Demonstrate a passion for choral singing & enjoy performing in front of an audience
 2. Have participated in a local/international competition, festival or performance (eg: SYF, singing competitions)
 3. Possess relevant experience / track record in the chosen area of performing arts (e.g. ABRSM / equivalent for Piano/ certificate from music academy / school)
 Harmonica Ensemble (Harmonica Band)
-Applicants should:
+
 4. Be able to play a relevant musical instrument (Harmonica, Piano, Synthesizer, Guitar, Percussion instrument)
 5. Have participated in a local/international competition, festival or performance (eg: SYF, SIBF, SNYO, National Day Parade, Mosaic Music Festival)
 6. Possess relevant experience / track record in the chosen area of performing arts (e.g. ABRSM / equivalent for Piano/ certificate from music academy / school)
@@ -103,9 +103,3 @@ Successful DSA-Sec candidates are NOT allowed to transfer to another school afte
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
 
 For further queries, you may contact Mr Wilfred Yan (SH/CCA) at 6566 1985 or email: yuhua_ss@moe.edu.sg
-
-
-
-
-
-
