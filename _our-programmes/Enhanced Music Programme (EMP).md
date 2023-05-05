@@ -16,21 +16,23 @@ YHSS’ EMP students will have opportunities to pursue deeper learning in variou
 
 At Yuhua Secondary School, all students will have access to well-equipped teaching rooms, practice studios, and performance spaces. The school also has a rich variety of instruments and learning resources to cater to different interests and learning needs.
 
+![](/images/aapicture4.jpg)
+
+![](/images/aapicture5.jpg)
+
 Students who are interested to study O-Level Music at Secondary Three should note the following:
 
-At Secondary One:
-
+**At Secondary One:
+**
 * Join one of the following music CCAs: Concert Band, Harmonica Band, Choir (Girls), or be a member of the Singapore National Youth Orchestra / Singapore National Youth Chinese Orchestra / Singapore Symphony Children’s Choir
 
 * Indicate interest to study O-Level Music to music teacher(s) at Yuhua Secondary School
 
-At Secondary Two:
-
+**At Secondary Two:**
 * Join the school’s in-house Music Preparatory Course (MPC), which will equip students with foundational skills and knowledge in Music Listening, Literacy, Performing, and Creating. 
 * Pass the EMP Selection Exercise, which will take place in Semester 2. 
-Useful Links
+
+**Useful Links**
 * [MOE EMP Webpage](https://www.moe.gov.sg/education-in-sg/our-programmes/emp-sec)
 * [MOE O-Level Music Teaching and Learning Syllabus](http://go.gov.sg/olmsyllabus)
 * [MOE EMP and MEP YouTube Page](http://go.gov.sg/empmepyoutubepage)
-
-
