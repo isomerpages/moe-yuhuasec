@@ -17,7 +17,6 @@ YHSS’ EMP students will have opportunities to pursue deeper learning in variou
 At Yuhua Secondary School, all students will have access to well-equipped teaching rooms, practice studios, and performance spaces. The school also has a rich variety of instruments and learning resources to cater to different interests and learning needs.
 
 ![](/images/aapicture4.jpg)
-
 ![](/images/aapicture5.jpg)
 
 Students who are interested to study O-Level Music at Secondary Three should note the following:
