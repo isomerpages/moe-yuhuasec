@@ -6,7 +6,7 @@ description: ""
 ---
 # **Our School Song**
 
-[![Alternate Text](/images/screenshot%20(153).png)]({https://www.youtube.com/watch?v=3F7WoF-Oowg} "Our School Song")
+[![Alternate Text](/images/screenshot%20(153).png)](https://www.youtube.com/watch?v=3F7WoF-Oowg "Our School Song")
 
 
 ### School Song Lyrics
