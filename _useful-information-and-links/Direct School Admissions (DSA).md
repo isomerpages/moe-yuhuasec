@@ -28,7 +28,9 @@ We invite students who wish to grow their talent and passion in these areas to b
         
 Students admitted through DSA will also have the opportunity to stretch their potential in their area of interest by choosing the Enhanced Music Programme or Electronics as a subject in Secondary Three & Four.
 
-![](/images/screenshot%20(148).png)
+
+![](/images/screenshot%20(152).png)
+
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
