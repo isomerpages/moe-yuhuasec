@@ -1,62 +1,36 @@
 ---
 title: Enhanced Music Programme (EMP)
-permalink: /our-programmes/enhanced-music-programme-emp
+permalink: /our-programmes/enhanced-music-programme-emp/
 description: ""
 ---
 # **Enhanced Music Programme (EMP)**
 
-![](/images/Picture10(1).png)
+ 
+**Overview**
 
-![](/images/music.jpg)
+The EMP is a two-year upper secondary programme that prepares students for the GCE O-Level Music examination. Yuhua Secondary School (YHSS) is one of four schools in Singapore to offer the EMP and serves as an O-Level Music Centre for students from other schools. YHSS’ unique programme also aims to develop students into competent and well-rounded musicians who possess the competencies and dispositions to pursue different higher education and career pathways in music, if they wish to.
 
-**Introduction** 
+![](/images/apicture1.jpg) ![](/images/aapicture2.jpg) ![](/images/aapicture3.jpg)
 
-Yuhua Secondary School’s Enhanced Music Programme (EMP) is a two year upper secondary programme that leads to the GCE O-Level Music examination. 
+YHSS’ EMP students will have opportunities to pursue deeper learning in various musical pursuits. Through an in-depth study of various musical traditions, such as Western Classical music, Asian Music, Jazz, and Pop, students will engage in rich learning experiences that involve listening, performing, composing, and theoretical study. Our EMP students will also participate in diverse enrichment activities, such as masterclasses with industry professionals, learning journeys to higher education institutions and cultural groups, and combined schools’ camps and showcase platforms organised by the Ministry of Education.
 
-As an O-Level Music Centre, our aim is to develop interest, nurture potential and explore talent in our students to excel in their musical pursuits. Our Yuhuans are exposed to music through various traditions, theories and practices, making their musical experience an enriching learning journey in our school.
+At Yuhua Secondary School, all students will have access to well-equipped teaching rooms, practice studios, and performance spaces. The school also has a rich variety of instruments and learning resources to cater to different interests and learning needs.
 
-Our Yuhuans are introduced to music through the study of Western and Asian music, Jazz and Pop, music composition and music theory by the music teachers as well as industry professionals. Their talents are nurtured through opportunities to perform within the school or community platforms, musical workshops and masterclasses as well as learning journeys to higher institutions of learning and local arts organizations.
+Students who are interested to study O-Level Music at Secondary Three should note the following:
 
-Yuhuans who are interested to take music as an O-Level subject through EMP will be selected for our Music Preparatory Course (MPC) from Secondary One, where they will be prepared for the Music Selection Test audition at Secondary Two. The audition could be on any instruments of their choice, including the voice, which will be conducted by music teachers.
+At Secondary One:
 
-**Programme Objectives**
+* Join one of the following music CCAs: Concert Band, Harmonica Band, Choir (Girls), or be a member of the Singapore National Youth Orchestra / Singapore National Youth Chinese Orchestra / Singapore Symphony Children’s Choir
 
-*   Develop and deepen understanding and skills in different fields of music, including musical cultures around the world, audio technology (for example, setting up live sound system), broadcast media (for example, the role of music in media) and arts management with a focus on music events.
-*   Perform, compose and record own works.
-*   Have access to specialised facilities (for example, practice studios) and music resources (for example, audio-visual materials, scores, books and music technology).
-*   Learn from professionals in the music industry through masterclasses and studio sessions.
-*   Have opportunities to collaborate and learn with EMP and Music Elective Programme (MEP) students from other schools.
+* Indicate interest to study O-Level Music to music teacher(s) at Yuhua Secondary School
 
-**Key Programmes**
+At Secondary Two:
 
-Our students also benefit from a comprehensive enrichment programme, including:
+* Join the school’s in-house Music Preparatory Course (MPC), which will equip students with foundational skills and knowledge in Music Listening, Literacy, Performing, and Creating. 
+* Pass the EMP Selection Exercise, which will take place in Semester 2. 
+Useful Links
+* [MOE EMP Webpage](https://www.moe.gov.sg/education-in-sg/our-programmes/emp-sec)
+* [MOE O-Level Music Teaching and Learning Syllabus](http://go.gov.sg/olmsyllabus)
+* [MOE EMP and MEP YouTube Page](http://go.gov.sg/empmepyoutubepage)
 
-* National EMP Camp and Showcase concerts
-* Musical Mornings
-* Theatre Going Experience to orchestral concerts.
-* Aesthetics Day, National Day concerts, Teachers’ Day concerts, and Combined Performing Arts concerts 
-* Learning for Life Programme: MELODY
 
-### Learning for Life Programme: MELODY
-
-![](/images/Picture14(1).png)
-
-Yuhua Secondary School’s _Learning for Life (LLP) programme, MELODY (Music Empowered Learners, Our Dynamic Yuhuans)_ falls under the umbrella of the school’s **C**onfident **LI**vely **P**ersons through **Art**s @ Yuhua (CLIPART) and is designed to encourage self-discovery, build character and to hone values through the learning of music. 
-
-The goal of _MELODY_ is to infuse music into the school’s culture through formal and informal learning and through rich and authentic music engagement that ties into the daily life of the school community. 
-
-Learning a musical instrument often requires a high level of resilience and discipline. Playing music and infusing it with other various forms of the Arts, encourage teamwork and graciousness. Through this collaborative experiential process, Yuhuans often strive to think ‘out of the box’ and inject new ideas and be adaptable. It builds a spirit of adventure and develops critical thinking in the process. With this in mind, the aesthetics with music playing an integral part, become a natural platform to nurture our Yuhuans to flourish as they become men and women of character.
-
-![](/images/music2.jpg)
-
-Yuhuans will experience _MELODY_ at three different tiers. At tier 1 (Experience), our students get to experience the ARTS as audiences or participants through the school’s Aesthetics assembly as well as planned curriculum. This tier exposes our students to various genres of music through various form of performing arts and also to experience the learning of musical instruments formally through the General Music Programme (GMP). The music lessons planned by the school’s music teacher, encourage them to pick up the skills in playing the ukulele (Sec 1) and the keyboard (Sec2), catering to the needs and abilities of lower secondary students.
-
-Our secondary one freshmen get to experience _MELODY_ through an orientation camp that allow them to be immersed in the school’s music culture. Camp MELODY is championed by the leaders from the concert band as well as the student council. The leaders from concert band took charge of the planning and execution of music related activities such as STOMP infusion workshop, STOMP campfire, sectional introduction, mass dance and foot drill under the guidance of teachers.
-
-![](/images/music3.jpg)
-
-Tier 2 (Enrich) provides opportunities for Yuhuans to develop their interests and talents through music infusion enrichment programmes such as Music + Dance (Sec 1), Music + Drama (Sec 2), Music + Visual Arts (Sec 3) and  various performing arts CCAs where they learn to express themselves through music and lead in music related activities. The rigorous practice for accuracy hones self -discipline and builds on teamwork.
-
-![](/images/music4.jpg)
-
-In Tier 3 (Excel), Yuhuans are given the platforms such as Lunchtime Melody and Aesthetics Day to recognize their strengths and talents through music and other various form of arts to showcase their learning and mastery. For those who want to take music at a higher level, they can pursue their passion through EMP where they can continue mastering the music module that they have learnt in lower secondary, deepening their formal education in music.
