@@ -28,7 +28,9 @@ We invite students who wish to grow their talent and passion in these areas to b
         
 Students admitted through DSA will also have the opportunity to stretch their potential in their area of interest by choosing the Enhanced Music Programme or Electronics as a subject in Secondary Three & Four.
 
-![](/images/screenshot%20(148).png)
+
+![](/images/screenshot%20(152).png)
+
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
@@ -84,13 +86,13 @@ The application period is from **4 May 2023, 11.00am to 31 May 2023, 3.00pm.**
 
 *The selection trials will be conducted in person on the premises of Yuhua Secondary School.*
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 1 June 2022, 3pm.
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm.
 
 For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec
 
 Key Dates:
 
-![](/images/screenshot%20(149).png)
+![](/images/screenshot%20(154).png)
 
 
 
