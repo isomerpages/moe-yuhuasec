@@ -20,8 +20,8 @@ At Yuhua Secondary School, all students will have access to well-equipped teachi
 
 Students who are interested to study O-Level Music at Secondary Three should note the following:
 
-**At Secondary One:
-**
+**At Secondary One:**
+
 * Join one of the following music CCAs: Concert Band, Harmonica Band, Choir (Girls), or be a member of the Singapore National Youth Orchestra / Singapore National Youth Chinese Orchestra / Singapore Symphony Children’s Choir
 
 * Indicate interest to study O-Level Music to music teacher(s) at Yuhua Secondary School
