@@ -5,6 +5,18 @@ description: ""
 ---
 # **Information for Students**
 
+### Class Timetable for Semester 2 (2023)
+
+Dear students, you may access your class timetable for Semester 2 via the following links:  
+
+[Secondary 1](/files/2023%20sem%202%20_sec%201_20%20jun.pdf)
+
+[Secondary 2](/files/2023%20sem%202%20_sec%202.pdf)
+
+[Secondary 3](/files/2023%20sem%202%20_sec%203.pdf)
+
+[Secondary 4/5](/files/2023%20sem%202%20_sec%204%20and%205.pdf)
+
 ### Class Timetable for Semester 1 (2023)
 
 Dear students, you may access your class timetable for Semester 1 below:  
@@ -18,28 +30,28 @@ Dear students, you may access your class timetable for Semester 1 below:
 ### Student Handbook 2023
 ---------------------
 
-You may access the Student Handbook for 2023 [here](https://go.gov.sg/yhsshandbook).
+You may access the Student Handbook for 2023&nbsp;[here](https://go.gov.sg/yhsshandbook).
 
 ### 2022 Yearbook
 -------------
-You may access the Yearbook for 2022 [here](https://drive.google.com/file/d/1TVPs2zkkpFvoi74Vc8_lGODeP3CzF4lK/view?usp=share_link).
+You may access the Yearbook for 2022&nbsp;[here](https://drive.google.com/file/d/1TVPs2zkkpFvoi74Vc8_lGODeP3CzF4lK/view?usp=share_link).
 
 ### School Photos
 -------------
-You may access the school photos at this [album](https://www.flickr.com/photos/197130688@N02/albums).
+You may access the school photos at this&nbsp;[album](https://www.flickr.com/photos/197130688@N02/albums).
 
 ### Student HBL Site
 
-Click [here](https://sites.google.com/moe.edu.sg/yhss-hbl).
+Click&nbsp;[here](https://sites.google.com/moe.edu.sg/yhss-hbl).
 
 ### Baseline ICT Lessons
 
-Click [here](https://sites.google.com/moe.edu.sg/yhss-hbl/help-for-students/sec-1-baseline-ict-lesson?authuser=0).
+Click&nbsp;[here](https://sites.google.com/moe.edu.sg/yhss-hbl/help-for-students/sec-1-baseline-ict-lesson?authuser=0).
 
 ### Blended Learning Materials
 
-[Study Skills](https://drive.google.com/file/d/1uRhBRpI0PIMAJQjML8LEjA5YD6-COw3N/view) package for Lower Secondary  
-[Study Skills](https://drive.google.com/file/d/1VX8cX2p0cP0yrIjCoU7slUJk73KGhcBk/view) package for Upper Secondary   
+[Study Skills](https://drive.google.com/file/d/1uRhBRpI0PIMAJQjML8LEjA5YD6-COw3N/view)&nbsp;package for Lower Secondary  
+[Study Skills](https://drive.google.com/file/d/1VX8cX2p0cP0yrIjCoU7slUJk73KGhcBk/view)&nbsp;package for Upper Secondary&nbsp;  
 
 ### Class Timetable 2022
 
@@ -50,8 +62,7 @@ Click [here](https://sites.google.com/moe.edu.sg/yhss-hbl/help-for-students/sec
 <div>
 <div style="float: left">
 <a href="https://vle.learning.moe.edu.sg/login">
-<img src="/images/SLSlogo.jpg"
-     style="width:100%">
+<img src="/images/SLSlogo.jpg" style="width:100%">
 </a> Click on the Student Learning Space Logo to login.
 	</div>
 </div> 
@@ -70,8 +81,7 @@ Click [here](https://sites.google.com/moe.edu.sg/yhss-hbl/help-for-students/sec
 <div>
 <div style="float: left">
 <a href="https://www.myskillsfuture.sg/content/student/en/secondary.html">
-<img src="/images/MySkillsFuture.jpg"
-     style="width:50%">
+<img src="/images/MySkillsFuture.jpg" style="width:50%">
 </a> Click on the My Skills Future Logo<br>  
 For informed choices in education and career guidance and life long learning through the use of career-related tools and information.
 	</div>
@@ -90,8 +100,7 @@ For informed choices in education and career guidance and life long learning thr
 <div>
 <div style="float: left">
 <a href="https://www.elportals.sg/">
-<img src="/images/EL%20PORTAL.jpg"
-     style="width:100%">
+<img src="/images/EL%20PORTAL.jpg" style="width:100%">
 </a> Click on the EL Portals Logo. <br>
 For Teaching, Learning and School-based Assessment of English.
 	</div>
@@ -109,9 +118,8 @@ For Teaching, Learning and School-based Assessment of English.
 
 <div>
 <div style="float: left">
-<a href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login">
-<img src="/images/portal.jpg"
-     style="width:100%">
+<a href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login">
+<img src="/images/portal.jpg" style="width:100%">
 </a> Click on the iMTL Logo. <br>
 For Teaching, Learning and School-based Assessment of Mother Tongue Languages.
 	</div>
@@ -130,8 +138,7 @@ For Teaching, Learning and School-based Assessment of Mother Tongue Languages.
 <div>
 <div style="float: left">
 <a href="https://schoolibrary.spydus.com.sg/yuhuasec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">
-<img src="/images/library(1).jpg"
-     style="width:100%">
+<img src="/images/library(1).jpg" style="width:100%">
 </a> Click on the e-Library Logo. <br>
 For Access to a world of information, details of newest books, magazines and digital resources and loan records.
 	</div>
@@ -150,8 +157,7 @@ For Access to a world of information, details of newest books, magazines and dig
 <div>
 <div style="float: left">
 <a href="https://www.ace-learning.com/">
-<img src="/images/math.jpg"
-     style="width:100%">
+<img src="/images/math.jpg" style="width:100%">
 </a> Click on the ACE Learning Logo. <br>
 For Access to the Mathematics E-learning System.
 	</div>
