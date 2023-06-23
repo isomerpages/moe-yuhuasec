@@ -15,8 +15,8 @@ sections:
         - title: Open House Site
           description: More information here!
           url: https://sites.google.com/moe.edu.sg/yhss-e-openhouse/home
-        - title: Sec 2 & Upper Sec PTM 2022
-          description: Access resources here!
+        - title: Semester 2 Timetable
+          description: Click here to access!
           url: /useful-information-and-links/information-for-parents
         - title: Calendar of Events
           description: Click here!
@@ -32,9 +32,9 @@ sections:
   - infopic:
       title: YH Café
       subtitle: Yuhua in the news
-      description: "Our canteen was featured in Lianhe Zaobao recently. An inviting
+      description: Our canteen was featured in Lianhe Zaobao recently. An inviting
         space for students to dine and play amidst lush greenery, it's
-        definitely been a big hit! "
+        definitely been a big hit!
       button: click here to read the article!
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
