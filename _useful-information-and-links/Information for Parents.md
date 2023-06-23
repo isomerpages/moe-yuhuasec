@@ -5,6 +5,12 @@ description: ""
 ---
 # **Information for Parents**
 
+### Term 3 Letter for 2023
+----------------------
+Dear Parents,  
+You may access the Term 3 Letter for 2023 [here.](/files/yhss%202023%20term%203%20letter%20(go%202023%20402).pdf)
+
+
 ### 2023 Semester 2 Timetables
 -----------------------------------
 Dear Parents, 
@@ -18,6 +24,7 @@ You may access the updated timetables for Semester 2 via the links below:
 [Secondary 3](/files/2023%20sem%202%20_sec%203.pdf)
 
 [Secondary 4/5](/files/2023%20sem%202%20_sec%204%20and%205.pdf)
+
 
 ### 2023 Upper Sec PTM
 -----------------------------------
