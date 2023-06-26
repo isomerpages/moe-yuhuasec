@@ -1,14 +1,13 @@
 ---
 title: CCA Acheivements
-permalink: /our-achievements/cca-achievements
+permalink: /our-achievements/cca-achievements/
 description: ""
 ---
 # **CCA Achievements**
 
 ### Photo Gallery of our CCAs in Action!
 
-<img src="/images/Band%20SYF%202021.jpg" 
-     style="width:70%">
+<img src="/images/Band%20SYF%202021.jpg" style="width:70%">
 
 ![](/images/Boys%20Bridage_JM_Frasier.jpg)
 
@@ -27,24 +26,24 @@ Co-Curricular Activities are important platforms for Yuhuans to explore their in
 
 As part of their programs, our Uniformed Groups go through an annual performance review and are benchmarked with other schools by their respective headquarters. We are glad to share that our Uniformed Groups grow from strength to strength and were recognized for their efforts over the years.
 
-| CCA 	| 2019 (Awarded in 2020) 	| 2021(awarded in 2022) 	|
+| CCA 	| 2021 (Awarded in 2022) 	| 2022(awarded in 2023) 	|
 |---	|---	|---	|
 | NPCC 	| UOPA Gold 	| UOPA Gold 	|
 | NCDCC 	| UOPA Gold 	| UOPA Gold 	|
-| NCC 	| Certificate of Participation 	| Certificate of Distinction 	|
-| Boys Brigade 	| JM Fraser Bronze 	| JM Fraser Silver 	|
+| NCC 	| URA - Certificate of Distinction 	| URA - Certificate of Participation 	|
+| Boys Brigade 	| JM Fraser Silver 	| JM Fraser Distinction 	|
 
 
-**Visual & Performing Arts (VPA)**
+**Visual &amp; Performing Arts (VPA)**
 
 Our Visual and Performing Arts groups have also been a source of school pride, and do well nationally as well. They participate in public performances and the bi-annual Singapore Youth Festival (SYF) organized by the Arts Education Branch. The SYF provides an opportunity for our Yuhuans to demonstrate their talents and be benchmarked against other schools. Our Visual and Performing Arts groups have done the school proud in recent years.
 
-| CCA 	| 2019 	| 2021 	|
+| CCA 	| 2021 	|  2023 	|
 |---	|---	|---	|
-| Concert Band 	| Certificate of Distinction 	| Certificate of Accomplishment 	|
-| Harmonica Band 	| Certificate of Accomplishment 	| Certificates of Distinction & Accomplishment 	|
-| Stagewright<br>(English Drama) 	| Certificate of Accomplishment 	| Certificates of Distinction & Accomplishment 	|
-| Choir 	| Certificate of Accomplishment 	| Participated in SYF 2021 through recording (no benchmarking) 	|
+| Concert Band 	| Certificate of Accomplishment 	|  	|
+| Harmonica Band 	| Certificate of Distinction &amp; Accomplishment 	| Certificates of Distinction |
+| Stagewright<br>(English Drama) 	| Certificates of Distinction &amp; Accomplishment 	| Certificate of Accomplishment 	|
+| Choir 	| Participated in SYF 2021 through recording (no benchmarking) 	|  	|
 | Dance 	| Certificate of Accomplishment 	| Certificate of Accomplishment 	|
 
 **Sports**
@@ -59,7 +58,7 @@ Our Sports CCAs are strong in their development of character, and through this, 
 | Football Boys 	| - 	| - 	| - 	| 3rd in Group Rounds (NSG) 	|
 | Tchoukball Boys 	| - 	| - 	| - 	| - 	|
 | Tchoukball Girls 	| - 	| - 	| - 	| - 	|
-| Wushu 	| Singapore National Wushu & Sanda Championships 2019 - Group event - Gold 	| - 	| - 	| - 	|
+| Wushu 	| Singapore National Wushu &amp; Sanda Championships 2019 - Group event - Gold 	| - 	| - 	| - 	|
 
 **Student CCA Achievements**
 
@@ -84,6 +83,6 @@ Beyond these accomplishments as a group, we have our students who excelled indiv
 | Wushu 	| Bryan Yee Yixuan 	| NSG Sportsmanship award 	| 2021 	|
 | Wushu 	| Dai Muhua 	| NSG Sportsmanship award 	| 2021 	|
 | Wushu 	| Soo Lee Shuen 	| NSG Sportsmanship award 	| 2021 	|
-| Wushu 	| Jervoise Ng Wei Qiang 	| Singapore National Wushu & Sanda Championships 2019 - 1 Silver (Nan Dao) 	| 2019 	|
-| Wushu 	| Cheng Kei Win 	| Singapore National Wushu & Sanda Championships 2019 - 2 Golds (Nan Gun & Nan Quan) 	| 2019 	|
-| Wushu 	| Begum Nor Atikah 	| Singapore National Wushu & Sanda Championships 2019- 1 Silver 	| 2019 	|
+| Wushu 	| Jervoise Ng Wei Qiang 	| Singapore National Wushu &amp; Sanda Championships 2019 - 1 Silver (Nan Dao) 	| 2019 	|
+| Wushu 	| Cheng Kei Win 	| Singapore National Wushu &amp; Sanda Championships 2019 - 2 Golds (Nan Gun &amp; Nan Quan) 	| 2019 	|
+| Wushu 	| Begum Nor Atikah 	| Singapore National Wushu &amp; Sanda Championships 2019- 1 Silver 	| 2019 	|
