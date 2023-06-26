@@ -50,15 +50,18 @@ Our Visual and Performing Arts groups have also been a source of school pride, a
 
 Our Sports CCAs are strong in their development of character, and through this, our Yuhuans do their best to live up to the values of grit and resilience, demonstrating good sportsmanship through all competitions that they participate in.
 
-| CCA 	| 2019 	| 2020 	| 2021 	| 2022 	|
-|---	|---	|---	|---	|---	|
-| Volleyball Boys 	| 2nd in West Zone Competition (NSG)<br><br>Top 8 in National rounds (NSG) 	| Top 4 in West Zone Competition (NSG) 	| Top 6 in West Zone Competition (NSG) 	| 5th in West Zone Competition (NSG) 	|
-| Volleyball Girls 	| - 	| - 	| Top 6 in West Zone Competition (NSG) 	| Top 8 in West Zone Competition (NSG) 	|
-| Floorball Boys 	| Singapore Floorball Association (SFA) B’ Division Plate Competition – 4th Place 	| - 	| - 	| 3rd in Group Rounds (NSG) 	|
-| Football Boys 	| - 	| - 	| - 	| 3rd in Group Rounds (NSG) 	|
-| Tchoukball Boys 	| - 	| - 	| - 	| - 	|
-| Tchoukball Girls 	| - 	| - 	| - 	| - 	|
-| Wushu 	| Singapore National Wushu &amp; Sanda Championships 2019 - Group event - Gold 	| - 	| - 	| - 	|
+
+
+| CCA | 2022 | 2023
+| -------- | -------- | -------- |
+| Volleyball Boys     | West Zone C Division Volleyball Championships - 3rd <br><br> National C Division Volleyball Championships - Top 8 <br><br> West Zone B Division Volleyball Championships - 5th  | West Zone B Division National School Games - 5th in group rounds
+| Volleyball Girls | West Zone C Division Volleyball Championships - 4th <br><br> National C Division Volleyball Championships - Top 8 <br><br> West Zone B Division Volleyball Championships - top 8 (4th in group rounds) | West Zone B Division National School Games - top 6 in group rounds |
+| Floorball Boys     | 3rd in Group Rounds (NSG)     | -     |
+| Football Boys | 3rd in Group Rounds (NSG) | National School Games B Division Football League Four (top 8) |
+| Tchoukball Boys     | Inter-School B Division Tchoukball Championships - top 5  <br><br> Inter-School C Division Tchoukball Championships - top 8  | Participated in B Div NSG (Boys)     |
+| Tchoukball Girls | Inter-School B Division Tchoukball Championships - top 5 <br><br> Inter-School C Division Tchoukball Championships - top 7 | Participated in B Div NSG (Girls) |
+| Wushu     | Singapore National Wushu Competition 2022 ( Group event)     | Participated in B Div NSG     |
+
 
 **Student CCA Achievements**
 
