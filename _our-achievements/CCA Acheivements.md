@@ -56,7 +56,7 @@ Our Sports CCAs are strong in their development of character, and through this, 
 | -------- | -------- | -------- |
 | Volleyball Boys     | West Zone C Division Volleyball Championships - 3rd <br><br> National C Division Volleyball Championships - Top 8 <br><br> West Zone B Division Volleyball Championships - 5th  | West Zone B Division National School Games - 5th in group rounds
 | Volleyball Girls | West Zone C Division Volleyball Championships - 4th <br><br> National C Division Volleyball Championships - Top 8 <br><br> West Zone B Division Volleyball Championships - top 8 (4th in group rounds) | West Zone B Division National School Games - top 6 in group rounds |
-| Floorball Boys     | 3rd in Group Rounds (NSG)     | -     |
+| Floorball Boys     | 3rd in Group Rounds (NSG)     |  Participated in B Div NSG   |
 | Football Boys | 3rd in Group Rounds (NSG) | National School Games B Division Football League Four (top 8) |
 | Tchoukball Boys     | Inter-School B Division Tchoukball Championships - top 5  <br><br> Inter-School C Division Tchoukball Championships - top 8  | Participated in B Div NSG (Boys)     |
 | Tchoukball Girls | Inter-School B Division Tchoukball Championships - top 5 <br><br> Inter-School C Division Tchoukball Championships - top 7 | Participated in B Div NSG (Girls) |
