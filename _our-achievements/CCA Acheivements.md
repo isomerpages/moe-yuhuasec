@@ -74,13 +74,35 @@ Beyond these accomplishments as a group, we have our students who excelled indiv
 | Canoeing 	| Goh Kai Kiat David 	| Top 4 in semi finals for NSG Canoeing 	| 2022 	|
 | Canoeing 	| Goh Kai Kiat David 	| NSG Sportsmanship Award 	| 2022 	|
 | NCC 	| Muhamad Iman bin Ismail 	| NCC outstanding Cadet Award	| 2023 	|
+| NCC 	| Saravanan Bharat Kumar 	| NCC outstanding Cadet Award	| 2022 	|
 | NCDCC 	| Goh Kai Kiat David	| SCDF-NCDCC Pinnacle Award	| 2023 	|
 | NCDCC 	| Goh Kai Kiat David	| NCDCC Unit Best Cadet Award 	| 2023 	|
 | NCDCC 	| Izzati Zarifah Binte Ros'asni 	| NCDCC Unit Best Cadet Award 	| 2022 	|
+| NCDCC 	| Izzati Zarifah Binte Ros'asni 	|SCDF-NCDCC Pinnacle Award	| 2022 	|
+| NCDCC 	| Mohamad Irfan Syahmi Bin Mohamad Rozi 	| NCDCC Unit Best Cadet Award 	| 2022 	|
 | NCDCC 	| Mohamad Irfan Syahmi Bin Mohamad Rozi 	| SCDF-NCDCC Pinnacle Award 	| 2022 	|
 | NPCC 	| Chua Chee Yang  	| Best Unit Cadet (Male) 	| 2023 	|
 | NPCC 	| Chong Xuan Ya Glenda   	| Best Unit Cadet (Female) 	| 2023 	|
 | NPCC 	| Mohammed Arddrean Zikry bin Mohammed Zakry   	| SPF-NPCC Pinnacle Award 	| 2023 	|
 | NPCC 	| Krishnarajan Jeevanesan	| SPF-NPCC Pinnacle Award 	| 2023 	|
+| NPCC 	| Ng Yoke Ting Belinda (NPCC) 	| NPCC Best Unit Cadet Award (Female) 	| 2022 	|
+| NPCC 	| Leon Lau Wei Liang (NPCC) 	| NPCC Best Unit Cadet Award (Male) 	| 2022 	|
 | NPCC 	| Lim Chao Jie 	| SPF-NPCC Badge 	| 2022 	|
-| NPCC 	| Anisa Binte Mohammad Ashraful 	| SPF-NPCC Badge 	| 2022 	| 	| 2019 	|
+| NPCC 	| Anisa Binte Mohammad Ashraful 	| SPF-NPCC Badge 	| 2022 	|
+| Tinkering and Robotics Club 	| Ong Chen Teck Brayden 	| Make X Spark Online Competition- Singapore National Competition
+Overall Champion Intermediate Catergory and 
+Young Designer award 	| 2022 	|
+| Tinkering and Robotics Club 	| Ric Neo Jun Wei 	| Make X Spark Online Competition- Singapore National Competition
+Overall Champion Intermediate Catergory and 
+Young Designer award 	| 2022 	|
+| Tinkering and Robotics Club 	| Chan Zhi Hng	| Make X Spark Online Competition- Singapore National Competition
+Young Innovator award 	| 2022 	|
+| Tinkering and Robotics Club 	| Chew Shi An Ryan	| Make X Spark Online Competition- Singapore National Competition
+Young Innovator award 	| 2022 	|
+| Wushu	| Cadee Chew Yi Xuan (Zhou Yi Xuan)	| NSG Sportsmanship Award 	| 2022 	|
+| Wushu	| Ryan De Leon Lee	| NSG Sportsmanship Award 	| 2022 	|
+| Wushu	| Lorander Goh Hui Kee	| NSG Sportsmanship Award 	| 2022 	|
+| Wushu	| Cheng Kei Win	| NSG Sportsmanship Award 	| 2022 	|
+
+
+
