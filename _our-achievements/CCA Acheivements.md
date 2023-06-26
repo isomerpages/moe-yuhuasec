@@ -83,11 +83,4 @@ Beyond these accomplishments as a group, we have our students who excelled indiv
 | NPCC 	| Mohammed Arddrean Zikry bin Mohammed Zakry   	| SPF-NPCC Pinnacle Award 	| 2023 	|
 | NPCC 	| Krishnarajan Jeevanesan	| SPF-NPCC Pinnacle Award 	| 2023 	|
 | NPCC 	| Lim Chao Jie 	| SPF-NPCC Badge 	| 2022 	|
-| NPCC 	| Anisa Binte Mohammad Ashraful 	| SPF-NPCC Badge 	| 2022 	|
-
-
-
-
-
-
-| 	| 2019 	|
+| NPCC 	| Anisa Binte Mohammad Ashraful 	| SPF-NPCC Badge 	| 2022 	| 	| 2019 	|
