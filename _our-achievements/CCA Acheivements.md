@@ -69,23 +69,25 @@ Beyond these accomplishments as a group, we have our students who excelled indiv
 
 | CCA 	| Student / CCA 	| Achievements 	| Year 	|
 |---	|---	|---	|---	|
+| Boys Brigade 	| Goh Kun Ming 	| Boys Brigade Founders Award 	| 2023 	|
 | Boys Brigade 	| On Wee Chuan 	| Boys’ Brigade HQ - Best Boy Award 	| 2022 	|
 | Canoeing 	| Goh Kai Kiat David 	| Top 4 in semi finals for NSG Canoeing 	| 2022 	|
-| NCC 	| Madhavan Nachiappan 	| NCC Outstanding Cadet Award 	| 2021 	|
+| Canoeing 	| Goh Kai Kiat David 	| NSG Sportsmanship Award 	| 2022 	|
+| NCC 	| Muhamad Iman bin Ismail 	| NCC outstanding Cadet Award	| 2023 	|
+| NCDCC 	| Goh Kai Kiat David	| SCDF-NCDCC Pinnacle Award	| 2023 	|
+| NCDCC 	| Goh Kai Kiat David	| NCDCC Unit Best Cadet Award 	| 2023 	|
 | NCDCC 	| Izzati Zarifah Binte Ros'asni 	| NCDCC Unit Best Cadet Award 	| 2022 	|
 | NCDCC 	| Mohamad Irfan Syahmi Bin Mohamad Rozi 	| SCDF-NCDCC Pinnacle Award 	| 2022 	|
-| NCDCC 	| Muhammad Ahnaf Bin Rostam 	| NCDCC Unit Best Cadet Award 	| 2021 	|
-| NCDCC 	| Yu Yang Ming 	| SCDF-NCDCC Pinnacle Award 	| 2021 	|
+| NPCC 	| Chua Chee Yang  	| Best Unit Cadet (Male) 	| 2023 	|
+| NPCC 	| Chong Xuan Ya Glenda   	| Best Unit Cadet (Female) 	| 2023 	|
+| NPCC 	| Mohammed Arddrean Zikry bin Mohammed Zakry   	| SPF-NPCC Pinnacle Award 	| 2023 	|
+| NPCC 	| Krishnarajan Jeevanesan	| SPF-NPCC Pinnacle Award 	| 2023 	|
 | NPCC 	| Lim Chao Jie 	| SPF-NPCC Badge 	| 2022 	|
 | NPCC 	| Anisa Binte Mohammad Ashraful 	| SPF-NPCC Badge 	| 2022 	|
-| NPCC 	| Poh Yiling 	| Best Unit Cadet (BUC) Award, Female 	| 2021 	|
-| NPCC 	| Tam Wei Cong 	| Best Unit Cadet (BUC) Award, Male 	| 2021 	|
-| NPCC 	| Poh Yiling 	| SPF-NPCC Badge 	| 2021 	|
-| NPCC 	| Joel Tan 	| SPF-NPCC Badge 	| 2020 	|
-| Wushu 	| Dai Muhua 	| NSG A Division Boys 2nd International Broadsword- 4th position 	| 2021 	|
-| Wushu 	| Bryan Yee Yixuan 	| NSG Sportsmanship award 	| 2021 	|
-| Wushu 	| Dai Muhua 	| NSG Sportsmanship award 	| 2021 	|
-| Wushu 	| Soo Lee Shuen 	| NSG Sportsmanship award 	| 2021 	|
-| Wushu 	| Jervoise Ng Wei Qiang 	| Singapore National Wushu &amp; Sanda Championships 2019 - 1 Silver (Nan Dao) 	| 2019 	|
-| Wushu 	| Cheng Kei Win 	| Singapore National Wushu &amp; Sanda Championships 2019 - 2 Golds (Nan Gun &amp; Nan Quan) 	| 2019 	|
-| Wushu 	| Begum Nor Atikah 	| Singapore National Wushu &amp; Sanda Championships 2019- 1 Silver 	| 2019 	|
+
+
+
+
+
+
+| 	| 2019 	|
