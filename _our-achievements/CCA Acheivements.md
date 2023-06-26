@@ -103,6 +103,3 @@ Young Innovator award 	| 2022 	|
 | Wushu	| Ryan De Leon Lee	| NSG Sportsmanship Award 	| 2022 	|
 | Wushu	| Lorander Goh Hui Kee	| NSG Sportsmanship Award 	| 2022 	|
 | Wushu	| Cheng Kei Win	| NSG Sportsmanship Award 	| 2022 	|
-
-
-
