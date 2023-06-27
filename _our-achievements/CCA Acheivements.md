@@ -89,16 +89,12 @@ Beyond these accomplishments as a group, we have our students who excelled indiv
 | NPCC 	| Leon Lau Wei Liang (NPCC) 	| NPCC Best Unit Cadet Award (Male) 	| 2022 	|
 | NPCC 	| Lim Chao Jie 	| SPF-NPCC Badge 	| 2022 	|
 | NPCC 	| Anisa Binte Mohammad Ashraful 	| SPF-NPCC Badge 	| 2022 	|
-| Tinkering and Robotics Club 	| Ong Chen Teck Brayden 	| Make X Spark Online Competition- Singapore National Competition
-Overall Champion Intermediate Catergory and 
-Young Designer award 	| 2022 	|
+| Tinkering and Robotics Club 	| Ong Chen Teck Brayden 	| Make X Spark Online Competition- Singapore National Competition Overall Champion Intermediate Category and Young Designer award 	| 2022 	|
 | Tinkering and Robotics Club 	| Ric Neo Jun Wei 	| Make X Spark Online Competition- Singapore National Competition
-Overall Champion Intermediate Catergory and 
+Overall Champion Intermediate Category and 
 Young Designer award 	| 2022 	|
-| Tinkering and Robotics Club 	| Chan Zhi Hng	| Make X Spark Online Competition- Singapore National Competition
-Young Innovator award 	| 2022 	|
-| Tinkering and Robotics Club 	| Chew Shi An Ryan	| Make X Spark Online Competition- Singapore National Competition
-Young Innovator award 	| 2022 	|
+| Tinkering and Robotics Club 	| Chan Zhi Hng	| Make X Spark Online Competition- Singapore National Competition Young Innovator award 	| 2022 	|
+| Tinkering and Robotics Club 	| Chew Shi An Ryan	| Make X Spark Online Competition- Singapore National Competition Young Innovator award 	| 2022 	|
 | Wushu	| Cadee Chew Yi Xuan (Zhou Yi Xuan)	| NSG Sportsmanship Award 	| 2022 	|
 | Wushu	| Ryan De Leon Lee	| NSG Sportsmanship Award 	| 2022 	|
 | Wushu	| Lorander Goh Hui Kee	| NSG Sportsmanship Award 	| 2022 	|
