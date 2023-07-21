@@ -1,10 +1,10 @@
 ---
 title: 2022 Form Teachers
-permalink: /about-yhss/our-people/2022-form-teachers
+permalink: /about-yhss/our-people/2022-form-teachers/
 description: ""
 third_nav_title: Our People
 ---
-# **2022 Form Teachers**
+# **2023 Form Teachers**
 
 ### Form Teachers of 2022 Secondary 1 Classes
 
