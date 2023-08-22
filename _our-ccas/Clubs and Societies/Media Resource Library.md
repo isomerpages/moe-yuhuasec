@@ -1,6 +1,6 @@
 ---
 title: Media Resource Library
-permalink: /our-ccas/Clubs-and-Societies/media-resource-library
+permalink: /our-ccas/Clubs-and-Societies/media-resource-library/
 description: ""
 third_nav_title: Clubs and Societies
 ---
@@ -31,7 +31,7 @@ The Infoasis Council’s vision is to create “A vibrant library to empower lea
 Mr Muhamed Hafiz Bin Mohamed Ridwan    
 Mrs Chinnamah silvarajoo   
 Mdm Lalitha   
-Mr Joshua Yeo (Librarian)
+
 
 **Student Leaders**
 
