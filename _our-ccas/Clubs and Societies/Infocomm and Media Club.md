@@ -39,4 +39,5 @@ Muhammad Rizqi Pujangga Bin Kasiran
 
 **External Programmes / Achievements**:                     
 
-<img src="/images/3abc.png" style="width:70%">
+<img src="/images/infocom1.png" style="width:70%">
+
