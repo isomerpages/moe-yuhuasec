@@ -19,6 +19,7 @@ Mr Dolly Yansen
 &nbsp; Ms Quek Poh Noi  
 &nbsp; Ms Shahidah Bte Safii  
 &nbsp; Mdm Lalitha
+
 ### Student Leaders
 
 **President:**&nbsp;
@@ -29,8 +30,6 @@ Muhammad Rizqi Pujangga Bin Kasiran
 * Hanns Goh (Wu Yaoguo)
 * Muhammad Shahrul Nizam Bin Mohamed Mazlan
 * Amanda Pamelia Binte Ismail
-
-
 
 
 ### CCA Highlights
