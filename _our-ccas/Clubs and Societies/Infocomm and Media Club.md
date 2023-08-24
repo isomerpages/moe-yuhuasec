@@ -37,5 +37,6 @@ Muhammad Rizqi Pujangga Bin Kasiran
 **Daily P.A. System duty for Morning Assembly**
 <img src="/images/2abc.png" style="width:70%">
 
-**Videography and Photography**
+**External Programmes / Achievements**:                     
+
 <img src="/images/3abc.png" style="width:70%">
