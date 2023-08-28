@@ -44,4 +44,3 @@ Muhammad Rizqi Pujangga Bin Kasiran
 <img src="/images/infocom%20members.png" style="width:100%">
 		 		
 <img src="/images/infocom%20work.png" style="width:100%">
-		 
