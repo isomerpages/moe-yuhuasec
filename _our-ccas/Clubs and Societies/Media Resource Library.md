@@ -76,10 +76,3 @@ How to browse through our library collection?
 You can access OPAC (Online Public Access Catalogue) to search for the availability of the books in the school libraries and check if they have any overdue books. OPAC can be accessed from mobile too. Our book recommendations are also available at this following link:
 [https://schoolibrary.moe.edu.sg/yuhuasec/](https://schoolibrary.moe.edu.sg/yuhuasec/)
 
-### Upcoming Facilities
-
-IPADS, E BOOKS AND AUDIO BOOKS
-
-With the limited access to the physical library, we strive to keep the quest for learning on going through the use IPads to increase access to
-
-a wide range of E-books (Fiction and Non-Fiction). Infoasis is furnished with IPads that are installed with a variety of edutainment apps.
