@@ -42,23 +42,21 @@ Muhammad Mikhail Bin Mohammad Firhan
 (3 Connect)      
 Vice-President 2: 
 Fasha Nadhirah Massufian (3 Care)
-
 ### Key Events of the Year
 
-**Info Ambassadors @ Work**
+**Info Ambassadors @ Work:**    
 
 Our student librarians proudly hold the title of "Info Ambassadors." These dedicated individuals not only facilitate the smooth functioning of the library but also take on the role of event managers, organising impactful programmes in the library's activity space. Throughout the year, they curate and set up engaging displays, such as those celebrating World Book Day, World Environment Day, and significant national events like National Day and Racial Harmony Day. By actively participating in these events, the Info Ambassadors empower fellow Yuhuans to become responsible readers and conscientious citizens of the 21st century.
 
-**Thematic displays**
+**Thematic displays:**
 ![](/images/library%201.png)
 The Info Ambassadors create thematic displays based on both local and international writers. These displays showcase a wide range of genres and introduce students to new and current collections available in the library. By boosting Yuhuans' interest in various literary genres, the Info Ambassadors broaden their reading horizons and empower them to explore different types of literature.**
 
-
-**Book Promotion** 
+**Book Promotion:** 
 ![](/images/library%202.png)
 One of the key focuses of the Info Ambassadors is honing their book promotion skills. Through training, they learn how to deliver compelling one-minute book promotions, captivating their peers' attention and sparking their interest in diverse literary works. By incorporating hands-on activities into their promotions, the Info Ambassadors ensure that fellow Yuhuans actively engage with the books, fostering a deeper connection and understanding.
 
-**World Book Day**
+**World Book Day:**
 
 A significant highlight for the Info Ambassadors and English Language teachers is the vibrant celebration of World Book Day. On this special occasion, they unleash their creativity and dress up as their favorite book characters, transforming the school into a colourful parade of literary figures. This collaborative effort sparks lively conversations among students, as they enthusiastically share their favorite characters and storybooks with one another. By immersing themselves in the world of literature, the Info Ambassadors and teachers inspire a love for reading and storytelling among their peers.
 
