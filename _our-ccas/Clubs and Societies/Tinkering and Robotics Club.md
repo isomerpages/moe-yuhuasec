@@ -43,4 +43,3 @@ Logistics: Khong Hou Yan, Joseph (306)
 *  Tech for Good 2022 (1 Oct 2022)**
 
 ![](/images/IMG20201106101150%202.jpg)
-
