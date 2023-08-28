@@ -51,26 +51,39 @@ Our student librarians proudly hold the title of "Info Ambassadors." These dedic
 
 **Thematic displays**
 ![](/images/library%201.png)
+The Info Ambassadors create thematic displays based on both local and international writers. These displays showcase a wide range of genres and introduce students to new and current collections available in the library. By boosting Yuhuans' interest in various literary genres, the Info Ambassadors broaden their reading horizons and empower them to explore different types of literature.**
 
-Info Ambassadors worked on thematic displays based on local and overseas writers.  These book displays help to boost students’ interest in different genres of books, and expose them to new and current collections in the library.
 
-*   Pocket-Sized Programme (Monthly Thematic Book Displays) and Other Displays Linked to Festivals/Cultures in Singapore. 
-*   Every month, our info ambassadors prepare book displays and activities linked to different exciting topics or themes e.g. Chinese New Year, Know Your Library, Get to Know OPAC, Books to Movies, Racial Harmony Day, etc.
+**Book Promotion** 
+![](/images/library%202.png)
+One of the key focuses of the Info Ambassadors is honing their book promotion skills. Through training, they learn how to deliver compelling one-minute book promotions, captivating their peers' attention and sparking their interest in diverse literary works. By incorporating hands-on activities into their promotions, the Info Ambassadors ensure that fellow Yuhuans actively engage with the books, fostering a deeper connection and understanding.
 
-**World Book Day 2021** 
+**World Book Day**
 
-Info ambassadors and EL teachers were able to use their creativity to dress up as their favourite book characters creating a colourful parade representing a wide variety of novels, from Alice in Wonderland, and Macbeth to Where’s Wally and Harry Potter. The students had a wonderful time, sharing about their favourite characters and storybooks with their friends on the world book day, conducted by the EL department.
+A significant highlight for the Info Ambassadors and English Language teachers is the vibrant celebration of World Book Day. On this special occasion, they unleash their creativity and dress up as their favorite book characters, transforming the school into a colourful parade of literary figures. This collaborative effort sparks lively conversations among students, as they enthusiastically share their favorite characters and storybooks with one another. By immersing themselves in the world of literature, the Info Ambassadors and teachers inspire a love for reading and storytelling among their peers.
 
-![](/images/l7.jpg)
+**Achievements:**  
+**22nd Inter School National Scrabble Competition (ISNSC) 2023**  
+‘B’ Division Team - 1st Runner Up for Bowl Category
+![](/images/library3.png)
+![](/images/library5.png)
+
 
 ### Other Websites
 
-How to browse through our school library collection?  
-You can access OPAC (Online Public Access Catalogue) to search for the availability of the books in the school libraries and check if they have any overdue books. OPAC can be accessed from mobile too. Our book recommendations are also available at this following link
+How to browse through our library collection?  
+
+You can access OPAC (Online Public Access Catalogue) to search for the availability of the books in the school libraries and check if they have any overdue books. OPAC can be accessed from mobile too. Our book recommendations are also available at this following link:
+
+[https://schoolibrary.moe.edu.sg/yuhuasec/](https://schoolibrary.moe.edu.sg/yuhuasec/)
+
+**
 
 [https://schoolibrary.moe.edu.sg/yuhuasec/](https://schoolibrary.moe.edu.sg/yuhuasec/)
 
 ![](/images/lib.png)
+
+
 
 ### Upcoming Facilities
 
