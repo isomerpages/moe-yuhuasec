@@ -11,7 +11,6 @@ third_nav_title: Clubs and Societies
 ### Background
 
 Yuhua Infocomm and Media Club teachers aim to provide its members with opportunities to develop their ICT skills and media skills, as well as build their portfolio in two interconnected areas: the Apple New Media Programme and audio-visual support. We engage students through the use of various digital applications, such as GarageBand, Jigspace, Keynote, AR Makr, 3D draw, Reality composer and many others, to promote a more interactive and enriching learning experience for them. By utilizing these applications, students are able to acquire skills in photography and video production. Additionally, they can further enhance their competencies in these areas through in-house training sessions by “new media”, participation in national competitions, and providing audio-visual support for school events.
-&nbsp;&nbsp;
 
 ### Teachers in Charge
 
