@@ -11,18 +11,18 @@ third_nav_title: Clubs and Societies
 ### Background
 
 **Our Vision**   
-A vibrant library to empower learning
+A vibrant library that empowers learning
 
 **Our Mission**   
-To provide resources and environment for students to excel as competent learners in the 21st Century
+
+To provide resources and environment for students to excel as competent learners
+
 
 **Our Motto**   
 Bringing curiosity alive
 
-In Yuhua secondary School, the Media Resource Library (MRL) called infoasis, actively promotes the Joy of Reading and wants each and every student to be a strong reader and a lifelong learner. It also aims to play a key role in developing 21st Century Competencies in our
-students and has been evolving in many ways to cater to our digital readers.
+In Yuhua Secondary School, the Media Resource Library (MRL) is a vibrant and empowering hub that actively promotes the Joy of Reading. With a strong focus on developing 21st Century Competencies, the MRL has evolved to cater to the needs of digital readers, providing innovative resources and a conducive study environment. Students actively collaborate at discussion tables, fostering a sense of community and enabling the sharing of ideas. The library's expansive learning space also facilitates workshops and dialogue sessions, encouraging interactive learning experiences.
 
-The Infoasis Council’s vision is to create “A vibrant library to empower learning”. To achieve this vision, we have introduced resources and an environment for Yuhuans to excel in the 21st Century. Acknowledging our Yuhuans’ wishes for a conducive study environment, a normal school day will see many students engaging in active collaboration at discussion tables found throughout the Infoasis. The large  learning space in the Infoasis also provides the opportunity for student workshops and dialogue sessions to be held here.
 
 ### Our Team
 
@@ -30,28 +30,27 @@ The Infoasis Council’s vision is to create “A vibrant library to empower lea
 
 Mr Muhamed Hafiz Bin Mohamed Ridwan    
 Mrs Chinnamah silvarajoo   
-Mdm Lalitha   
+Mdm Aliza Binte Main 
 
 
 **Student Leaders**
 
-President: Nandhika (309)    
-Vice President: Hiew Xue Yi (308)   
-Vice President: Kerk Shi Min (308)
+President:    
+Sri Jita Mitra Tulasi (3 Resilience)    
+Vice-President 1:     
+Muhammad Mikhail Bin Mohammad Firhan 
+(3 Connect)      
+Vice-President 2: 
+Fasha Nadhirah Massufian (3 Care)
 
 ### Key Events of the Year
 
-In the Library CCA, our student librarians are called “Info Ambassadors” in line with the name of the library as InfOasis. Info ambassadors are provided with opportunities to take on the role as event managers for programmes held in the activity space. Some of the events we have had include Characters come alive, National day, International friendship day, and Blind date with books.     
+**Info Ambassadors @ Work**
 
-Librarian’s @work:There was a continuous focus on book promotion skills where Info Ambassadors (student librarians) underwent training on giving a one-minute book promotion followed by hands on activities. Despite the current pandemic and social distancing measures, Info Ambassadors have stayed resilient and adopted creative means to promote books they have read through the use of infographics.
+Our student librarians proudly hold the title of "Info Ambassadors." These dedicated individuals not only facilitate the smooth functioning of the library but also take on the role of event managers, organising impactful programmes in the library's activity space. Throughout the year, they curate and set up engaging displays, such as those celebrating World Book Day, World Environment Day, and significant national events like National Day and Racial Harmony Day. By actively participating in these events, the Info Ambassadors empower fellow Yuhuans to become responsible readers and conscientious citizens of the 21st century.
 
-![](/images/library.jpg)
-
-![](/images/l6.jpg)
-
-![](/images/l5.jpg)
-
-**Thematic displays by Info ambassadors**
+**Thematic displays**
+![](/images/library%201.png)
 
 Info Ambassadors worked on thematic displays based on local and overseas writers.  These book displays help to boost students’ interest in different genres of books, and expose them to new and current collections in the library.
 
