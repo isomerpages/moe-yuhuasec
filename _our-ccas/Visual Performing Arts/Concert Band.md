@@ -44,4 +44,3 @@ Mr Kenneth Yeo
 \- National Day Parade Military Tattoo 2023  
 \- Singapore Youth Festival Arts Presentation (2019, 2021, 2023)  
 \- MOE National Day Observance Ceremony Recording (2022)
-
