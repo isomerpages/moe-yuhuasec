@@ -1,6 +1,6 @@
 ---
 title: Choir
-permalink: /our-ccas/Visual-Performing-Arts/choir
+permalink: /our-ccas/Visual-Performing-Arts/choir/
 description: ""
 third_nav_title: Visual Performing Arts
 ---
@@ -10,9 +10,9 @@ third_nav_title: Visual Performing Arts
 
 ### Background
 
-The Choir aims to inculcate a love of music in its members. Formed in 2016, the Choir is a relatively young but vibrant CCA that encourages confidence and creativity in our members through the art of music-making and singing. Members are trained by experienced instructors from the Kodaly Academy of Music and develop holistically through a comprehensive program that includes rehearsals, workshops, choir exchanges, concert attendance and performances. 
+The Boys' Brigade (BB) is the world's first uniformed organisation for youth. The impact of The Boys’ Brigade led to the establishment of other uniformed organisations: Church Lads’ Brigade (1890), Boys’ Life Brigade (1899), The Jewish Lads’ Brigade (1900), Girls’ Life Brigade (1902), Boy Scouts (1908) and Girl Guides (1910). All these organisations trace their genesis to 1883 and Sir William A. Smith.
 
-The Choir participated in the SYF 2017 and 2019 and clinched a Certificate of Accomplishment in both years. The Choir also helps develop students to take the Enhanced Music Programme (EMP) offered at our school in preparation for the GCE O Level Music exam.
+The 28th Singapore Company was started in 1968 and co-sponsored by Jurong Christian Church. Previously based in Shuqun Secondary School, the company has been based in Yuhua Secondary School since the merger of the two schools in 2019.
 
 ### Our Team
 
@@ -26,24 +26,41 @@ Mdm Nor Aisha Binte Mazlan
 Mr Albert Tay   
 Mr Derrick Kam
 
-  
-
-**2020 - 2021 Student leaders**
+**2023 - 2024 Student leaders**
 
 President: Venice Lieu Qian Yao (304)   
 Vice-president: Sharon Choo Si Qian (308) 
 
 ### Key Events of the Year
 
-Covid-19 has presented a unique set of challenges for our Yuhua Choir since 2020. Adhering to Safe Distancing Measurements meant that we had to do our Choir rehearsals differently: Zoom meetings, rehearsing in groups of not more than five in different classrooms and focusing more on music theory and musicianship skills. 
-
-Despite this, the Choir managed to add some festive cheer to the Chinese New Year celebrations by putting up a multi-language song item
-
-which included the different racial groups! A few students (and even alumni) from other CCAs collaborated with us by being our musicians.
-
+* Games Day
+* BB Blaze
+* Target and Drill Camp
+* Enrolment Day
+* Leadership Lessons 
+* Hobbies (e.g. Guitar, Coding)
+* Electives (e.g. Kayaking, Musketry)
+* BB CARES (Community Activities Rallying     Everyone to Serve)
+* Founder’s Day
+* BBSG (Share-a-Gift)
 
 ![](/images/c2.jpg)
 
 ![](/images/c3.jpg)
 
 ![](/images/c5.jpg)
+
+### Achievements
+
+* JM Fraser Award 2021 (Sliver)
+
+* BB Blaze 2022 (Gold Honour Roll)
+
+* BB Character Quest 2022 (Silver Honour Roll)
+
+* JM Fraser Award 2022 (Distinction)
+
+* BB Blaze 2023 (Bronze Honour Roll)
+
+* Founder’s Award 2023 (SSG Goh Kun Ming)
+
