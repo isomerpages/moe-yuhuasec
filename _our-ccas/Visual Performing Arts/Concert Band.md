@@ -30,12 +30,13 @@ Mr Tommy Wong
 Mr Shawn Tan
 Mr Kenneth Yeo
 
-**Student Leaders**
+**Student Leaders:** 
 
 **Band Leader**: Angel Yap Jin Feng (3 Contribute) &nbsp;  
 **Band Leader**: Queenie Ang Lok Teng (3 Contribute)  
-**Band Leader**: Muhammad Nur Amali bin Rohaizat (307)   
-**Band Leader**: Wee Au Yu, Akio (307)
+**Band Leader:** Lee Kai Le (3 Contribute)  
+**Junior Band Leader:** Ang Hui Juan (2 Resilience)  
+**Junior Band Leader:** Aponesto Franz Graeden Dispo (2 Connect)
 
 ### Milestones
 
