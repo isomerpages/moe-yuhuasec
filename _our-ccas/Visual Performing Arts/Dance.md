@@ -6,23 +6,24 @@ third_nav_title: Visual Performing Arts
 ---
 # **Dance**
 
-![](/images/SYF_2021.jpeg)
+![](/images/dance2.jpg)
 
 ### Background
 
-Dance, as an art form, reaches across centuries and cultures. Our Yuhua Secondary School dance club is a vibrant and exciting co-curricular activity that offers students the opportunity to explore and express their passion for dance. 
-It serves as a platform for students to develop their creativity, teamwork, discipline, and physical fitness, all while having fun. Through our classes, performances, and compositional opportunities, we foster and empower the next generation of flourishing dancers in the dance world.
+Dance, as an art form, reaches across centuries and cultures. Our Yuhua Secondary School dance club is a vibrant and exciting co-curricular activity that offers students the opportunity to explore and express their passion for dance. <br>It serves as a platform for students to develop their creativity, teamwork, discipline, and physical fitness, all while having fun. Through our classes, performances, and compositional opportunities, we foster and empower the next generation of flourishing dancers in the dance world.
+
 Joining the dance club allows students to engage in various dance styles, including contemporary, hip-hop, ballet, jazz, and more. Expert instructors or experienced student leaders usually guide the club, ensuring that members receive proper training and guidance to enhance their dance skills.
+
 Participating in the dance club offers numerous benefits for students. Firstly, it provides a healthy and productive outlet for their energy and emotions. Dancing not only improves physical fitness but also promotes mental well-being, as it releases endorphins and reduces stress. Through regular practice and performances, students build strength, flexibility, coordination, and rhythm.
 Furthermore, the dance club fosters a sense of camaraderie and teamwork among its members. Working together on choreographies and performances cultivates collaboration, trust, and unity. Students learn to synchronize their movements, support each other, and celebrate each individual's unique talents, creating a positive and inclusive environment.
 The dance club also offers opportunities for students to showcase their talent and creativity. They often perform at school events, assemblies, talent shows, and competitions, allowing them to gain confidence and stage experience. These performances help students develop stage presence, showmanship, and self-expression, enabling them to shine in front of their peers and the wider school community.
 In summary, the school dance club serves as a dynamic co-curricular activity that nurtures students' passion for dance while providing them with a range of physical, social, and emotional benefits. By joining the club, students can develop their skills, build meaningful connections, and experience the joy of dance, contributing to their holistic growth and development.
 
-**Vision:**   
+**Vision:**&nbsp;  
 
 To nurture passion and appreciation for the performing arts through music and movement.
 
-**Mission:** 
+**Mission:**&nbsp;
 
 To use dancing as a tool of expression and character development.
 
@@ -34,9 +35,9 @@ Mr Raguvaran (2IC): raguvaran\_rajenderan@moe.edu.sg
 
 Ms Nor Aisha Binte Mazlan: nor\_aisha\_mazlan@moe.edu.sg
 
-If you have any questions, feel free to email our teachers-in-charge to know more about our CCA! 
+If you have any questions, feel free to email our teachers-in-charge to know more about our CCA!&nbsp;
 
-You may also approach any of our friendly seniors who will be able to share with you more about our dance spirit & Yuhua Secondary School!
+You may also approach any of our friendly seniors who will be able to share with you more about our dance spirit &amp; Yuhua Secondary School!
 
 ![](/images/Teachers.jpeg)
 
@@ -52,7 +53,7 @@ Vice President: Nurul Sakinah bte Samsudin (306)
 * GetActive! Singapore Heartlands Festival 2023 with SportsSg
 * Aesthetic Day performance collaboration with other CCA group
 
-![](/images/2020.jpeg)
+
 
 ### Achievements
 
