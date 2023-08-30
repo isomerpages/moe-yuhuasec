@@ -49,26 +49,4 @@ Vice President: Nurul Sakinah bte Samsudin (306)
 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment
 
 ### Gallery:
-
-
-
-
-    <title>HTML Table with Images</title>
-
-
-    <table border="1">
-        <tbody><tr>
-            <th>Image</th>
-            <th>Description</th>
-        </tr>
-        <tr>
-            <td><img alt="![](/images/dance3.jpg)" src=""></td>
-            <td>SYF Dance Team 2023</td>
-        </tr>
-        <tr>
-            <td><img alt="Image 2" src="![](/images/dance4.jpg)"></td>
-            <td></td>
-        </tr>
-    </tbody></table>
-
-
+![](/images/dance3.jpg)![](/images/dance4.jpg)
