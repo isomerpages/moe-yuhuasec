@@ -20,11 +20,11 @@ To use dancing as a tool of expression and character development.
 
 ### Our Team
 
-Mdm Suhana Zainal (OIC): suhana\_zainal@moe.edu.sg
+Mdm Suhana Zainal (OIC): suhana_zainal@moe.edu.sg
 
-Mr Raguvaran (2IC): raguvaran\_rajenderan@moe.edu.sg
+Mr Raguvaran (2IC): raguvaran_rajenderan@moe.edu.sg
 
-Ms Nor Aisha Binte Mazlan: nor\_aisha\_mazlan@moe.edu.sg
+Ms Nor Aisha Binte Mazlan: nor_aisha_mazlan@moe.edu.sg
 
 If you have any questions, feel free to email our teachers-in-charge to know more about our CCA!&nbsp;
 
@@ -49,7 +49,3 @@ Vice President: Nurul Sakinah bte Samsudin (306)
 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment
 
 ### Gallery:
-
-
-
-
