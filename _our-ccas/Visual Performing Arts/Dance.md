@@ -49,3 +49,26 @@ Vice President: Nurul Sakinah bte Samsudin (306)
 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment
 
 ### Gallery:
+
+
+
+
+    <title>HTML Table with Images</title>
+
+
+    <table border="1">
+        <tbody><tr>
+            <th>Image</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td><img alt="![](/images/dance3.jpg)" src=""></td>
+            <td>Description of Image 1</td>
+        </tr>
+        <tr>
+            <td><img alt="Image 2" src="image2.jpg"></td>
+            <td>Description of Image 2</td>
+        </tr>
+    </tbody></table>
+
+
