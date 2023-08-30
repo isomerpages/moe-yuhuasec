@@ -63,11 +63,11 @@ Singapore Youth Festival Arts Presentation - Certificate of Accomplishment
         </tr>
         <tr>
             <td><img alt="![](/images/dance3.jpg)" src=""></td>
-            <td>Description of Image 1</td>
+            <td>SYF Dance Team 2023</td>
         </tr>
         <tr>
-            <td><img alt="Image 2" src="image2.jpg"></td>
-            <td>Description of Image 2</td>
+            <td><img alt="Image 2" src="![](/images/dance4.jpg)"></td>
+            <td></td>
         </tr>
     </tbody></table>
 
