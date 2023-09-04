@@ -54,5 +54,3 @@ Singapore Youth Festival Arts Presentation - Certificate of Accomplishment
 | Dance Practice 2023    |Dance Health &amp; Safety Briefing 2023 |<br>
 
 [SYF Dance Video Montage: ](https://go.gov.sg/fa1804)![](/images/dance5.jpg)
-
-
