@@ -48,13 +48,7 @@ Vice President: Nurul Sakinah bte Samsudin (306)
 
 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment
 
-### Gallery:
-<table><tbody><tr><td><img src="/images/dance3.jpg"> </td><td><img src="/images/dance4.jpg">
-			</td></tr>
-</tbody></table>
-
-
-| Column 1![](/images/dance%206.png)![](/images/dance%207.jpg) | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
+### Gallery
+![](/images/dance%206.png) |![](/images/dance%209.jpg) | 
+| -------- | -------- |
+| Seniors’ Farewell Party 2023    |Chinese New Year Dance Performance 2023     | 
