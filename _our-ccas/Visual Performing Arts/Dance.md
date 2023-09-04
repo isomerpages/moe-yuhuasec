@@ -40,7 +40,6 @@ Vice President: Nurul Sakinah bte Samsudin (306)
 * JOY of Yuhua
 * GetActive! Singapore Heartlands Festival 2023 with SportsSg
 * Aesthetic Day performance collaboration with other CCA group
-
 ### Achievements
 
 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment
