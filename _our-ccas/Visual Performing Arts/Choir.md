@@ -9,38 +9,45 @@ third_nav_title: Visual Performing Arts
 ![](/images/c1.jpg)
 
 ### Background
-The Choir aims to inculcate a love of music in its members. Formed in 2016, the Choir is a relatively young but vibrant CCA that encourages confidence and creativity in our members through the art of music-making and singing. Members are trained by experienced instructors from the Kodaly Academy of Music and develop holistically through a comprehensive program that includes rehearsals, workshops, choir exchanges, concert attendance and performances. 
 
-The Choir participated in the SYF 2017 and 2019 and clinched a Certificate of Accomplishment in both years. The Choir also helps develop students to take the Enhanced Music Programme (EMP) offered at our school in preparation for the GCE O Level Music exam.
+Formed in 2016, the Yuhua Secondary School Choir is an energetic CCA that encourages confidence and creativity in our members through the art of music-making and singing. 
+
+To prepare and develop our choristers to be ready, resilient and confident, the YHSS Choir strives to uphold our culture of vibrancy, coupled with care. 
+
+Our choristers are trained by experienced instructors from the Kodaly Academy of Music through comprehensive programmes that include: choir exchanges, concert attendance, performances, participation in the bi-annual Singapore Youth Festival (SYF) Arts Presentation and workshops like Choral Masterclasses. 
+
+Together with our instructors, parents and community partners, the YHSS Choir will continue to provide rich learning experiences and opportunities to hone our choristers’ musical knowledge and skills. We also believe in nurturing our choristers beyond their passion in music; to be active learners and responsible citizens who will be able to contribute to the school and even to the wider society in meaningful ways.
 
 
 ### Our Team
 
 **Teachers:**
-
-Ms Pamela He   
-Mdm Nor Aisha Binte Mazlan
+Ms Pamela He  
+Ms Cheong Ai Hwa
+Mrs Serene Ang
 
 **Conductors:**
+Ms Wynne Lee  
+Mr Jonathan MacPherson
 
-Mr Albert Tay   
-Mr Derrick Kam
+**2023 - 2024 Student Leaders**
 
-****2020 - 2021 Student leaders**
-
-President: Venice Lieu Qian Yao (304)   
-Vice-president: Sharon Choo Si Qian (308) 
+President: Becky Fok Zhi Hui (3 Resilience)  
+Vice-President: Manasa Natarajan (3 Resilience) 
 
 ### Key Events of the Year
-Covid-19 has presented a unique set of challenges for our Yuhua Choir since 2020. Adhering to Safe Distancing Measurements meant that we had to do our Choir rehearsals differently: Zoom meetings, rehearsing in groups of not more than five in different classrooms and focusing more on music theory and musicianship skills. 
-
-Despite this, the Choir managed to add some festive cheer to the Chinese New Year celebrations by putting up a multi-language song item
-
-which included the different racial groups! A few students (and even alumni) from other CCAs collaborated with us by being our musicians.
-
+*   Choral Masterclass with Ms Sonia Nadya Simanjuntak (Indonesia)
+    
+*   Concert Attendance: ONE with André van der Merwe Chamber Choir Concert 
+    
+*   Choir Exchange at St Andrew’s Secondary School
+    
+*   Biannual Singapore Youth Festival (SYF) Arts Presentation
+    
+*   Performances in school and at external events, such as the National Day Heartland celebrations with SportSG
+    
 ![](/images/c2.jpg)
 
 ![](/images/c3.jpg)
 
 ![](/images/c5.jpg)
-
