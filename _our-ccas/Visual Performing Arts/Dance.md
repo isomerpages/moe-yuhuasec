@@ -19,18 +19,15 @@ Dance, as an art form, reaches across centuries and cultures. Our Yuhua Secondar
 To use dancing as a tool of expression and character development.
 
 ### Our Team
+![](/images/Teachers.jpeg)
 
-Mdm Suhana Zainal (OIC): suhana_zainal@moe.edu.sg
-
-Mr Raguvaran (2IC): raguvaran_rajenderan@moe.edu.sg
-
-Ms Nor Aisha Binte Mazlan: nor_aisha_mazlan@moe.edu.sg
+Mdm Suhana Zainal: suhana_zainal@moe.edu.sg
+Mr Raguvaran: raguvaran_rajenderan@moe.edu.sg
+Ms Nor Aisha: nor_aisha_mazlan@moe.edu.sg
 
 If you have any questions, feel free to email our teachers-in-charge to know more about our CCA!&nbsp;
 
 You may also approach any of our friendly seniors who will be able to share with you more about our dance spirit &amp; Yuhua Secondary School!
-
-![](/images/Teachers.jpeg)
 
 ### CCA Leaders
 
