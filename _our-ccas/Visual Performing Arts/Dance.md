@@ -4,10 +4,6 @@ permalink: /our-ccas/Visual-Performing-Arts/dance/
 description: ""
 third_nav_title: Visual Performing Arts
 ---
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
 # **Dance**
 
 ![](/images/dance2.jpg)
