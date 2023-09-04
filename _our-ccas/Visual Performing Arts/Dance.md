@@ -4,6 +4,12 @@ permalink: /our-ccas/Visual-Performing-Arts/dance/
 description: ""
 third_nav_title: Visual Performing Arts
 ---
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
 # **Dance**
 
 ![](/images/dance2.jpg)
@@ -49,6 +55,9 @@ Vice President: Nurul Sakinah bte Samsudin (306)
 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment
 
 ### Gallery
-![](/images/dance%206.png) |![](/images/dance%209.jpg) | 
+ |![](/images/dance%209.jpg) | ![](/images/dance%206.png)
 | -------- | -------- |
-| Seniors’ Farewell Party 2023    |Chinese New Year Dance Performance 2023     | 
+| Chinese New Year Dance Performance 2023    |Seniors’ Farewell Party 2023     |
+ |![](/images/dance%209.jpg) | ![](/images/dance%206.png)
+| -------- | -------- |
+| Chinese New Year Dance Performance 2023    |Seniors’ Farewell Party 2023     |
