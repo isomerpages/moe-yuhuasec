@@ -4,6 +4,7 @@ permalink: /our-ccas/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+
 # **Boys' Brigade**
 ![](/images/boys%20brigade%202023.jpg)
 ### Background
@@ -21,9 +22,10 @@ Mr Yeh Bao Yaw
 
 ### CCA Leaders
 
-CSM: On Wee Chuan (304)  
-Squad Leader: Rajasekaran Praveen (307)  
-Squad Leader: Janesh Raj (309)  
+CSM: Priyan 
+Squad Leader: Shiva 
+Squad Leader: Ajay
+Squad Leader: Chee Hao
 
 ### Key Events of the Year
 
@@ -38,8 +40,7 @@ Squad Leader: Janesh Raj (309)
 * Founder’s Day
 * BBSG (Share-a-Gift)
 
-![](/images/bb32023.jpg)
-*Participants of BB Blaze (Adventure) Competition*
+
 
 
 ### Achievements
@@ -50,6 +51,7 @@ BB Character Quest 2022 (Silver Honour Roll)
 JM Fraser Award 2022 (Distinction)
 BB Blaze 2023 (Bronze Honour Roll)
 Founder’s Award 2023 (SSG Goh Kun Ming)
+
 ![](/images/brbrbrb.jpg)
 
 ### Social Media
