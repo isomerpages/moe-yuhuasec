@@ -38,14 +38,14 @@ Squad Leader: Chee Hao
 * BB CARES (Community Activities Rallying Everyone to Serve)
 * Founder’s Day
 * BBSG (Share-a-Gift)
+	
 
-|<img width="50%" src="/images/bb32023.jpg">|![](/images/bb22023.jpg) |
+|![](/images/bb32023.jpg)|![](/images/bb22023.jpg) |
 |-------- | -------- | 
-| Participants of BB Blaze (Adventure) Competition|Laser Tag Experience during S1 CCA Trial 2023 |
-
-
-
-### Achievements
+| Participants of BB Blaze (Adventure)Competition|Laser Tag Experience during S1 CCA Trial 2023 |
+|![](/images/bb42023.jpg)|![](/images/bb%20cares%20(via).jpg) |-------- | -------- | 
+| One Star Kayaking Course|BB CARES (VIA) - Outing with St. Andrew Nursing Home residents |
+### Achievements:
 
 JM Fraser Award 2021 (Sliver)
 BB Blaze 2022 (Gold Honour Roll)
