@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 # **Boys' Brigade**
-
+![](/images/boys%20brigade%202023.jpg)
 
 ### Background
 
