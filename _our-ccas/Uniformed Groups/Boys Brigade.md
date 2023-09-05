@@ -4,12 +4,11 @@ permalink: /our-ccas/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 # **Boys' Brigade**
 ![](/images/boys%20brigade%202023.jpg)
 ### Background
 
-The BB seeks to nurture Youth, based on Christian values to serve and lead. The Object of the Boys’ Brigade shall be the advancement of Christ’s Kingdom among Boys and the promotion of habits of Obedience, Reverence, Discipline, Self-Respect, and all that tends towards a true Christian manliness. 
+The BB seeks to nurture Youth, based on Christian values to serve and lead. The Object of the Boys’ Brigade shall be the advancement of Christ’s Kingdom among Boys and the promotion of habits of Obedience, Reverence, Discipline, Self-Respect, and all that tends towards a true Christian manliness.&nbsp;
 
 The 28th Singapore Company, co-sponsored by Jurong Christian Church, was previously based in Shuqun Secondary School and has been in YHSS since 2019.
 
@@ -40,6 +39,9 @@ Squad Leader: Chee Hao
 * Founder’s Day
 * BBSG (Share-a-Gift)
 
+|<img width="10%" src="/images/bb32023.jpg">|![](/images/bb22023.jpg) |
+|-------- | -------- | 
+| Participants of BB Blaze (Adventure) Competition|Laser Tag Experience during S1 CCA Trial 2023 |
 
 
 
@@ -56,5 +58,5 @@ Founder’s Award 2023 (SSG Goh Kun Ming)
 
 ### Social Media
 
- [https://www.bb.org.sg](https://www.bb.org.sg)
+&nbsp;[https://www.bb.org.sg](https://www.bb.org.sg)
 [https://www.instagram.com/bb28th/](https://www.instagram.com/bb28th/)
