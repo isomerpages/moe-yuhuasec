@@ -39,7 +39,7 @@ Squad Leader: Chee Hao
 * Founder’s Day
 * BBSG (Share-a-Gift)
 
-|<img width="10%" src="/images/bb32023.jpg">|![](/images/bb22023.jpg) |
+|<img width="50%" src="/images/bb32023.jpg">|![](/images/bb22023.jpg) |
 |-------- | -------- | 
 | Participants of BB Blaze (Adventure) Competition|Laser Tag Experience during S1 CCA Trial 2023 |
 
