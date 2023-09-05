@@ -4,8 +4,6 @@ permalink: /our-ccas/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
 # **Boys' Brigade**
 ![](/images/boys%20brigade%202023.jpg)
 ### Background
@@ -40,9 +38,9 @@ Squad Leader: Janesh Raj (309)
 * Founder’s Day
 * BBSG (Share-a-Gift)
 
+![](/images/bb32023.jpg)
+*Participants of BB Blaze (Adventure) Competition*
 
-
-![](/images/brbrbrb.jpg)
 
 ### Achievements
 
@@ -52,6 +50,7 @@ BB Character Quest 2022 (Silver Honour Roll)
 JM Fraser Award 2022 (Distinction)
 BB Blaze 2023 (Bronze Honour Roll)
 Founder’s Award 2023 (SSG Goh Kun Ming)
+![](/images/brbrbrb.jpg)
 
 ### Social Media
 
