@@ -4,6 +4,8 @@ permalink: /our-ccas/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+
+
 # **Boys' Brigade**
 ![](/images/boys%20brigade%202023.jpg)
 ### Background
@@ -38,11 +40,7 @@ Squad Leader: Janesh Raj (309)
 * Founder’s Day
 * BBSG (Share-a-Gift)
 
-![](/images/bbbb.jpg)
 
-![](/images/bbbbbb.jpg)
-
-![](/images/brwrw.jpg)
 
 ![](/images/brbrbrb.jpg)
 
