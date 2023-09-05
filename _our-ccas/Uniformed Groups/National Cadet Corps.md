@@ -13,7 +13,6 @@ Experience a transformative journey with our NCC cadet program, designed to cult
 
 ##### Vision
 To have Extraordinary Youth Leaders
-
 ##### Mission
 To Nurture Inspiring Leaders and Committed Citizens through Fun, Adventurous and Military-Related Activities
 
@@ -44,14 +43,10 @@ A cadet has a committed heart and lives by the NCC Core Values, with a strong se
 **Teacher Officers:**   
 OIC: Mr Fairoz Sugianto   
 2IC: Mr Desmond Wee   
-Mr Liew Zhen Hao   
-Mr Eugene Chew
+Ms Grace Tan
 
 ### CCA Leaders
-USM: Saravanan Bharat Kumar (309)   
-ASM: Mohamed Fazari bin Firdous (301)
-
-
+USM: MUHAMMAD NUR HASIF BIN KHAIRUL SHAM (3 CARE)<br>ASM: MARK JACHIN GUMBAN MIRASOL (3 CONTRIBUTE)**
 ### Key Events of the Year
 **Junior Cadets (Secondary 1):** 
 * Affirmation Ceremony 
@@ -62,7 +57,7 @@ ASM: Mohamed Fazari bin Firdous (301)
 * 1-star Kayaking Certification Course
 
 **Senior Cadets (Secondary 2):**
-*<br>Proficiency Badge Test<br>Total Defence Badge (Silver)<br>Camp STEEL<br>Orienteering Badge Test<br>Technical Handling &amp; Individual Marksmanship Training (SAR21)<br> Precision Drills Course<br>Freestyle Drills Course<br>Basic First Aid Course Orienteering Competition<br>Shooting Competition (IMT)
+ Proficiency Badge Test<br>Total Defence Badge (Silver)<br>Camp STEEL<br>Orienteering Badge Test<br>Technical Handling &amp; Individual Marksmanship Training (SAR21)<br> Precision Drills Course<br>Freestyle Drills Course<br>Basic First Aid Course Orienteering Competition<br>Shooting Competition (IMT)
 
 **Cadet Leaders and Senior Cadet Leaders (Secondary 3, 4):**   
 
