@@ -6,7 +6,6 @@ third_nav_title: Uniformed Groups
 ---
 # **Boys' Brigade**
 ![](/images/boys%20brigade%202023.jpg)
-
 ### Background
 
 The BB seeks to nurture Youth, based on Christian values to serve and lead. The Object of the Boys’ Brigade shall be the advancement of Christ’s Kingdom among Boys and the promotion of habits of Obedience, Reverence, Discipline, Self-Respect, and all that tends towards a true Christian manliness. 
@@ -17,7 +16,7 @@ The 28th Singapore Company, co-sponsored by Jurong Christian Church, was previou
 
 **Teachers**
 
-OIC: Mr Jeffrey Poh   
+Mr Jeffrey Poh   
 Mr Yeh Bao Yaw
 
 ### CCA Leaders
