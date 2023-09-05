@@ -1,6 +1,6 @@
 ---
 title: Boys Brigade
-permalink: /our-ccas/uniformed-groups/boys-brigade
+permalink: /our-ccas/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
@@ -29,12 +29,16 @@ Squad Leader: Janesh Raj (309)
 
 ### Key Events of the Year
 
-Target and Drill Camp  
-Enrolment Day  
-LDC (Leadership Development Course)   
-BB CARES (Community Activities Rallying Everyone to Serve)   
-Founder's Day  
-BBSG (Share-a-Gift)
+* Games Day
+* BB Blaze
+* Target and Drill Camp
+* Enrolment Day
+* Leadership Lessons
+* Hobbies (e.g. Guitar, Coding)
+* Electives (e.g. Kayaking, Musketry)
+* BB CARES (Community Activities Rallying Everyone to Serve)
+* Founder’s Day
+* BBSG (Share-a-Gift)
 
 ![](/images/bbbb.jpg)
 
@@ -46,12 +50,14 @@ BBSG (Share-a-Gift)
 
 ### Achievements
 
-JM Fraser Award 2018 (Bronze)  
-Character Quest 2018 (Bronze Honour Roll)   
-BB Blaze 2018 ( Bronze Honour Roll)   
-Founder's Award 2018 (SSG Yang Sheng)    
-JM Fraser Award 2019 (Bronze)
+JM Fraser Award 2021 (Sliver)
+BB Blaze 2022 (Gold Honour Roll)
+BB Character Quest 2022 (Silver Honour Roll)
+JM Fraser Award 2022 (Distinction)
+BB Blaze 2023 (Bronze Honour Roll)
+Founder’s Award 2023 (SSG Goh Kun Ming)
 
 ### Social Media
 
+ [https://www.bb.org.sg](https://www.bb.org.sg)
 [https://www.instagram.com/bb28th/](https://www.instagram.com/bb28th/)
