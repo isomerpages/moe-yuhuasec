@@ -29,17 +29,17 @@ Mdm Rafilah&nbsp;
 
 ### Key Events of the Year
 
-Online CCA Training sessions 2020  
-
-Total Defence Day Commemoration 2021
-
-Singapore Youth Festival Arts Presentation 2021&nbsp;
-
+* Online CCA Training sessions 2020
+* Performances for school events (eg: Total Defence Day Commemoration 2021; Teachers’ Day Performance 2022; CNY Concert 2023)
+*  Mini drama festival: students conceptualise and write their own scripts 
+*  Singapore Youth Festival Arts Presentation
+&nbsp;
 ### Achievements
 
-SYF AP 2019 (Certificate of Accomplishment)
-
-South West Eco Skit 2019– Second Place
+* SYF AP 2019 (Certificate of Accomplishment)
+* South West Eco Skit 2019– Second Place
+* SYF AP 2021 (Certificate of Distinction and Certificate of Accomplishment)
+* SYF AP 2023 (Certificate of Accomplishment)
 
 ![](/images/sw2.jpg)
 
