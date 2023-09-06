@@ -38,12 +38,9 @@ Vice-President: Manasa Natarajan (3 Resilience) 
 ### Key Events of the Year
 *   Choral Masterclass with Ms Sonia Nadya Simanjuntak (Indonesia)
     
-*   Concert Attendance: ONE with André van der Merwe Chamber Choir Concert 
-    
+*   Concert Attendance: ONE with André van der Merwe Chamber Choir Concert     
 *   Choir Exchange at St Andrew’s Secondary School
-    
 *   Biannual Singapore Youth Festival (SYF) Arts Presentation
-    
 *   Performances in school and at external events, such as the National Day Heartland celebrations with SportSG
     
 ![](/images/c2.jpg)
