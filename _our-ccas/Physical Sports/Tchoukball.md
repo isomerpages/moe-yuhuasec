@@ -24,15 +24,19 @@ Captain: Chew Ting An Cyrus (309)
 Vice Captain: Tan Yong Xuan (305)  
 
 ### CCA Highlights
-
-*   CCA Orientation
-*   West Zone Tchoukball Clinic
-*   Friendly Matches &amp; Competitions
-
+* CCA Orientation
+* West Zone Tchoukball Clinic
+* Friendly Matches &amp; Competitions
+* Bi-Monthly Bonding Sessions
+* End of Year Day Camp
 ### Achievements
+**2023 ‘B’ division National Tchoukball Championships**
 
-**'B' division National Tchoukball Championships**&nbsp;
-*   4th position for both Boys' and Girls' teams in 2018&nbsp;
+*   5th position for Girls’ teams
+    
+*   6th position for Boys’ teams
 
-**'C'division National Tchoukball Championships 2015**  
-*   3rd position for both Boys' and Girls' teams in 2018
+**JSCC-WWSS 1st Inter-School Tchoukball Tournament 2023**
+
+*   2nd Runner’s up**
+
