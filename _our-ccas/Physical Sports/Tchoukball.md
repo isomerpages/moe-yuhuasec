@@ -39,4 +39,3 @@ Vice Captain: Tan Yong Xuan (305)
 **JSCC-WWSS 1st Inter-School Tchoukball Tournament 2023**
 
 *   2nd Runner’s up**
-
