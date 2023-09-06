@@ -38,17 +38,25 @@ Vice-President: Manasa Natarajan (3 Resilience) 
 ### Key Events of the Year
 *   Choral Masterclass with Ms Sonia Nadya Simanjuntak (Indonesia)
     
-*   Concert Attendance: ONE with André van der Merwe Chamber Choir Concert     
-*   Choir Exchange at St Andrew’s Secondary School
-*   Biannual Singapore Youth Festival (SYF) Arts Presentation
-*   Performances in school and at external events, such as the National Day Heartland celebrations with SportSG
-    
-![](/images/c2.jpg)
+*Concert Attendance: ONE with André van der Merwe Chamber Choir Concert     
+*Choir Exchange at St Andrew’s Secondary School
+*Biannual Singapore Youth Festival (SYF) Arts Presentation
+*Performances in school and at external events, such as the National Day Heartland celebrations with SportSG
 
-![](/images/c3.jpg)
 
-![](/images/c5.jpg)
+|![](/images/choir1.png)|![](/images/choir2.png)| 
+| -------- | -------- | 
+| Choral Masterclass with Ms Sonia Nadya Simanjuntak (Indonesia) |Concert Attendance: ONE with André van der Merwe Chamber Choir Concert    | 
+|	![](/images/choir3.png)|![](/images/choir4.png) | 
+| -------- | -------- | 
+|Choir Exchange at St Andrew’s Secondary School |Performance in the school hall| 
+|	![](/images/choir5.png)|![](/images/choir6.png) | 
+| -------- | -------- | 
+|The YHSS Choir with the teachers, conductor Ms Wynne Lee and pianist Ms Khew Yun Zhen|SYF Day: Taking a short break during our SYF preparations| 
 
+![](/images/choir8.png)
+Photo @sota after SYF AP performance 2023
+  
 ### Achievements
 
 * SYF AP 2019 Certificate of Accomplishment
