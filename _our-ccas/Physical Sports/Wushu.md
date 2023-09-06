@@ -1,6 +1,6 @@
 ---
 title: Wushu
-permalink: /our-ccas/Physical-Sports/wushu
+permalink: /our-ccas/Physical-Sports/wushu/
 description: ""
 third_nav_title: Physical Sports
 ---
@@ -10,24 +10,26 @@ third_nav_title: Physical Sports
 
 ### Background
 
-The Yuhua Wushu Team was established in March 2008, under the influence of Mr Vincent Ng, an ex-Yuhuan who became a Wushu World Champion.  
+The Yuhua Wushu Team was established in March 2008, under the influence of Mr Vincent Ng, an ex-Yuhuan who became a Wushu World Champion.&nbsp;&nbsp;
 
-Although most of our members join us with little or no experience in the sport, many are able to put up quality performances after a few months of learning cool moves such as the double flying kick and butterfly twist. They also master weapons ranging from fists, daggers, swords, broadswords to cudgels and spears.  
+Although most of our members join us with little or no experience in the sport, many are able to put up quality performances after a few months of learning cool moves such as the double flying kick and butterfly twist. They also master weapons ranging from fists, daggers, swords, broadswords to cudgels and spears.&nbsp;&nbsp;
 
 Being both a competitive sport and a performing art, we compete in two national level competitions every year, and are invited to perform for many of our school’s functions.
 
-Wushu is the best place to build self-discipline, resilience, mental toughness and physical strength - attributes which will stand us in good stead in life. Our team awaits you, a future Kung Fu Master!
+一动一静皆功夫，能文能武裕华人
 
+Wushu, a traditional Chinese martial art, is not just a physical practice, but also about developing character while at the same time emphasizing teamwork and unity. To achieve a great performance, Yuhua Wushu team embodies the principles of “one heart, one mind and one team.”. The smooth and powerful movements embody the self-discipline and resilience of the wushu team, while the graceful and skillful techniques demonstrate their perseverance and confidence. Our team awaits you, a future Kung Fu Master!
+
+**
   
 
-\-> Watch our CCA Orientation Video here! 
+\-&gt; Watch our CCA Orientation Video here!&nbsp;
 [https://drive.google.com/file/d/1ZygJ2252JAAS2e0GcAHQ-X9Hw9WMG9Cx/view?usp=drivesdk](https://drive.google.com/file/d/1ZygJ2252JAAS2e0GcAHQ-X9Hw9WMG9Cx/view?usp=drivesdk)
 
 ### Our Team
 
 **Teachers in charge:**
 
-Ms Alvina Leong   
 Mdm Yang Yan   
 Mrs Lek Meixuan
 
@@ -40,15 +42,14 @@ Captain (Administration): Soo Tse Siang (304)
 ### Key Events of the Year
 
 **CNY Performance**   
-\-> Watch our 2020 performance here! ([YHSS CNY wushu video 2021](https://www.youtube.com/watch?v=mSvglVwJGXc))
+\-&gt; Watch our 2020 performance here! ([YHSS CNY wushu video 2021](https://www.youtube.com/watch?v=mSvglVwJGXc))
 
-<img src="/images/wu%202.png" 
-     style="width:50%">
+<img src="/images/wu%202.png" style="width:50%">
 		 
 **National School Games Competition**  
 
-B’ Div Competition    
-C’ Div Competition 
+B’ Div Competition&nbsp;   
+C’ Div Competition&nbsp;
 
 **National Wushu Championships**
 
@@ -73,10 +74,10 @@ Soo Tse Siang (Sword)- Top 10
 ![](/images/wu%207.jpg)
 
 **National Wushu Championships 2019**    
-Group weapon B div girls- Gold 
+Group weapon B div girls- Gold&nbsp;
 
 **National Wushu Championships 2019**   
-Group weapon B div girls- Gold 
+Group weapon B div girls- Gold&nbsp;
 
 Eunice Low Jia Hui     
 Begum Nor Atikah    
