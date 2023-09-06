@@ -24,8 +24,8 @@ Mdm Rafilah&nbsp;
 
 ### Student Leaders
 
-**Chairperson**: Nur Ariqah bte Yazid (305)  
-**Vice Chairman**: Ng Wen Xin Chayada (308)  
+**Chairperson:** Adriana Balqis Binte Noor Hassan (3 Resilience)  
+**Vice Chairman:** Precious San Ponla Othman (3 Responsibility)
 
 ### Key Events of the Year
 
