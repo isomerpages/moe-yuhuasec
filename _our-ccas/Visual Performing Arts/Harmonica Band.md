@@ -4,7 +4,6 @@ permalink: /our-ccas/visual-performing-arts/harmonica-band/
 description: ""
 third_nav_title: Visual Performing Arts
 ---
-
 # **Harmonica Band**
 
 | ![](/images/hb.jpg)| ![](/images/harmonica3.png)| 
