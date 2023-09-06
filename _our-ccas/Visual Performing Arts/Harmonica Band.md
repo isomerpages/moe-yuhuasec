@@ -4,9 +4,11 @@ permalink: /our-ccas/visual-performing-arts/harmonica-band/
 description: ""
 third_nav_title: Visual Performing Arts
 ---
+
 # **Harmonica Band**
 
-![](/images/hb.jpg)
+| ![](/images/hb.jpg)| ![](/images/harmonica3.png)| 
+| -----------|------------- |
 
 ### Background
 Since its humble beginning in 1986, the Yuhua Harmonica Band has become a close-knit family whose main interest is in promoting Harmonica music among the students in the school. Besides cultivating members’ musical talents, the band also hones their leadership and team-playing abilities. Students with little or no musical background in music have been trained to enjoy, appreciate and have an intrinsic love for music.
@@ -41,15 +43,6 @@ Ms Hu Longmei
 ![](/images/harmonica1.png)
 ![](/images/harmonica2.png)
 
-| | Column 2 | Column 3 |
+| | ![](/images/harmonica5.png) | ![](/images/harmonica4.png) |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
-
-
-
-
-
-
-
-			 
-
