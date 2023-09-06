@@ -21,8 +21,11 @@ Ms Shamim Nisa Binte Yassin (2IC)
 Ms Hu Longmei
 
 ### Student Leaders
-**Chairperson**: Joanna Francesca Aquino Rivera (303)  
-**Vice Chairman**: Irwan Hendrawan bin Mohammed Irzan (304)  
+
+**Chairperson:** Chong Yu Sen (3 Resilience)  
+	**Vice Chairperson:** Pathavee Ho Jun Yan<br>(3 Adaptability)  
+**Quartermaster:** How Zu Wen Lucas (3 Resilience)  
+**Quartermaster:** Lin Xiao Ming (3 Contribute)
 
 ### Key Events of the Year
 
