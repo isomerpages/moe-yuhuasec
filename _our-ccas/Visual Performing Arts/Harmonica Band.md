@@ -25,7 +25,6 @@ Ms Hu Longmei
 **Vice Chairperson:** Pathavee Ho Jun Yan<br>  (3 Adaptability)  
 **Quartermaster:** How Zu Wen Lucas (3 Resilience)  
 **Quartermaster:** Lin Xiao Ming (3 Contribute)
-
 ### Key Events of the Year
 
 * Singapore Youth Festival Arts Presentation (2019, 2021, 2023)
@@ -43,3 +42,5 @@ Ms Hu Longmei
  |  ![](/images/harmonica4.png)  |![](/images/harmonica5.png)
  | -------- | -------- |
  | M.A.D. For Recycling (Make A Difference)| Values-In-Action (VIA) Project|
+ 
+ ![](/images/harmonica6.png)
