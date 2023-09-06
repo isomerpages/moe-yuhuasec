@@ -41,6 +41,6 @@ Ms Hu Longmei
 ![](/images/harmonica1.png)
 ![](/images/harmonica2.png)
 
-| | ![](/images/harmonica5.png) | ![](/images/harmonica4.png) |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
+ |  ![](/images/harmonica4.png)  |![](/images/harmonica5.png)
+ | -------- | -------- |
+ | M.A.D. For Recycling (Make A Difference)| Values-In-Action (VIA) Project|
