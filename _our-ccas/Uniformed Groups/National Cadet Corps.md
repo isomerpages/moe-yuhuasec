@@ -24,9 +24,6 @@ Nurturing. Committed. Cool.
 
 ##### Theme
 ‘Cadet Strong’, comprising of the following elements:
-
-
-
 **Resilient Mind:**   
 A cadet with a resilient mind is confident to take on challenges and overcome setbacks.
 
@@ -73,4 +70,4 @@ USM: MUHAMMAD NUR HASIF BIN KHAIRUL SHAM (3 CARE)<br>ASM: MARK JACHIN GUMBAN MIR
 * Cadet Officer Course
 
 **Outstanding Cadet Award(2023):**<br>
-MUHAMAD IMAN BIN ISMAIL 4 RESPECT
+MUHAMAD IMAN BIN ISMAIL (4 RESPECT)
