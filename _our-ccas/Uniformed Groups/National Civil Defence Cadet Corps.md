@@ -1,26 +1,18 @@
 ---
 title: National Civil Defence Cadet Corps
-permalink: /our-ccas/uniformed-groups/national-civil-defence-cadet-corps
+permalink: /our-ccas/uniformed-groups/national-civil-defence-cadet-corps/
 description: ""
 third_nav_title: Uniformed Groups
 ---
 # **National Civil Defence Cadet Corps**
 
-![](/images/20180918_NCDCC.jpg)
+
 
 ### Background
 
-YHSS NCDCC has grown from a small unit which started off with a mere 20 cadets to approximately 70 cadets at present. The unique focus of NCDCC is on Civil Defence skills, such as first aid, fire prevention and fire-fighting.  
-
-Committed to providing service to the school, NCDCC cadets are ever-ready to render first aid in various school events such as the Sports Day, Emergency Evacuation Exercises etc. NCDCC cadets also serve as ambassadors to spread awareness on Civil Defence.
-
-Since its formation in 2006, YHSS NCDCC has grown from a small unit of 20 cadets to approximately 70 cadets currently. The unique focus of NCDCC is on Civil Defence skills, such as first aid, fire prevention, fire-fighting.  
-
-Committed to provide service to the school, NCDCC cadets are ever ready to render First Aid in various school events such as the Sports Day, Holistic Health Run, Emergency Evacuation Exercise, etc. NCCC cadets are also ambassadors to spread Civil Defence awareness. 
-
-NCDCC cadets undergo a specially designed varied and challenging training programme. Interesting visits to places such as Civil Defence Heritage gallery, Civil Defence Academy and CD Shelter enable cadets to acquire Civil Defence knowledge in a fun and memorable manner. To test their skills, cadets participates in various competitions organized by Home Team Academy such as the Urban Adventure Challenge, Inter-Unit Quiz and Precision Drill Competition.
-
-  
+Yuhua NCDCC has experienced significant growth since its inception, evolving from a modest unit comprising only 20 cadets to approximately 70 cadets at present. The NCDCC's distinctive emphasis lies in equipping its members with essential Civil Defence skills, including first aid, fire prevention, and fire-fighting.
+Demonstrating their commitment to serving the school, NCDCC cadets are readily available to administer First Aid during various school events, such as Sports Day, and Emergency Evacuation Exercises, among others. Additionally, NCDCC cadets serve as ambassadors, raising awareness about Civil Defence initiatives.
+NCDCC cadets also partake in a meticulously designed, varied, and challenging training program. Engaging visits to notable sites like the Civil Defence Heritage Gallery, Civil Defence Academy, and CD Shelter provide cadets with invaluable opportunities to acquire Civil Defence knowledge in an enjoyable and lasting manner. To put their acquired skills to the test, cadets actively participate in various competitions organized by the Home Team Academy, including the Urban Adventure Challenge and Precision Drill Competition.
 
 ### Our Team
 
