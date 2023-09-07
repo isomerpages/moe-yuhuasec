@@ -49,11 +49,9 @@ Mr Ng Tian Lye<br>
 | ![](/images/wushu3.jpeg)| ![](/images/wushu2.jpeg)| 
 | -------- | -------- |
 |![](/images/wushu4.jpeg) | ![](/images/wushu5.jpeg)| 
-| -------- | -------- |
 |![](/images/wushu6.jpeg) | ![](/images/wushu8.jpeg)| 
-| -------- | -------- |
-| Column 1 | Column 2 | 
-| -------- | -------- |
-| Column 1 | Column 2 | 
-| -------- | -------- |
-| Text     | Text     | 
+|![](/images/wushu10.jpeg) | ![](/images/wushu9.jpeg) | 
+
+![](/images/wushu7.jpeg)
+
+
