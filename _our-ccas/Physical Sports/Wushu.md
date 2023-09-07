@@ -6,7 +6,7 @@ third_nav_title: Physical Sports
 ---
 # **Wushu**
 
-![](/images/wu.jpg)
+
 
 ### Background
 
@@ -18,7 +18,7 @@ Being both a competitive sport and a performing art, we compete in two national 
 
 Wushu, a traditional Chinese martial art, is not just a physical practice, but also about developing character while at the same time emphasizing teamwork and unity. To achieve a great performance, Yuhua Wushu team embodies the principles of “one heart, one mind and one team.”. The smooth and powerful movements embody the self-discipline and resilience of the wushu team, while the graceful and skillful techniques demonstrate their perseverance and confidence. Our team awaits you, a future Kung Fu Master!
 
-\-&gt; Watch our CCA Orientation Video here!&nbsp;
+
 
 
 ### Our Team
@@ -41,24 +41,8 @@ Captain (Administration): Soo Tse Siang (304)
 *   National Wushu and Sanda Championships  
 *   Jurong Spring National Day Celebration
 
-
-
 <img src="/images/wu%202.png" style="width:50%">
 		 
-**National School Games Competition**  
-
-B’ Div Competition&nbsp;   
-C’ Div Competition&nbsp;
-
-**National Wushu Championships**
-
-CCA Camp
-
-![](/images/wu%203.jpg)
-
-![](/images/wu%204.jpg)
-
-![](/images/wu%205.png)
 
 ### Achievements
 
