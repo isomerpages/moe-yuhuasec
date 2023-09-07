@@ -25,8 +25,13 @@ Wushu, a traditional Chinese martial art, is not just a physical practice, but a
 
 **Teachers in charge:**
 
-Mdm Yang Yan   
-Mrs Lek Meixuan
+Mdm Lek Mei Xuan
+
+Mdm Yang Yan
+
+Ms Wang Run Jia
+
+Mr Ng Tian Lye
 
 **Student Leaders:**
 
