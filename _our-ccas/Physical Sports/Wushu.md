@@ -6,7 +6,7 @@ third_nav_title: Physical Sports
 ---
 # **Wushu**
 
-
+![](/images/wushu3.jpeg)
 
 ### Background
 
@@ -46,12 +46,10 @@ Mr Ng Tian Lye<br>
 &nbsp;[Yhss Wushu Instagram]( https://instagram.com/yhsswushu?igshid=MzRlODBiNWFlZA==)
 
 
-| ![](/images/wushu3.jpeg)| ![](/images/wushu2.jpeg)| 
+| ![](/images/wushu1.jpeg)| ![](/images/wushu2.jpeg)| 
 | -------- | -------- |
 |![](/images/wushu4.jpeg) | ![](/images/wushu5.jpeg)| 
 |![](/images/wushu6.jpeg) | ![](/images/wushu8.jpeg)| 
 |![](/images/wushu10.jpeg) | ![](/images/wushu9.jpeg) | 
 
 ![](/images/wushu7.jpeg)
-
-
