@@ -34,11 +34,20 @@ Mr Shukri Shuhaimi
 **Team Captain:** Muhammad Izz Danial Bin Muhammad Fadhlin (3 Adaptability)
 **Team Vice-Captain:** Muhammad Khalaf Bin Mohamed Abdul Jalil (2 Curiosity)
 
+### Key Programmes
+
+* S1 CCA selection trials
+* Friendly games 
+* ‘B’ Division National School Games 
+* ‘C’ Division National School Games 
+
 ### Achievements
 
 **2019** Participation in National School Games B Division Competition - First Placing in league 5 preliminary round 
 
 **2020** Participation in National School Games B Division Competition - League 4 
+
+**2023 B Division National School Games (League 4) - Top 8**
 
 ![](/images/11picture3.png)
 
