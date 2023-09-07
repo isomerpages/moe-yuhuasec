@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 ---
 # **National Civil Defence Cadet Corps**
 
-
+![](/images/ncdcc5.png)
 
 ### Background
 
@@ -17,16 +17,22 @@ NCDCC cadets also partake in a meticulously designed, varied, and challenging tr
 ### Our Team
 
 **Teachers:**  
-OIC: Mr Clovis Song Sheng Yang (OC)   
-2IC: Miss Lim Pei Wen   
-Mr Kelvin Poh Xiao Zhang   
-Miss Shamim Nisa Binte Yassin 
+* OIC: Mr Clovis Song Sheng Yang (OC)
+* 2IC: Mr Alvin Ng Kiat Hou
+* Ms Ellavarasi D/O Kulasajagaran
+* Mr Kamaroazmir Kamaruddin
 
 **Student Leaders:**
+**Unit Sergeant Major (USM):** 
+SSG Hyra Musfira Putri Mustafa Kamal (3 Resilience)
 
-Unit Sergeant Major (USM): Mohamad Irfan Syahmi bin Mohamad Rozi (306)   
-Assistant Sergeant Major (ASM): Izzati Zarifah bte Ros'asni (305)   
-Regiment Sergeant Major (RSM): Nurul Sabihah bte Zainodin (302)
+**Assistant Sergeant Major (ASM):** 
+SSG Muhammad Nur Qa’ish Hakeem Bin Muhammad Sukri (3 Connect)
+
+**Regiment Sergeant Major (RSM):** 
+SSG Nur Ayuni Binte Abdullah (3 Responsibility)
+
+
 
 ### Key Events of the Year
 
