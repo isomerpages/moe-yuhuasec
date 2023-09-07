@@ -46,7 +46,7 @@ Mr Ng Tian Lye<br>
 &nbsp;[Yhss Wushu Instagram]( https://instagram.com/yhsswushu?igshid=MzRlODBiNWFlZA==)
 
 
-| ![](/images/wushu3.jpeg)         | ![](/images/wushu2.jpeg)| 
+| ![](/images/wushu3.jpeg)| ![](/images/wushu2.jpeg)| 
 | -------- | -------- |
 |![](/images/wushu4.jpeg) | ![](/images/wushu5.jpeg)| 
 | -------- | -------- |
