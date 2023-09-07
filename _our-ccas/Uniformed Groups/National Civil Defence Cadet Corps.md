@@ -50,13 +50,9 @@ To assess their acquired skills, our cadets actively participate in a variety of
 * Secondary 3 Specialisation Course – Medical Response, Urban Search and Rescue and Fire Safety
 * Participating in NCDCC Service Month – School and community sharing of Civil Defence knowledge
 * Precision Drill Competition
-
-|  ![](/images/ncd1.jpg)|![](/images/ncdcc1.png)|  
-| -------- | -------- |
-
-| ![](/images/ncd2.jpg)| ![](/images/ncdcc2.png)| 
-| -------- | -------- |
-
+![](/images/ncd1.jpg)![](/images/ncdcc1.png) 
+ ![](/images/ncd2.jpg) ![](/images/ncdcc2.png)
+ 
 ### Achievements
 * SCDF - NCDCC Pinnacle Award
 * The SCDF - NCDCC Pinnacle award is presented to the most outstanding cadet in NCDCC. This is the highest accolade that a cadet may receive in this uniform group. The recipient of this award is Warrant Officer David Goh from 4 Care.
