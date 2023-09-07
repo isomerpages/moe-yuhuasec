@@ -63,4 +63,3 @@ To assess their acquired skills, our cadets actively participate in a variety of
 * The Yuhua NCDCC unit achieved the Distinction standard for the Unit Overall Proficiency Award (UOPA) in 2022.
 
 ![](/images/ncdcc4.png)
-
