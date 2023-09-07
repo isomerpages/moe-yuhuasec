@@ -51,10 +51,11 @@ To assess their acquired skills, our cadets actively participate in a variety of
 * Participating in NCDCC Service Month – School and community sharing of Civil Defence knowledge
 * Precision Drill Competition
 
+|  ![](/images/ncd1.jpg)|![](/images/ncdcc1.png)|  
+| -------- | -------- |
 
-| ![](/images/ncd1.jpg) | ![](/images/ncdcc1.png) | 
-|![](/images/ncd2.jpg)|![](/images/ncdcc2.png)|
-
+| ![](/images/ncd2.jpg)| ![](/images/ncdcc2.png)| 
+| -------- | -------- |
 
 ### Achievements
 * SCDF - NCDCC Pinnacle Award
