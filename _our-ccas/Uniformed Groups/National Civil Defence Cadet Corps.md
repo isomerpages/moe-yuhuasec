@@ -53,8 +53,8 @@ To assess their acquired skills, our cadets actively participate in a variety of
 
 
 | ![](/images/ncd1.jpg) | ![](/images/ncdcc1.png) | 
-| -------- | -------- |
-|![](/images/ncd2.jpg)|![](/images/ncd3.jpg)|| -------- | -------- |
+|![](/images/ncd2.jpg)|![](/images/ncdcc2.png)|
+
 
 ### Achievements
 * SCDF - NCDCC Pinnacle Award
