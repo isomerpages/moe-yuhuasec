@@ -6,10 +6,7 @@ description: ""
 # **Mathematics**
 
 ### Our Team
-
-
 ![](/images/MATH.jpg)
-
 ### CURRICULUM OBJECTIVES:
 * To create a positive learning experience for students so that they develop confidence in problem solving.
 * To encourage the practice of effective habits and routines to make learning more productive.
