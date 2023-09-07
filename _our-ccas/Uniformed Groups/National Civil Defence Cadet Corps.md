@@ -34,7 +34,7 @@ SSG Nur Ayuni Binte Abdullah (3 Responsibility)
 
 ### Key Events of the Year
 
-**Training Programme** 
+**Training Programme**&nbsp;
 
 Our dedicated cadets undergo a carefully designed, comprehensive, and challenging training program that equips them with essential skills. The NCDCC curriculum focuses on the Triangle of Life Skills, emphasizing proficiencies in basic firefighting, first aid, and CPR+AED. These skills are highly valuable, as they can make a significant impact in critical situations and potentially save lives.
 
@@ -62,4 +62,4 @@ To assess their acquired skills, our cadets actively participate in a variety of
 * Unit Overall Proficiency Award 
 * The Yuhua NCDCC unit achieved the Distinction standard for the Unit Overall Proficiency Award (UOPA) in 2022.
 
-![](/images/ncdcc4.png)
+<img src="/images/ncdcc4.png" style="width:50%">
