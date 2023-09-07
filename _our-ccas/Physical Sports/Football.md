@@ -47,7 +47,7 @@ Mr Shukri Shuhaimi
 
 **2020** Participation in National School Games B Division Competition - League 4 
 
-**2023 B Division National School Games (League 4) - Top 8**
+**2023** B Division National School Games (League 4) - Top 8**
 
 ![](/images/11picture3.png)
 
