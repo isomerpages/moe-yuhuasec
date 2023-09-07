@@ -18,20 +18,22 @@ description: ""
 
 ### Signature Programme(s)
 ![](/images/Math%20Dept/math%20levels%20of%20development.jpg)
-
 **LEVELS OF DEVELOPMENT**
 
-**MOTIVATION**
+**MOTIVATION:**<br>
+Students have a growth mindset and enjoy learning. The PERMA model for Positive Education is adopted to provide students with the necessary motivation to engage in mathematics learning. 
+![](/images/Math%20Dept/math%20perma.jpg)
 
-Y-Venture aims to excite the Joy of Learning Mathematics through gamifications and experiential learning.
 
-During the learning activity, students work in small groups to solve a series of math-related problems which would then lead to more clues or number codes required to open the combination locks before they can escape from different rooms and finally be set free.
 
-Y-Venture challenges students to reason, communicate and apply metacognitive skills that they have learnt in their Math class. Our escape rooms provides students great enjoyment in learning mathematics and at the same time, inculcates the values of resilience, perseverance and cooperation to complete the mission.
 
-![](/images/MATH1.jpg)
 
-**2. Experiential Learning Activities**  
+
+
+
+
+
+**2.&nbsp;Experiential Learning Activities**  
 
 The Mathematics department provides opportunities for all students to enjoy learning through fun activities. Some of these activities go beyond the classroom environment such as learning journeys and classroom experiential learning activities.
 
@@ -43,15 +45,15 @@ Lower secondary students visited the Science Centre and enjoyed the Mass Escape 
 
 ![](/images/9abc.jpg)
 
-Upper secondary students were engaged in playing Math board games called Jungle Stumble in school. Students got very excited as the game was based not only on mathematical skills and understanding, but also pure luck! Therefore, anyone could win it. 
+Upper secondary students were engaged in playing Math board games called Jungle Stumble in school. Students got very excited as the game was based not only on mathematical skills and understanding, but also pure luck! Therefore, anyone could win it.&nbsp;
 
-Our teachers strive to provide a highly engaging environment during lesson enactment. We believe experiential learning would provide greater joy in the learning of Mathematics. For example, the teaching of the concept of factorisation and trigonometry can be made more fun & enjoyable through concrete visualisations and measurement. Watch the two videos below on how the joy of learning math is made alive!
+Our teachers strive to provide a highly engaging environment during lesson enactment. We believe experiential learning would provide greater joy in the learning of Mathematics. For example, the teaching of the concept of factorisation and trigonometry can be made more fun &amp; enjoyable through concrete visualisations and measurement. Watch the two videos below on how the joy of learning math is made alive!
 
 ![](/images/10.png)
 
 ![](/images/11.jpg)
 
-Our teachers strive to provide a highly engaging environment during lesson enactment. We believe experiential learning would provide greater joy in the learning of Mathematics. For example, the teaching of the concept of factorisation and trigonometry can be made more fun & enjoyable through concrete visualisations and measurement. Watch the two videos below on how the joy of learning math is made alive!
+Our teachers strive to provide a highly engaging environment during lesson enactment. We believe experiential learning would provide greater joy in the learning of Mathematics. For example, the teaching of the concept of factorisation and trigonometry can be made more fun &amp; enjoyable through concrete visualisations and measurement. Watch the two videos below on how the joy of learning math is made alive!
 
 (video to be uploaded to yt)
 Trigonometry comes Alive
