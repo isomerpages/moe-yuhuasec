@@ -5,9 +5,7 @@ description: ""
 third_nav_title: Physical Sports
 ---
 # **Football**
-![](/images/11picture1.png)
-
-![](/images/11picture2.png)
+![]()![](/images/11picture1.png)
 
 ### Background
 
