@@ -17,24 +17,13 @@ Being both a competitive sport and a performing art, we compete in two national 
 一动一静皆功夫，能文能武裕华人
 
 Wushu, a traditional Chinese martial art, is not just a physical practice, but also about developing character while at the same time emphasizing teamwork and unity. To achieve a great performance, Yuhua Wushu team embodies the principles of “one heart, one mind and one team.”. The smooth and powerful movements embody the self-discipline and resilience of the wushu team, while the graceful and skillful techniques demonstrate their perseverance and confidence. Our team awaits you, a future Kung Fu Master!
-
-
-
-
 ### Our Team
 
-**Teachers in charge:**
-
+**Teachers in charge:**<br>
 Mdm Lek Mei Xuan<br>
 Mdm Yang Yan<br>
 Ms Wang Run Jia<br>
 Mr Ng Tian Lye<br>
-
-**Student Leaders:**
-
-Boys' Captain: Cheng Kei Win (301)    
-Girls' Captain: Tan Zi Yu (306)   
-Captain (Administration): Soo Tse Siang (304)
 
 ### Key Events of the Year
 
