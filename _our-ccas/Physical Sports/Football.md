@@ -31,9 +31,8 @@ Mr Shukri Shuhaimi
 
 **Student Leaders:** 
 
-Captain: Husnan Bin Hassan (304)
-Vice Captain: Mohamad Aify Raiyan Bin Mohamad Aidil (305) 
-
+**Team Captain:** Muhammad Izz Danial Bin Muhammad Fadhlin (3 Adaptability)
+**Team Vice-Captain:** Muhammad Khalaf Bin Mohamed Abdul Jalil (2 Curiosity)
 
 ### Achievements
 
