@@ -32,9 +32,6 @@ Mr Ng Tian Lye<br>
 *   National Wushu and Sanda Championships  
 *   Jurong Spring National Day Celebration
 
-<img src="/images/wu%202.png" style="width:50%">
-		 
-
 ### Achievements
 
 * Jolyne Teo Wei He -  Sliver in first international long fist and first international cudgel Youth Category
