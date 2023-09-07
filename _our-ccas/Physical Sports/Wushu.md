@@ -19,7 +19,7 @@ Being both a competitive sport and a performing art, we compete in two national 
 Wushu, a traditional Chinese martial art, is not just a physical practice, but also about developing character while at the same time emphasizing teamwork and unity. To achieve a great performance, Yuhua Wushu team embodies the principles of “one heart, one mind and one team.”. The smooth and powerful movements embody the self-discipline and resilience of the wushu team, while the graceful and skillful techniques demonstrate their perseverance and confidence. Our team awaits you, a future Kung Fu Master!
 
 \-&gt; Watch our CCA Orientation Video here!&nbsp;
-[https://drive.google.com/file/d/1ZygJ2252JAAS2e0GcAHQ-X9Hw9WMG9Cx/view?usp=drivesdk](https://drive.google.com/file/d/1ZygJ2252JAAS2e0GcAHQ-X9Hw9WMG9Cx/view?usp=drivesdk)
+
 
 ### Our Team
 
@@ -36,8 +36,12 @@ Captain (Administration): Soo Tse Siang (304)
 
 ### Key Events of the Year
 
-**CNY Performance**   
-\-&gt; Watch our 2020 performance here! ([YHSS CNY wushu video 2021](https://www.youtube.com/watch?v=mSvglVwJGXc))
+*   CNY Performance
+*   National School Games 
+*   National Wushu and Sanda Championships  
+*   Jurong Spring National Day Celebration
+
+
 
 <img src="/images/wu%202.png" style="width:50%">
 		 
@@ -58,40 +62,12 @@ CCA Camp
 
 ### Achievements
 
-**National School Games B div 2021**
+* Jolyne Teo Wei He -  Sliver in first international long fist and first international cudgel Youth Category
+* Misha Insyirah Binte Mizli - Sliver in first international long fist Youth Category
+* Fo Yi Xuan Cheryl - Sliver in southern fist Youth Category
+* Lorander Goh Hui Kee  - Bronze in first international sword and first international spear Youth Category 
+* Syed Seyiph Shahab - Sliver in first international spear Youth Category 
+* Ang Hui Min - Bronze in second international sword Youth Category
+* Lucas Peh Yi Jie - Sliver in second international broadsword Youth Category
 
-Cheng Kei Win (Nanquan)- Top 10   
-Cheng Kei Win (Nandao)- Top 10    
-Soo Tse Siang (Sword)- Top 10
-
-![](/images/wu%206.jpg)
-
-![](/images/wu%207.jpg)
-
-**National Wushu Championships 2019**    
-Group weapon B div girls- Gold&nbsp;
-
-**National Wushu Championships 2019**   
-Group weapon B div girls- Gold&nbsp;
-
-Eunice Low Jia Hui     
-Begum Nor Atikah    
-Lim Jing Yi     
-Ng Ning Xuan, Connie     
-Lau Jia Hui      
-Soo Lee Shuen
-
-  
-
-Cheng Kei Win- Gold in Nangun Youth Category   
-Lau Jia Hui- Gold in Spear Youth Category   
-Jervois Ng Wei Qiang- Gold in Cudgel Youth Category  
-Jervois Ng Wei Qiang- Gold in Nandao Youth Category  
-Begum Nor Atikah- Silver in Broadsword Youth Category   
-Cheng Kei Win- Bronze in Nanquan Youth Category  
-Lau Jia Hui- Silver in Changquan Youth Category
-
-
-![](/images/wu%208.jpg)
-
-![](/images/wuwu.png)
+#### Social Media  
