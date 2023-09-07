@@ -11,15 +11,22 @@ third_nav_title: Physical Sports
 
 ### Background
 
-The Yuhua Football Team was formed in 2019. The boys put their heart and soul into their training sessions right from the start and quickly developed a strong sense of camaraderie. Their team spirit shines on and off the field and the team looks forward to reaching greater heights in the future.
+Formed in 2019, the Yuhua Football Team has developed a strong sense of camaraderie and team spirit. In addition to their participation in the ‘B’ and ‘C’ Division National School Games, friendly games are organised regularly to maintain students’ engagement. 
+
+Our team of teachers and coaches is committed to support the students in their passion for football in alignment with the development of their character and sportsmanship.
 
 ### Our Team
 
 **Teachers:** 
 
-OIC: Ms Bo Yiting 
-2IC: Ms Noorul Fathima
-Mr Alvin Ng
+Ms Bo Yiting (OIC)
+
+Mr Muhammad Shukri Shuhaimi (2IC)
+
+Mr Tam Alan 
+
+Mr Liew Shang Zhi
+
 Mr Shukri Shuhaimi
 
 **Student Leaders:** 
