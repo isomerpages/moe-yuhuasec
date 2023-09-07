@@ -70,4 +70,5 @@ CCA Camp
 * Ang Hui Min - Bronze in second international sword Youth Category
 * Lucas Peh Yi Jie - Sliver in second international broadsword Youth Category
 
-#### Social Media  
+#### Social Media
+&nbsp;[Yhss Wushu Instagram]( https://instagram.com/yhsswushu?igshid=MzRlODBiNWFlZA==)
