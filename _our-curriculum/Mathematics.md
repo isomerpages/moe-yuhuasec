@@ -21,11 +21,13 @@ description: ""
 Students have a growth mindset and enjoy learning. The PERMA model for Positive Education is adopted to provide students with the necessary motivation to engage in mathematics learning. 
 ![](/images/Math%20Dept/math%20perma.jpg)
 
+**MEMORY**
+<br>Students learn, remember and recall math concepts correctly.&nbsp;
 
+**MASTERY**<br>Students perform manipulations and calculations accurately.&nbsp;
 
-
-
-
+**MODELLING**<br>
+Students frame the problem, identify the approach and apply values-skills-knowledge in solving problems creatively.
 
 
 
