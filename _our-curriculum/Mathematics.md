@@ -41,6 +41,13 @@ ACCURATE:<br>Students can derive correct and feasible solutions, checking their 
 
 **PEER COACH TRAINING**<br>
 
+
+| ![](/images/Math%20Dept/math%20trained%20peer%20coaches%202021.jpg)| Column 2 |
+| -------- | -------- |
+| Text     | Text     |
+
+
+
 The Mathematics Department Talent Development Programme enables students with strong interest and talent in Mathematics to challenge themselves by participating in the Singapore Mathematical Olympiads (SMO) and All Singapore Secondary Mathematics Competitions.
 
 Due to the Covid-19 pandemic, the trainings were carried out online. The selected students demonstrated responsibility and resilience as they practiced on their own following and sought feedback from their teachers through virtual meetings.
