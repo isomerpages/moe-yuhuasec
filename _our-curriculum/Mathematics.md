@@ -42,31 +42,11 @@ ACCURATE:<br>Students can derive correct and feasible solutions, checking their 
 **PEER COACH TRAINING**<br>
 | ![](/images/Math%20Dept/math%20trained%20peer%20coaches%202021.jpg)| ![](/images/Math%20Dept/math%20trained%20peer%20coaches%202022.jpg) |
 | -------- | -------- |
-##### **ALL SECONDARY SINGAPORE MATHEMATICS COMPETITION 2022:**
 
-The Mathematics Department Talent Development Programme enables students with strong interest and talent in Mathematics to challenge themselves by participating in the Singapore Mathematical Olympiads (SMO) and All Singapore Secondary Mathematics Competitions.
-
-Due to the Covid-19 pandemic, the trainings were carried out online. The selected students demonstrated responsibility and resilience as they practiced on their own following and sought feedback from their teachers through virtual meetings.
-
-![](/images/MATH3.jpg)
-Self-practice SMO questions at home
-
-### Academic Support Programmes
-
-**1\. iBelieve and Booster Programmes**  
-The iBelieve and Booster Programmes are targeted for selected lower secondary students. These after-school programmes aim to strengthen our students’ foundation in Mathematics and increase their level of confidence.  
-  
-So, what’s the feedback from the students? All of them agreed that they were happy and enjoying themselves as their teachers create positive learning environment during these afternoon activity lessons.
-
-![](/images/15.jpg)
-
-**2\. iSTRIVE Programme**
-
-The iStrive programme supports students who have good achievements in Math at lower secondary and are offered Math in a more challenging stream as they progress to the next level.
-
-The programme starts during the first few weeks of the November school holiday to cover topics in another stream so that these students are able to start the following year on an equal footing as their other peers.
-
-To ensure adequate support in terms of their subject learning and emotional well-being, consultations will be held fortnightly throughout the students’ first year in a new stream.
+**ALL SECONDARY SINGAPORE MATHEMATICS COMPETITION 2022:**
+**5TH PLACE IN UPPER SECONDARY N(T)  CATEGORY:** LIEW YU HENG (401) 
+**PARTICIPATION UPPER SECONDARY:** CHENG KEI WIN (401), MOHAMED NOR SHARIZAM BIN MUHAMAD SHARIKIN (401) SOO TSE SIANG (404), TAY WEIDE XAVIER (404), LEE YONG LE ETHAN (404)
+**PARTICIPATION LOWER SECONDARY:** CHOON KAH NING (202), MOHAMAD RAYYAN HAMBALI BIN MOHAMAD UMAR (203), ANDERZ LAN JUN RONG (203), JANICE LEE SIEW HUI (201), TANK YUK XUAN (201), TEO ZHI RONG (201)
 
 ### Home-based Learning
 
