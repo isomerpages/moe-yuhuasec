@@ -52,8 +52,6 @@ Chen Jeun Wei (308), Chua Chee Yang (308), Rishivandh (308)
 Students were immersed in a world of hospitality excellence at JW Marriot Hotel as they toured the hotel’s luxurious amenities. The staff warmly welcomed the teachers and students, providing them with first hand insights about customer service and hotel operations. This experience enabled students to broaden their understanding of business management and relate their learning to real life.
 
 
-|![](/images/Math%20Dept/ebs%20lj%20_1.JPG)| ![](/images/Math%20Dept/ebs%20lj_2.JPG) |
+||    |
 | -------- | -------- | 
-|![](/images/Math%20Dept/ebs%20lj_3.JPG)| ![](/images/Math%20Dept/ebs%20lj_4.JPG) |
-
-
+|![](/images/Math%20Dept/ebs%20lj%20_1.JPG)![](/images/Math%20Dept/ebs%20lj_4.JPG)|![](/images/Math%20Dept/ebs%20lj_3.JPG)![](/images/Math%20Dept/ebs%20lj_2.JPG)|
