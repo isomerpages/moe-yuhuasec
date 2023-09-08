@@ -43,10 +43,10 @@ ACCURATE:<br>Students can derive correct and feasible solutions, checking their 
 | ![](/images/Math%20Dept/math%20trained%20peer%20coaches%202021.jpg)| ![](/images/Math%20Dept/math%20trained%20peer%20coaches%202022.jpg) |
 | -------- | -------- |
 
-**ALL SECONDARY SINGAPORE MATHEMATICS COMPETITION 2022:**
-**5TH PLACE IN UPPER SECONDARY N(T)  CATEGORY:** LIEW YU HENG (401) 
-**PARTICIPATION UPPER SECONDARY:** CHENG KEI WIN (401), MOHAMED NOR SHARIZAM BIN MUHAMAD SHARIKIN (401) SOO TSE SIANG (404), TAY WEIDE XAVIER (404), LEE YONG LE ETHAN (404)
-**PARTICIPATION LOWER SECONDARY:** CHOON KAH NING (202), MOHAMAD RAYYAN HAMBALI BIN MOHAMAD UMAR (203), ANDERZ LAN JUN RONG (203), JANICE LEE SIEW HUI (201), TANK YUK XUAN (201), TEO ZHI RONG (201)
+**ALL SECONDARY SINGAPORE MATHEMATICS** 5th Place In Upper Secondary N(T) Category: Liew Yu Heng (401) 
+Participation Upper Secondary: Cheng Kei Win (401), Mohamed Nor Sharizam Bin Muhamad Sharikin (401) Soo Tse Siang (404), Tay Weide Xavier (404), Lee Yong Le Ethan (404)
+Participation Lower Secondary: Choon Kah Ning (202), Mohamad Rayyan Hambali Bin Mohamad Umar (203), Anderz Lan Jun Rong (203), Janice Lee Siew Hui (201), Tank Yuk Xuan (201), Teo Zhi Rong (201)
+COMPETITION 2022:**
 
 ### Home-based Learning
 
