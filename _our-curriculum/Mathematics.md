@@ -29,43 +29,19 @@ Students have a growth mindset and enjoy learning. The PERMA model for Positive 
 **MODELLING**<br>
 Students frame the problem, identify the approach and apply values-skills-knowledge in solving problems creatively.
 ![](/images/Math%20Dept/math%20memory-mastery-modelling.jpg)
-**2.&nbsp;Experiential Learning Activities**  
 
-The Mathematics department provides opportunities for all students to enjoy learning through fun activities. Some of these activities go beyond the classroom environment such as learning journeys and classroom experiential learning activities.
+**DESIRED STUDENT OUTCOMES**
 
-Lower secondary students visited the Science Centre and enjoyed the Mass Escape Game and DinoQuest.
+ACTIVE
+Students can work effectively independently and collaboratively to identify problems and seek out possible solutions.
 
-**Learning Journey to Singapore Science Centre**
+ARTICULATE
+Students can present their solutions in a logical manner, stating reasons where necessary in written and verbal form.
 
-![](/images/MATH2.jpg)
+ACCURATE
+Students can derive correct and feasible solutions, checking their answer against problem requirements and using alternative methods to verify answers where possible.
 
-![](/images/9abc.jpg)
-
-Upper secondary students were engaged in playing Math board games called Jungle Stumble in school. Students got very excited as the game was based not only on mathematical skills and understanding, but also pure luck! Therefore, anyone could win it.&nbsp;
-
-Our teachers strive to provide a highly engaging environment during lesson enactment. We believe experiential learning would provide greater joy in the learning of Mathematics. For example, the teaching of the concept of factorisation and trigonometry can be made more fun &amp; enjoyable through concrete visualisations and measurement. Watch the two videos below on how the joy of learning math is made alive!
-
-![](/images/10.png)
-
-![](/images/11.jpg)
-
-Our teachers strive to provide a highly engaging environment during lesson enactment. We believe experiential learning would provide greater joy in the learning of Mathematics. For example, the teaching of the concept of factorisation and trigonometry can be made more fun &amp; enjoyable through concrete visualisations and measurement. Watch the two videos below on how the joy of learning math is made alive!
-
-(video to be uploaded to yt)
-Trigonometry comes Alive
-
-(video to be uploaded to yt) 
-Factorisation using Alge-tiles
-
-**3\. EBS iExperience programme**
-
-Through the 2D1N EBS iExperience programme, students are immersed in various aspects of business and services so that they can find greater meaning in what they have learned. The activities for the learning journey will be based on lessons that have already been covered in the classroom. The information collected during the learning journey will be used for the mini‐coursework.
-
-(video to be uploaded to yt) 
-
-(video to be uploaded to yt) 
-
-### Talent Development Programme
+### PARTICIPATION AND ACHIEVEMENTS
 
 The Mathematics Department Talent Development Programme enables students with strong interest and talent in Mathematics to challenge themselves by participating in the Singapore Mathematical Olympiads (SMO) and All Singapore Secondary Mathematics Competitions.
 
