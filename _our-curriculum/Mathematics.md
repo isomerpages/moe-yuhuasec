@@ -30,16 +30,12 @@ Students have a growth mindset and enjoy learning. The PERMA model for Positive 
 Students frame the problem, identify the approach and apply values-skills-knowledge in solving problems creatively.
 ![](/images/Math%20Dept/math%20memory-mastery-modelling.jpg)
 
-**DESIRED STUDENT OUTCOMES**
+**DESIRED STUDENT OUTCOMES**<br>
+ACTIVE:<br>Students can work effectively independently and collaboratively to identify problems and seek out possible solutions.
 
-ACTIVE
-Students can work effectively independently and collaboratively to identify problems and seek out possible solutions.
+ARTICULATE:<br>Students can present their solutions in a logical manner, stating reasons where necessary in written and verbal form.
 
-ARTICULATE
-Students can present their solutions in a logical manner, stating reasons where necessary in written and verbal form.
-
-ACCURATE
-Students can derive correct and feasible solutions, checking their answer against problem requirements and using alternative methods to verify answers where possible.
+ACCURATE:<br>Students can derive correct and feasible solutions, checking their answer against problem requirements and using alternative methods to verify answers where possible.
 
 ### PARTICIPATION AND ACHIEVEMENTS
 
