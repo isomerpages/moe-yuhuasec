@@ -45,6 +45,6 @@ ACCURATE:<br>Students can derive correct and feasible solutions, checking their 
 ##### **ALL SECONDARY SINGAPORE MATHEMATICS COMPETITION 2022:** <br>
 ![](/images/Math%20Dept/2022%20asmc_upper%20sec.jpeg)**5th Place In Upper Secondary N(T) Category**: <br>Liew Yu Heng (401) 
 Participation Upper Secondary: Cheng Kei Win (401), Mohamed Nor Sharizam Bin Muhamad Sharikin (401), Soo Tse Siang (404), <br>Tay Weide Xavier (404), Lee Yong Le Ethan (404)
-![](/images/Math%20Dept/2022%20asmc_lower%20sec.jpeg)
-**Participation Lower Secondary:** <br>Choon Kah Ning (202), Mohamad Rayyan Hambali Bin Mohamad Umar (203), Anderz Lan Jun Rong (203), Janice Lee Siew Hui (201), Tank Yuk Xuan (201),<br>Teo Zhi Rong (201)<br>**Singapore International Mathematical And Computational Challenge 2022 Participation:**<br>
+![](/images/Math%20Dept/2022%20asmc_lower%20sec.jpeg)**Participation Lower Secondary:** <br>Choon Kah Ning (202), Mohamad Rayyan Hambali Bin Mohamad Umar (203), Anderz Lan Jun Rong (203), Janice Lee Siew Hui (201), Tank Yuk Xuan (201),<br>Teo Zhi Rong (201)<br>
+##### **Singapore International Mathematical And Computational Challenge 2022 Participation:**<br>
 Chen Jeun Wei (308), Chua Chee Yang (308), Rishivandh (308)
