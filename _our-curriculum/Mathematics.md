@@ -28,10 +28,7 @@ Students have a growth mindset and enjoy learning. The PERMA model for Positive 
 
 **MODELLING**<br>
 Students frame the problem, identify the approach and apply values-skills-knowledge in solving problems creatively.
-
-
-
-
+![](/images/Math%20Dept/math%20memory-mastery-modelling.jpg)
 **2.&nbsp;Experiential Learning Activities**  
 
 The Mathematics department provides opportunities for all students to enjoy learning through fun activities. Some of these activities go beyond the classroom environment such as learning journeys and classroom experiential learning activities.
