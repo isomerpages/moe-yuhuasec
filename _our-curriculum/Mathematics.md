@@ -46,15 +46,6 @@ ACCURATE:<br>Students can derive correct and feasible solutions, checking their 
 ![](/images/Math%20Dept/2022%20asmc_upper%20sec.jpeg)**5th Place In Upper Secondary N(T) Category**: <br>Liew Yu Heng (401) 
 Participation Upper Secondary: Cheng Kei Win (401), Mohamed Nor Sharizam Bin Muhamad Sharikin (401), Soo Tse Siang (404), <br>Tay Weide Xavier (404), Lee Yong Le Ethan (404)
 ![](/images/Math%20Dept/2022%20asmc_lower%20sec.jpeg)
-**Participation Lower Secondary:** <br>Choon Kah Ning (202), Mohamad Rayyan Hambali Bin Mohamad Umar (203), Anderz Lan Jun Rong (203), Janice Lee Siew Hui (201), Tank Yuk Xuan (201),<br>Teo Zhi Rong (201)
-##### Singapore International Mathematical And Computational Challenge 2022 Participation:
+**Participation Lower Secondary:** <br>Choon Kah Ning (202), Mohamad Rayyan Hambali Bin Mohamad Umar (203), Anderz Lan Jun Rong (203), Janice Lee Siew Hui (201), Tank Yuk Xuan (201),<br>Teo Zhi Rong (201)<br>**Singapore International Mathematical And Computational Challenge 2022 Participation:**<br>
 Chen Jeun Wei (308), Chua Chee Yang (308), Rishivandh (308)
 
-
-Home-based learning has become a vital learning platform for continual learning during the circuit breaker period. Teachers collaborated with each other to create more online learning resources and share them with colleagues to further enhance the effectiveness of home-based learning.
-
-To encourage self-directed learning, the Mathematics department uploaded lesson materials for their classes in Student Learning Space (SLS). Assignments were marked and feedback given regularly for every assignment to ensure the continuity of students’ learning progress.
-
-The Covid-19 pandemic has, in fact, created an opportunity for teachers to look at all the possibilities of learning experiences and platforms for our students by using ICT-enabled affordances in the future.
-
-![](/images/MATH41.jpg)
