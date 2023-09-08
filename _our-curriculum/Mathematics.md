@@ -48,3 +48,8 @@ Participation Upper Secondary: Cheng Kei Win (401), Mohamed Nor Sharizam Bin Muh
 ![](/images/Math%20Dept/2022%20asmc_lower%20sec.jpeg)**Participation Lower Secondary:** <br>Choon Kah Ning (202), Mohamad Rayyan Hambali Bin Mohamad Umar (203), Anderz Lan Jun Rong (203), Janice Lee Siew Hui (201), Tank Yuk Xuan (201),<br>Teo Zhi Rong (201)<br>
 ##### **Singapore International Mathematical And Computational Challenge 2022 Participation:**<br>
 Chen Jeun Wei (308), Chua Chee Yang (308), Rishivandh (308)
+##### ELEMENTS OF BUSINESS SKILLS
+##### 
+LEARNING JOURNEY TO JW MARRIOTT HOTEL SINGAPORE 2023
+
+**
