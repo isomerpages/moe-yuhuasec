@@ -40,11 +40,9 @@ ACCURATE:<br>Students can derive correct and feasible solutions, checking their 
 ### PARTICIPATION AND ACHIEVEMENTS
 
 **PEER COACH TRAINING**<br>
-
-
-| ![](/images/Math%20Dept/math%20trained%20peer%20coaches%202021.jpg)| Column 2 |
+| ![](/images/Math%20Dept/math%20trained%20peer%20coaches%202021.jpg)| ![](/images/Math%20Dept/math%20trained%20peer%20coaches%202022.jpg) |
 | -------- | -------- |
-| Text     | Text     |
+
 
 
 
