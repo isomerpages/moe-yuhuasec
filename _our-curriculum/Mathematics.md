@@ -47,7 +47,6 @@ ACCURATE:<br>Students can derive correct and feasible solutions, checking their 
 Participation Upper Secondary: Cheng Kei Win (401), Mohamed Nor Sharizam Bin Muhamad Sharikin (401), Soo Tse Siang (404), <br>Tay Weide Xavier (404), Lee Yong Le Ethan (404)
 **Participation Lower Secondary:** <br>Choon Kah Ning (202), Mohamad Rayyan Hambali Bin Mohamad Umar (203), Anderz Lan Jun Rong (203), Janice Lee Siew Hui (201), Tank Yuk Xuan (201),<br>Teo Zhi Rong (201)
 
-
 ### Home-based Learning
 
 Home-based learning has become a vital learning platform for continual learning during the circuit breaker period. Teachers collaborated with each other to create more online learning resources and share them with colleagues to further enhance the effectiveness of home-based learning.
