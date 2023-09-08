@@ -50,6 +50,3 @@ Participation Upper Secondary: Cheng Kei Win (401), Mohamed Nor Sharizam Bin Muh
 Chen Jeun Wei (308), Chua Chee Yang (308), Rishivandh (308)
 ##### ELEMENTS OF BUSINESS SKILLS
 ##### 
-LEARNING JOURNEY TO JW MARRIOTT HOTEL SINGAPORE 2023
-
-**
