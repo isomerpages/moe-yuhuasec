@@ -53,5 +53,5 @@ Students were immersed in a world of hospitality excellence at JW Marriot Hotel 
 
 
 ||    |
-| -------- | -------- | 
+| -------- |-------- | 
 |![](/images/Math%20Dept/ebs%20lj%20_1.JPG)![](/images/Math%20Dept/ebs%20lj_4.JPG)|![](/images/Math%20Dept/ebs%20lj_3.JPG)![](/images/Math%20Dept/ebs%20lj_2.JPG)|
