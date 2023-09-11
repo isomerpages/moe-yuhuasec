@@ -6,7 +6,7 @@ third_nav_title: Clubs and Societies
 ---
 # **Tinkering and Robotics Club**
 
-![](/images/Tinkering%20club/picture1.jpg)
+
 
 ### Background of Robotics Club
 
@@ -41,8 +41,3 @@ COM MEMBER:ONG CHEN TECK BRAYDEN((3 CONTRIBUTE)
 *  Tech for Good 2022 (1 Oct 2022)**
 
 ### Gallery:
-![](/images/Tinkering%20club/picture10.jpg)
-
-![](/images/Tinkering%20club/picture11.jpg)
-
-![](/images/Tinkering%20club/picture12.jpg)
