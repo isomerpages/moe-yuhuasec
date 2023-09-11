@@ -33,8 +33,6 @@ A cadet understands the importance of a fit body, takes ownership to maintain a 
 **Committed Heart:**  
 A cadet has a committed heart and lives by the NCC Core Values, with a strong sense of purpose to serve his team, school and nation. The cadet learns passionately to develop his own abilities and proactively contributes towards wherever he is.
 
-
-
 ### Our Team
 
 **Teacher Officers:**   
