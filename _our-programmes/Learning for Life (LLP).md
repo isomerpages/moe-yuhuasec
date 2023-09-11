@@ -5,11 +5,12 @@ description: ""
 ---
 # **Learning for Life (LLP)**
 Yuhua Secondary School’s Learning for Life (LLP) programme, MELODY (Music Empowered Learners, Our Dynamic Yuhuans) is designed to create authentic and engaging arts learning experiences for our students to develop holistically. Beyond equipping students with skills to perform and express themselves, the arts provide platforms for students to collaborate and develop traits and dispositions like determination, tenacity, a desire for excellence, and exercise critical and creative thinking. 
+![](/images/1)yhss%20llp%20framework%20(overview).PNG)
 
 ### **Key / Milestone Programmes**
 Yuhua Secondary School’s LLP framework is structured around a tiered approach to provide a balanced mix of programmes that will meet the learning needs and aspirations of all students.  
 
-<img src="/images/LLP%201.jpg" style="width:50%">
+<img src="" style="width:50%">
 
 <img src="/images/LLP%202.jpg" style="width:50%">
 
@@ -26,9 +27,3 @@ Top 10 (Lower Secondary Category)
 
 ### **Social Media**
 [YHSS Performances](https://youtube.com/playlist?list=PLPcKnMGv574196ceMe8p4wxVUEiiDx8g1)
-
-
-
-
-
-
