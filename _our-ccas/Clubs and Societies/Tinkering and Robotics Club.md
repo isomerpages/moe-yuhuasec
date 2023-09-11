@@ -40,9 +40,5 @@ COM MEMBER:ONG CHEN TECK BRAYDEN((3 CONTRIBUTE)
 *  NRC WRO® RoboMission (Regular) 2022 (7 Sept 2022)
 *  Tech for Good 2022 (1 Oct 2022)**
 
-### Gallery: 
-
-
-
-
-
+### Gallery:
+![](/images/Tinkering%20club/picture10.jpg)
