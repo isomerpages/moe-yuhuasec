@@ -12,7 +12,6 @@ Yuhua Secondary School’s Learning for Life (LLP) programme, MELODY (Music Empo
 Yuhua Secondary School’s LLP framework is structured around a tiered approach to provide a balanced mix of programmes that will meet the learning needs and aspirations of all students.  
 
 
-
 Through a wide range of tactile, digital, and audience-based learning experiences introduced progressively from Secondary One onwards, students have multiple opportunities to explore the arts, ignite their interests, pursue their passion, and grow their talents. In school, students also have access to various performing arts spaces to enjoy a leisurely jam session, or perform for an audience.
 
 ### **Achievements**
