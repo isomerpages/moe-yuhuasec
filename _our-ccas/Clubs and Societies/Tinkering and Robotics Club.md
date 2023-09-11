@@ -6,7 +6,7 @@ third_nav_title: Clubs and Societies
 ---
 # **Tinkering and Robotics Club**
 
-![]()
+![](/images/yhsstrc1.jpg)
 
 ### Background of Robotics Club
 
