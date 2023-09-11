@@ -19,9 +19,8 @@ To Nurture Inspiring Leaders and Committed Citizens through Fun, Adventurous and
 ##### Motto
 To Serve with Pride and Dedication
 
-##### Tagline
+##### Tagline<br>
 Nurturing. Committed. Cool.
-
 ##### Theme
 ‘Cadet Strong’, comprising of the following elements:
 **Resilient Mind:**   
@@ -54,8 +53,7 @@ USM: MUHAMMAD NUR HASIF BIN KHAIRUL SHAM (3 CARE)<br>ASM: MARK JACHIN GUMBAN MIR
 **Senior Cadets (Secondary 2):**
  Proficiency Badge Test<br>Total Defence Badge (Silver)<br>Camp STEEL<br>Orienteering Badge Test<br>Technical Handling &amp; Individual Marksmanship Training (SAR21)<br> Precision Drills Course<br>Freestyle Drills Course<br>Basic First Aid Course Orienteering Competition<br>Shooting Competition (IMT)
 
-**Cadet Leaders and Senior Cadet Leaders (Secondary 3, 4):**   
-
+**Cadet Leaders and Senior Cadet Leaders <br>(Secondary 3, 4):** 
 * Specialist Course
 * Senior Specialist Course
 * Total Defence Badge Test (Gold)
