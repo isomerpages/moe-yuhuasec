@@ -9,27 +9,27 @@ third_nav_title: Physical Sports
 
 ### Background
 
-Formed in 2019, the Yuhua Football Team has developed a strong sense of camaraderie and team spirit. In addition to their participation in the ‘B’ and ‘C’ Division National School Games, friendly games are organised regularly to maintain students’ engagement. 
+Formed in 2019, the Yuhua Football Team has developed a strong sense of camaraderie and team spirit. In addition to their participation in the ‘B’ and ‘C’ Division National School Games, friendly games are organised regularly to maintain students’ engagement.&nbsp;
 
 Our team of teachers and coaches is committed to support the students in their passion for football in alignment with the development of their character and sportsmanship.
 
 ### Our Team
 
-**Teachers:** 
+**Teachers:**&nbsp;
 
 Ms Bo Yiting (OIC)
 
 Mr Muhammad Shukri Shuhaimi (2IC)
 
-Mr Tam Alan 
+Mr Tam Alan&nbsp;
 
 Mr Liew Shang Zhi
 
 Mr Shukri Shuhaimi
 
-**Student Leaders:** 
+**Student Leaders:**&nbsp;
 
-**Team Captain:** Muhammad Izz Danial Bin Muhammad Fadhlin (3 Adaptability)
+**Team Captain:** Muhammad Izz Danial Bin Muhammad Fadhlin (3 Adaptability)<br>
 **Team Vice-Captain:** Muhammad Khalaf Bin Mohamed Abdul Jalil (2 Curiosity)
 
 ### Key Programmes
