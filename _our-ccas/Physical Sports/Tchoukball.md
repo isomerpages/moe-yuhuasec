@@ -18,9 +18,7 @@ Mdm Yeo Aik Ser&nbsp;<br>
 Ms Jenny Ong
 
 ### Student Leaders
-
-Boys  
-Captain: Chew Ting An Cyrus (309)  
+Boys Captain: Chew Ting An Cyrus (309)  
 Vice Captain: Tan Yong Xuan (305)  
 
 ### CCA Highlights
