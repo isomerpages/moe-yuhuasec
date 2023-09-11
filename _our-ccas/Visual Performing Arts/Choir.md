@@ -54,7 +54,7 @@ Vice-President: Manasa Natarajan (3 Resilience) 
 
 ![](/images/choir8.png)
 Photo @sota after SYF AP performance 2023
-  
+
 ### Achievements
 
 * SYF AP 2019 Certificate of Accomplishment
