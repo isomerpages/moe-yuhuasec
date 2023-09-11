@@ -15,16 +15,11 @@ Our team of teachers and coaches is committed to support the students in their p
 
 ### Our Team
 
-**Teachers:**&nbsp;
-
-Ms Bo Yiting (OIC)
-
-Mr Muhammad Shukri Shuhaimi (2IC)
-
-Mr Tam Alan&nbsp;
-
-Mr Liew Shang Zhi
-
+**Teachers:**&nbsp;<br>
+Ms Bo Yiting (OIC)<br>
+Mr Muhammad Shukri Shuhaimi (2IC)<br>
+Mr Tam Alan&nbsp;<br>
+Mr Liew Shang Zhi<br>
 Mr Shukri Shuhaimi
 
 **Student Leaders:**&nbsp;
