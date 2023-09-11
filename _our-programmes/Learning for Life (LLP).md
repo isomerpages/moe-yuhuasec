@@ -25,7 +25,7 @@ Top 10 (Open Category)
 Top 10 (Lower Secondary Category)
 
 ### **Social Media**
-****[YHSS Performances](https://youtube.com/playlist?list=PLPcKnMGv574196ceMe8p4wxVUEiiDx8g1)YHSS Performances
+[YHSS Performances](https://youtube.com/playlist?list=PLPcKnMGv574196ceMe8p4wxVUEiiDx8g1)
 
 
 
