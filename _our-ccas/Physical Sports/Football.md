@@ -22,8 +22,7 @@ Mr Tam Alan&nbsp;<br>
 Mr Liew Shang Zhi<br>
 Mr Shukri Shuhaimi
 
-**Student Leaders:**&nbsp;
-
+**Student Leaders:**&nbsp;<br>
 **Team Captain:** Muhammad Izz Danial Bin Muhammad Fadhlin (3 Adaptability)<br>
 **Team Vice-Captain:** Muhammad Khalaf Bin Mohamed Abdul Jalil (2 Curiosity)
 
