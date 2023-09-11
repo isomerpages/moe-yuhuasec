@@ -17,6 +17,7 @@ Yuhua’s Tinkering and Robotic Club strives to provide a platform for students 
  Mr Sim Lit Sen (OIC)  
  Mr Danial Tan Wee Meng  
  Ms Muliyahna  
+ Mr Low Chee Wah
 
 ### Student Leaders
 President:XAVIER TEO ZI HWEE(3 CARE)   
