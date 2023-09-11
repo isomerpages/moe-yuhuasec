@@ -19,14 +19,11 @@ Yuhua’s Tinkering and Robotic Club strives to provide a platform for students 
  Ms Muliyahna  
 
 ### Student Leaders
-
-President: Evangeline Tan Xiao Mei (309)  
-Vice President 1:  
-Vareshwaran S/O Lingam Kumar (309)  
-Vice President 2: Nipolo Neo Jin Fei (307)  
-Secretary: Prakrit Maleque (304)  
-Logistics: Khong Hou Yan, Joseph (306)  
-
+President:XAVIER TEO ZI HWEE(3 CARE)   
+Vice President 1: RIC NEO JUN WEI (3 CONTRIBUTE)
+Vice President 2:CHAN ZHI HNG(3 CONTRIBUTE) 
+COM MEMBER: CHEW SHI AN RYAN((3 CONTRIBUTE)
+COM MEMBER:ONG CHEN TECK BRAYDEN((3 CONTRIBUTE)
 ### Key Events of the Year
 
 *   Sec 1 - Lego Mindstorm EV3 
