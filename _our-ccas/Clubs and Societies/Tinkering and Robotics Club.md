@@ -42,3 +42,5 @@ COM MEMBER:ONG CHEN TECK BRAYDEN((3 CONTRIBUTE)
 
 ### Gallery:
 ![](/images/Tinkering%20club/picture10.jpg)
+
+![](/images/Tinkering%20club/picture11.jpg)
