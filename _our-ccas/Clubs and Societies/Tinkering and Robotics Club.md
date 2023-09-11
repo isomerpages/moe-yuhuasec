@@ -44,12 +44,8 @@ COM MEMBER:ONG CHEN TECK BRAYDEN((3 CONTRIBUTE)
 
 
 
-| ![](/images/yhsstrc2.jpg)![](/images/yhsstrc3.jpg) ![](/images/yhsstrc4.jpg)![](/images/yhsstrc5.jpg)![](/images/yhsstrc6.jpg)|![](/images/yhsstrc7.jpg) ![](/images/yhsstrc8.jpg)![](/images/yhsstrc9.jpg)![](/images/yhsstrc10.jpg)![](/images/yhsstrc11.jpg)| 
+| ![](/images/yhsstrc3.jpg)![](/images/yhsstrc2.jpg) ![](/images/yhsstrc11.jpg)![](/images/yhsstrc5.jpg)![](/images/yhsstrc6.jpg)|![](/images/yhsstrc7.jpg) ![](/images/yhsstrc8.jpg)![](/images/yhsstrc9.jpg)![](/images/yhsstrc10.jpg)![](/images/yhsstrc12.jpg)| 
 | -------- | -------- | 
-| Text     | Text     | 
 
 
-
-
-
-
+![](/images/yhsstrc4.jpg)
