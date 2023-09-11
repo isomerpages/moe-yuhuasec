@@ -28,7 +28,7 @@ COM MEMBER:ONG CHEN TECK BRAYDEN((3 CONTRIBUTE)
 
 *   Sec 1 - Lego Mindstorm EV3 
 *   Sec 2 - Makeblock Mbot 
-*   Sec 3 - IOT Coding on Microbit  using                                  Javascript and/or Python
+*   Sec 3 - IOT Coding on Microbit using                                  Javascript and/or Python
 
 **Achievements:**
 
