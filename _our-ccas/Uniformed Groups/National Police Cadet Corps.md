@@ -6,12 +6,11 @@ third_nav_title: Uniformed Groups
 ---
 # **National Police Cadet Corps**
 
-![](/images/np%201.jpg)
+![](/images/yhssnpcc1.png)
 
 Background
 ----------
-
-NPCC is an organisation that firmly believes in the development of character, leadership and resilience. Training has evolved from just drills to include more structured and interesting training programs. Though a myriad of activities, values such as discipline, loyalty, integrity, resourcefulness, tenacity and civic-consciousness are inculcated to develop members into Caring and Responsible Citizens.  
+NPCC is an organisation that firmly believes in the development of character, leadership and resilience. Training has evolved from just drills to include more structured and interesting training programs. Through a myriad of activities, values such as discipline, loyalty, integrity, resourcefulness, tenacity and civic-consciousness are inculcated to develop members into Caring and Responsible Citizens.
 
 **NPCC Mission:** To develop our members to be active citizens and community leaders, by working in partnership with Singapore Police Force to fight crime and keep Singapore safe.
 
