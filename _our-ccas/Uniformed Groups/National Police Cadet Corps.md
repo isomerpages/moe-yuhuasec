@@ -55,5 +55,12 @@ OIC: Mr Lee Yi Xin (OC)
 Sec 1: Police Heritage Centre (PHC)  
 Sec 2: Neighbourhood Police Centre (NPC)  
 Sec 3: Home Team Gallery (HTG)
+![](/images/yhssnpcc4.png)
+
+**Courses / Activities:**<br>
+**Sec 1:** <br>
+Field Cooking, Swearing-In, Games Day, CSI (Level 1)  
+**Sec 2:** <br>SGSecure, Unarmed Tactic Course, .22 Revolver Shoot, Cadet Leader Course, Road Safety Marshals, CSI (Level 2)  
+**Sec 3:** <br>Leadership &amp; Mentoring Skills Course (LMSC), .22 Revolver Shoot Test, Advanced CSI
 
 ### Achievements
