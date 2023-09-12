@@ -12,11 +12,11 @@ Background
 ----------
 NPCC is an organisation that firmly believes in the development of character, leadership and resilience. Training has evolved from just drills to include more structured and interesting training programs. Through a myriad of activities, values such as discipline, loyalty, integrity, resourcefulness, tenacity and civic-consciousness are inculcated to develop members into Caring and Responsible Citizens.
 
-**NPCC Mission:** To develop our members to be active citizens and community leaders, by working in partnership with Singapore Police Force to fight crime and keep Singapore safe.
+**NPCC Mission:**&nbsp;To develop our members to be active citizens and community leaders, by working in partnership with Singapore Police Force to fight crime and keep Singapore safe.
 
-**NPCC Vision:** To become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world.
+**NPCC Vision:**&nbsp;To become the best youth organisation in Singapore, one that actively helps to make Singapore the safest place in the world.
 
-**NPCC Values:** Resilience Integrity Service Excellence
+**NPCC Values:**&nbsp;Resilience Integrity Service Excellence
 
 Website:  
 [https://www.facebook.com/YHSSNP](https://www.facebook.com/YHSSNP)
@@ -24,11 +24,8 @@ Website:
 ### Our Team
 
 **Teacher Officers**  
-
-OIC: Mdm Salmi Salim (OC)     
-2IC: Mr Lee Yi Xin (dyOC)    
-Mr Mohamed Azmil    
-Mdm Kavitha
+OIC: Mr Lee Yi Xin (OC)
+<br>2IC:  Mr Mohamed Azmil (dy OC)<br>         Miss Tricia Ong
 
 **Star Leaders:**
 
@@ -45,7 +42,7 @@ Mdm Kavitha
 
 **Sec1**: Campcraft, Police Procedure, Crime Prevention, Road Safety, Total Defence Bronze, 3rd Class Drill
 
-**Sec2**: Adventure Training Camp (ATC), Basic Law, Civil Defence (CD), Community Safety & Security Program (CSSP), Singapore Anti-Narcotics Association (SANA), Total Defence Silver, 2nd Class Drill
+**Sec2**: Adventure Training Camp (ATC), Basic Law, Civil Defence (CD), Community Safety &amp; Security Program (CSSP), Singapore Anti-Narcotics Association (SANA), Total Defence Silver, 2nd Class Drill
 
 **Sec.3**: Survival Training Camp (STC), Crime Scene Investigation (CSI), Police Youth Ambassador (PYA), Markmanship, Homefront Security (HFS), Total Defence Gold, 1st Class Drill
 
@@ -63,7 +60,7 @@ Mdm Kavitha
 
 **Sec.1**: Police Heritage Centre (PHC)   
 **Sec.2**: Neighbourhood Police Centre (NPC)   
-**Sec.3**: Home Team Gallery (HTG) 
+**Sec.3**: Home Team Gallery (HTG)&nbsp;
 
   
 
