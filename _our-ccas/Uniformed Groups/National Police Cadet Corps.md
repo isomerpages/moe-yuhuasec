@@ -62,5 +62,5 @@ Sec 3: Home Team Gallery (HTG)
 Field Cooking, Swearing-In, Games Day, CSI (Level 1)  
 **Sec 2:** <br>SGSecure, Unarmed Tactic Course, .22 Revolver Shoot, Cadet Leader Course, Road Safety Marshals, CSI (Level 2)  
 **Sec 3:** <br>Leadership &amp; Mentoring Skills Course (LMSC), .22 Revolver Shoot Test, Advanced CSI
-
+![](/images/yhssnpcc5.png)![](/images/yhssnpcc6.png)
 ### Achievements
