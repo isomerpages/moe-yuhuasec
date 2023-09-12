@@ -31,7 +31,6 @@ OIC: Mr Lee Yi Xin (OC)
 **NPCC Vice-Chairman:**<br> Evelyn Quah (3 Adaptability)  
 **NPCC Vice-Chairman:**<br> Gwendolyn Jas Lee (3 Contribute)
 
-
 ### Milestones
 
 **Proficiency Badges**  
