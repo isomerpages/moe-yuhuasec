@@ -74,7 +74,7 @@ Sec 2: Adventure Training Camp (ATC) in NPCC Camp Resilience, Pulau Ubin
 * SYF Opening
 * National Day Parade
 
-### **Competitions**
+#### **Competitions**
 * .22 Shooting Competition
 * .38 Shooting Competition
 * Campcraft Competition (bi-annual)
@@ -85,7 +85,7 @@ Sec 2: Adventure Training Camp (ATC) in NPCC Camp Resilience, Pulau Ubin
 ##### **Overseas Educational Visit by HQ:**
 *   OEV to Brunei (Sec 2)    
 *   OEV to Hong Kong (Sec 3)
-##### **External Programmes / Achievements:**
+ ##### **External Programmes / Achievements:**
 **Unit Overall Proficiency Award:**<br>
 The Yuhua NPCC unit achieved the Distinction standard for the Unit Overall Proficiency Award (UOPA) in 2022.
 ![](/images/yhssnpcc10.png)
