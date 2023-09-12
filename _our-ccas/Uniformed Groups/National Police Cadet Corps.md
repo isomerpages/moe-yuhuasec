@@ -18,23 +18,18 @@ NPCC is an organisation that firmly believes in the development of character, le
 
 **NPCC Values:**&nbsp;Resilience Integrity Service Excellence
 
-Website:  
-[https://www.facebook.com/YHSSNP](https://www.facebook.com/YHSSNP)
-
 ### Our Team
 
-**Teacher Officers**  
+**Teacher Officers:**  
 OIC: Mr Lee Yi Xin (OC)
 <br>2IC:  Mr Mohamed Azmil (dy OC)<br>         Miss Tricia Ong
 
-**Star Leaders:**
-
-**NPCC Boys Chairman**: Lim Chao Jie (301)    
-**NPCC Girls Chairman**: Anisa bte Mohammad Ashraful (306)   
-**NPCC Boys Vice-Chairman**: Lee Yong Le Ethan (304)   
-**NPCC Girls Vice-Chairman**: Ng Yoke Ting Belinda (304)
-
-  
+**Star Leaders:**<br>
+**NPCC Chairman:**
+<br>Nurdini Aliah Binte Yuslim Yanis (3 Connect)  
+**NPCC Vice-Chairman:**<br> Ngoo Yu Xuan (3 Resilience)  
+**NPCC Vice-Chairman:**<br> Evelyn Quah (3 Adaptability)  
+**NPCC Vice-Chairman:**<br> Gwendolyn Jas Lee (3 Contribute)
 
 ### Milestones
 
