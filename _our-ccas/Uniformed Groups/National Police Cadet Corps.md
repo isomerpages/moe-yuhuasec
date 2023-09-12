@@ -77,3 +77,13 @@ Sec 2: Adventure Training Camp (ATC) in NPCC Camp Resilience, Pulau Ubin
 * National Day Parade
 
 ### **Competitions**
+* .22 Shooting Competition
+* .38 Shooting Competition
+* Campcraft Competition (bi-annual)
+* Inter-unit Drills Competition (bi-annual)
+* X-Challenge (bi-annual)
+* Youth Video Competition
+
+##### **Overseas Educational Visit by HQ:**
+
+
