@@ -30,24 +30,15 @@ Top 10 (Lower Secondary Category)
 
 | Column 1 | Column 2 | 
 | -------- | -------- | 
-| Text     | Text     | 
+| Workshops and Masterclasses| Learning Journeys to External Arts Institutions | 
+
+| Column 1 | Column 2 | 
+|-------- | -------- | 
+| Dance Performance at Aesthetics Day|9) Fashion Runway at Aesthetics Day| 
 
 | Column 1 | Column 2 | 
 | -------- | -------- | 
-| Text     | Text     | 
-
-| Column 1 | Column 2 | 
-| -------- | -------- | 
-| Text     | Text     | 
-
-| Column 1 | Column 2 | 
-| -------- | -------- | 
-| Text     | Text     | 
-
-
-
-
+| 10) SYF Youth Station 2023 Performance Showcase at the library@Esplanade| 11) Black Box    | 
 
 ### **Social Media**
 [YHSS Performances](https://youtube.com/playlist?list=PLPcKnMGv574196ceMe8p4wxVUEiiDx8g1)
-
