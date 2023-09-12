@@ -92,7 +92,8 @@ The Yuhua NPCC unit achieved the Distinction standard for the Unit Overall Profi
 ###### SPF-NPCC Pinnacle Badge 2023:
 * **Station Inspector:** Mohammed Arddrean Zikry Bin Mohammed Zakry (4 Connect)
 * **Station Inspector:** Krishnarajan Jeevanesan (4 Resilience)
-* Best Unit Cadet Award 2023
+
+**Best Unit Cadet Award 2023:**
 * Male : Chua Chee Yang (4 Contribute)
 * Female: Chong Xuan Ya Glenda (4 Adaptability)
 *![](/images/yhssnpcc11.png)
