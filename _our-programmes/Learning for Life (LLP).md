@@ -24,11 +24,10 @@ Through a wide range of tactile, digital, and audience-based learning experience
 |-------- | -------- | 
 | Learning Journeys to External Arts Institutions|Dance Performance at Aesthetics Day| 
 
-| ![](/images/yhssllp9.png)| ![](/images/yhssllp.png)| 
+| ![](/images/yhssllp9.png)![](/images/yhssllp11.png)| ![](/images/yhssllp.png)| 
 | -------- | -------- | 
-|Fashion Runway at Aesthetics Day | SYF Youth Station 2023 Performance Showcase at the library@Esplanade | 
+|Fashion Runway at Aesthetics Day&Black Box| SYF Youth Station 2023 Performance Showcase at the library@Esplanade | 
 
-11) Black Box   
 
 
 ### **Achievements**
