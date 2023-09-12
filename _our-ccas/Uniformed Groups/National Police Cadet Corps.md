@@ -67,5 +67,7 @@ Field Cooking, Swearing-In, Games Day, CSI (Level 1)
 **Camps:**<br>
 Sec 1-3: Unit Annual Camp cum Field Cooking
 Sec 2: Adventure Training Camp (ATC) in NPCC Camp Resilience, Pulau Ubin
+![](/images/yhssnpcc7.png)
+![](/images/yhssnpcc8.png)
 
 ### Achievements
