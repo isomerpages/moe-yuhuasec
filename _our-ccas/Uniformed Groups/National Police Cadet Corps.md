@@ -70,4 +70,10 @@ Sec 2: Adventure Training Camp (ATC) in NPCC Camp Resilience, Pulau Ubin
 ![](/images/yhssnpcc7.png)
 ![](/images/yhssnpcc8.png)
 
-### Achievements
+**HQ Parades:**<br>
+* NPCC Annual Parade
+* Police Day Parade
+* SYF Opening
+* National Day Parade
+
+### **Competitions**
