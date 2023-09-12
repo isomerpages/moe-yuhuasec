@@ -8,8 +8,8 @@ third_nav_title: Uniformed Groups
 
 ![](/images/yhssnpcc1.png)
 
-Background:
-----------
+## Background:
+
 NPCC is an organisation that firmly believes in the development of character, leadership and resilience. Training has evolved from just drills to include more structured and interesting training programs. Through a myriad of activities, values such as discipline, loyalty, integrity, resourcefulness, tenacity and civic-consciousness are inculcated to develop members into Caring and Responsible Citizens.
 
 **NPCC Mission:**&nbsp;To develop our members to be active citizens and community leaders, by working in partnership with Singapore Police Force to fight crime and keep Singapore safe.
@@ -33,8 +33,7 @@ OIC: Mr Lee Yi Xin (OC)
 ![](/images/yhssnpcc2.png)
 ### Milestones
 
-**Proficiency Badges:**  
-
+##### **Proficiency Badges:**  
 **Sec1**: Campcraft, Police Procedure, Crime Prevention, Road Safety, Total Defence Bronze, 3rd Class Drill
 
 **Sec2**:Adventure Training Camp (ATC), Basic Law, Civil Defence (CD), Community Safety &amp; Security Program (CSSP), Singapore Anti-Narcotics Association (SANA), Total Defence Silver, 2nd Class Drill
@@ -43,28 +42,28 @@ OIC: Mr Lee Yi Xin (OC)
  
 **Sec.4**: Best Unit Cadet (BUC), SPF-NPCC Badge
 
-**Enrichment**
+##### **Enrichment:**
 
 **Sec.1**: First Aid certification    
 **Sec.2**: One-Star Kayaking certification   
 **Sec.3**: Air Pistol
 ![](/images/yhssnpcc3.png)
 
-**Visits:**<br>
+##### **Visits:**<br>
 Sec 1: Police Heritage Centre (PHC)  
 Sec 2: Neighbourhood Police Centre (NPC)  
 Sec 3: Home Team Gallery (HTG)
 ![](/images/yhssnpcc4.png)
 
-**Courses / Activities:**<br>
+##### **Courses / Activities:**<br>
 **Sec 1:** <br>
 Field Cooking, Swearing-In, Games Day, CSI (Level 1)  
 **Sec 2:** <br>SGSecure, Unarmed Tactic Course, .22 Revolver Shoot, Cadet Leader Course, Road Safety Marshals, CSI (Level 2)  
 **Sec 3:** <br>Leadership &amp; Mentoring Skills Course (LMSC), .22 Revolver Shoot Test, Advanced CSI
 ![](/images/yhssnpcc5.png)![](/images/yhssnpcc6.png)
 
-**Camps:**<br>
-Sec 1-3: Unit Annual Camp cum Field Cooking
+##### **Camps:**
+Sec 1-3: Unit Annual Camp cum Field Cooking<br>
 Sec 2: Adventure Training Camp (ATC) in NPCC Camp Resilience, Pulau Ubin
 ![](/images/yhssnpcc7.png)
 ![](/images/yhssnpcc8.png)
