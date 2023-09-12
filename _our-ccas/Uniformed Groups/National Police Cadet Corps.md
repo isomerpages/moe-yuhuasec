@@ -85,5 +85,8 @@ Sec 2: Adventure Training Camp (ATC) in NPCC Camp Resilience, Pulau Ubin
 * Youth Video Competition
 
 ##### **Overseas Educational Visit by HQ:**
-
+*   OEV to Brunei (Sec 2)
+    
+*   OEV to Hong Kong (Sec 3)
+    
 
