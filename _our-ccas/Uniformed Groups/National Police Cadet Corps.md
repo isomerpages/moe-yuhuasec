@@ -85,8 +85,8 @@ Sec 2: Adventure Training Camp (ATC) in NPCC Camp Resilience, Pulau Ubin
 * Youth Video Competition
 
 ##### **Overseas Educational Visit by HQ:**
-*   OEV to Brunei (Sec 2)
-    
+*   OEV to Brunei (Sec 2)    
 *   OEV to Hong Kong (Sec 3)
-    
-
+##### **External Programmes / Achievements:**
+**Unit Overall Proficiency Award:**<br>
+The Yuhua NPCC unit achieved the Distinction standard for the Unit Overall Proficiency Award (UOPA) in 2022.
