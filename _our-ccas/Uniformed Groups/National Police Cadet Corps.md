@@ -37,13 +37,14 @@ OIC: Mr Lee Yi Xin (OC)
 
 **Sec1**: Campcraft, Police Procedure, Crime Prevention, Road Safety, Total Defence Bronze, 3rd Class Drill
 
-**Sec2**: Adventure Training Camp (ATC), Basic Law, Civil Defence (CD), Community Safety &amp; Security Program (CSSP), Singapore Anti-Narcotics Association (SANA), Total Defence Silver, 2nd Class Drill
+**Sec2**:Adventure Training Camp (ATC), Basic Law, Civil Defence (CD), Community Safety &amp; Security Program (CSSP), Singapore Anti-Narcotics Association (SANA), Total Defence Silver, 2nd Class Drill
+ Adventure Training Camp (ATC), Basic Law, Civil Defence (CD), Community Safety &amp; Security Program (CSSP), Singapore Anti-Narcotics Association (SANA), Total Defence Silver, 2nd Class Drill
 
-**Sec.3**: Survival Training Camp (STC), Crime Scene Investigation (CSI), Police Youth Ambassador (PYA), Markmanship, Homefront Security (HFS), Total Defence Gold, 1st Class Drill
+**Sec.3**: Crime Scene Investigation (CSI), Police Youth Ambassador (PYA), Markmanship, Homefront Security (HFS), Total Defence Gold, 1st Class Drill
+
 
 **Sec.4**: Best Unit Cadet (BUC), SPF-NPCC Badge
 
-  
 
 **Enrichment**
 
