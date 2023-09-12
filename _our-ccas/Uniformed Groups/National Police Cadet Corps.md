@@ -33,7 +33,7 @@ OIC: Mr Lee Yi Xin (OC)
 ![](/images/yhssnpcc2.png)
 ### Milestones
 
-**Proficiency Badges**  
+**Proficiency Badges:**  
 
 **Sec1**: Campcraft, Police Procedure, Crime Prevention, Road Safety, Total Defence Bronze, 3rd Class Drill
 
@@ -49,7 +49,6 @@ OIC: Mr Lee Yi Xin (OC)
 **Sec.1**: First Aid certification    
 **Sec.2**: One-Star Kayaking certification   
 **Sec.3**: Air Pistol
-
-
+![](/images/yhssnpcc3.png)
 
 ### Achievements
