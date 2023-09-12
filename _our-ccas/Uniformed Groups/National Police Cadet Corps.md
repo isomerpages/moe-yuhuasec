@@ -51,4 +51,9 @@ OIC: Mr Lee Yi Xin (OC)
 **Sec.3**: Air Pistol
 ![](/images/yhssnpcc3.png)
 
+**Visits:**<br>
+Sec 1: Police Heritage Centre (PHC)  
+Sec 2: Neighbourhood Police Centre (NPC)  
+Sec 3: Home Team Gallery (HTG)
+
 ### Achievements
