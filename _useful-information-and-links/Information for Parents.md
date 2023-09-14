@@ -4,7 +4,6 @@ permalink: /useful-information-and-links/information-for-parents/
 description: ""
 ---
 # **Information for Parents**
-
 ### Term 3 Letter for 2023
 ----------------------
 Dear Parents,  
