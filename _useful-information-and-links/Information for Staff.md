@@ -84,26 +84,6 @@ For Teaching, Learning and School-based Assessment of Mother Tongue Languages.
 <br>
 <br>
 
-##### 5. e-Library OPAC
-
-<div>
-<div style="float: left">
-<a href="https://schoolibrary.spydus.com.sg/yuhuasec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">
-<img src="/images/library(1).jpg" style="width:100%">
-</a> Click on the e-Library Logo. <br>
-For Access to a world of information, details of newest books, magazines and digital resources and loan records.
-	</div>
-</div>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 ### MOE HQ &amp; HR Portals
 
 ##### 1. SC Mobile
