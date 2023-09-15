@@ -4,12 +4,13 @@ permalink: /useful-information-and-links/information-for-parents/
 description: ""
 ---
 # **Information for Parents**
-
-### Term 3 Letter for 2023
+### Term 4 Letter for 2023
 ----------------------
 Dear Parents,  
-You may access the Term 3 Letter for 2023 [here.](/files/yhss%202023%20term%203%20letter%20(go%202023%20402).pdf)
-
+You may access the Term 4 Letter for 2023  [here.](/files/yhss%202023%20term%204%20letter%20(final).pdf)
+### Term 3 Letter for 2023
+Dear parents,
+You may access the Term 3 Letter for 2023[here.](/files/yhss%202023%20term%203%20letter%20(go%202023%20402).pdf)<br>
 
 ### 2023 Semester 2 Timetables
 -----------------------------------

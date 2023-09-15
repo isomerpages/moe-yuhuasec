@@ -1,36 +1,28 @@
 ---
 title: National Cadet Corps
-permalink: /our-ccas/uniformed-groups/national-cadet-corps
+permalink: /our-ccas/uniformed-groups/national-cadet-corps/
 description: ""
 third_nav_title: Uniformed Groups
 ---
 # **National Cadet Corps**
 
-<img src="/images/ncc.png" 
-     style="width:25%">
+<img src="/images/ncc.png" style="width:25%">
 
 ### Background
-
-Our NCC cadets are trained in a variety of skills, starting with a focus on bonding and induction into the NCC (Land) training culture. Secondary Twos will learn intermediate-level Drills and have more opportunities to foster their 'Adventurous Spirit'. Secondary Threes will learn advanced Drills and are exposed to leadership roles, where they are given opportunities to plan and execute activities. Their four-year involvement with NCC will provide much needed physical, mental and emotional challenges that will teach cadets leadership, discipline and teamwork. These skills enables cadets to be more confident and ready for National Service. More, importantly, Yuhua NCC strives to nurture students who are able to Care, Connect and Contribute to both the school and the larger community.
-
+Experience a transformative journey with our NCC cadet program, designed to cultivate a diverse range of skills. From the moment they join, cadets are immersed in a culture of unity and camaraderie, forming lasting bonds within the NCC (Land) training community. As Secondary Twos progress, they engage in intermediate-level Drills, unlocking the gateway to their 'Adventurous Spirit' through thrilling experiences. Moving forward, Secondary Threes undergo advanced Drill training and step into leadership roles, empowering them to plan and execute activities, fostering invaluable qualities like initiative and decision-making. Over four years, cadets embrace physical, mental, and emotional challenges, acquiring essential attributes such as leadership, discipline, and teamwork. By developing these skills, cadets emerge as confident individuals, fully prepared for National Service. Above all, Yuhua NCC is dedicated to nurturing compassionate, connected, and contributing students, instilling a sense of care and community engagement that extends beyond the school walls.
 
 ##### Vision
 To have Extraordinary Youth Leaders
-
 ##### Mission
 To Nurture Inspiring Leaders and Committed Citizens through Fun, Adventurous and Military-Related Activities
 
 ##### Motto
 To Serve with Pride and Dedication
 
-##### Tagline
+##### Tagline<br>
 Nurturing. Committed. Cool.
-
 ##### Theme
 ‘Cadet Strong’, comprising of the following elements:
-
-
-
 **Resilient Mind:**   
 A cadet with a resilient mind is confident to take on challenges and overcome setbacks.
 
@@ -40,24 +32,18 @@ A cadet understands the importance of a fit body, takes ownership to maintain a 
 **Committed Heart:**  
 A cadet has a committed heart and lives by the NCC Core Values, with a strong sense of purpose to serve his team, school and nation. The cadet learns passionately to develop his own abilities and proactively contributes towards wherever he is.
 
-
-
 ### Our Team
 
 **Teacher Officers:**   
 OIC: Mr Fairoz Sugianto   
 2IC: Mr Desmond Wee   
-Mr Liew Zhen Hao   
-Mr Eugene Chew
+Ms Grace Tan
 
 ### CCA Leaders
-USM: Saravanan Bharat Kumar (309)   
-ASM: Mohamed Fazari bin Firdous (301)
-
-
+USM: MUHAMMAD NUR HASIF BIN KHAIRUL SHAM (3 CARE)<br>ASM: MARK JACHIN GUMBAN MIRASOL (3 CONTRIBUTE)**
 ### Key Events of the Year
 **Junior Cadets (Secondary 1):** 
-* Affirmation Ceremony  
+* Affirmation Ceremony 
 * Total Defence Badge (Bronze)   
 * Camp FORGE (including Technical Handling for SAR21)
 * Basic Survival Programme
@@ -65,20 +51,9 @@ ASM: Mohamed Fazari bin Firdous (301)
 * 1-star Kayaking Certification Course
 
 **Senior Cadets (Secondary 2):**
+ Proficiency Badge Test<br>Total Defence Badge (Silver)<br>Camp STEEL<br>Orienteering Badge Test<br>Technical Handling &amp; Individual Marksmanship Training (SAR21)<br> Precision Drills Course<br>Freestyle Drills Course<br>Basic First Aid Course Orienteering Competition<br>Shooting Competition (IMT)
 
-* Proficiency Badge Test
-* Total Defence Badge (Silver)
-* Camp STEEL
-* Orienteering Badge Test
-* Technical Handling & Individual Marksmanship Training (SAR21)
-* Precision Drills Course
-* Freestyle Drills Course
-* Basic First Aid Course
-* Orienteering Competition
-* Shooting Competition (IMT)
-
-**Cadet Leaders and Senior Cadet Leaders (Secondary 3, 4):**   
-
+**Cadet Leaders and Senior Cadet Leaders <br>(Secondary 3, 4):** 
 * Specialist Course
 * Senior Specialist Course
 * Total Defence Badge Test (Gold)
@@ -89,3 +64,6 @@ ASM: Mohamed Fazari bin Firdous (301)
 * Shooting Competition (Live Range)
 * National Day Parade
 * Cadet Officer Course
+
+**Outstanding Cadet Award(2023):**<br>
+MUHAMAD IMAN BIN ISMAIL (4 RESPECT)

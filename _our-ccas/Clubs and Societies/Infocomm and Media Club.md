@@ -1,6 +1,6 @@
 ---
 title: Infocomm and Media Club
-permalink: /our-ccas/Clubs-and-Societies/infocomm-and-media-club
+permalink: /our-ccas/Clubs-and-Societies/infocomm-and-media-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
@@ -10,26 +10,36 @@ third_nav_title: Clubs and Societies
 
 ### Background
 
-The Yuhua Infocomm and Media Club consists of teachers and students who have strong initiative and innovative in media, audio and video production. We are responsible in making sure that the school’s video and audio system are functioning for assemblies and events. The club is also ready to contribute and support the school in developing students who are keen in IT, photography and event management. We will sharpen their skills and empower them to be the voices of Yuhua Secondary as they will cover school events through their lens and capture them on print.  
+Yuhua Infocomm and Media Club teachers aim to provide its members with opportunities to develop their ICT skills and media skills, as well as build their portfolio in two interconnected areas: the Apple New Media Programme and audio-visual support. We engage students through the use of various digital applications, such as GarageBand, Jigspace, Keynote, AR Makr, 3D draw, Reality composer and many others, to promote a more interactive and enriching learning experience for them. By utilizing these applications, students are able to acquire skills in photography and video production. Additionally, they can further enhance their competencies in these areas through in-house training sessions by “new media”, participation in national competitions, and providing audio-visual support for school events.
 
 ### Teachers in Charge
 
 Mr Dolly Yansen  
- Ms Quek Poh Noi  
- Mdm Aliza Bte Main  
- Ms Shahidah Bte Safii
+&nbsp; Ms Quek Poh Noi  
+&nbsp; Ms Shahidah Bte Safii  
+&nbsp; Mdm Lalitha
 
 ### Student Leaders
 
-**President:** Darius Lim (308)  
-**Vice-President**: Tatiana Sing (305)  
+**President:**&nbsp;
+Muhammad Rizqi Pujangga Bin Kasiran 
+**Vice-President**:  Lim Kun Wei Alexander Granville 
+**Exco-Committee**: &nbsp;
+* Ong Jun Hong Frederick 
+* Hanns Goh (Wu Yaoguo)
+* Muhammad Shahrul Nizam Bin Mohamed Mazlan
+* Amanda Pamelia Binte Ismail
+
 
 ### CCA Highlights
 
 **Daily P.A. System duty for Morning Assembly**
-<img src="/images/2abc.png" 
-     style="width:70%">
+<img src="/images/2abc.png" style="width:100%">
 
-**Videography and Photography**
-<img src="/images/3abc.png" 
-     style="width:70%">
+**External Programmes / Achievements**:                     
+<img src="/images/infocom1.png" style="width:100%">
+
+**Infocom-members and their products**:                     
+<img src="/images/infocom%20members.png" style="width:100%">
+		 		
+<img src="/images/infocom%20work.png" style="width:100%">
