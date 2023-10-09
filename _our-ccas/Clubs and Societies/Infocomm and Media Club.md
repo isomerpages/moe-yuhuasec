@@ -39,7 +39,8 @@ Muhammad Rizqi Pujangga Bin Kasiran
 **External Programmes / Achievements**:                     
 <img src="/images/infocom1.png" style="width:70%">
 
-**Infocom-members and their products**:                     
+**Infocom-members and their products**:
+
 <img src="/images/infocom%20members.png" style="width:70%">
 		 		
 <img src="/images/infocom%20work.png" style="width:70%">
