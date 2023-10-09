@@ -71,6 +71,6 @@ A significant highlight for the Info Ambassadors and English Language teachers i
 ### Other Websites
 
 How to browse through our library collection?  
-![](/images/library%206.png)
+<img src="/images/library%206.png" style="width:80%">
 You can access OPAC (Online Public Access Catalogue) to search for the availability of the books in the school libraries and check if they have any overdue books. OPAC can be accessed from mobile too. Our book recommendations are also available at this following link:
 [https://schoolibrary.moe.edu.sg/yuhuasec/](https://schoolibrary.moe.edu.sg/yuhuasec/)
