@@ -6,7 +6,7 @@ third_nav_title: Clubs and Societies
 ---
 # **Media Resource Library**
 
-![](/images/io.png)
+<img src="/images/io.png" style="width:70%">
 
 ### Background
 
