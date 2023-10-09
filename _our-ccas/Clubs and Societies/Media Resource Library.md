@@ -56,7 +56,6 @@ The Info Ambassadors create thematic displays based on both local and internatio
 
 **Book Promotion:** 
 <img src="/images/library%202.png" style="width:80%">
-
 One of the key focuses of the Info Ambassadors is honing their book promotion skills. Through training, they learn how to deliver compelling one-minute book promotions, captivating their peers' attention and sparking their interest in diverse literary works. By incorporating hands-on activities into their promotions, the Info Ambassadors ensure that fellow Yuhuans actively engage with the books, fostering a deeper connection and understanding.
 
 **World Book Day:**
@@ -66,8 +65,9 @@ A significant highlight for the Info Ambassadors and English Language teachers i
 **Achievements:**  
 **22nd Inter School National Scrabble Competition (ISNSC) 2023**  
 ‘B’ Division Team - 1st Runner Up for Bowl Category
-![](/images/library3.png)
-![](/images/library5.png)
+<img src="/images/library3.png" style="width:80%">
+<img src="/images/library5.png" style="width:80%">
+
 
 
 ### Other Websites
