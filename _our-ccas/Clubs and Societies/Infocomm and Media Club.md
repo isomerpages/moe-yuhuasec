@@ -14,7 +14,7 @@ Yuhua Infocomm and Media Club teachers aim to provide its members with opportuni
 
 ### Teachers in Charge
 
-Mr Dolly Yansen  
+&nbsp; Mr Dolly Yansen  
 &nbsp; Ms Quek Poh Noi  
 &nbsp; Ms Shahidah Bte Safii  
 &nbsp; Mdm Lalitha
