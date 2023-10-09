@@ -55,7 +55,8 @@ Our student librarians proudly hold the title of "Info Ambassadors." These dedic
 The Info Ambassadors create thematic displays based on both local and international writers. These displays showcase a wide range of genres and introduce students to new and current collections available in the library. By boosting Yuhuans' interest in various literary genres, the Info Ambassadors broaden their reading horizons and empower them to explore different types of literature.**
 
 **Book Promotion:** 
-![](/images/library%202.png)
+<img src="/images/library%202.png" style="width:80%">
+
 One of the key focuses of the Info Ambassadors is honing their book promotion skills. Through training, they learn how to deliver compelling one-minute book promotions, captivating their peers' attention and sparking their interest in diverse literary works. By incorporating hands-on activities into their promotions, the Info Ambassadors ensure that fellow Yuhuans actively engage with the books, fostering a deeper connection and understanding.
 
 **World Book Day:**
