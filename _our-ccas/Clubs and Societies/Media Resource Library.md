@@ -49,7 +49,9 @@ Fasha Nadhirah Massufian (3 Care)
 Our student librarians proudly hold the title of "Info Ambassadors." These dedicated individuals not only facilitate the smooth functioning of the library but also take on the role of event managers, organising impactful programmes in the library's activity space. Throughout the year, they curate and set up engaging displays, such as those celebrating World Book Day, World Environment Day, and significant national events like National Day and Racial Harmony Day. By actively participating in these events, the Info Ambassadors empower fellow Yuhuans to become responsible readers and conscientious citizens of the 21st century.
 
 **Thematic displays:**
-![](/images/library%201.png)
+
+<img src="/images/library%201.png" style="width:70%">
+
 The Info Ambassadors create thematic displays based on both local and international writers. These displays showcase a wide range of genres and introduce students to new and current collections available in the library. By boosting Yuhuans' interest in various literary genres, the Info Ambassadors broaden their reading horizons and empower them to explore different types of literature.**
 
 **Book Promotion:** 
