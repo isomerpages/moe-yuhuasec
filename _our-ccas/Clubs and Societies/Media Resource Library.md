@@ -68,8 +68,6 @@ A significant highlight for the Info Ambassadors and English Language teachers i
 <img src="/images/library3.png" style="width:80%">
 <img src="/images/library5.png" style="width:80%">
 
-
-
 ### Other Websites
 
 How to browse through our library collection?  
