@@ -15,19 +15,20 @@ sections:
         - title: Open House Site
           description: More information here!
           url: https://sites.google.com/moe.edu.sg/yhss-e-openhouse/home
-        - title: Semester 2 Timetable
-          description: Click here to access!
-          url: /useful-information-and-links/information-for-parents
+        - title: YHSS Flickr page
+          description: Access our school photos here!
+          url: https://flickr.com/photos/197130688@N02/albums
         - title: Calendar of Events
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infopic:
-      title: Direct School Admissions (DSA) 2023
-      subtitle: DSA 2023
-      description: You may now access the DSA information for 2023 via the following link
+      title: Caring Teacher Awards 2024
+      subtitle: CTA 2024
+      description: Dear Parents and Students, you may now nominate teachers for the
+        NIE Caring Teacher Awards 2024!
       button: Click here
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/direct-school-admissions-dsa
-      image: /images/dsa2023.png
+      url: https://www.cta.nie.edu.sg
+      image: /images/poster - cta 2024_page-0001.jpg
       alt: Image alt text
   - infopic:
       title: YH Café

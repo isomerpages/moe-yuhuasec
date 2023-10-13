@@ -14,7 +14,7 @@ Yuhua Infocomm and Media Club teachers aim to provide its members with opportuni
 
 ### Teachers in Charge
 
-Mr Dolly Yansen  
+&nbsp; Mr Dolly Yansen  
 &nbsp; Ms Quek Poh Noi  
 &nbsp; Ms Shahidah Bte Safii  
 &nbsp; Mdm Lalitha
@@ -34,12 +34,13 @@ Muhammad Rizqi Pujangga Bin Kasiran
 ### CCA Highlights
 
 **Daily P.A. System duty for Morning Assembly**
-<img src="/images/2abc.png" style="width:100%">
+<img src="/images/2abc.png" style="width:70%">
 
 **External Programmes / Achievements**:                     
-<img src="/images/infocom1.png" style="width:100%">
+<img src="/images/infocom1.png" style="width:70%">
 
-**Infocom-members and their products**:                     
-<img src="/images/infocom%20members.png" style="width:100%">
+**Infocom-members and their products**:
+
+<img src="/images/infocom%20members.png" style="width:70%">
 		 		
-<img src="/images/infocom%20work.png" style="width:100%">
+<img src="/images/infocom%20work.png" style="width:70%">

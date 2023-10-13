@@ -6,7 +6,7 @@ third_nav_title: Clubs and Societies
 ---
 # **Tinkering and Robotics Club**
 
-![](/images/yhsstrc1.jpg)
+<img src="/images/yhsstrc1.jpg" style="width:70%">
 
 ### Background of Robotics Club
 
@@ -15,8 +15,8 @@ Yuhua’s Tinkering and Robotic Club strives to provide a platform for students 
 ### Teachers in Charge
 
  Mr Sim Lit Sen (OIC)  
- Mr Danial Tan Wee Meng  
- Ms Muliyahna  
+&nbsp;Mr Danial Tan Wee Meng  
+&nbsp;Ms Muliyahna  
  Mr Low Chee Wah
 
 ### Student Leaders
