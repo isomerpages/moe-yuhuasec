@@ -5,6 +5,12 @@ description: ""
 ---
 # **Information for Students**
 
+### Subject Selection Exercise Briefing Slides for Secondary 2 (2023)
+
+Dear Sec 2 students, you may access the Subject Selection Exercise briefng slides below.
+
+[Sec 2 Express] 
+
 ### Class Timetable for Semester 2 (2023)
 
 Dear students, you may access your class timetable for Semester 2 via the following links:  
