@@ -20,12 +20,12 @@ Through a wide range of tactile, digital, and audience-based learning experience
 |
 ### **Achievements**
 
-1) SYF Youth Station Project Original Songs 2023
-Top 10 and Honourable Mention (Lower Secondary Category)
-Top 10 (Open Category)
+1) SYF Youth Station Project Original Songs 2023:
+* Top 10 and Honourable Mention (Lower Secondary Category)
+* Top 10 (Open Category)
 
-2) SYF Youth Station Project Original Songs 2022
-Top 10 (Lower Secondary Category)
+2) SYF Youth Station Project Original Songs 2022:
+* Top 10 (Lower Secondary Category)
 
 ### **Social Media**
 [YHSS Performances](https://youtube.com/playlist?list=PLPcKnMGv574196ceMe8p4wxVUEiiDx8g1)
