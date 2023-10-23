@@ -5,6 +5,17 @@ description: ""
 ---
 # **Information for Students**
 
+### Subject Selection Exercise Briefing Slides for Secondary 2 (2023)
+
+Dear Sec 2 students, you may access the Subject Selection Exercise briefng slides below.
+
+[Sec 2 Express](https://github.com/isomerpages/moe-yuhuasec/files/13066934/2023.Sec.2_Subject.Combination.for.2024.Sec.3E.-yr.end.pdf)
+
+[Sec 2 Normal (Academic)](https://github.com/isomerpages/moe-yuhuasec/files/13066942/2023.Sec.2_Subject.Combination.for.2024.Sec.3N.-yr.end.pdf)
+
+[Sec 2 Normal (Technical)](https://github.com/isomerpages/moe-yuhuasec/files/13066944/2023.Sec.2.PTM_Subject.Combination.for.2024.Sec.3T-yr.end.updated.1.pdf)
+
+
 ### Class Timetable for Semester 2 (2023)
 
 Dear students, you may access your class timetable for Semester 2 via the following links:  
