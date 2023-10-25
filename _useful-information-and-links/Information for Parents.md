@@ -159,19 +159,25 @@ You may view a video of the sharing by our ECG Counsellor&nbsp;[here.](https://d
 
 ### Financial Assistance Scheme (FAS)
 
-Please click&nbsp;[here](/files/MOE_FAS_Pamphlet_2022.pdf)&nbsp;for more information on FAS or refer to the&nbsp;[MOE website](https://www.moe.gov.sg/financial-matters/financial-assistance)&nbsp;for further information.
+Please click&nbsp;[here](/files/2023document4a_moe%20fas%20pamphet%20el.pdf)&nbsp;for more information on FAS or refer to the&nbsp;[MOE website](https://www.moe.gov.sg/financial-matters/financial-assistance)&nbsp;for further information.
 
 **Application Process**
 
 Option 1: Online application
 
-Complete the online application via this link&nbsp;[https://go.gov.sg/moe-fas-yuhua-sec-sch](https://go.gov.sg/moe-fas-yuhua-sec-sch)&nbsp;or by scanning the QR code below.&nbsp;Singpass login is required.
+Option 1a. 
 
-<img src="/images/FAS%20QR%20CODE.png" style="width:25%">
+Complete the online application via this link&nbsp;[ https://go.gov.sg/moe-efas]( https://go.gov.sg/moe-efas)&nbsp;or by scanning the QR code below.&nbsp;Singpass login is required.
+
+![QR](/images/11111111.jpg)
+
+Option 1b. eFAS link in PG’s services section.
+
+![QR2](/images/122222222.jpg)
 		 
 Option 2: Via hardcopy/ softcopy application form  
 
-Download the MOE FAS application form&nbsp;[here](/files/MOE-FAS-application-form.pdf)&nbsp;or collect the hardcopy form from the school’s General Office. &nbsp;Please scan and email the required documents together with the completed form to&nbsp;[yuhua\_ss@moe.edu.sg](mailto:yuhua_ss@moe.edu.sg),&nbsp;attention to Mdm Lim Seok Har &amp; Mdm Noraini.&nbsp;&nbsp;Alternatively, the form and documents can be submitted/mailed to the school’s General Office.
+Download the MOE FAS application form&nbsp;[here](/files/document1_2024%20moe%20fas%20application%20form.pdf)&nbsp;or collect the hardcopy form from the school’s General Office. &nbsp;Please scan and email the required documents together with the completed form to&nbsp;[yuhua\_ss@moe.edu.sg](mailto:yuhua_ss@moe.edu.sg),&nbsp;attention to Mdm Lim Seok Har &amp; Mdm Noraini.&nbsp;&nbsp;Alternatively, the form and documents can be submitted/mailed to the school’s General Office.
 
 ### Parents Gateway
 
