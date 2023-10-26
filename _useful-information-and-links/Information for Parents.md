@@ -5,6 +5,36 @@ description: ""
 ---
 # **Information for Parents**
 
+### 2024 Booklists
+--------------
+Secondary 2 (2024)
+
+[Sec 2 G1](/files/yhss%202024%20s2%20g1.pdf)
+
+[Sec 2 G2](/files/yhss%202024%20s2%20g2.pdf)
+
+[Sec 2 G3](/files/yhss%202024%20s2%20g3.pdf)
+
+Secondary 3 (2024)
+
+[Sec 3 Normal (Technical)](/files/yhss%202024%20s3%20nt.pdf)
+
+[Sec 3 Normal (Academic)](/files/yhss%202024%20s3%20na.pdf)
+
+[Sec 3 Express](/files/yhss%202024%20s3%20exp.pdf)
+
+Secondary 4 (2024)
+
+[Sec 4 Normal (Technical)](/files/yhss%202024%20s4%20nt.pdf)
+
+[Sec 4 Normal (Academic)](/files/yhss%202024%20s4%20na.pdf)
+
+[Sec 4 Express](/files/yhss%202024%20s4%20exp.pdf)
+
+Secondary 5 (2024)
+
+[Secondary 5 Normal (Academic)](/files/yhss%202024%20s5%20na.pdf)
+
 ### Subject Selection Exercise Briefing Slides for Secondary 2 (2023)
 
 Dear parents / guardians of Sec 2 students, you may access the Subject Selection Exercise briefng slides below.
@@ -76,31 +106,6 @@ You may access the Weighted Assessment 1 (WA1) Schedules for 2023 by clicking on
 Dear Parents,  
 You may access the Term 1 Letter for 2023&nbsp;[here.](/files/1111YHSS%202023%20Term%201%20Letter.pdf)
 
-### 2023 Booklists
---------------
-Secondary 2 (2023)
-
-[2 Normal (Technical)](/files/YHSS%20S2NT.pdf)
-
-[2 Normal (Academic)](/files/YHSS%20S2NA.pdf)
-
-[2 Express](/files/YHSS%20S2EXP.pdf)
-
-Secondary 3 (2023)
-
-[3 Normal (Technical)](/files/YHSS%20S3NT.pdf)
-
-[3 Normal (Academic)](/files/YHSS%20S3NA.pdf)
-
-[3 Express](/files/YHSS%20S3EXP.pdf)
-
-Secondary 4 (2023)
-
-[4 Normal (Technical)](/files/YHSS%20S4NT.pdf)
-
-[4 Normal (Academic)](/files/YHSS%20S4NA.pdf)
-
-[4 Express](/files/YHSS%20S4EXP.pdf)
 
 ### Class Timetable for Semester 2
 
