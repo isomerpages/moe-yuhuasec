@@ -6,7 +6,7 @@ third_nav_title: Visual Performing Arts
 ---
 # **Dance**
 
-<img src="dance2.jpg" style="width:70%">
+<img src="/images/dance2.jpg" style="width:70%">
 
 ### Background
 
@@ -19,8 +19,7 @@ Dance, as an art form, reaches across centuries and cultures. Our Yuhua Secondar
 To use dancing as a tool of expression and character development.
 
 ### Our Team
-![](/images/Teachers.jpeg)
-
+<img src="/images/Teachers.jpeg" style="width:70%">
 Mdm Suhana Zainal: suhana_zainal@moe.edu.sg
 Mr Raguvaran: raguvaran_rajenderan@moe.edu.sg
 Ms Nor Aisha: nor_aisha_mazlan@moe.edu.sg
