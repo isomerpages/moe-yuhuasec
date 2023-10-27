@@ -31,8 +31,6 @@ Through a wide range of tactile, digital, and audience-based learning experience
  ![](/images/yhssllp5.png)
 Workshops and Masterclasses
 
-
-
 ### **Achievements**
 
 1) SYF Youth Station Project Original Songs 2023:
