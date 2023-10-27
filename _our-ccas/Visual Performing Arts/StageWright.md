@@ -44,7 +44,6 @@ Mdm Rafilah&nbsp;
 | ![](/images/sw2.jpg) |  ![](/images/sw3.jpg)| 
 | -------- | -------- | 
 
-| ![](/images/sw%205.png)||
+| ![](/images/sw%205.png)| ![](/images/sw%206.png)|
 | -------- | -------- | 
 
-<img src="/images/sw%206.png" style="width:50%">
