@@ -17,9 +17,9 @@ Through a wide range of tactile, digital, and audience-based learning experience
 | -------- | -------- |
 | Students' Percussion Performance at Camp Melody| Artists' Showcase at Camp Melody| 
 
-|![](/images/yhssllp5.png)|![](/images/yhssllp6.png)| 
+|![](/images/yhssllp.png)|![](/images/yhssllp6.png)| 
 | -------- | -------- |
-|Workshops and Masterclasses| Post-Exam Learning Activities | 
+|Youth Station 2023 Performance Showcase at the library@Esplanade SYF| Post-Exam Learning Activities | 
 
 | ![](/images/yhssllp7.png)|  ![](/images/yhssllp8.png)| 
 | -------- | -------- |
@@ -28,7 +28,9 @@ Through a wide range of tactile, digital, and audience-based learning experience
 | ![](/images/yhssllp9.png)|  ![](/images/yhssllp11.png)| 
 | -------- | -------- |
 | Fashion Runway at Aesthetics Day|Black box| 
-![](/images/yhssllp.png) SYF Youth Station 2023 Performance Showcase at the library@Esplanade
+
+![](/images/yhssllp5.png)
+Workshops and Masterclasses
 
 ### **Achievements**
 
