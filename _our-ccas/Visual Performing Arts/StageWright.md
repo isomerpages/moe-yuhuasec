@@ -43,10 +43,10 @@ Mdm Rafilah&nbsp;
 * SYF AP 2023 (Certificate of Accomplishment)
 
 
-| ![](/images/sw2.jpg)| ![](/images/sw3.jpg) | 
+|![](/images/sw2.jpg)| ![](/images/sw3.jpg) | 
 | -------- | -------- | 
 |    |     | 
 
-|  ![](/images/sw%205.png)| ![](/images/sw%206.png)| 
+|![](/images/sw%205.png)| ![](/images/sw%206.png)| 
 | -------- | -------- | 
 |      |       |
