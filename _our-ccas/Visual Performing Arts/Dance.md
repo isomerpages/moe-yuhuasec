@@ -6,7 +6,7 @@ third_nav_title: Visual Performing Arts
 ---
 # **Dance**
 
-![](/images/dance2.jpg)
+<img src="dance2.jpg" style="width:70%">
 
 ### Background
 
