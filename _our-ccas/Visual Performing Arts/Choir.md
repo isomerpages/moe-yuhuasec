@@ -5,16 +5,15 @@ description: ""
 third_nav_title: Visual Performing Arts
 ---
 # **Choir**
-
-![](/images/choir7.png)
+<img src="/images/choir7.png" style="width:70%">
 
 ### Background
 
-Formed in 2016, the Yuhua Secondary School Choir is an energetic CCA that encourages confidence and creativity in our members through the art of music-making and singing. 
+Formed in 2016, the Yuhua Secondary School Choir is an energetic CCA that encourages confidence and creativity in our members through the art of music-making and singing.&nbsp;
 
-To prepare and develop our choristers to be ready, resilient and confident, the YHSS Choir strives to uphold our culture of vibrancy, coupled with care. 
+To prepare and develop our choristers to be ready, resilient and confident, the YHSS Choir strives to uphold our culture of vibrancy, coupled with care.&nbsp;
 
-Our choristers are trained by experienced instructors from the Kodaly Academy of Music through comprehensive programmes that include: choir exchanges, concert attendance, performances, participation in the bi-annual Singapore Youth Festival (SYF) Arts Presentation and workshops like Choral Masterclasses. 
+Our choristers are trained by experienced instructors from the Kodaly Academy of Music through comprehensive programmes that include: choir exchanges, concert attendance, performances, participation in the bi-annual Singapore Youth Festival (SYF) Arts Presentation and workshops like Choral Masterclasses.&nbsp;
 
 Together with our instructors, parents and community partners, the YHSS Choir will continue to provide rich learning experiences and opportunities to hone our choristers’ musical knowledge and skills. We also believe in nurturing our choristers beyond their passion in music; to be active learners and responsible citizens who will be able to contribute to the school and even to the wider society in meaningful ways.
 
@@ -32,13 +31,13 @@ Mr Jonathan MacPherson
 
 **2023 - 2024 Student Leaders**
 
-President: Becky Fok Zhi Hui (3 Resilience)  
-Vice-President: Manasa Natarajan (3 Resilience) 
+President: Becky Fok Zhi Hui&nbsp;(3 Resilience)  
+Vice-President: Manasa Natarajan (3 Resilience)&nbsp;
 
 ### Key Events of the Year
 
 * Choral Masterclass with Ms Sonia Nadya Simanjuntak (Indonesia)    
-* Concert Attendance: ONE with André van der Merwe Chamber Choir Concert     
+* Concert Attendance: ONE with André van der Merwe Chamber Choir Concert&nbsp;    
 * Choir Exchange at St Andrew’s Secondary School
 * Biannual Singapore Youth Festival (SYF) Arts Presentation
 * Performances in school and at external events, such as the National Day Heartland celebrations with SportSG
