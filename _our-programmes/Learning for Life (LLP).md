@@ -12,7 +12,6 @@ Yuhua Secondary School’s LLP framework is structured around a tiered approach 
 
 Through a wide range of tactile, digital, and audience-based learning experiences introduced progressively from Secondary One onwards, students have multiple opportunities to explore the arts, ignite their interests, pursue their passion, and grow their talents. In school, students also have access to various performing arts spaces to enjoy a leisurely jam session, or perform for an audience.
 
-
 | ![](/images/yhssllp3.png)|![](/images/yhssllp4.png)| 
 | -------- | -------- |
 | Students' Percussion Performance at Camp Melody| Artists' Showcase at Camp Melody| 
