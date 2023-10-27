@@ -6,7 +6,7 @@ third_nav_title: Clubs and Societies
 ---
 # **Infocomm and Media Club**
 
-![](/images/1%20(2).jpg)
+<img src="/images/1%20(2).jpg" style="width:70%">
 
 ### Background
 
