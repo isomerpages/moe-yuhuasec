@@ -42,6 +42,6 @@ Muhammad Rizqi Pujangga Bin Kasiran
 **Infocom-members and their products**:
 
 <img src="/images/infocom7.jpeg" style="width:70%">
-<img src="/images/infocom%20members.png" style="width:70%">
-		 		
+	 		
 <img src="/images/infocom%20work.png" style="width:70%">
+<img src="/images/infocom%20members.png" style="width:70%">
