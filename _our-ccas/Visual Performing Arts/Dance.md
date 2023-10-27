@@ -39,16 +39,25 @@ Vice President: Nurul Sakinah bte Samsudin (306)
 * JOY of Yuhua
 * GetActive! Singapore Heartlands Festival 2023 with SportsSg
 * Aesthetic Day performance collaboration with other CCA group
+
 ### Achievements
 
 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment
 
 ### Gallery
- |![](/images/dance3.jpg) |![](/images/dance4.jpg)
+
+|![](/images/dance3.jpg) |![](/images/dance4.jpg)
 | -------- | -------- |
 | SYF Dance team 2023    |SYF Dance Practice  |
- |![](/images/dance%209.jpg) | ![](/images/dance%206.png)| -------- | -------- |
-| Chinese New Year Dance Performance 2023    |Seniors’ Farewell Party 2023     |
+
+| ![](/images/dance%209.jpg)| ![](/images/dance%206.png) |  
+| -------- | -------- | 
+| Chinese New Year Dance Performance 2023| Seniors’ Farewell Party 2023| 
+
+| Column 1 | Column 2 |  
+| -------- | -------- | 
+| Text     | Text     | 
+
 |![](/images/dance%207.jpg) |![](/images/dance8.jpg)| -------- | -------- |
 | Dance Practice 2023    |Dance Health &amp; Safety Briefing 2023 |<br>
 
