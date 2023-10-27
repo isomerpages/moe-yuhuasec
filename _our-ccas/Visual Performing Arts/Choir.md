@@ -51,8 +51,9 @@ Vice-President: Manasa Natarajan (3 Resilience)&nbsp;
 |	![](/images/choir5.png)|![](/images/choir6.png)|
 |The YHSS Choir with the teachers, conductor Ms Wynne Lee and pianist Ms Khew Yun Zhen|SYF Day: Taking a short break during our SYF preparations| 
 
-![](/images/choir8.png)
+<img src="/images/choir8.png" style="width:70%">
 Photo @sota after SYF AP performance 2023
+
 ### Achievements
 
 * SYF AP 2019 Certificate of Accomplishment
