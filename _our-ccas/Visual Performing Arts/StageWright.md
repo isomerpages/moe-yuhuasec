@@ -6,7 +6,7 @@ third_nav_title: Visual Performing Arts
 ---
 # **StageWright**
 
-<img src="/images/sw.png" style="width:70%">
+<img src="/images/sw.png" style="width:80%">
 
 ### Background
 
