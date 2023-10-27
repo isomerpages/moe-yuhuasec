@@ -46,9 +46,9 @@ Vice-President: Manasa Natarajan (3 Resilience)&nbsp;
 |![](/images/choir1.png)|![](/images/choir2.png)| 
 | -------- | -------- | 
 | Choral Masterclass with Ms Sonia Nadya Simanjuntak (Indonesia) |Concert Attendance: ONE with André van der Merwe Chamber Choir Concert    | 
-|![](/images/choir3.png)|![](/images/choir4.png)|| -------- | -------- | 
+|![](/images/choir3.png)|![](/images/choir4.png)| 
 |Choir Exchange at St Andrew’s Secondary School |Performance in the school hall| 
-|	![](/images/choir5.png)|![](/images/choir6.png) || -------- | -------- | 
+|	![](/images/choir5.png)|![](/images/choir6.png)|
 |The YHSS Choir with the teachers, conductor Ms Wynne Lee and pianist Ms Khew Yun Zhen|SYF Day: Taking a short break during our SYF preparations| 
 
 ![](/images/choir8.png)
