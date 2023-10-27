@@ -54,11 +54,8 @@ Singapore Youth Festival Arts Presentation - Certificate of Accomplishment
 | -------- | -------- | 
 | Chinese New Year Dance Performance 2023| Seniors’ Farewell Party 2023| 
 
-| Column 1 | Column 2 |  
+|![](/images/dance%207.jpg)|![](/images/dance8.jpg)|  
 | -------- | -------- | 
-| Text     | Text     | 
-
-|![](/images/dance%207.jpg) |![](/images/dance8.jpg)| -------- | -------- |
-| Dance Practice 2023    |Dance Health &amp; Safety Briefing 2023 |<br>
+| Dance Practice 2023 | Dance Health &amp; Safety Briefing 2023| 
 
 [SYF Dance Video Montage: ](https://go.gov.sg/fa1804)![](/images/dance5.jpg)
