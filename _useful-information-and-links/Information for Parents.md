@@ -45,7 +45,6 @@ Dear parents / guardians of Sec 2 students, you may access the Subject Selection
 
 [Sec 2 Normal (Technical)](https://github.com/isomerpages/moe-yuhuasec/files/13066944/2023.Sec.2.PTM_Subject.Combination.for.2024.Sec.3T-yr.end.updated.1.pdf)
 
-
 ### Term 4 Letter for 2023
 ----------------------
 Dear Parents,  
