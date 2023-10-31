@@ -113,11 +113,11 @@ Option 1: Online application
 Option 1a. 
 
 Complete the online application via this link&nbsp;[ https://go.gov.sg/moe-efas]( https://go.gov.sg/moe-efas)&nbsp;or by scanning the QR code below.&nbsp;Singpass login is required.
-<img src="/images/11111111.jpg" style="width:60%">
+<img src="/images/11111111.jpg" style="width:30%">
 
 Option 1b. eFAS link in PG’s services section.
 
-<img src="/images/122222222.jpg" style="width:70%">
+<img src="/images/122222222.jpg" style="width:50%">
 
 Option 2: Via hardcopy/ softcopy application form  
 
