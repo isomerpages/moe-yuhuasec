@@ -117,7 +117,7 @@ Complete the online application via this link&nbsp;[ https://go.gov.sg/moe-efas]
 
 Option 1b. eFAS link in PG’s services section.
 
-<img src="/images/122222222.jpg" style="width:50%">
+<img src="/images/122222222.jpg" style="width:40%">
 
 Option 2: Via hardcopy/ softcopy application form  
 
