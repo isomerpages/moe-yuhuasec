@@ -173,13 +173,12 @@ Option 1: Online application
 Option 1a. 
 
 Complete the online application via this link&nbsp;[ https://go.gov.sg/moe-efas]( https://go.gov.sg/moe-efas)&nbsp;or by scanning the QR code below.&nbsp;Singpass login is required.
-
-![QR](/images/11111111.jpg)
+<img src="/images/11111111.jpg" style="width:60%">
 
 Option 1b. eFAS link in PG’s services section.
 
-![QR2](/images/122222222.jpg)
-		 
+<img src="/images/122222222.jpg" style="width:70%">
+
 Option 2: Via hardcopy/ softcopy application form  
 
 Download the MOE FAS application form&nbsp;[here](/files/document1_2024%20moe%20fas%20application%20form.pdf)&nbsp;or collect the hardcopy form from the school’s General Office. &nbsp;Please scan and email the required documents together with the completed form to&nbsp;[yuhua\_ss@moe.edu.sg](mailto:yuhua_ss@moe.edu.sg),&nbsp;attention to Mdm Lim Seok Har &amp; Mdm Noraini.&nbsp;&nbsp;Alternatively, the form and documents can be submitted/mailed to the school’s General Office.
