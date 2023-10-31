@@ -83,10 +83,6 @@ You may access the materials shared during the Upper Sec PTM via the links below
 [3. Year Head's Sharing](/files/3%20YH's%20Sharing%20for%20Upper%20Sec%20PTM.pdf)
 
 
-
-
-
-
 ### 2023 Weighted Assessment 1 Schedule
 -----------------------------------
 
@@ -105,33 +101,6 @@ You may access the Weighted Assessment 1 (WA1) Schedules for 2023 by clicking on
 ----------------------
 Dear Parents,  
 You may access the Term 1 Letter for 2023&nbsp;[here.](/files/1111YHSS%202023%20Term%201%20Letter.pdf)
-
-
-### Class Timetable for Semester 2
-
-Dear parents/students, you may access a copy of the class timetable here:  
-[2022 Sem 2 TT_22 Jun_Classes.pdf](/files/2022%20Sem%202%20TT_22%20Jun_Classes.pdf)  
-
-### Term 3 Newsletter
-
-Dear Parents/Guardians and students,  
-You can find the Term 3 Newsletter below.  
-[YHSS 2022 Term 3 Letter.pdf](/files/YHSS%202022%20Term%203%20Letter.pdf)  
-
-### Term 2 Newsletter
-
-Dear Parents/Guardians and students,  
-You can find the Term 2 Newsletter below.  
-[YHSS 2022 Term 2 Letter.pdf](/files/YHSS%202022%20Term%202%20Letter.pdf)  
-
-### Term 1 Newsletter
-Dear Parents/Guardians and students,&nbsp;  
-You can find the Term 1 Newsletter below.  
-[YHSS 2022 Term 1 Letter.pdf](/files/YHSS%202022%20Term%201%20Letter.pdf)
-
-### Class Timetable 2022
-
-[2022 Sem 1 Timetable.pdf](/files/2022%20Sem%201%20TT_6%20Jan_classes.pdf)
 
 ### Secondary 2 Parent Teacher Meeting 2022
 
