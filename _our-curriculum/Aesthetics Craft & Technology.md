@@ -2,10 +2,11 @@
 title: Aesthetics Craft & Technology
 permalink: /our-curriculum/aesthetics-craft-n-technology/
 description: ""
+variant: markdown
 ---
 # **Aesthetics, Craft &amp; Technology**
 
-![](/images/AEST%20CNT.jpg)
+![](/images/craft%20and%20tech.jpeg)
 
 ### Our Team
 
