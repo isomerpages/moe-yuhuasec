@@ -1,9 +1,10 @@
 ---
 title: Character & Citizenship Education
-permalink: /our-curriculum/character-n-citizenship-education
+permalink: /our-curriculum/character-n-citizenship-education/
 description: ""
+variant: markdown
 ---
-# **Character & Citizenship Education**
+# **Character &amp; Citizenship Education**
 
 ### Our Team
 
