@@ -11,8 +11,7 @@ variant: markdown
 ### Department Introduction 
 
 Aimed at customising integrated experiential learning, it is hoped that the CCE curriculum developed in Yuhua Secondary School will nurture students of character and build competencies in our students to develop them to be good individuals and useful citizens.
-
-![](/images/CCE.jpg)
+<img src="/images/CCE.jpg" style="width:70%">
 
 ### Signature Programme(s)
 
@@ -32,7 +31,7 @@ Other key programmes include Values in Action (VIA) projects, National Education
 
 Sec 2 VIA (Visit to Elderly Homes):
 
-![](/images/1abc.jpg)
+<img src="/images/1abc.jpg" style="width:70%">
 
 ECG IHL/ Alumni Talks:
 
@@ -40,4 +39,4 @@ ECG IHL/ Alumni Talks:
 
 ECG Elective Modules (EM):
 
-![](/images/4abc.jpg)
+<img src="/images/4abc.jpg" style="width:70%">
