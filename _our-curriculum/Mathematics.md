@@ -2,11 +2,12 @@
 title: Mathematics
 permalink: /our-curriculum/mathematics/
 description: ""
+variant: markdown
 ---
 # **Mathematics**
 
 ### Our Team
-![](/images/MATH.jpg)
+![](/images/2023%20images/mathematics%20ver1.png)
 ### CURRICULUM OBJECTIVES:
 * To create a positive learning experience for students so that they develop confidence in problem solving.
 * To encourage the practice of effective habits and routines to make learning more productive.
