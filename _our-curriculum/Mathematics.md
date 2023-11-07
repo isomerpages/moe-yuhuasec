@@ -21,7 +21,7 @@ variant: markdown
 
 **MOTIVATION:**<br>
 Students have a growth mindset and enjoy learning. The PERMA model for Positive Education is adopted to provide students with the necessary motivation to engage in mathematics learning. 
-![](/images/Math%20Dept/math%20perma.jpg)
+<img src="/images/Math%20Dept/math%20perma.jpg" style="width:70%">
 
 **MEMORY**
 <br>Students learn, remember and recall math concepts correctly.&nbsp;
