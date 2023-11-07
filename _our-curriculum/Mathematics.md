@@ -41,7 +41,7 @@ ACCURATE:<br>Students can derive correct and feasible solutions, checking their 
 ### PARTICIPATION AND ACHIEVEMENTS
 
 **PEER COACH TRAINING**<br>
-| ![](/images/Math%20Dept/math%20trained%20peer%20coaches%202021.jpg)| ![](/images/Math%20Dept/math%20trained%20peer%20coaches%202022.jpg) |
+|![](/images/Math%20Dept/math%20trained%20peer%20coaches%202021.jpg)|![](/images/Math%20Dept/math%20trained%20peer%20coaches%202022.jpg)|
 | -------- | -------- |
 ##### **ALL SECONDARY SINGAPORE MATHEMATICS COMPETITION 2022:** <br>
 ![](/images/Math%20Dept/2022%20asmc_upper%20sec.jpeg)**5th Place In Upper Secondary N(T) Category**: <br>Liew Yu Heng (401) 
