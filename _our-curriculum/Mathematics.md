@@ -15,7 +15,7 @@ variant: markdown
 * To provide feedback and interventions, focusing on effort and progress.
 
 ### Signature Programme(s)
-![](/images/Math%20Dept/math%20levels%20of%20development.jpg)
+![]/images/Math%20Dept/math%20levels%20of%20development.jpg)
 **LEVELS OF DEVELOPMENT**
 
 **MOTIVATION:**<br>
@@ -41,8 +41,10 @@ ACCURATE:<br>Students can derive correct and feasible solutions, checking their 
 ### PARTICIPATION AND ACHIEVEMENTS
 
 **PEER COACH TRAINING**<br>
-|![](/images/Math%20Dept/math%20trained%20peer%20coaches%202021.jpg)|![](/images/Math%20Dept/math%20trained%20peer%20coaches%202022.jpg)|
+
+|![]/images/Math%20Dept/math%20trained%20peer%20coaches%202021.jpg)|![](/images/Math%20Dept/math%20trained%20peer%20coaches%202022.jpg)|
 | -------- | -------- |
+
 ##### **ALL SECONDARY SINGAPORE MATHEMATICS COMPETITION 2022:** <br>
 ![](/images/Math%20Dept/2022%20asmc_upper%20sec.jpeg)**5th Place In Upper Secondary N(T) Category**: <br>Liew Yu Heng (401) 
 Participation Upper Secondary: Cheng Kei Win (401), Mohamed Nor Sharizam Bin Muhamad Sharikin (401), Soo Tse Siang (404), <br>Tay Weide Xavier (404), Lee Yong Le Ethan (404)
