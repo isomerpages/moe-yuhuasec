@@ -6,7 +6,7 @@ variant: markdown
 ---
 # **Humanities**
 
-### Our Team
+#### Our Team
 
 ![](/images/2023%20images/humanities%20ver2.png)
 
