@@ -22,9 +22,7 @@ b. Self-directed gamified approach to acquiring of grammar training and vocabul
 
 To encourage students to learn at their own time and space, the department actively engages students online via in-house learning portals with added gamified elements. For example, students learn about grammar and        vocabulary through a series of trainings and missions, which are both competitive and fun.
 
-  
-
-c.    Annual EL Fest to inculcate interests and increase motivation in the learning of English and English Literature
+  c.    Annual EL Fest to inculcate interests and increase motivation in the learning of English and English Literature
 
 This year marks the first EL Fest. The EL Fest is a week-long festival of activities organised by the Department designed at inculcating interest and love in the language. Activities that are organised this year include the following :
 
@@ -37,7 +35,6 @@ As for Literature, the Literature Unit organised the following activities to dee
 iv. Blackout Poetry 
 v. Flash Fiction 
 vi. National Schools Literature Festival – Set Text and Unseen Debates 
-
 
 d.    Annual Term Project as Weighted Assessment to inculcate Joy of Learning 
 
