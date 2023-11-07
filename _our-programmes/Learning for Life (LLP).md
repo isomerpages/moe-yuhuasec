@@ -14,7 +14,7 @@ Yuhua Secondary School’s LLP framework is structured around a tiered approach 
 Through a wide range of tactile, digital, and audience-based learning experiences introduced progressively from Secondary One onwards, students have multiple opportunities to explore the arts, ignite their interests, pursue their passion, and grow their talents. In school, students also have access to various performing arts spaces to enjoy a leisurely jam session, or perform for an audience.
 
 
-| ![](/images/yhssllp3.png)|![](/images/yhssllp4.png)| 
+|![](/images/yhssllp3.png)|![](/images/yhssllp4.png)| 
 | -------- | -------- |
 | Students' Percussion Performance at Camp Melody| Artists' Showcase at Camp Melody| 
 
@@ -22,13 +22,14 @@ Through a wide range of tactile, digital, and audience-based learning experience
 | -------- | -------- |
 |Youth Station 2023 Performance Showcase at the library@Esplanade SYF| Post-Exam Learning Activities| 
 
-| ![](/images/yhssllp7.png)|![](/images/yhssllp11.png)| 
+|![](/images/yhssllp7.png)|![](/images/yhssllp11.png)| 
 |-------- | -------- |
 | Learning Journeys to External Arts Institutions|Black box| 
 
-| ![](/images/yhssllp9.png)|  ![](/images/yhssllp8.png)| 
+|![](/images/yhssllp9.png)|![](/images/yhssllp8.png)| 
 | -------- | -------- |
 | Fashion Runway at Aesthetics Day|Dance Performance at Aesthetics Day|
+
  ![](/images/yhssllp5.png)
 Workshops and Master classes
 
