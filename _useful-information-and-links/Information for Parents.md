@@ -83,6 +83,15 @@ You may access the materials shared during the Upper Sec PTM via the links below
 [3. Year Head's Sharing](/files/3%20YH's%20Sharing%20for%20Upper%20Sec%20PTM.pdf)
 
 
+### 2023 Secondary 2 Parent-Teacher Meeting on Subject Selection Exercise
+
+[Secondary 2 Express](https://github.com/isomerpages/moe-yuhuasec/files/13279190/2023.Sec.2.PTM_Subject.Combination.for.2024.Sec.3E.pdf)
+
+[Secondary 2 Normal (Academic)](https://github.com/isomerpages/moe-yuhuasec/files/13279193/2023.Sec.2.PTM_Subject.Combination.for.2024.Sec.3N.pdf)
+
+[Secondary 2 Normal (Technical)](https://github.com/isomerpages/moe-yuhuasec/files/13279197/2023.Sec.2.PTM_.Subject.Combination.for.2024.Sec.3T.pdf)
+
+
 ### 2023 Weighted Assessment 1 Schedule
 -----------------------------------
 
