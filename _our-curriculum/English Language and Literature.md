@@ -43,7 +43,7 @@ At Yuhua, students do not just go through the usual pen-and-paper test. At every
 Examples of the Term Projects include the following :
 
 i. Ted Talk for Sec 2    
- ii. Analysis of pop songs for Sec 2 Literature     
+ii. Analysis of pop songs for Sec 2 Literature     
 iii. Travel brochure design and feature writing for Sec 3.
 
 ![](/images/EL.jpg)
