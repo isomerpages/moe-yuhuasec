@@ -1,13 +1,14 @@
 ---
 title: Humanities
-permalink: /our-curriculum/humanities
+permalink: /our-curriculum/humanities/
 description: ""
+variant: markdown
 ---
 # **Humanities**
 
 ### Our Team
 
-![](/images/Humanities.jpg)
+![](/images/2023%20images/humanities%20ver2.png)
 
 ### Department Introduction
 
