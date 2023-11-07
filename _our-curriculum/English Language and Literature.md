@@ -1,11 +1,11 @@
 ---
 title: English Language and Literature
-permalink: /our-curriculum/english-language-and-literature
+permalink: /our-curriculum/english-language-and-literature/
 description: ""
+variant: markdown
 ---
 # **English Language and Literature**
-
-![](/images/EL%20and%20Lit.jpg)
+![](/images/2023%20images/english%20language%20and%20literature%20ver1.png)
 
 ### Department Introduction
 
