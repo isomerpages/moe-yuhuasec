@@ -6,7 +6,7 @@ third_nav_title: Visual Performing Arts
 ---
 # **StageWright**
 
-![](/images/sw.png)
+<img src="/images/sw.png" style="width:80%">
 
 ### Background
 
@@ -34,6 +34,7 @@ Mdm Rafilah&nbsp;
 *  Mini drama festival: students conceptualise and write their own scripts 
 *  Singapore Youth Festival Arts Presentation
 &nbsp;
+
 ### Achievements
 
 * SYF AP 2019 (Certificate of Accomplishment)
@@ -41,10 +42,11 @@ Mdm Rafilah&nbsp;
 * SYF AP 2021 (Certificate of Distinction and Certificate of Accomplishment)
 * SYF AP 2023 (Certificate of Accomplishment)
 
-![](/images/sw2.jpg)
 
-![](/images/sw3.jpg)
+|![](/images/sw2.jpg)| ![](/images/sw3.jpg) | 
+| -------- | -------- | 
+|    |     | 
 
-![](/images/sw%205.png)
-
-<img src="/images/sw%206.png" style="width:50%">
+|![](/images/sw%205.png)| ![](/images/sw%206.png)| 
+| -------- | -------- | 
+|      |       |

@@ -45,11 +45,11 @@ Dear parents / guardians of Sec 2 students, you may access the Subject Selection
 
 [Sec 2 Normal (Technical)](https://github.com/isomerpages/moe-yuhuasec/files/13066944/2023.Sec.2.PTM_Subject.Combination.for.2024.Sec.3T-yr.end.updated.1.pdf)
 
-
 ### Term 4 Letter for 2023
 ----------------------
 Dear Parents,  
 You may access the Term 4 Letter for 2023  [here.](/files/yhss%202023%20term%204%20letter%20(final).pdf)
+
 ### Term 3 Letter for 2023
 Dear parents,
 You may access the Term 3 Letter for 2023[here.](/files/yhss%202023%20term%203%20letter%20(go%202023%20402).pdf)<br>
@@ -83,8 +83,13 @@ You may access the materials shared during the Upper Sec PTM via the links below
 [3. Year Head's Sharing](/files/3%20YH's%20Sharing%20for%20Upper%20Sec%20PTM.pdf)
 
 
+### 2023 Secondary 2 Parent-Teacher Meeting on Subject Selection Exercise
 
+[Secondary 2 Express](https://github.com/isomerpages/moe-yuhuasec/files/13279190/2023.Sec.2.PTM_Subject.Combination.for.2024.Sec.3E.pdf)
 
+[Secondary 2 Normal (Academic)](https://github.com/isomerpages/moe-yuhuasec/files/13279193/2023.Sec.2.PTM_Subject.Combination.for.2024.Sec.3N.pdf)
+
+[Secondary 2 Normal (Technical)](https://github.com/isomerpages/moe-yuhuasec/files/13279197/2023.Sec.2.PTM_.Subject.Combination.for.2024.Sec.3T.pdf)
 
 
 ### 2023 Weighted Assessment 1 Schedule
@@ -106,62 +111,6 @@ You may access the Weighted Assessment 1 (WA1) Schedules for 2023 by clicking on
 Dear Parents,  
 You may access the Term 1 Letter for 2023&nbsp;[here.](/files/1111YHSS%202023%20Term%201%20Letter.pdf)
 
-
-### Class Timetable for Semester 2
-
-Dear parents/students, you may access a copy of the class timetable here:  
-[2022 Sem 2 TT_22 Jun_Classes.pdf](/files/2022%20Sem%202%20TT_22%20Jun_Classes.pdf)  
-
-### Term 3 Newsletter
-
-Dear Parents/Guardians and students,  
-You can find the Term 3 Newsletter below.  
-[YHSS 2022 Term 3 Letter.pdf](/files/YHSS%202022%20Term%203%20Letter.pdf)  
-
-### Term 2 Newsletter
-
-Dear Parents/Guardians and students,  
-You can find the Term 2 Newsletter below.  
-[YHSS 2022 Term 2 Letter.pdf](/files/YHSS%202022%20Term%202%20Letter.pdf)  
-
-### Term 1 Newsletter
-Dear Parents/Guardians and students,&nbsp;  
-You can find the Term 1 Newsletter below.  
-[YHSS 2022 Term 1 Letter.pdf](/files/YHSS%202022%20Term%201%20Letter.pdf)
-
-### Class Timetable 2022
-
-[2022 Sem 1 Timetable.pdf](/files/2022%20Sem%201%20TT_6%20Jan_classes.pdf)
-
-### Secondary 2 Parent Teacher Meeting 2022
-
-![](/images/Screenshot%2040.png)
-
-Dear parents, resources shared during our Secondary 2 PTM are now available.  
-  
-You may access a copy of the slides from our Principal's Address here:&nbsp;  
-[2022 YHSS Sec 2 PTM - Ps Presentation.pdf](/files/2022%20YHSS%20Sec%202%20PTM%20-%20Ps%20Presentation.pdf)  
-  
-You may access a copy of the slides from our VP's sharing here:&nbsp;  
-[VP Sharing - Update on Curriculum Assessment and Post-Sec Articulation Matters under Full SBB.pdf](/files/VP%20Sharing%20-%20Update%20on%20Curriculum%20Assessment%20and%20Post-Sec%20Articulation%20Matters%20under%20Full%20SBB.pdf) 
-  
-**Information on Subject Selection**  
-Information for 201:&nbsp;[For Class 201 2022 Sec 2 PTM\_ Subject Selection Exercise.pdf](/files/For%20Class%20201%202022%20Sec%202%20PTM_%20Subject%20Selection%20Exercise.pdf)  
-Information for 202 &amp; 203:&nbsp;[For Class 202-203 2022 Sec 2 PTM\_Subject Selection Exercise.pdf](/files/For%20Class%20202-203%202022%20Sec%202%20PTM_Subject%20Selection%20Exercise.pdf)  
-Information for 204-207:&nbsp;[For Class 204-207 2022 Sec 2 PTM\_Subject Selection Exercise.pdf](/files/For%20Class%20204-207%202022%20Sec%202%20PTM_Subject%20Selection%20Exercise.pdf)
-
-### \[Upper Secondary] Parent Teacher Meeting 2022
-
-![](/images/Screenshot%2015.png)
-
-Dear parents, resources shared during our Upper Secondary PTM are now available.  
-  
-You may access a copy of the slides from our Principal's Address here:&nbsp;  
-[2022 YHSS Upper Sec PTM.pdf](https://yuhuasec.moe.edu.sg/qql/slot/u1025/2022%20YHSS%20Upper%20Sec%20PTM.pdf)  - file exceeds 5MB
-  
-You may view a video of the sharing by our ECG Counsellor&nbsp;[here.](https://drive.google.com/file/d/1zWd9tuh5l-bHPTdMnlw1IpJmx7uWtNcs/view?usp=sharing)  
-  
-
 ### Financial Assistance Scheme (FAS)
 
 Please click&nbsp;[here](/files/2023document4a_moe%20fas%20pamphet%20el.pdf)&nbsp;for more information on FAS or refer to the&nbsp;[MOE website](https://www.moe.gov.sg/financial-matters/financial-assistance)&nbsp;for further information.
@@ -173,13 +122,12 @@ Option 1: Online application
 Option 1a. 
 
 Complete the online application via this link&nbsp;[ https://go.gov.sg/moe-efas]( https://go.gov.sg/moe-efas)&nbsp;or by scanning the QR code below.&nbsp;Singpass login is required.
-
-![QR](/images/11111111.jpg)
+<img src="/images/11111111.jpg" style="width:30%">
 
 Option 1b. eFAS link in PG’s services section.
 
-![QR2](/images/122222222.jpg)
-		 
+<img src="/images/122222222.jpg" style="width:40%">
+
 Option 2: Via hardcopy/ softcopy application form  
 
 Download the MOE FAS application form&nbsp;[here](/files/document1_2024%20moe%20fas%20application%20form.pdf)&nbsp;or collect the hardcopy form from the school’s General Office. &nbsp;Please scan and email the required documents together with the completed form to&nbsp;[yuhua\_ss@moe.edu.sg](mailto:yuhua_ss@moe.edu.sg),&nbsp;attention to Mdm Lim Seok Har &amp; Mdm Noraini.&nbsp;&nbsp;Alternatively, the form and documents can be submitted/mailed to the school’s General Office.
@@ -191,9 +139,6 @@ Dear Parents,&nbsp;
 We are pleased to inform you that our school is now onboard Parents Gateway. Parents Gateway is a mobile app specially designed for parents. Developed by MOE and GovTech, the app allows parents to engage with schools, receive information and perform a range of administrative functions such as giving consent for school trips.
 
 We would like to invite you to download the Parents Gateway mobile app on your mobile phone (available on iOS and Android platforms only) and perform a simple one-time onboarding process.&nbsp;
-
-From 1 April 2019, parents who are onboard Parents Gateway will receive information via the mobile app. The school will continue to issue hardcopy letters to parents who are unable to come onboard Parents Gateway.
-
 <img src="/images/tPG-SingPass.jpg" style="width:25%">
 
 * [Instructional Guide for Onboarding to Parents Gateway](/files/Instructional%20Guide%20-%20Parents%20Gateway.pdf)  

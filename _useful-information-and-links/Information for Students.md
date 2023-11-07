@@ -28,6 +28,15 @@ Dear students, you may access your class timetable for Semester 2 via the follow
 
 [Secondary 4/5](/files/2023%20sem%202%20_sec%204%20and%205.pdf)
 
+### Secondary 2 Parent-Teacher Meeting on Subject Selection Exercise
+
+[Sec 2 Express] (https://github.com/isomerpages/moe-yuhuasec/files/13279169/2023.Sec.2.PTM_Subject.Combination.for.2024.Sec.3E.pdf)
+
+[Sec 2 Normal (Academic)] (https://github.com/isomerpages/moe-yuhuasec/files/13279171/2023.Sec.2.PTM_Subject.Combination.for.2024.Sec.3N.pdf)
+
+[Sec 2 Normal (Technical)] (https://github.com/isomerpages/moe-yuhuasec/files/13279176/2023.Sec.2.PTM_.Subject.Combination.for.2024.Sec.3T.pdf)
+
+
 ### Class Timetable for Semester 1 (2023)
 
 Dear students, you may access your class timetable for Semester 1 below:  

@@ -2,11 +2,12 @@
 title: Mathematics
 permalink: /our-curriculum/mathematics/
 description: ""
+variant: markdown
 ---
 # **Mathematics**
 
 ### Our Team
-![](/images/MATH.jpg)
+![](/images/2023%20images/mathematics%20ver1.png)
 ### CURRICULUM OBJECTIVES:
 * To create a positive learning experience for students so that they develop confidence in problem solving.
 * To encourage the practice of effective habits and routines to make learning more productive.
@@ -14,12 +15,13 @@ description: ""
 * To provide feedback and interventions, focusing on effort and progress.
 
 ### Signature Programme(s)
-![](/images/Math%20Dept/math%20levels%20of%20development.jpg)
+<img src="/images/Math%20Dept/math%20levels%20of%20development.jpg" style="width:70%">
+
 **LEVELS OF DEVELOPMENT**
 
 **MOTIVATION:**<br>
 Students have a growth mindset and enjoy learning. The PERMA model for Positive Education is adopted to provide students with the necessary motivation to engage in mathematics learning. 
-![](/images/Math%20Dept/math%20perma.jpg)
+<img src="/images/Math%20Dept/math%20perma.jpg" style="width:70%">
 
 **MEMORY**
 <br>Students learn, remember and recall math concepts correctly.&nbsp;
@@ -28,7 +30,7 @@ Students have a growth mindset and enjoy learning. The PERMA model for Positive 
 
 **MODELLING**<br>
 Students frame the problem, identify the approach and apply values-skills-knowledge in solving problems creatively.
-![](/images/Math%20Dept/math%20memory-mastery-modelling.jpg)
+<img src="/images/Math%20Dept/math%20memory-mastery-modelling.jpg" style="width:70%">
 
 **DESIRED STUDENT OUTCOMES**<br>
 ACTIVE:<br>Students can work effectively independently and collaboratively to identify problems and seek out possible solutions.
@@ -40,8 +42,10 @@ ACCURATE:<br>Students can derive correct and feasible solutions, checking their 
 ### PARTICIPATION AND ACHIEVEMENTS
 
 **PEER COACH TRAINING**<br>
-| ![](/images/Math%20Dept/math%20trained%20peer%20coaches%202021.jpg)| ![](/images/Math%20Dept/math%20trained%20peer%20coaches%202022.jpg) |
+
+|![]/images/Math%20Dept/math%20trained%20peer%20coaches%202021.jpg)|![](/images/Math%20Dept/math%20trained%20peer%20coaches%202022.jpg)|
 | -------- | -------- |
+
 ##### **ALL SECONDARY SINGAPORE MATHEMATICS COMPETITION 2022:** <br>
 ![](/images/Math%20Dept/2022%20asmc_upper%20sec.jpeg)**5th Place In Upper Secondary N(T) Category**: <br>Liew Yu Heng (401) 
 Participation Upper Secondary: Cheng Kei Win (401), Mohamed Nor Sharizam Bin Muhamad Sharikin (401), Soo Tse Siang (404), <br>Tay Weide Xavier (404), Lee Yong Le Ethan (404)

@@ -6,7 +6,7 @@ third_nav_title: Visual Performing Arts
 ---
 # **Dance**
 
-![](/images/dance2.jpg)
+<img src="/images/dance2.jpg" style="width:70%">
 
 ### Background
 
@@ -19,10 +19,9 @@ Dance, as an art form, reaches across centuries and cultures. Our Yuhua Secondar
 To use dancing as a tool of expression and character development.
 
 ### Our Team
-![](/images/Teachers.jpeg)
-
-Mdm Suhana Zainal: suhana_zainal@moe.edu.sg
-Mr Raguvaran: raguvaran_rajenderan@moe.edu.sg
+<img src="/images/Teachers.jpeg" style="width:70%">
+Mdm Suhana Zainal: suhana_zainal@moe.edu.sg<br>
+Mr Raguvaran: raguvaran_rajenderan@moe.edu.sg<br>
 Ms Nor Aisha: nor_aisha_mazlan@moe.edu.sg
 
 If you have any questions, feel free to email our teachers-in-charge to know more about our CCA!&nbsp;
@@ -40,17 +39,23 @@ Vice President: Nurul Sakinah bte Samsudin (306)
 * JOY of Yuhua
 * GetActive! Singapore Heartlands Festival 2023 with SportsSg
 * Aesthetic Day performance collaboration with other CCA group
+
 ### Achievements
 
 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment
 
 ### Gallery
- |![](/images/dance3.jpg) |![](/images/dance4.jpg)
+
+|![](/images/dance3.jpg) |![](/images/dance4.jpg)
 | -------- | -------- |
 | SYF Dance team 2023    |SYF Dance Practice  |
- |![](/images/dance%209.jpg) | ![](/images/dance%206.png)| -------- | -------- |
-| Chinese New Year Dance Performance 2023    |Seniors’ Farewell Party 2023     |
-|![](/images/dance%207.jpg) |![](/images/dance8.jpg)| -------- | -------- |
-| Dance Practice 2023    |Dance Health &amp; Safety Briefing 2023 |<br>
+
+| ![](/images/dance%209.jpg)| ![](/images/dance%206.png) |  
+| -------- | -------- | 
+| Chinese New Year Dance Performance 2023| Seniors’ Farewell Party 2023| 
+
+|![](/images/dance%207.jpg)|![](/images/dance8.jpg)|  
+| -------- | -------- | 
+| Dance Practice 2023 | Dance Health &amp; Safety Briefing 2023| 
 
 [SYF Dance Video Montage: ](https://go.gov.sg/fa1804)![](/images/dance5.jpg)
