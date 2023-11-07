@@ -6,21 +6,19 @@ variant: markdown
 ---
 # **English Language and Literature**
 ![](/images/2023%20images/english%20language%20and%20literature%20ver1.png)
-
-### Department Introduction
+#### Department Introduction
 
 **Strategic Objectives and Initiatives**
 
 Language gives life and colour to us because we use it to express ourselves and communicate with each other. It is also a vital instrument for critical thinking, which will develop us into effective thinkers and communicators. It is hence imperative that we should aspire to be competent communicators of the global language that is English. At Yuhua, our vision is to develop our learners into a community of confident communicators. To achieve this, the Department has designed key programmes which are aimed at instilling confidence and passion in the English language.
 
-### Signature Programme(s)
+#### Signature Programme(s)
 
 Some of our key programmes include the following: 
 
-a.    a school-wide Reading and Media Literacy Programme.
+a. a school-wide Reading and Media Literacy Programme.
 
-b.    Self-directed gamified approach to acquiring of grammar training and vocabulary acquisition.
-
+b. Self-directed gamified approach to acquiring of grammar training and vocabulary acquisition.
 
 To encourage students to learn at their own time and space, the department actively engages students online via in-house learning portals with added gamified elements. For example, students learn about grammar and        vocabulary through a series of trainings and missions, which are both competitive and fun.
 
