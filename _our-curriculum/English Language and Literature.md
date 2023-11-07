@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 # **English Language and Literature**
-![](/images/2023%20images/english%20language%20and%20literature%20ver1.png)
+![](/images/2023%20images/english%20language%20and%20literature%20ver2.png)
 #### Department Introduction
 
 **Strategic Objectives and Initiatives**
