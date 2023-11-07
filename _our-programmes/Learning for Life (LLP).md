@@ -20,11 +20,11 @@ Through a wide range of tactile, digital, and audience-based learning experience
 
 |![](/images/yhssllp.png)|![](/images/yhssllp6.png)| 
 | -------- | -------- |
-|Youth Station 2023 Performance Showcase at the library@Esplanade SYF| Post-Exam Learning Activities | 
+|Youth Station 2023 Performance Showcase at the library@Esplanade SYF| Post-Exam Learning Activities| 
 
-| ![](/images/yhssllp7.png)|  ![](/images/yhssllp11.png)| 
-| -------- | -------- |
-| Learning Journeys to External Arts Institutions| Black box| 
+| ![](/images/yhssllp7.png)|![](/images/yhssllp11.png)| 
+|-------- | -------- |
+| Learning Journeys to External Arts Institutions|Black box| 
 
 | ![](/images/yhssllp9.png)|  ![](/images/yhssllp8.png)| 
 | -------- | -------- |
