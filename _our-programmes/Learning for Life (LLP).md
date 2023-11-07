@@ -30,8 +30,8 @@ Through a wide range of tactile, digital, and audience-based learning experience
 | -------- | -------- |
 | Fashion Runway at Aesthetics Day|Dance Performance at Aesthetics Day|
 
-<img src="/images/yhssllp5.png" style="width:30%">
- <br>Workshops and Master classes
+<img src="/images/yhssllp5.png" style="width:50%">
+* Workshops and Master classes*
 
 ### **Achievements**
 
