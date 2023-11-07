@@ -30,7 +30,7 @@ Students have a growth mindset and enjoy learning. The PERMA model for Positive 
 
 **MODELLING**<br>
 Students frame the problem, identify the approach and apply values-skills-knowledge in solving problems creatively.
-![](/images/Math%20Dept/math%20memory-mastery-modelling.jpg)
+<img src="/images/Math%20Dept/math%20memory-mastery-modelling.jpg" style="width:70%">
 
 **DESIRED STUDENT OUTCOMES**<br>
 ACTIVE:<br>Students can work effectively independently and collaboratively to identify problems and seek out possible solutions.
