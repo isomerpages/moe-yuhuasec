@@ -15,7 +15,7 @@ variant: markdown
 * To provide feedback and interventions, focusing on effort and progress.
 
 ### Signature Programme(s)
-![](/images/Math%20Dept/math%20levels%20of%20development.jpg)
+<img src="/images/Math%20Dept/math%20levels%20of%20development.jpg" style="width:70%">
 
 **LEVELS OF DEVELOPMENT**
 
