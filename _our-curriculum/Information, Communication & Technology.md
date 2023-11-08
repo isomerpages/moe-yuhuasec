@@ -8,9 +8,7 @@ variant: markdown
  
 ### Our Team
 
-| ![](/images/2023%20images/ict%20department%20ver1.png) | ![](/images/2023%20images/ict%20committee%20ver1.png) |
-|--------|--------| 
-|    |      |
+![](/images/2023%20images/ict%20department%20ver1.png)![](/images/2023%20images/ict%20committee%20ver1.png)
 
 ### Department Introduction
 
