@@ -6,9 +6,9 @@ variant: markdown
 ---
 
 # **Information, Communication & Technology**
-
+ 
 ### Our Team
-|![](/images/2023%20images/ict%20department%20ver1.png)|![](/images/2023%20images/ict%20committee%20ver1.png)| 
+| ![](/images/2023%20images/ict%20department%20ver1.png) | ![](/images/2023%20images/ict%20committee%20ver1.png) | 
 | -------- | -------- | 
 |    |      |
 
