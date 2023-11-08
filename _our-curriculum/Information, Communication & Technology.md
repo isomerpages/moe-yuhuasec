@@ -12,9 +12,6 @@ variant: markdown
 | -------- | -------- | 
 |    |      |
 
-
-
-
 ### Department Introduction
 
 Our Computer Applications unit aims to provide students with the opportunity to acquire skills in using a variety of application software and associated computer hardware to accomplish tasks, communicate, and facilitate activities. Our programs are designed and customised to the interests and needs of our Normal Technical students. The Computer Application curriculum allows our students to develop an awareness of how computing technology is used in the home, school, workplace and community. Students will learn to appreciate the role ICT plays in everyday life and recognize the impact ICT has on society.  
