@@ -26,11 +26,7 @@ The aims of the Conversational Chinese Language (CL)/Malay Language (ML) program
 2.  To develop in students keener interest in one another’s culture from a young age
 3.  To enable students to have some grounding of functional CL/ML so that they could more easily pick up the language should they need it for economic or other reasons in adult life.
 
-  
-
 Under this programme, the department aims to provide a variety of learning experiences such for students to build a basic understanding of the language and the associated culture.&nbsp;
-
-  
 
 Upon completion of the programme, students should be able to:
 
