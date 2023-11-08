@@ -4,7 +4,6 @@ permalink: /our-curriculum/information-communication-n-technology/
 description: ""
 variant: markdown
 ---
-
 # **Information, Communication & Technology**
  
 ### Our Team
