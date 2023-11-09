@@ -7,8 +7,8 @@ variant: markdown
 # **Science**
 
 ### Our Team
-
-
+<img src="/images/science%20ver%202.png" style="width:70%">
+																												 
 ### Department Introduction
 
 The Yuhua Science Department comprises of 14 dedicated and caring Science teachers, as well as 3 lab technicians.
