@@ -8,7 +8,7 @@ variant: markdown
  
 ### Our Team
 
-![](/images/2023%20images/ict1%20(1).png)
+![ICT](/images/2023%20images/untitled%20(1).png)
 
 ### Department Introduction
 
