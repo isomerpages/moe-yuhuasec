@@ -7,8 +7,7 @@ variant: markdown
 # **Information, Communication &amp; Technology**
  
 ### Our Team
-
-<img src="/images/2023%20images/untitled%20(1).png" style="width:70%">
+<img src="/images/2023%20images/ictcom.png" style="width:70%">
 
 ### Department Introduction
 
