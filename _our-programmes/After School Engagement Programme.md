@@ -21,5 +21,6 @@ The objectives of the YEAHub are:
 
 # ###Teachers in Charge:
 
-Ms Veronica Nair Mr Wilfred Lim Ms Fathima
+Ms Veronica Nair Mr Wilfred Lim
+Ms Fathima
 Ms Khadijah Ms Syahfiqah
