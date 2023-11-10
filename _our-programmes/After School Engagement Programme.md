@@ -69,3 +69,12 @@ This allow students to:
 ➔ connect with each other – A message for students by students
 ➔ contribute back to school by raising awareness and responsibility in educating
 fellow Yuhuans.
+
+
+| ![](/images/2023%20images/yeahubterm4.png) | ![](/images/2023%20images/yeahubterm4_1.png) | 
+
+| -------- | -------- | 
+
+|          |          | 
+
+
