@@ -46,7 +46,7 @@ YEAHganza Chess Tournament 2023
 
 <img src="/images/2023%20images/yea_hub2.png" style="width:70%">
 
-**Footballing Fun Programme and “Be Better” Football Tournament 2023**
+**Footballing Fun Programme and “Be Better” Football Tournament 2023**<br>
 Our Footballing Fun programme aims to complement the school’s character development efforts and instill important character values in our students. This takes
 place on every Wednesday.
 
@@ -73,4 +73,3 @@ fellow Yuhuans.
 
 <img src="/images/2023%20images/yeahubterm4.png" style="width:70%">
 <img src="images/2023%20images/yeahubterm4_1.png" style="width:70%">
-
