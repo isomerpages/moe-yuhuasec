@@ -56,3 +56,8 @@ place on every Wednesday.
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
 
+Term 3:
+Street Dance
+
+Sporty Thursday
+A bonding session/ platform for the students through sports
