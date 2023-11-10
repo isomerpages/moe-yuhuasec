@@ -50,9 +50,9 @@ YEAHganza Chess Tournament 2023
 Our Footballing Fun programme aims to complement the school’s character development efforts and instill important character values in our students. This takes
 place on every Wednesday.
 
-<img src="/images/2023%20images/yeah_hub_football1.pngimages/2023%20images/yeah_hub_football2.pngimages/2023%20images/yeah_hub_football3.png" style="width:70%">
+<img src="/images/2023%20images/yeah_hub_football1.png" style="width:70%">
 
- ![]()![](/) ![](/)
+
 
 Term 3:
 Street Dance
