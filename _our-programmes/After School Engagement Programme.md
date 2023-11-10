@@ -59,3 +59,13 @@ Street Dance
 
 Sporty Thursday
 A bonding session/ platform for the students through sports
+<img src="/images/2023%20images/yeah_hub_term3_1.png" style="width:70%">
+
+Term 4:
+YEAHub Poster competition
+Students are given the platform to design posters as reminders about school rules.
+This allow students to:
+➔ further build our culture of Care in school
+➔ connect with each other – A message for students by students
+➔ contribute back to school by raising awareness and responsibility in educating
+fellow Yuhuans.
