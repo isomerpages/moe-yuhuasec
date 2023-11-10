@@ -28,3 +28,7 @@ The objectives of the YEAHub are:
 *  Ms Syahfiqah
 
 ##### Key Programmes in 2023:
+
+Term 1:
+Sharing by Dr Daryl Chow, Origame Founder
+
