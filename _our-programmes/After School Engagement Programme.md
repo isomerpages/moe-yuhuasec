@@ -19,7 +19,7 @@ The objectives of the YEAHub are:
 2. To foster school connectedness and build quality relationships with trusted adults in a school environment.
 3. To empower students to become effective leaders and active learners through purposeful programmes that engage the target students.
 
-# ###Teachers in Charge:
+##### Teachers in Charge:
 
 Ms Veronica Nair Mr Wilfred Lim
 Ms Fathima
