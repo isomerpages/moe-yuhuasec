@@ -35,4 +35,7 @@ The objectives of the YEAHub are:
 Term 1:
 Sharing by Dr Daryl Chow, Origame Founder
 
+Term 2:
+YEAHganza Chess Tournament 2023
+
 <img src="/images/2023%20images/yea_hub2.png" style="width:70%">
