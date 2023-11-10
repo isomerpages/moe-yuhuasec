@@ -24,4 +24,5 @@ The objectives of the YEAHub are:
 Ms Veronica Nair 
 Mr Wilfred Lim
 Ms Fathima
-Ms Khadijah Ms Syahfiqah
+Ms Khadijah 
+Ms Syahfiqah
