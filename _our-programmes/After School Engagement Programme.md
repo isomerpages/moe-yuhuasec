@@ -58,7 +58,7 @@ Term 3:
 Street Dance
 <img src="/images/2023%20images/Yeah_hub_term3.png" style="width:70%">
 
-Sporty Thursday
+Sporty Thursday:<br>
 A bonding session/ platform for the students through sports
 <img src="/images/2023%20images/yeah_hub_term3_1.png" style="width:70%">
 
