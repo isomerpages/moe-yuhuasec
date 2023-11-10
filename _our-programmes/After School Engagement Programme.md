@@ -36,7 +36,7 @@ Term 1:
 Sharing by Dr Daryl Chow, Origame Founder
 
 
-| Column 1 | Column 2 | 
+| ![](/images/2023%20images/yeahub_term1.png) | Column 2 | 
 | -------- | -------- | 
 | Text     | Text     | 
 
