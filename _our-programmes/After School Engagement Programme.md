@@ -72,4 +72,6 @@ This allow students to:
 fellow Yuhuans.
 
 <img src="/images/2023%20images/yeahubterm4.png" style="width:70%">
-<img src="images/2023%20images/yeahubterm4_1.png" style="width:70%">
+<img src="/images/2023%20images/yeahubterm4_1.png" style="width:70%">
+
+![](/images/2023%20images/yeahubterm4_1.png)
