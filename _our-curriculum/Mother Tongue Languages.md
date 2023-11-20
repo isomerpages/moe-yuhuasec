@@ -8,7 +8,7 @@ variant: markdown
 
 ### Our Team
 
-![Mother tongue ](/images/2023%20images/mother%20tongue%20languages%20ver1.jpg)
+<img src="/images/2023%20images/mother%20tongue%20languages%20ver1.jpg" style="width:50%">
 
 ### Department Introduction
 
