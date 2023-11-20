@@ -31,9 +31,8 @@ OIC: Mr Lee Yi Xin (OC)
 **NPCC Vice-Chairman:**<br> Ngoo Yu Xuan (3 Resilience)  
 **NPCC Vice-Chairman:**<br> Evelyn Quah (3 Adaptability)  
 **NPCC Vice-Chairman:**<br> Gwendolyn Jas Lee (3 Contribute)
-![](/images/yhssnpcc2.png)
+<img src="/images/yhssnpcc2.png" style="width:50%">
 ### Milestones
-
 ##### **Proficiency Badges:**  
 **Sec1**: Campcraft, Police Procedure, Crime Prevention, Road Safety, Total Defence Bronze, 3rd Class Drill
 
@@ -48,26 +47,27 @@ OIC: Mr Lee Yi Xin (OC)
 **Sec.1**: First Aid certification    
 **Sec.2**: One-Star Kayaking certification   
 **Sec.3**: Air Pistol
-![](/images/yhssnpcc3.png)
+<img src="/images/yhssnpcc3.png" style="width:50%">
 
 ##### **Visits:**<br>
 Sec 1: Police Heritage Centre (PHC)  
 Sec 2: Neighbourhood Police Centre (NPC)  
 Sec 3: Home Team Gallery (HTG)
-![](/images/yhssnpcc4.png)
+<img src="/images/yhssnpcc4.png" style="width:50%">
 
 ##### **Courses / Activities:**<br>
 **Sec 1:** <br>
 Field Cooking, Swearing-In, Games Day, CSI (Level 1)  
 **Sec 2:** <br>SGSecure, Unarmed Tactic Course, .22 Revolver Shoot, Cadet Leader Course, Road Safety Marshals, CSI (Level 2)  
 **Sec 3:** <br>Leadership &amp; Mentoring Skills Course (LMSC), .22 Revolver Shoot Test, Advanced CSI
-![](/images/yhssnpcc5.png)![](/images/yhssnpcc6.png)
+<img src="/images/yhssnpcc5.png" style="width:50%">
+<img src="/images/yhssnpcc6.png" style="width:50%">
 
 ##### **Camps:**
 Sec 1-3: Unit Annual Camp cum Field Cooking<br>
 Sec 2: Adventure Training Camp (ATC) in NPCC Camp Resilience, Pulau Ubin
-![](/images/yhssnpcc7.png)
-![](/images/yhssnpcc8.png)
+<img src="/images/yhssnpcc7.png" style="width:50%">
+<img src="/images/yhssnpcc8.png" style="width:50%">
 
 **HQ Parades:**<br>
 * NPCC Annual Parade
