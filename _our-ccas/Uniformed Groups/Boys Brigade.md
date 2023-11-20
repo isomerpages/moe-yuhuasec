@@ -3,9 +3,12 @@ title: Boys Brigade
 permalink: /our-ccas/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 # **Boys' Brigade**
-![](/images/boys%20brigade%202023.jpg)
+
+<img src="/images/boys%20brigade%202023.jpg" style="width:70%">
+
 ### Background
 
 The BB seeks to nurture Youth, based on Christian values to serve and lead. The Object of the Boys’ Brigade shall be the advancement of Christ’s Kingdom among Boys and the promotion of habits of Obedience, Reverence, Discipline, Self-Respect, and all that tends towards a true Christian manliness.&nbsp;
@@ -14,17 +17,15 @@ The 28th Singapore Company, co-sponsored by Jurong Christian Church, was previou
 
 ### Our Team
 
-**Teachers**
-
+**Teachers**<br>
 Mr Jeffrey Poh   
 Mr Yeh Bao Yaw
-
 ### CCA Leaders
 
-CSM: Priyan 
-Squad Leader: Shiva 
-Squad Leader: Ajay
-Squad Leader: Chee Hao
+* CSM: Priyan 
+* Squad Leader: Shiva 
+* Squad Leader: Ajay
+* Squad Leader: Chee Hao
 
 ### Key Events of the Year
 
