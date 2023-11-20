@@ -7,7 +7,7 @@ variant: markdown
 ---
 # **Floorball**
 
-<img src="/images/Picture1.jpg" style="width:70%">
+<img src="/images/Picture1.jpg" style="width:50%">
 																								
 
 ### Background
