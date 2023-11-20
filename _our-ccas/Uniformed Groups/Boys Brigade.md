@@ -55,7 +55,7 @@ JM Fraser Award 2022 (Distinction)
 BB Blaze 2023 (Bronze Honour Roll)
 Founder’s Award 2023 (SSG Goh Kun Ming)
 
-![](/images/brbrbrb.jpg)
+<img src="/images/brbrbrb.jpg" style="width:70%">
 
 ### Social Media
 
