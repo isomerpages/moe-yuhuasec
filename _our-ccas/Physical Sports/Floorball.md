@@ -16,14 +16,14 @@ As members of the Floorball team, students are given the platform to represent t
 
 ### Our Team
 
-**Teachers:** 
+**Teachers:**&nbsp;
 
-OIC: Mr Christopher Raj    
-2IC: Mrs Chew-Lim Shu Min    
-Ms Parvathy    
-Mdm Noorlinda
+Mr Christopher Raj
+<br>Mdm Noorlinda
+<br>Ms Charmaine Lo
 
-**Student Leaders:** 
+
+**Student Leaders:**&nbsp;
 
 Captain: Lee Yong Le (307)    
 Vice Captain: Muhammad Ryanfiqrie bin Muhamad Zaki (304)
@@ -32,15 +32,15 @@ Vice Captain: Muhammad Ryanfiqrie bin Muhamad Zaki (304)
 
 **16 Jan – 15 Feb 2019**
 
-B’ Div Competition 
+B’ Div Competition&nbsp;
 
 **01 July – 3 September 2019**
 
-C’ Div Competition 
+C’ Div Competition&nbsp;
 
-**Upcoming in 2021 Q3 & 4:**  
+**Upcoming in 2021 Q3 &amp; 4:**  
 
-Yuhua Intra-Floorball Championships 
+Yuhua Intra-Floorball Championships&nbsp;
 
 ### Achievements
 
