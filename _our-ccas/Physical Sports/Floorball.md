@@ -7,7 +7,7 @@ variant: markdown
 ---
 # **Floorball**
 
-![](/images/WhatsApp%20Image%202021-06-04.jpeg)
+
 
 ### Background
 
