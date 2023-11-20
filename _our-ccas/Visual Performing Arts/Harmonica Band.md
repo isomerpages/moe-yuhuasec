@@ -38,8 +38,8 @@ Ms Hu Longmei
 * M.A.D. For Recycling (Make A Difference) Values-In-Action (VIA) Project organised by the Kreta Ayer - Kim Seng Youth Network branch of the People’s Association 
 * Singapore Youth Festival Arts Presentation  
 * JOY of Yuhua
-![](/images/harmonica1.png)
-![](/images/harmonica2.png)
+<img src="/images/harmonica1.png" style="width:70%">
+<img src="/images/harmonica2.png" style="width:70%">
 
  |  ![](/images/harmonica4.png)  |![](/images/harmonica5.png)
  | -------- | -------- |
