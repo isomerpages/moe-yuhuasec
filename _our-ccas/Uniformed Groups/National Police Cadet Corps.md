@@ -89,7 +89,7 @@ Sec 2: Adventure Training Camp (ATC) in NPCC Camp Resilience, Pulau Ubin
  ##### **External Programmes / Achievements:**
 **Unit Overall Proficiency Award:**<br>
 The Yuhua NPCC unit achieved the Distinction standard for the Unit Overall Proficiency Award (UOPA) in 2022.
-![](/images/yhssnpcc10.png)
+<img src="/images/yhssnpcc10.png" style="width:50%">
 ###### SPF-NPCC Pinnacle Badge 2023:
 * **Station Inspector:** Mohammed Arddrean Zikry Bin Mohammed Zakry (4 Connect)
 * **Station Inspector:** Krishnarajan Jeevanesan (4 Resilience)
@@ -97,7 +97,7 @@ The Yuhua NPCC unit achieved the Distinction standard for the Unit Overall Profi
 **Best Unit Cadet Award 2023:**
 * Male : Chua Chee Yang (4 Contribute)
 * Female: Chong Xuan Ya Glenda (4 Adaptability)
-*![](/images/yhssnpcc11.png)
+<img src="/images/yhssnpcc11.png" style="width:50%">
 ##### SOCIAL MEDIA:
 [YHSS NPCC INSTAGRAM]( https://www.instagram.com/yhssnpcc/)
 &nbsp;**https://www.instagram.com/yhssnpcc/**
