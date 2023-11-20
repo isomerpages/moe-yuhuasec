@@ -3,6 +3,7 @@ title: Floorball
 permalink: /our-ccas/Physical-Sports/floorball/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 # **Floorball**
 
@@ -10,7 +11,8 @@ third_nav_title: Physical Sports
 
 ### Background
 
-The Yuhua Floorball Team was formed at the beginning of 2019 with the merger of Yuhua Secondary’s Hockey Team and Shuqun Secondary’s Floorball Team. Despite the relatively short time spent playing together, the team has come together in a big way demonstrating exceptional teamwork in both trainings and matches alike. 
+The Yuhua Floorball Team was formed at the beginning of 2019 with the merger of Yuhua Secondary’s Hockey Team and Shuqun Secondary’s Floorball Team. The CCA has always maintained a focus of developing passion for the sport and molding students to be leaders in their own way. 
+As members of the Floorball team, students are given the platform to represent the school in the National School Games (NSG) B and C Division tournament as well as friendly matches on a yearly basis.
 
 ### Our Team
 
