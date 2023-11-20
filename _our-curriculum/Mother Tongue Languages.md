@@ -8,7 +8,7 @@ variant: markdown
 
 ### Our Team
 
-<img src="/images/2023%20images/mother%20tongue%20languages%20ver1.jpg" style="width:50%">
+<img src="/images/2023%20images/mother%20tongue%20languages%20ver1.jpg" style="width:70%">
 
 ### Department Introduction
 
@@ -32,6 +32,14 @@ Upon completion of the programme, students should be able to:
 
 1.  Communicate in their non-mother tongue language in everyday situations using simple phrases and sentences
 2.  Develop cross-cultural appreciation and build stronger cross-ethnic relationships
+
+
+| | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+
 
 <img src="/images/MTL%201.png" style="width:50%">
 <img src="/images/MTL%202.png" style="width:50%">
