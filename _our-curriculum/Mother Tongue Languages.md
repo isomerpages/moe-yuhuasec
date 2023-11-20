@@ -33,15 +33,7 @@ Upon completion of the programme, students should be able to:
 1.  Communicate in their non-mother tongue language in everyday situations using simple phrases and sentences
 2.  Develop cross-cultural appreciation and build stronger cross-ethnic relationships
 
-
-| | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
-
-
-<img src="/images/MTL%201.png" style="width:50%">
+<img src="/" style="width:50%">
 <img src="/images/MTL%202.png" style="width:50%">
 <img src="/images/MTL%204.png" style="width:50%">
 <img src="/images/MTL%205.png" style="width:50%">
