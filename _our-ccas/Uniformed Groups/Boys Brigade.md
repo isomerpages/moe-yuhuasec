@@ -47,6 +47,7 @@ Mr Yeh Bao Yaw
 | ![](/images/bb42023.jpg) | ![](/images/bb%20cares%20(via).jpg) | 
 | -------- | -------- |
 | One Star Kayaking Course | BB CARES (VIA) - Outing with St. Andrew Nursing Home residents |
+
 ### Achievements:
 
 JM Fraser Award 2021 (Sliver)
