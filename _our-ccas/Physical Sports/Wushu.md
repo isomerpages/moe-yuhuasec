@@ -3,10 +3,11 @@ title: Wushu
 permalink: /our-ccas/Physical-Sports/wushu/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 # **Wushu**
 
-![](/images/wushu3.jpeg)
+<img src="/images/wushu3.jpeg" style="width:70%">
 
 ### Background
 
