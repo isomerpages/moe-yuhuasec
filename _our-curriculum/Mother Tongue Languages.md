@@ -33,19 +33,17 @@ Upon completion of the programme, students should be able to:
 1.  Communicate in their non-mother tongue language in everyday situations using simple phrases and sentences
 2.  Develop cross-cultural appreciation and build stronger cross-ethnic relationships
 
-![](/images/MTL%201.png)
-![](/images/MTL%202.png)
-![](/images/MTL%204.png)
-![](/images/MTL%205.png)
-![](/images/MTL%206.png)
+<img src="/images/MTL%201.png" style="width:50%">
+<img src="/images/MTL%202.png" style="width:50%">
+<img src="/images/MTL%204.png" style="width:50%">
+<img src="/images/MTL%205.png" style="width:50%">
+<img src="/images/MTL%206.png" style="width:50%">
 
 **Sharing at Malay Language Seminar 2022**
 
-![](/images/PHOTO-2022-04-04-14-50-54.jpg)
-
-![](/images/IMG-20220315-WA0009%202.jpg)
-
-![](/images/IMG-20220315-WA0019%202.jpg)
+<img src="/images/PHOTO-2022-04-04-14-50-54.jpg" style="width:50%">
+<img src="/images/IMG-20220315-WA0009%202.jpg" style="width:50%">
+<img src="/images/IMG-20220315-WA0019%202.jpg" style="width:50%">
 
 Every year, the Malay Language Centre of Singapore (MLCS) and the&nbsp;Academy of Singapore Teachers,&nbsp;organises the annual Malay Language Seminar. This year, Yuhua Secondary School’s &nbsp;Malay Language Unit was honoured to be selected to share their PLT findings at the 2022 Malay Language&nbsp;Seminar.
 
