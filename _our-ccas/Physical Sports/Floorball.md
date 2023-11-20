@@ -17,15 +17,13 @@ As members of the Floorball team, students are given the platform to represent t
 
 ### Our Team
 
-**Teachers:**&nbsp;
-
+**Teachers:**<br>
 Mr Christopher Raj
 <br>Mdm Noorlinda
 <br>Ms Charmaine Lo
 
 
-**Student Leaders:**&nbsp;
-
+**Student Leaders:**<br>
 *B Division Co-Captains:*<br>
 Tan Ian (3 Contribute)
 <br>Chee Ming Kai  (3 Contribute)
@@ -37,6 +35,7 @@ Tan Ian (3 Contribute)
 * ‘C’ Division National School Games (NSG)
 * Friendly games
 * CCA Day Camp
+
 <img src="/images/Picture2.jpg" style="width:50%">
 
 ### Achievements
