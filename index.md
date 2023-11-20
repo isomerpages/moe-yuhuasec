@@ -22,6 +22,15 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infopic:
+      title: Open House 2023 - The Yuhua Heartbeat
+      subtitle: Open House 2023
+      id: infopic
+      description: Join us on 25 Nov 2023 (Sat) from 8am to 1pm for our Open House at
+        35 Jurong West Street 41 to discover more about our school!
+      button: Open House microsite
+      url: https://sites.google.com/moe.edu.sg/yhss-e-openhouse/home
+      image: /images/WhatsApp_Image_2023_11_20_at_20_58_29.jpeg
+  - infopic:
       title: Caring Teacher Awards 2024
       subtitle: CTA 2024
       description: Dear Parents and Students, you may now nominate teachers for the
@@ -40,13 +49,4 @@ sections:
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
       alt: Image alt text
-  - infopic:
-      title: Open House 2023 - The Yuhua Heartbeat
-      subtitle: Open House 2023
-      id: infopic
-      description: Join us on 25 Nov 2023 (Sat) from 8am to 1pm for our Open House at
-        35 Jurong West Street 41 to discover more about our school!
-      button: Open House microsite
-      url: https://sites.google.com/moe.edu.sg/yhss-e-openhouse/home
-      image: /images/WhatsApp_Image_2023_11_20_at_20_58_29.jpeg
 ---
