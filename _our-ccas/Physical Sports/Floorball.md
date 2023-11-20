@@ -26,7 +26,6 @@ Mr Christopher Raj
 *B Division Co-Captains:*<br>
 Tan Ian (3 Contribute)
 <br>Chee Ming Kai  (3 Contribute)
-
 ### Key Events of the Year
 
 * S1 CCA trials
