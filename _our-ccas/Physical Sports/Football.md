@@ -3,9 +3,10 @@ title: Football
 permalink: /our-ccas/physical-sports/football/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 # **Football**
-![](/images/football2.jpg)
+<img src="/images/football2.jpg" style="width:70%">
 
 ### Background
 
@@ -41,5 +42,5 @@ Mr Shukri Shuhaimi
 
 **2023** B Division National School Games (League 4) - Top 8**
 
-![](/images/football1.jpg)
-![](/images/football3.jpg)
+<img src="/images/football1.jpg" style="width:60%">
+<img src="/images/football3.jpg" style="width:60%">
