@@ -31,7 +31,9 @@ OIC: Mr Lee Yi Xin (OC)
 **NPCC Vice-Chairman:**<br> Ngoo Yu Xuan (3 Resilience)  
 **NPCC Vice-Chairman:**<br> Evelyn Quah (3 Adaptability)  
 **NPCC Vice-Chairman:**<br> Gwendolyn Jas Lee (3 Contribute)
-<img src="/images/yhssnpcc2.png" style="width:50%">
+
+<img src="/images/yhssnpcc2.png" style="width:70%">
+
 ### Milestones
 ##### **Proficiency Badges:**  
 **Sec1**: Campcraft, Police Procedure, Crime Prevention, Road Safety, Total Defence Bronze, 3rd Class Drill
