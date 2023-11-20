@@ -3,6 +3,7 @@ title: Tinkering and Robotics Club
 permalink: /our-ccas/clubs-and-societies/tinkering-and-robotics-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 # **Tinkering and Robotics Club**
 
@@ -42,7 +43,17 @@ COM MEMBER:ONG CHEN TECK BRAYDEN((3 CONTRIBUTE)
 
 ### Gallery:
 
+|![](/images/yhsstrc3.jpg) |![](/images/yhsstrc2.jpg)
+| -------- | -------- |
+|        SYF Dance team 2023    |SYF Dance Practice  |
 
+| ![](/images/dance%209.jpg)| ![](/images/dance%206.png) |  
+| -------- | -------- | 
+| Chinese New Year Dance Performance 2023| Seniors’ Farewell Party 2023| 
+
+|![](/images/dance%207.jpg)|![](/images/dance8.jpg)|  
+| -------- | -------- | 
+| Dance Practice 2023 | Dance Health &amp; Safety Briefing 2023| 
 
 | ![](/images/yhsstrc3.jpg)![](/images/yhsstrc2.jpg) ![](/images/yhsstrc11.jpg)![](/images/yhsstrc5.jpg)![](/images/yhsstrc6.jpg)|![](/images/yhsstrc7.jpg) ![](/images/yhsstrc8.jpg)![](/images/yhsstrc9.jpg)![](/images/yhsstrc10.jpg)![](/images/yhsstrc12.jpg)| 
 | -------- | -------- | 
