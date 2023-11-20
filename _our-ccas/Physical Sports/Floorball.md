@@ -25,8 +25,9 @@ Mr Christopher Raj
 
 **Student Leaders:**&nbsp;
 
-Captain: Lee Yong Le (307)    
-Vice Captain: Muhammad Ryanfiqrie bin Muhamad Zaki (304)
+*B Division Co-Captains:*<br>
+Tan Ian (3 Contribute)
+<br>Chee Ming Kai  (3 Contribute)
 
 ### Key Events of the Year
 
