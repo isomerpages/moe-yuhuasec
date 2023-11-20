@@ -39,7 +39,6 @@ Mr Yeh Bao Yaw
 * BB CARES (Community Activities Rallying Everyone to Serve)
 * Founder’s Day
 * BBSG (Share-a-Gift)
-	
 
 |![](/images/bb32023.jpg)|![](/images/bb22023.jpg) |
 |-------- | -------- | 
