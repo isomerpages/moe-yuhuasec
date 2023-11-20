@@ -49,6 +49,7 @@ OIC: Mr Lee Yi Xin (OC)
 **Sec.1**: First Aid certification    
 **Sec.2**: One-Star Kayaking certification   
 **Sec.3**: Air Pistol
+
 <img src="/images/yhssnpcc3.png" style="width:50%">
 
 ##### **Visits:**<br>
