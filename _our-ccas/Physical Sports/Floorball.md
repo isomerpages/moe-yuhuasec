@@ -31,17 +31,11 @@ Tan Ian (3 Contribute)
 
 ### Key Events of the Year
 
-**16 Jan – 15 Feb 2019**
-
-B’ Div Competition&nbsp;
-
-**01 July – 3 September 2019**
-
-C’ Div Competition&nbsp;
-
-**Upcoming in 2021 Q3 &amp; 4:**  
-
-Yuhua Intra-Floorball Championships&nbsp;
+* S1 CCA trials
+* ‘B’ Division National School Games (NSG)
+* ‘C’ Division National School Games (NSG)
+* Friendly games
+* CCA Day Camp
 
 ### Achievements
 
