@@ -37,6 +37,7 @@ Tan Ian (3 Contribute)
 * ‘C’ Division National School Games (NSG)
 * Friendly games
 * CCA Day Camp
+<img src="/images/Picture2.jpg" style="width:50%">
 
 ### Achievements
 
@@ -48,3 +49,5 @@ Participated in ‘C’ Division National School Games
 Participated in B Div National School Games
 Participated in C Div National School Games
 
+<img src="/images/Picture3.jpg" style="width:50%">
+<img src="/images/Picture4.jpg" style="width:50%">
