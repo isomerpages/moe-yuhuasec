@@ -53,4 +53,4 @@ Mr Ng Tian Lye<br>
 |![](/images/wushu6.jpeg) | ![](/images/wushu8.jpeg)| 
 |![](/images/wushu10.jpeg) | ![](/images/wushu9.jpeg) | 
 
-![](/images/wushu7.jpeg)
+<img src="/images/wushu7.jpeg" style="width:50%">
