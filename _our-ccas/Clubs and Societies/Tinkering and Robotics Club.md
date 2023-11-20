@@ -45,9 +45,9 @@ COM MEMBER:ONG CHEN TECK BRAYDEN((3 CONTRIBUTE)
 
 |![](/images/yhsstrc3.jpg) |![](/images/yhsstrc2.jpg)
 | -------- | -------- |
-|      |  |
+|   |  |
 
-| ![](/images/yhsstrc11.jpg)| ![](/images/yhsstrc5.jpg) |  
+| ![](/images/yhsstrc11.jpg)|![](/images/yhsstrc5.jpg) |  
 | -------- | -------- | 
 | | | 
 
