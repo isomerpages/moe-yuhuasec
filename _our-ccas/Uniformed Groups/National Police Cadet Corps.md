@@ -3,10 +3,11 @@ title: National Police Cadet Corps
 permalink: /our-ccas/uniformed-groups/national-police-cadet-corps/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 # **National Police Cadet Corps**
 
-![](/images/yhssnpcc1.png)
+<img src="/images/yhssnpcc1.png" style="width:70%">
 
 ## Background:
 
