@@ -3,10 +3,11 @@ title: National Civil Defence Cadet Corps
 permalink: /our-ccas/uniformed-groups/national-civil-defence-cadet-corps/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 # **National Civil Defence Cadet Corps**
 
-![](/images/ncdcc5.png)
+<img src="/images/ncdcc5.png" style="width:70%">
 
 ### Background
 
@@ -50,9 +51,10 @@ To assess their acquired skills, our cadets actively participate in a variety of
 * Secondary 3 Specialisation Course – Medical Response, Urban Search and Rescue and Fire Safety
 * Participating in NCDCC Service Month – School and community sharing of Civil Defence knowledge
 * Precision Drill Competition
-![](/images/ncd1.jpg)![](/images/ncdcc1.png) 
- ![](/images/ncd2.jpg) ![](/images/ncdcc2.png)
- 
+
+<img src="/images/ncdcc1.png" style="width:70%">
+<img src="/images/ncdcc2.png" style="width:70%">
+
 ### Achievements
 * SCDF - NCDCC Pinnacle Award
 * The SCDF - NCDCC Pinnacle award is presented to the most outstanding cadet in NCDCC. This is the highest accolade that a cadet may receive in this uniform group. The recipient of this award is Warrant Officer David Goh from 4 Care.
@@ -61,4 +63,4 @@ To assess their acquired skills, our cadets actively participate in a variety of
 * Unit Overall Proficiency Award 
 * The Yuhua NCDCC unit achieved the Distinction standard for the Unit Overall Proficiency Award (UOPA) in 2022.
 
-<img src="/images/ncdcc4.png" style="width:50%">
+<img src="/images/ncdcc4.png" style="width:30%">
