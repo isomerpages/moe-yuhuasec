@@ -3,6 +3,7 @@ title: Tinkering and Robotics Club
 permalink: /our-ccas/clubs-and-societies/tinkering-and-robotics-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 # **Tinkering and Robotics Club**
 
@@ -44,8 +45,18 @@ COM MEMBER:ONG CHEN TECK BRAYDEN((3 CONTRIBUTE)
 
 
 
-| ![](/images/yhsstrc3.jpg)![](/images/yhsstrc2.jpg) ![](/images/yhsstrc11.jpg)![](/images/yhsstrc5.jpg)![](/images/yhsstrc6.jpg)|![](/images/yhsstrc7.jpg) ![](/images/yhsstrc8.jpg)![](/images/yhsstrc9.jpg)![](/images/yhsstrc10.jpg)![](/images/yhsstrc12.jpg)| 
+| ![](/images/yhsstrc11.jpg) | ![](/images/yhsstrc3.jpg) | ![](/images/yhsstrc12.jpg) |
+| -------- | -------- | -------- |
+|          |         |          |
+
+| ![](/images/yhsstrc5.jpg) | ![](/images/yhsstrc9.jpg) | ![](/images/yhsstrc6.jpg) |
+| -------- | -------- | -------- |
+|          |         |          |
+
+| ![](/images/yhsstrc8.jpg) | ![](/images/yhsstrc7.jpg) | ![](/images/yhsstrc10.jpg) |
+| -------- | -------- | -------- |
+|          |         |          |
+
+| ![](/images/yhsstrc2.jpg) | ![](/images/yhsstrc4.jpg) | 
 | -------- | -------- | 
-
-
-![](/images/yhsstrc4.jpg)
+|          |         |

@@ -14,14 +14,14 @@ variant: markdown
 
 The department aims to nurture positivity through the Appreciation and Comprehension of the dimensions in the Humanities to Envision for a better future.
 
-![](/images/00100trPORTRAIT_00100_BURST20200311081009946_COVER.jpg)
+<img src="/images/00100trPORTRAIT_00100_BURST20200311081009946_COVER.jpg" style="width:70%">
 
-**FRAMEWORK & APPROACH** 
+**FRAMEWORK &amp; APPROACH**&nbsp;
 
-The Humanities department infuses inquiry learning with fieldwork and learning journeys. Through the ACE framework, the department aims to nurture Yuhuans’ perspectives through:   
+The Humanities department infuses inquiry learning with fieldwork and learning journeys. Through the ACE framework, the department aims to nurture Yuhuans’ perspectives through:&nbsp; &nbsp;
 
-* Appreciation for the interconnected relationships between human and physical environment. 
-* Comprehension of the past to understand the present. 
+* Appreciation for the interconnected relationships between human and physical environment.&nbsp;
+* Comprehension of the past to understand the present.&nbsp;
 * Envisioning of the future using reasoned arguments.\
 
 ![](/images/Humanities1.jpg)

@@ -3,45 +3,48 @@ title: Floorball
 permalink: /our-ccas/Physical-Sports/floorball/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 # **Floorball**
 
-![](/images/WhatsApp%20Image%202021-06-04.jpeg)
+<img src="/images/2023%20images/Picture1.png" style="width:50%">
+																							
 
 ### Background
 
-The Yuhua Floorball Team was formed at the beginning of 2019 with the merger of Yuhua Secondary’s Hockey Team and Shuqun Secondary’s Floorball Team. Despite the relatively short time spent playing together, the team has come together in a big way demonstrating exceptional teamwork in both trainings and matches alike. 
+The Yuhua Floorball Team was formed at the beginning of 2019 with the merger of Yuhua Secondary’s Hockey Team and Shuqun Secondary’s Floorball Team. The CCA has always maintained a focus of developing passion for the sport and molding students to be leaders in their own way. 
+As members of the Floorball team, students are given the platform to represent the school in the National School Games (NSG) B and C Division tournament as well as friendly matches on a yearly basis.
 
 ### Our Team
 
-**Teachers:** 
+**Teachers:**<br>
+Mr Christopher Raj
+<br>Mdm Noorlinda
+<br>Ms Charmaine Lo
 
-OIC: Mr Christopher Raj    
-2IC: Mrs Chew-Lim Shu Min    
-Ms Parvathy    
-Mdm Noorlinda
-
-**Student Leaders:** 
-
-Captain: Lee Yong Le (307)    
-Vice Captain: Muhammad Ryanfiqrie bin Muhamad Zaki (304)
-
+**Student Leaders:**<br>
+*B Division Co-Captains:*<br>
+Tan Ian (3 Contribute)
+<br>Chee Ming Kai  (3 Contribute)
 ### Key Events of the Year
 
-**16 Jan – 15 Feb 2019**
+* S1 CCA trials
+* ‘B’ Division National School Games (NSG)
+* ‘C’ Division National School Games (NSG)
+* Friendly games
+* CCA Day Camp
 
-B’ Div Competition 
-
-**01 July – 3 September 2019**
-
-C’ Div Competition 
-
-**Upcoming in 2021 Q3 & 4:**  
-
-Yuhua Intra-Floorball Championships 
+<img src="/images/Picture2.jpg" style="width:50%">
 
 ### Achievements
 
-Singapore Floorball Association (SFA) B’ Division Plate Competition – 4th Place
+**2023**<br>
+Participated in ‘B’ Division National School Games
+Participated in ‘C’ Division National School Games
 
-![](/images/ff.jpg)
+**2022**<br>
+Participated in B Div National School Games
+Participated in C Div National School Games
+
+<img src="/images/Picture3.jpg" style="width:50%">
+<img src="/images/Picture4.jpg" style="width:50%">
