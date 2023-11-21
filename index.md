@@ -30,6 +30,7 @@ sections:
       button: Open House microsite
       url: https://sites.google.com/moe.edu.sg/yhss-e-openhouse/home
       image: /images/WhatsApp_Image_2023_11_20_at_20_58_29.jpeg
+      alt: Open House 2023
   - infopic:
       title: Caring Teacher Awards 2024
       subtitle: CTA 2024
