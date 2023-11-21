@@ -29,7 +29,7 @@ sections:
         35 Jurong West Street 41 to discover more about our school!
       button: Open House microsite
       url: https://sites.google.com/moe.edu.sg/yhss-e-openhouse/home
-      image: /images/WhatsApp_Image_2023_11_20_at_20_58_29.jpeg
+      image: /images/Open_House_Banner.png
       alt: Open House 2023
   - infopic:
       title: Caring Teacher Awards 2024
