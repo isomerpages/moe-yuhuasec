@@ -22,6 +22,16 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infopic:
+      title: Sec 1 Registration 2024
+      subtitle: Sec 1 Registration 2024
+      id: infopic
+      description: Dear parents, please use the link below to go to the Sec 1
+        Registration site for students entering in 2024.
+      button: Link to Sec 1 Registration 2024 site
+      url: https://sites.google.com/moe.edu.sg/yhsssec1registration2024?usp=sharing
+      image: /images/Sec_1_Registration__2_.png
+      alt: Image alt text
+  - infopic:
       title: Open House 2023 - The Yuhua Heartbeat
       subtitle: Open House 2023
       id: infopic
@@ -49,15 +59,5 @@ sections:
       button: click here to read the article!
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
-      alt: Image alt text
-  - infopic:
-      title: Sec 1 Registration 2024
-      subtitle: Sec 1 Registration 2024
-      id: infopic
-      description: Dear parents, please use the link below to go to the Sec 1
-        Registration site for students entering in 2024.
-      button: Link to Sec 1 Registration 2024 site
-      url: https://sites.google.com/moe.edu.sg/yhsssec1registration2024?usp=sharing
-      image: /images/Sec_1_Registration__2_.png
       alt: Image alt text
 ---
