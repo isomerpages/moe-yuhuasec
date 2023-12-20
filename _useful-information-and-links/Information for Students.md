@@ -2,14 +2,15 @@
 title: Information for Students
 permalink: /useful-information-and-links/information-for-students/
 description: ""
+variant: markdown
 ---
 # **Information for Students**
 
 ### Subject Selection Exercise Briefing Slides for Secondary 2 (2023)
 
-Dear Sec 2 students, you may access the Subject Selection Exercise briefng slides below.
+Dear Sec 2 students, you may access the Subject Selection Exercise briefing slides below.
 
-[Sec 2 Express](https://github.com/isomerpages/moe-yuhuasec/files/13066934/2023.Sec.2_Subject.Combination.for.2024.Sec.3E.-yr.end.pdf)
+
 
 [Sec 2 Normal (Academic)](https://github.com/isomerpages/moe-yuhuasec/files/13066942/2023.Sec.2_Subject.Combination.for.2024.Sec.3N.-yr.end.pdf)
 
@@ -30,7 +31,7 @@ Dear students, you may access your class timetable for Semester 2 via the follow
 
 ### Secondary 2 Parent-Teacher Meeting on Subject Selection Exercise
 
-[Sec 2 Express] (https://github.com/isomerpages/moe-yuhuasec/files/13279169/2023.Sec.2.PTM_Subject.Combination.for.2024.Sec.3E.pdf)
+[Sec 2 Express[Sec 2 Express](https://github.com/isomerpages/moe-yuhuasec/files/13066934/2023.Sec.2_Subject.Combination.for.2024.Sec.3E.-yr.end.pdf)] (https://github.com/isomerpages/moe-yuhuasec/files/13279169/2023.Sec.2.PTM_Subject.Combination.for.2024.Sec.3E.pdf)
 
 [Sec 2 Normal (Academic)] (https://github.com/isomerpages/moe-yuhuasec/files/13279171/2023.Sec.2.PTM_Subject.Combination.for.2024.Sec.3N.pdf)
 
