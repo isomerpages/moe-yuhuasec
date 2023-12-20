@@ -10,7 +10,7 @@ variant: markdown
 
 Dear Sec 2 students, you may access the Subject Selection Exercise briefing slides below.
 
-
+[Sec 2 Express](https://github.com/isomerpages/moe-yuhuasec/files/13279190/2023.Sec.2.PTM_Subject.Combination.for.2024.Sec.3E.pdf)
 
 [Sec 2 Normal (Academic)](https://github.com/isomerpages/moe-yuhuasec/files/13066942/2023.Sec.2_Subject.Combination.for.2024.Sec.3N.-yr.end.pdf)
 
