@@ -2,8 +2,15 @@
 title: Information for Parents
 permalink: /useful-information-and-links/information-for-parents/
 description: ""
+variant: markdown
 ---
 # **Information for Parents**
+
+
+### Student Handbook
+--------------
+Dear parents, you may access [YHSS Student Handbook](https://sites.google.com/moe.edu.sg/yhss-handbook-site/home?pli=1) for more information on the expectations for students, academic matters and co-curricular matters.
+
 
 ### 2024 Booklists
 --------------
