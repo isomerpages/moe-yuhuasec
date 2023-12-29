@@ -7,16 +7,25 @@ variant: markdown
 Principal's Message
 ===================
 
-On behalf of the school, my warmest greetings to all! I hope all Yuhuans enjoyed a lovely break with your loved ones. To all our existing students and parents: we missed you during the holidays, and to our new students and parents: a warm welcome to our Yuhua family.<br>
-The biggest thing that happened over the Dec 2022 break is likely the World Cup for many of us. It was an epic World Cup 2022, and I am sure many of us had a chance to capture some of the sporting excitement. It was a tournament with many upsets, as well as many inspiring success stories – whether for teams or individuals. In the same way, the journey through the last few years had been an epic one for us in schools. COVID has disrupted learning in many ways, but the school came together strongly over the years to build our vision of &nbsp;<b> A Community Where Learners Flourish</b>. Learning continued despite all challenges, and it is our mission as a team to <b>Care, Connect and Contribute</b>. We are heartened that our vision and mission resonates strongly with students, staff, parents and the wider community, and it is my wish that we work strongly as one team to continue celebrating the successes of our many Yuhuans.<br>
+    
+On behalf of the school, my warmest greetings to all! I hope all Yuhuans had a wonderful break with family, all ready to start a new school year. To all our new Secondary One students and family looking forward to the new adventure in Yuhua Secondary: my heartiest welcome!
 
-We are proud of the many inspirational successes by our own Yuhuans, and I encourage all parents to follow our website, [Facebook](https://www.facebook.com/yuhuass/) (@yuhuass) and [Instagram](https://www.instagram.com/yuhuasecondaryschool/?hl=en) (@yuhuasecondaryschool) sites closely, as we leverage technology to connect all of us and be updated as a community.
+For Yuhuans who have been here for a number of years, you would know that I start every year with a new rallying theme. The rallying theme is one to unify and to give each and every one of us a common purpose, as we gather as one school and to help every Yuhuan in the community learn and flourish.
 
-In 2023, we look forward to many more possibilities and opportunities to flourish. I wish to rally the school to build on the foundations we’ve achieved, to move each individual and the school as an overall community&nbsp; <b> From Good To Great</b>. This is our rallying theme as Team Yuhua for 2023, as we seek to have &nbsp;<b>One Heart, One Mind and work as One Team</b> towards a community of flourishing learners who care, connect and contribute.
-<br>To this end, our dedicated team of staff will work wholeheartedly with all students, parents and the greater community to boldly live out our values in nurturing a flourishing Yuhua from Good to Great. Whether it is during curriculum lessons, CCAs, Home-Based Learning Days, or in any other learning opportunity – we endeavour to seed in all Yuhuans strong positive motivation (One Heart), a growth mindset (One Mind) and a heart for others (One Team). Our ultimate goal is to seed the right values of &nbsp;<b>CARE<sup>3</sup></b>&nbsp; that will ensure that Yuhuans graduate with excellence and have the right character to contribute well to others in society.
-<br>I hope you are as excited as I am with 2023, and I look forward to your continued support and partnership in your child / ward’s education journey at Yuhua Secondary. As we look ahead to the new academic year, the following are highlighted for your information:
+This aligns with our school vision – **A Community Where Learners Flourish**. A guiding principle in which I lead Yuhua Secondary, is for the school to always prepare our students well for the future: to guard and thrive against the triple evils of **I-C-U** – 1) Individualism, 2) Change and Uncertainty and 3) Unhealthy Well Being Trends.
 
-Let’s&nbsp;<b>Dare to CARE<sup>3</sup></b>&nbsp;together, as we build a community where learners flourish!
+We work as one team and community, to build students with empathy to care about their own well-being, and for the larger community and causes around them. Beyond individual gains and wants, we must build in our Yuhuans the psyche to look out for others around them – to employ the knowledge, skills and dispositions they learnt, to innovate adaptively to make a difference to the world around them. When you scan the educational and societal landscape, one can see clearly how much more complex the world is. The world is evolving rapidly, and we read daily in the news on new economic disruptions, political upheavals and social challenges facing us. It is only by the collective strength of the community, can we battle against I-C-U and the evils of various unhealthy well-being trends that abound.
 
-Mr Kevin Pang    
-Principal, Yuhua Secondary School
+It is with this context in mind, that I proudly share that our rallying theme for 2024 is **‘Braving the Future: The Courage to Care, Connect, Contribute’**. This rallying theme revolves around the mission of the school, our core purpose to build every Yuhuan to **Care, Connect and Contribute**. This is a mission that resonates with students, staff and different stakeholders, and I am excited how we can build each Yuhuan to be courageous changemakers with the passion to make a difference.
+
+In 2024, I look forward to how the school (alongside families as the most crucial stakeholders) to build on the foundations we’ve laid, to inspire each individual and the school community **to have the Courage to Care, Connect and Contribute.** If you refer to **Annex A** at the end of this letter, we celebrate the various student and staff achievements in Term 4 2023\. Our students and staff are making a large impact in their various areas of strength, and I encourage all parents to follow our website, Facebook (@yuhuass) and Instagram (@yuhuasecondaryschool) sites, as we continue to celebrate the achievements of our Yuhuan community over the year.
+
+I hope you are as excited as I am with 2024, and I look forward to your continued support and partnership in your child / ward’s education journey at Yuhua Secondary. Let’s work together **to Brave the Future, with The Courage to Care, Connect and Contribute**!
+
+Mr Kevin Pang
+<br>Principal, Yuhua Secondary School
+
+
+
+
+
