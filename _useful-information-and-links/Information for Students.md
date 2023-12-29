@@ -6,6 +6,12 @@ variant: markdown
 ---
 # **Information for Students**
 
+
+### Student Handbook
+
+Dear students, you may access the [YHSS Student Handbook](https://sites.google.com/moe.edu.sg/yhss-handbook-site/home?pli=1) for information on the expectations for attire, academic matters and co-curricular matters.
+
+
 ### Subject Selection Exercise Briefing Slides for Secondary 2 (2023)
 
 Dear Sec 2 students, you may access the Subject Selection Exercise briefing slides below.
@@ -115,5 +121,3 @@ For informed choices in education and career guidance and life long learning thr
 <br>
 <br>
 <br>
-
-
