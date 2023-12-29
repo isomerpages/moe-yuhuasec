@@ -60,4 +60,13 @@ sections:
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
       alt: Image alt text
+  - infopic:
+      title: Yearbook 2023
+      subtitle: YEARBOOK 2023
+      id: infopic
+      description: Click on the link below to find out more about the events and
+        achievements of our school in 2023!
+      button: Link to YHSS YEARBOOK 2023
+      url: https://drive.google.com/file/d/1liM61iShndCeabQkYldDqiGQm6M7VeC5/view?usp=sharing
+      alt: Image alt text
 ---
