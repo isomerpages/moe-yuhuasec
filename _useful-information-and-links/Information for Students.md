@@ -6,6 +6,17 @@ variant: markdown
 ---
 # **Information for Students**
 
+
+### Term 1 Letter for 2024
+
+Dear students, you may access the Term 1 Letter for 2024 [here](/files/YHSS_2024_Term_1_Letter__29122023_.pdf).
+
+
+### Student Handbook
+
+Dear students, you may access the [YHSS Student Handbook](https://sites.google.com/moe.edu.sg/yhss-handbook-site/home?pli=1) for information on the expectations for attire, academic matters and co-curricular matters.
+
+
 ### Subject Selection Exercise Briefing Slides for Secondary 2 (2023)
 
 Dear Sec 2 students, you may access the Subject Selection Exercise briefing slides below.
@@ -115,71 +126,3 @@ For informed choices in education and career guidance and life long learning thr
 <br>
 <br>
 <br>
-
-### EL Portal
-
-<div>
-<div style="float: left">
-<a href="https://www.elportals.sg/">
-<img src="/images/EL%20PORTAL.jpg" style="width:100%">
-</a> Click on the EL Portals Logo. <br>
-For Teaching, Learning and School-based Assessment of English.
-	</div>
-</div>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-### iMTL Portal
-
-<div>
-<div style="float: left">
-<a href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login">
-<img src="/images/portal.jpg" style="width:100%">
-</a> Click on the iMTL Logo. <br>
-For Teaching, Learning and School-based Assessment of Mother Tongue Languages.
-	</div>
-</div>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-### e-Library OPAC
-
-<div>
-<div style="float: left">
-<a href="https://schoolibrary.spydus.com.sg/yuhuasec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">
-<img src="/images/library(1).jpg" style="width:100%">
-</a> Click on the e-Library Logo. <br>
-For Access to a world of information, details of newest books, magazines and digital resources and loan records.
-	</div>
-</div>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-### ACE Learning for Math
-
-<div>
-<div style="float: left">
-<a href="https://www.ace-learning.com/">
-<img src="/images/math.jpg" style="width:100%">
-</a> Click on the ACE Learning Logo. <br>
-For Access to the Mathematics E-learning System.
-	</div>
-</div>

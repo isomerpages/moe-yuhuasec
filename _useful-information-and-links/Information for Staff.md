@@ -2,6 +2,7 @@
 title: Information for Staff
 permalink: /useful-information-and-links/information-for-staff/
 description: ""
+variant: markdown
 ---
 # **Information for Staff**
 
@@ -50,39 +51,6 @@ For informed choices in education and career guidance and life long learning thr
 <br>
 <br>
 
-##### 3. EL Portal
-
-<div>
-<div style="float: left">
-<a href="https://www.elportals.sg/">
-<img src="/images/EL%20PORTAL.jpg" style="width:100%">
-</a> Click on the EL Portals Logo. <br>
-For Teaching, Learning and School-based Assessment of English.
-	</div>
-</div>
-
-<br>
-<br>
-
-
-##### 4. iMTL Portal
-
-<div>
-<div style="float: left">
-<a href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login">
-<img src="/images/portal.jpg" style="width:100%">
-</a> Click on the iMTL Logo. <br>
-For Teaching, Learning and School-based Assessment of Mother Tongue Languages.
-	</div>
-</div>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ### MOE HQ &amp; HR Portals
 
