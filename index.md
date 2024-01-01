@@ -28,7 +28,7 @@ sections:
       description: Click on the link below to find out more about the events and
         achievements of our school in 2023!
       button: Link to YHSS YEARBOOK 2023
-      url: https://drive.google.com/file/d/1liM61iShndCeabQkYldDqiGQm6M7VeC5/view?usp=sharing
+      url: https://drive.google.com/file/d/1cSL9Ngm7nnIj6x8raOWHhbEcKl163s6Z/view?usp=drive_web
       alt: Image alt text
       image: /images/yhssllp4.png
   - infopic:
