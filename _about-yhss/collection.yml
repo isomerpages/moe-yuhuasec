@@ -1,0 +1,19 @@
+collections:
+  about-yhss:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our Partners/School Advisory Committee.md
+      - Our Partners/Parents Support Group.md
+      - Our Partners/.keep
+      - Our People/School Management Committee.md
+      - Our People/2023 Form Teachers.md
+      - Our People/Executive, Administrative & Support Staff.md
+      - Our People/.keep
+      - Our Story/School History.md
+      - Our Story/School Crest.md
+      - Our Story/Motto, Vision Mission & Values.md
+      - Our Story/.keep
+      - Our Story/Our School Song.md
+      - Open House Site.md
+      - JOY Ceremony.md

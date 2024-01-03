@@ -1,0 +1,14 @@
+logo: /images/yhss.jpg
+links:
+  - title: About Yhss
+    collection: about-yhss
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Our CCAs
+    collection: our-ccas
+  - title: Our Programmes
+    collection: our-programmes
+  - title: Our Achievements
+    collection: our-achievements
+  - title: Useful information and links
+    collection: useful-information-and-links
