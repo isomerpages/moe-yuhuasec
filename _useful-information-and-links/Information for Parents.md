@@ -7,6 +7,13 @@ variant: markdown
 # **Information for Parents**
 
 
+### Semester 1 Timetable
+----------------------
+Dear Parents,  
+You may access the Semester 1 timetable for 2024 below.
+
+
+
 ### Term 1 Letter for 2024
 ----------------------
 Dear Parents,  
