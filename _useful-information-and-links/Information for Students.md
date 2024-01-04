@@ -7,6 +7,20 @@ variant: markdown
 # **Information for Students**
 
 
+### Semester 1 Timetable
+----------------------
+Dear students,  
+You may access the Semester 1 timetable for 2024 below.
+
+[Secondary 1](/files/2024_Sem_1_TT_Sec_1_4_Jan.pdf)
+
+[Secondary 2](/files/2024_Sem_1_TT_Sec_2_4_Jan.pdf)
+
+[Secondary 3](/files/2024_Sem_1_TT_Sec_3_4_Jan.pdf)
+
+[Secondary 4 &amp; 5](/files/2024_Sem_1_TT_Sec_45_4_Jan.pdf)
+
+
 ### Term 1 Letter for 2024
 
 Dear students, you may access the Term 1 Letter for 2024 [here](/files/YHSS_2024_Term_1_Letter__29122023_.pdf).
