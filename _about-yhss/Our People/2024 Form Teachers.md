@@ -1,6 +1,6 @@
 ---
-title: 2023 Form Teachers
-permalink: /about-yhss/our-people/2023-form-teachers/
+title: 2024 Form Teachers
+permalink: /about-yhss/our-people/2024-form-teachers/
 description: ""
 third_nav_title: Our People
 variant: markdown
