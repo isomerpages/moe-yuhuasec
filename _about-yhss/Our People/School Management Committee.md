@@ -7,7 +7,7 @@ variant: markdown
 ---
 # **School Management Committee**
 
-![](/images/EXCO%202.jpg)
+![](/images/School_Management_Committee.jpg)
 
 ### School Management Committee
 
