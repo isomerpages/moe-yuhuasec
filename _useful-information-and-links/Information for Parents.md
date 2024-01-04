@@ -12,7 +12,13 @@ variant: markdown
 Dear Parents,  
 You may access the Semester 1 timetable for 2024 below.
 
+[Secondary 1](/files/2024_Sem_1_TT_Sec_1_4_Jan.pdf)
 
+[Secondary 2](/files/2024_Sem_1_TT_Sec_2_4_Jan.pdf)
+
+[Secondary 3](/files/2024_Sem_1_TT_Sec_3_4_Jan.pdf)
+
+[Secondary 4 &amp; 5](/files/2024_Sem_1_TT_Sec_45_4_Jan.pdf)
 
 ### Term 1 Letter for 2024
 ----------------------
