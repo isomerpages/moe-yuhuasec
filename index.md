@@ -22,6 +22,16 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infopic:
+      title: "Secondary 1 Parent-Teacher Meeting "
+      subtitle: Information for parents
+      id: infopic
+      description: Please find the materials for the Secondary 1 Parent-Teacher
+        Meeting on 12 January 2024 at the link below.
+      button: Go to information for parents
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
+      image: /images/Screenshot_2024_01_12_223413.png
+      alt: Image alt text
+  - infopic:
       title: Yearbook 2023
       subtitle: YEARBOOK 2023
       id: infopic
@@ -41,16 +51,6 @@ sections:
       url: https://sites.google.com/moe.edu.sg/yhsssec1registration2024?usp=sharing
       image: /images/Sec_1_Registration__2_.png
       alt: Image alt text
-  - infopic:
-      title: Open House 2023 - The Yuhua Heartbeat
-      subtitle: Open House 2023
-      id: infopic
-      description: Join us on 25 Nov 2023 (Sat) from 8am to 1pm for our Open House at
-        35 Jurong West Street 41 to discover more about our school!
-      button: Open House microsite
-      url: https://sites.google.com/moe.edu.sg/yhss-e-openhouse/home
-      image: /images/Open_House_Banner.png
-      alt: Open House 2023
   - infopic:
       title: Caring Teacher Awards 2024
       subtitle: CTA 2024
