@@ -22,7 +22,7 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infopic:
-      title: "Secondary 1 Parent-Teacher Meeting "
+      title: Secondary 1 Parent-Teacher Meeting
       subtitle: Information for parents
       id: infopic
       description: Please find the materials for the Secondary 1 Parent-Teacher
