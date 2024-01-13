@@ -7,6 +7,15 @@ variant: markdown
 # **Information for Parents**
 
 
+### Sec 1 Parent-Teacher Meeting materials
+----------------------
+Dear Parents,  
+You may access the materials for the Sec 1 Parent-Teacher Meeting below.
+
+[Secondary 1 Academic Briefing slides](/files/Sec_1_Acad_Briefing_Slides_2024_for_Sec_1_PTM_12_Jan.pdf)
+
+[Secondary 1 PDLP briefing slides](/files/_Sec_1_2024__Briefing_for_Parents_for_PDLP.pdf)
+
 ### Semester 1 Timetable
 ----------------------
 Dear Parents,  
