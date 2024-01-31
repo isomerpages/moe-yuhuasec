@@ -12,9 +12,9 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Open House Site
-          description: More information here!
-          url: https://sites.google.com/moe.edu.sg/yhss-e-openhouse/home
+        - title: WA1 Schedule 2024
+          description: Click here to access
+          url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
         - title: YHSS Flickr page
           description: Access our school photos here!
           url: https://flickr.com/photos/197130688@N02/albums
