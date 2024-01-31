@@ -6,11 +6,23 @@ variant: markdown
 ---
 # **Information for Parents**
 
+### Weighted Assessment 1 Schedules
+----------------------
+Dear Parents,  
+You may now access the schedules for Weighted Assessment 1 via the links below:
+
+[Secondary 1](/files/Sec_1_WA1_Parent_Letter_2024.pdf)
+
+[Secondary 2](/files/Sec_2_WA1_Parent_Letter_2024.pdf)
+
+[Secondary 3](/files/Sec_3_WA1_Parent_Letter_2024.pdf)
+
+[Secondary 4/5](/files/Sec_45_WA1_Parent_Letter_2024.pdf)
 
 ### Sec 1 Parent-Teacher Meeting materials
 ----------------------
 Dear Parents,  
-You may access the materials for the Sec 1 Parent-Teacher Meeting below.
+You may access the materials for the Sec 1 Parent-Teacher Meeting below:
 
 [Secondary 1 Academic Briefing slides](/files/Sec_1_Acad_Briefing_Slides_2024_for_Sec_1_PTM_12_Jan.pdf)
 
