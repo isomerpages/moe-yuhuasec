@@ -27,43 +27,62 @@ Boys Team: Mr Soong Yu-Juan
 
 ### Student Leaders
 
-Girls  
+Boys  
 **Captain**: DAMIEN TAN YAN MING
 **Vice-captain**: ONG CHUA WEN
-**Vice-captain**: 
-**Leader**: 
+**Vice-captain**: CHUN SI HAO
+
   
-Boys  
-**Captain**: Naufal Rusyaidi bin Rozi (307)  
-**Vice-captain**: Chua Chuan Chew (305)  
-**Vice-captai**n: Aw Zhi Peng, Raymond (303)  
-**Leader**: Mohammad Akid Akalil bin Mohd Rezal (203)  
+Girls  
+**Captain**: NG XIN TONG CHARMAINE 
+**Vice-captain**: SHANNON FONG YI XUAN
+**Vice-captain**: NUR ALIYAH HADZIQAH BINTE MOHAMAD HADZRIEN
 
-### Key Events of the Year
 
-**Programmes**
+###   **Milestone Programmes**
+ Competitions (local):
+ West Zone Inter-Schools Volleyball Competition
+* B division February
+* C division July
 
-1. Competitions (local)
+National Schools Volleyball Competition
+* B division March
+* C Division August
 
-*   West Zone Inter-Schools Volleyball Competition
+Mintonette Invitational Volleyball Tournament
+* B division December
+* ZHS invitational tournament (June)
+* B and C division
+Shuqun-Yuhua Alumni Cup (December)
+•	B division 
 
-*   B division February
-*   C division July
-*   National Schools Volleyball Competition
-*   B division March
-*    PHS Invitational Volleyball Tournament
-*   B division December
-*   C division June
+2.	Taiwan Trip in Nov!
+3.	March and December holiday training camp
+4.	Semestral team bonding activities
 
-1.  Organizing friendly games (local and foreign schools)
-2.  March and December holiday training camp
-3.  Semestral team bonding activities
 
 ### Achievements
+**2023**
+
+C division Boys:
+
+* West Zone 3rd 
+* National Top 16
+
+**2022**
+
+C division Girls:
+
+* West Zone 4th 
+* National Top 8
+
+C division Boys:
+
+* West Zone 3rd
+* National Top 8
 
 **2020**    
 B division Boys:  
-
 *   West Zone Top 4
 
 **2019**    
