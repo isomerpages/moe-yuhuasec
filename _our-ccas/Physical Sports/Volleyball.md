@@ -27,16 +27,16 @@ Boys Team: Mr Soong Yu-Juan
 
 ### Student Leaders
 
-Boys  
-**Captain**: DAMIEN TAN YAN MING
-**Vice-captain**: ONG CHUA WEN
-**Vice-captain**: CHUN SI HAO
+Boys 
 
+* **Captain**: DAMIEN TAN YAN MING
+* **Vice-captain**: ONG CHUA WEN
+* **Vice-captain**: CHUN SI HAO
   
 Girls  
-**Captain**: NG XIN TONG CHARMAINE 
-**Vice-captain**: SHANNON FONG YI XUAN
-**Vice-captain**: NUR ALIYAH HADZIQAH BINTE MOHAMAD HADZRIEN
+* **Captain**: NG XIN TONG CHARMAINE 
+* **Vice-captain**: SHANNON FONG YI XUAN
+* **Vice-captain**: NUR ALIYAH HADZIQAH BINTE MOHAMAD HADZRIEN
 
 
 ###   **Milestone Programmes**
