@@ -19,8 +19,8 @@ this habit of excellence will spread into other aspects of their lives.
 Our vision is to nurture every volleyballer into men and women who embody
 teamwork, discipline and resilience.</p>
 <h3>Our Team</h3>
-<p>Teachers
-<br>OIC: Mr Clement Bey 2IC:&nbsp;Mr Isaac Tan
+<p>Teachers:
+<br>OIC: Mr Clement Bey and 2IC:&nbsp;Mr Isaac Tan
 <br>Girls Team: Ms Shamsiah
 <br>Boys Team: Mr Soong Yu-Juan</p>
 <h3>Student Leaders</h3>
