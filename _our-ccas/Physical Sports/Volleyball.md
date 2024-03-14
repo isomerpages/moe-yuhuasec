@@ -23,7 +23,8 @@ teamwork, discipline and resilience.</p>
 <br>OIC: Mr Clement Bey &amp; 2IC:&nbsp;Mr Isaac Tan
 <br>Girls Team: Ms Shamsiah
 <br>Boys Team: Mr Soong Yu-Juan</p>
-<h3>Student Leaders</h3>
+<p><strong>Student Leaders:</strong>
+</p>
 <p>Boys</p>
 <ul data-tight="true" class="tight">
 <li>
