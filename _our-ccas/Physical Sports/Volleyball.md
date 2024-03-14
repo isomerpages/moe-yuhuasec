@@ -120,23 +120,6 @@ teamwork, discipline and resilience.</p>
 </li>
 <li>
 <p>National Top 8</p>
-</li>
-</ul>
-<p><strong>2020</strong> 
-<br>B division Boys:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>West Zone Top 4</p>
-</li>
-</ul>
-<p><strong>2019</strong> 
-<br>B division Boys:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>West Zone 2nd</p>
-</li>
-<li>
-<p>National Top 8</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/volleyball_2.jpg">
