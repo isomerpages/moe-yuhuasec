@@ -1,8 +1,9 @@
 ---
 title: Volleyball
-permalink: /our-ccas/physical-sports/volleyball
+permalink: /our-ccas/physical-sports/volleyball/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 # **Volleyball**
 
@@ -14,23 +15,23 @@ third_nav_title: Physical Sports
 
 ### Background
 
-The Yuhua Volleyball CCA provides many opportunities to our pupils to practice being confident and courageous, allowing them to experience success, and transfer this habit of excellence into other aspects of their lives. Our vision is to nurture our Volleyball players into men and women who espouse the values of teamwork, discipline and resilience.  
+Both Yuhua Secondary and Shuqun Secondary have a long history of excellence and success in Volleyball. This strength in Volleyball continued with the reborn Yuhua Secondary when the two schools merged in 2019. Our volleyball CCA provides many opportunities for student to grow in confidence and courage. By demanding the highest standards from our volleyballers, we know that this habit of excellence will spread into other aspects of their lives. Our vision is to nurture every volleyballer into men and women who embody teamwork, discipline and resilience.
 
 ### Our Team
 
 Teachers  
-OIC: Mr Clement Bey (Overall Boys)  
-2IC: Mdm Shamsiah Mr Isaac Tan  
-Mrs Taufik  
-Mr Soong Yu-Juan  
+OIC: Mr Clement Bey 
+2IC: Mr Isaac Tan  
+Girls Team: Ms Shamsiah       
+Boys Team: Mr Soong Yu-Juan  
 
 ### Student Leaders
 
 Girls  
-**Captain**: Nurezriyana bte M Zahaid (303)  
-**Vice-captain**: Tan Su Ping Carina (308)  
-**Vice-captain**: Goh Qian Rong (305)  
-**Leader**: Teo Chunyu Isabel (202)  
+**Captain**: DAMIEN TAN YAN MING
+**Vice-captain**: ONG CHUA WEN
+**Vice-captain**: 
+**Leader**: 
   
 Boys  
 **Captain**: Naufal Rusyaidi bin Rozi (307)  
