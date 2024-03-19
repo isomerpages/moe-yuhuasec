@@ -47,6 +47,12 @@ Dear Parents,
 You may access the Term 1 Letter for 2024 [here](/files/YHSS_2024_Term_1_Letter__29122023_.pdf).
 
 
+### Term 2 Letter for 2024
+----------------------
+Dear Parents,  
+You may access the Term 1 Letter for 2024 [here](/files/YHSS_2024_Term_1_Letter__29122023_.pdf).
+
+
 ### Student Handbook
 --------------
 Dear parents, you may access [YHSS Student Handbook](https://sites.google.com/moe.edu.sg/yhss-handbook-site/home?pli=1) for more information on the expectations for students, academic matters and co-curricular matters.
