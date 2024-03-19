@@ -50,7 +50,7 @@ You may access the Term 1 Letter for 2024 [here](/files/YHSS_2024_Term_1_Letter_
 ### Term 2 Letter for 2024
 ----------------------
 Dear Parents,  
-You may access the Term 1 Letter for 2024 [here](/files/YHSS_2024_Term_1_Letter__29122023_.pdf).
+You may access the Term 1 Letter for 2024 [here](/files/YHSS_2024_Term_2_Letter_180324.pdf)
 
 
 ### Student Handbook
