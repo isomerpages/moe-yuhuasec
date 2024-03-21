@@ -6,6 +6,19 @@ variant: markdown
 ---
 # **Information for Parents**
 
+### Sec 2 Parent-Teacher Meeting materials
+----------------------
+Dear Parents,  
+You may access the materials for the Sec 2 Parent-Teacher Meeting below:
+
+[Secondary 2 ECG Briefing slides](/files/ECG_for_Sec_2_22_March_2024.pdf)
+
+[Subject Combination slides for 2025 Secondary 3 Express/G3 students](/files/2024_Sec_2_PTM_Subject_Combination_for_2025_Sec_3E_22_Mar.pdf)
+
+[Subject Combination slides for 2025 Secondary 3 Normal (Academic)/G2 students](/files/2024_Sec_2_PTM_Subject_Combination_for_2025_Sec_3N_22_Mar.pdf)
+
+[Subject Combination slides for 2025 Secondary 3 Normal (Technical)/G1 students](/files/2024_Sec_2_PTM__Subject_Combination_for_2025_Sec_3T_22_Mar.pdf)
+
 ### Weighted Assessment 1 Schedules
 ----------------------
 Dear Parents,  
