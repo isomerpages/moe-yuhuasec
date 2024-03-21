@@ -42,25 +42,6 @@ sections:
       alt: Image alt text
       image: /images/yhssllp4.png
   - infopic:
-      title: Sec 1 Registration 2024
-      subtitle: Sec 1 Registration 2024
-      id: infopic
-      description: Dear parents, please use the link below to go to the Sec 1
-        Registration site for students entering in 2024.
-      button: Link to Sec 1 Registration 2024 site
-      url: https://sites.google.com/moe.edu.sg/yhsssec1registration2024?usp=sharing
-      image: /images/Sec_1_Registration__2_.png
-      alt: Image alt text
-  - infopic:
-      title: Caring Teacher Awards 2024
-      subtitle: CTA 2024
-      description: Dear Parents and Students, you may now nominate teachers for the
-        NIE Caring Teacher Awards 2024!
-      button: Click here
-      url: https://www.cta.nie.edu.sg
-      image: /images/poster - cta 2024_page-0001.jpg
-      alt: Image alt text
-  - infopic:
       title: YH Café
       subtitle: Yuhua in the news
       description: Our canteen was featured in Lianhe Zaobao recently. An inviting
@@ -69,5 +50,15 @@ sections:
       button: click here to read the article!
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
+      alt: Image alt text
+  - infopic:
+      title: Secondary 2 Parent-Teacher Meeting
+      subtitle: information for parents
+      id: infopic
+      description: Please find the materials for the Parent-Teacher Meeting for
+        Secondary 2 on 22 March 2024 at the link below.
+      button: Information for Parents
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
+      image: /images/Screenshot_2024_03_22_070218.png
       alt: Image alt text
 ---
