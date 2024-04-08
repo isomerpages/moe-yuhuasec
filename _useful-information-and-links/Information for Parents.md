@@ -6,6 +6,14 @@ variant: markdown
 ---
 # **Information for Parents**
 
+### Sharing on Educational Technology with Parents on 6 April 2024
+----------------------
+Dear Parents,  
+You may access the materials for the sharing on Educational Technology with Parents on 6 April 2024 below:
+
+[Slides on EdTech in YHSS (for parents)](/files/EdTech_in_YHSS__sharing_with_parents___for_uploading_.pdf)
+
+
 ### Sec 2 Parent-Teacher Meeting materials
 ----------------------
 Dear Parents,  
