@@ -2,12 +2,13 @@
 title: Direct School Admissions (DSA)
 permalink: /useful-information-and-links/direct-school-admissions-dsa/
 description: ""
+variant: markdown
 ---
 # **Direct School Admissions (DSA)**
 
 ![](/images/CCA%20achievements.png)
 
-**Direct School Admission (DSA) 2023**
+**Direct School Admission (DSA) 2024**
 
 Direct School Admission for secondary schools (DSA-Sec) allows students to apply for a place in the school based on their talents and achievements.
 
@@ -23,7 +24,7 @@ Yuhua Secondary School will be offering Direct School Admission in the following
 | Harmonica Ensemble     | Harmonica Band     | Boys &amp; Girls     |
 | Volleyball     | Volleyball     | Boys &amp; Girls     |
 
-We invite students who wish to grow their talent and passion in these areas to become a part of our Yuhua family in 2024.
+We invite students who wish to grow their talent and passion in these areas to become a part of our Yuhua family in 2025.
 
         
 Students admitted through DSA will also have the opportunity to stretch their potential in their area of interest by choosing the Enhanced Music Programme or Electronics as a subject in Secondary Three & Four.
