@@ -24,8 +24,14 @@ Yuhua Secondary School will be offering Direct School Admission in the following
 | Harmonica Ensemble     | Harmonica Band     | Boys &amp; Girls     |
 | Volleyball     | Volleyball     | Boys &amp; Girls     |
 
-We invite students who wish to grow their talent and passion in these areas to become a part of our Yuhua family in 2025.
+You may find out more about our associated CCA mentioned above through the links below:
+https://www.yuhuasec.moe.edu.sg/our-ccas/clubs-and-societies/tinkering-and-robotics-club/
+https://www.yuhuasec.moe.edu.sg/our-ccas/Visual-Performing-Arts/concert-band/
+https://www.yuhuasec.moe.edu.sg/our-ccas/Visual-Performing-Arts/choir/
+https://www.yuhuasec.moe.edu.sg/our-ccas/visual-performing-arts/harmonica-band/
+https://www.yuhuasec.moe.edu.sg/our-ccas/physical-sports/volleyball/
 
+We invite students who wish to grow their talent and passion in these areas to become a part of our Yuhua family in 2025.
         
 Students admitted through DSA will also have the opportunity to stretch their potential in their area of interest by choosing the Enhanced Music Programme or Electronics as a subject in Secondary Three & Four.
 
@@ -67,11 +73,16 @@ Applicants should:
 1. Demonstrate a passion for choral singing & enjoy performing in front of an audience
 2. Have participated in a local/international competition, festival or performance (eg: SYF, singing competitions)
 3. Possess relevant experience / track record in the chosen area of performing arts (e.g. ABRSM / equivalent for Piano/ certificate from music academy / school)
-Harmonica Ensemble (Harmonica Band)
 
-4. Be able to play a relevant musical instrument (Harmonica, Piano, Synthesizer, Guitar, Percussion instrument)
-5. Have participated in a local/international competition, festival or performance (eg: SYF, SIBF, SNYO, National Day Parade, Mosaic Music Festival)
-6. Possess relevant experience / track record in the chosen area of performing arts (e.g. ABRSM / equivalent for Piano/ certificate from music academy / school)
+**Harmonica Ensemble (Harmonica Band)**
+
+Applicants should:
+
+1.	Be able to play a relevant musical instrument (Harmonica, Piano, Synthesizer, Guitar, Percussion instrument)
+2.	Have participated in a local/international competition, festival or performance (eg: SYF, SIBF, SNYO, National Day Parade, Mosaic Music Festival)
+3.	Possess relevant experience / track record in the chosen area of performing arts (e.g. ABRSM / equivalent for Piano/ certificate from music academy / school)
+
+
 
 **Volleyball**
 
@@ -83,26 +94,15 @@ Applicants should:
 
 **HOW TO APPLY**
 
-The application period is from **4 May 2023, 11.00am to 31 May 2023, 3.00pm.**
+The application period is from **7 May 2024, 11.00am to 3 June 2024, 3.00pm.**
 
-*The selection trials will be conducted in person on the premises of Yuhua Secondary School.*
+*The selection trials/auditions/interview will be conducted in person on the premises of Yuhua Secondary School.*
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm.
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 June 2024, 3pm.
 
 For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec
 
-Key Dates:
-
-![](/images/screenshot%20(154).png)
 
 
 
-**Essential Information**
 
-Successful DSA-Sec candidates are NOT allowed to participate in the Secondary One (S1) Posting Exercise. However, if they are eligible for third language and/or course options, they may enter these options during the S1 Option Submission period.
-
-Successful DSA-Sec candidates are NOT allowed to transfer to another school after the release of the PSLE results. 
-
-Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
-
-For further queries, you may contact Mr Wilfred Yan (SH/CCA) at 6566 1985 or email: yuhua_ss@moe.edu.sg
