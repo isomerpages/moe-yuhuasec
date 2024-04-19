@@ -101,8 +101,3 @@ The application period is from **7 May 2024, 11.00am to 3 June 2024, 3.00pm.**
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024, 11am to 3 June 2024, 3pm.
 
 For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec
-
-
-
-
-
