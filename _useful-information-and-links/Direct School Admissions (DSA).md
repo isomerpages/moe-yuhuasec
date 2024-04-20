@@ -24,16 +24,16 @@ Yuhua Secondary School will be offering Direct School Admission in the following
 | Harmonica Ensemble     | Harmonica Band     | Boys &amp; Girls     |
 | Volleyball     | Volleyball     | Boys &amp; Girls     |
 
-You may find out more about our associated CCA mentioned above through the links below:
-https://www.yuhuasec.moe.edu.sg/our-ccas/clubs-and-societies/tinkering-and-robotics-club/
-https://www.yuhuasec.moe.edu.sg/our-ccas/Visual-Performing-Arts/concert-band/
-https://www.yuhuasec.moe.edu.sg/our-ccas/Visual-Performing-Arts/choir/
-https://www.yuhuasec.moe.edu.sg/our-ccas/visual-performing-arts/harmonica-band/
-https://www.yuhuasec.moe.edu.sg/our-ccas/physical-sports/volleyball/
+You may find out more about our associated CCA mentioned above through the links below
+<br>[Tinkering and Robotics Club](https://www.yuhuasec.moe.edu.sg/our-ccas/clubs-and-societies/tinkering-and-robotics-club/)
+<br>[Concert Band](https://www.yuhuasec.moe.edu.sg/our-ccas/Visual-Performing-Arts/concert-band/)
+<br>[Choir](https://www.yuhuasec.moe.edu.sg/our-ccas/Visual-Performing-Arts/choir/)
+<br>[Harmonica Band](https://www.yuhuasec.moe.edu.sg/our-ccas/visual-performing-arts/harmonica-band/)
+<br>[Volleyball](https://www.yuhuasec.moe.edu.sg/our-ccas/physical-sports/volleyball/)
 
 We invite students who wish to grow their talent and passion in these areas to become a part of our Yuhua family in 2025.
         
-Students admitted through DSA will also have the opportunity to stretch their potential in their area of interest by choosing the Enhanced Music Programme or Electronics as a subject in Secondary Three & Four.
+Students admitted through DSA will also have the opportunity to stretch their potential in their area of interest by choosing the Enhanced Music Programme or Electronics as a subject in Secondary Three &amp; Four.
 
 
 ![](/images/screenshot%20(152).png)
@@ -52,7 +52,7 @@ Applicants should:
 
 **Talent Specific Criteria**
 
-**Robotics (Tinkering & Robotics Club)**
+**Robotics (Tinkering &amp; Robotics Club)**
 
 Applicants should:
 1. Demonstrate strong passion for, and motivation in coding and/or robotics
@@ -70,7 +70,7 @@ Applicants should:
 
 Applicants should:
 
-1. Demonstrate a passion for choral singing & enjoy performing in front of an audience
+1. Demonstrate a passion for choral singing &amp; enjoy performing in front of an audience
 2. Have participated in a local/international competition, festival or performance (eg: SYF, singing competitions)
 3. Possess relevant experience / track record in the chosen area of performing arts (e.g. ABRSM / equivalent for Piano/ certificate from music academy / school)
 
