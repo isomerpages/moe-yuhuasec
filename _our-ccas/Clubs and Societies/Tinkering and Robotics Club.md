@@ -25,11 +25,35 @@ of curiosity, respect, responsibility, and adaptability</p>
 <br>Ms Muliyahna
 <br>Mr Low Chee Wah</p>
 <h3>Student Leaders</h3>
-<p>President: Javier Enjae Cadiz (3 Flourish)
-<br>Vice President 1: Raju Deepak (3 Flourish)</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>President: Javier Enjae Cadiz (3 Flourish)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice President 1: Raju Deepak (3 Flourish)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Vice President 2:Muhammad Safwan( 3 Flourish)</p>
-<p>COMM.MEMBER: Siti Aisyah Binte Muhamad(3 Resilience)</p>
-<p>COMM.MEMBER: Murugapandian usharani Aksitha(3 Contribute)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>COMM.MEMBER: Siti Aisyah Muhamad(3 Resilience)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>COMM.MEMBER: Murugapandian Usharani Aksitha(3 Contribute)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Key Events/ Achievements</h3>
 <table>
 <tbody>
@@ -110,11 +134,6 @@ award and Young Innovator Award</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yhsstrc9.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/yhsstrc6.jpg">
 </div>
 </th>
@@ -127,11 +146,6 @@ award and Young Innovator Award</p>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/yhsstrc8.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yhsstrc7.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -155,6 +169,18 @@ award and Young Innovator Award</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/yhsstrc4.jpg">
 </div>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yhsstrc7.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yhsstrc9.jpg">
+</div>
+</td>
 </tr>
 </tbody>
 </table>
