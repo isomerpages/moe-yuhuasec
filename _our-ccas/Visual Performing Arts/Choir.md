@@ -33,9 +33,9 @@ even to the wider society in meaningful ways.</p>
 <br>Mr Jonathan MacPherson</p>
 <p><strong>2023 - 2024 Student Leaders</strong>
 </p>
-<p>President: &nbsp;MANISHA D/O SUPAIAH(3 CARE)
-<br>Vice-President: RAZANAH BINTE HIRWAN (3 CONTRIBUTE)</p>
-<h4>Key Events of the Year/Achievements</h4>
+<p>President: &nbsp;Manisha D/o Supaiah (3 Care)
+<br>Vice-President: Razanah Binte Hirwan (3 Contribute)</p>
+<h4>Key Events/Achievements:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>SYF AP 2023 Certificate of Accomplishment</p>
