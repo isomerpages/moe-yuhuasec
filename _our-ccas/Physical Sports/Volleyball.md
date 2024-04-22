@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h1><strong>Volleyball</strong></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 images/VolleyballB_div_West_Zone_Champion.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2023 images/VolleyballB_div_West_Zone_Champion.png">
 </div>
 <h3>Background</h3>
 <p>Both Yuhua Secondary and Shuqun Secondary have a long history of excellence
@@ -18,6 +18,10 @@ By demanding the highest standards from our volleyballers, we know that
 this habit of excellence will spread into other aspects of their lives.
 Our vision is to nurture every volleyballer into men and women who embody
 teamwork, discipline and resilience.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/53647324362_b8828f2db7_c.jpg">
+</div>
 <h3>Our Team</h3>
 <p>Teachers:
 <br>OIC: Mr Clement Bey &amp; 2IC:&nbsp;Mr Isaac Tan
@@ -49,6 +53,11 @@ teamwork, discipline and resilience.</p>
 <p><strong>Vice-captain</strong>: NUR ALIYAH HADZIQAH BINTE MOHAMAD HADZRIEN</p>
 </li>
 </ul>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/53658055043_7d28ea31f4_c.jpg">
+</div>
 <h3><strong>Key Events / Achievements</strong></h3>
 <p><strong>2024</strong>
 </p>
@@ -134,6 +143,11 @@ teamwork, discipline and resilience.</p>
 </p>
 <p><strong>March and December holiday training camp</strong>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/53658184144_71666d8232_c.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/volleyball_2.jpg">
