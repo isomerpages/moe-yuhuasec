@@ -49,52 +49,23 @@ teamwork, discipline and resilience.</p>
 <p><strong>Vice-captain</strong>: NUR ALIYAH HADZIQAH BINTE MOHAMAD HADZRIEN</p>
 </li>
 </ul>
-<h3><strong>Milestone Programmes</strong></h3>
-<p>Competitions (local): West Zone Inter-Schools Volleyball Competition</p>
+<h3><strong>Key Events / Achievements</strong></h3>
+<p><strong>2024</strong>
+</p>
+<p><u>B division Boys:</u>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>B division February</p>
+<p>West Zone Champions</p>
 </li>
 <li>
-<p>C division July</p>
+<p>National Top 4</p>
 </li>
 </ul>
-<p>National Schools Volleyball Competition</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>B division March</p>
-</li>
-<li>
-<p>C Division August</p>
-</li>
-</ul>
-<p>Mintonette Invitational Volleyball Tournament</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>B division December</p>
-</li>
-<li>
-<p>ZHS invitational tournament (June)</p>
-</li>
-<li>
-<p>B and C division Shuqun-Yuhua Alumni Cup (December) • B division</p>
-</li>
-</ul>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>Taiwan Trip in Nov!</p>
-</li>
-<li>
-<p>March and December holiday training camp</p>
-</li>
-<li>
-<p>Semestral team bonding activities</p>
-</li>
-</ol>
-<h3>Achievements</h3>
 <p><strong>2023</strong>
 </p>
-<p>C division Boys:</p>
+<p><u>C division Boys:</u>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>West Zone 3rd</p>
@@ -105,7 +76,8 @@ teamwork, discipline and resilience.</p>
 </ul>
 <p><strong>2022</strong>
 </p>
-<p>C division Girls:</p>
+<p><u>C division Girls:</u>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>West Zone 4th</p>
@@ -114,17 +86,56 @@ teamwork, discipline and resilience.</p>
 <p>National Top 8</p>
 </li>
 </ul>
-<p>C division Boys:</p>
+<p><u>C division Boys:</u>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>West Zone 3rd</p>
 </li>
 <li>
 <p>National Top 8</p>
+</li>
+</ul>
+<p><strong>Competitions (local): West Zone Inter-Schools Volleyball Competition</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B division February</p>
+</li>
+<li>
+<p>C division July</p>
+</li>
+</ul>
+<p><strong>National Schools Volleyball Competition</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B division March</p>
+</li>
+<li>
+<p>C Division August</p>
+</li>
+</ul>
+<p><strong>Mintonette Invitational Volleyball Tournament</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B division December</p>
+</li>
+<li>
+<p>ZHS invitational tournament (June)</p>
+</li>
+<li>
+<p>B and C division Shuqun-Yuhua Alumni Cup (December) • B division</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Taiwan Trip November (2023)</strong>
+</p>
+<p><strong>March and December holiday training camp</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/volleyball_2.jpg">
 </div>
-</li>
-</ul>
 <p></p>
