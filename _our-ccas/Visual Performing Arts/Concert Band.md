@@ -58,7 +58,7 @@ and dedication will allow us to build on the Yuhua Concert Band’s legacy.</p>
 </tbody>
 </table>
 <h3>Our Team</h3>
-<p><strong>Teachers:</strong>
+<p><strong>Teachers:</strong> 
 <br>Ms Jamie Koh
 <br>Ms Sunarti Bte Abdul Wahab
 <br>Mr Tommy Wong
