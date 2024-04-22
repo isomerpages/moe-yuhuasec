@@ -22,12 +22,9 @@ Dance, as an art form, reaches across centuries and cultures. Our Yuhua Secondar
 To use dancing as a tool of expression and character development.
 
 ### Our Team
-
-<img src="/images/Teachers.jpeg" style="width:70%">
-
 Mdm Suhana Zainal: suhana_zainal@moe.edu.sg<br>
 Mr Raguvaran: raguvaran_rajenderan@moe.edu.sg<br>
-Ms Nor Aisha: nor_aisha_mazlan@moe.edu.sg
+
 
 If you have any questions, feel free to email our teachers-in-charge to know more about our CCA!&nbsp;
 
