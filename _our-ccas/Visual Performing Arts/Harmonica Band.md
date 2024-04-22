@@ -45,4 +45,3 @@ Ms Hu Longmei
  | -------- | -------- |
  | M.A.D. For Recycling (Make A Difference)| Values-In-Action (VIA) Project|
  
- ![](/images/harmonica6.png)
