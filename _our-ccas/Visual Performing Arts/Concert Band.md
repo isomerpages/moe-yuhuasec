@@ -32,7 +32,7 @@ Mr Kenneth Yeo
 
 **Student Leaders:** <br>
 **Band Leader**: Ang Hui Juan(3 Flourish)&nbsp;  
-**Band Leader**: Aponesto Franz Graeden(3 Connect)&nbsp;
+**Band Leader**: Aponesto Franz Graeden(3 Connect) &nbsp;
 **Band Leader:** Yuvvika Therumaraj(3 Respect)&nbsp;
 
 
