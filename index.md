@@ -22,14 +22,14 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infopic:
-      title: Secondary 1 Parent-Teacher Meeting
+      title: Direct School Admissions (DSA) 2024
       subtitle: Information for parents
       id: infopic
-      description: Please find the materials for the Secondary 1 Parent-Teacher
-        Meeting on 12 January 2024 at the link below.
-      button: Go to information for parents
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
-      image: /images/Screenshot_2024_01_12_223413.png
+      description: "Please find information regarding the Direct School Admissions
+        (DSA) 2024 at the link below. "
+      button: Click here for details
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/direct-school-admissions-dsa/
+      image: /images/dsa2023.png
       alt: Image alt text
   - infopic:
       title: Yearbook 2023
