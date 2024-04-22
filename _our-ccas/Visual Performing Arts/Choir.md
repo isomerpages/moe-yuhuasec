@@ -33,7 +33,7 @@ even to the wider society in meaningful ways.</p>
 <br>Mr Jonathan MacPherson</p>
 <p><strong>2023 - 2024 Student Leaders</strong>
 </p>
-<p>President: &nbsp;Manisha D/o Supaiah (3 Care)
+<p>President: Manisha D/o Supaiah (3 Care)
 <br>Vice-President: Razanah Binte Hirwan (3 Contribute)</p>
 <h4>Key Events/Achievements:</h4>
 <table>
