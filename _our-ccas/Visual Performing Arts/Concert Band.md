@@ -37,6 +37,7 @@ Mr Kenneth Yeo
 
 
 **Key events/Achievements:**  
+\- Concert Band Mini Concert 2024&nbsp;
 \- National Day Parade Military Tattoo 2023  
 \- Singapore Youth Festival Arts Presentation (2023, 2021, 2019)  
 \- MOE National Day Observance Ceremony Recording (2022)
