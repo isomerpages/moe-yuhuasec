@@ -33,7 +33,6 @@ Muhammad Rizqi Pujangga Bin Kasiran
 
 
 ### Events/Achievements
-
 **Daily P.A. System duty for Morning Assembly**
 <img src="/images/2abc.png" style="width:70%">
 
