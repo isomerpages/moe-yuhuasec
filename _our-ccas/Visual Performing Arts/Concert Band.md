@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /our-ccas/Visual-Performing-Arts/concert-band/
 description: ""
 third_nav_title: Visual Performing Arts
+variant: markdown
 ---
 # **Concert Band**
 
@@ -36,9 +37,7 @@ Mr Kenneth Yeo
 **Junior Band Leader:** Ang Hui Juan (2 Resilience)  
 **Junior Band Leader:** Aponesto Franz Graeden Dispo(2 Connect)
 
-### Milestones
-
-**Key events:**  
+**Key events/Achievements:**  
 \- National Day Parade Military Tattoo 2023  
 \- Singapore Youth Festival Arts Presentation (2019, 2021, 2023)  
 \- MOE National Day Observance Ceremony Recording (2022)
