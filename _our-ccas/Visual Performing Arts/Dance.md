@@ -67,10 +67,10 @@ share with you more about our dance spirit &amp; Yuhua Secondary School!</p>
 <p>President: Reis Seah Wen Xuan(3 Connect)</p>
 </li>
 <li>
-<p>Vice President: Nur Aqilah Bunte Zabar Abuyamin (3 Contribute)</p>
+<p>Vice President: Nur Aqilah Binte Zabar Abuyamin(3 Contribute)</p>
 </li>
 <li>
-<p>Vice President:Yallabandi Harshini (3 Flourish)</p>
+<p>Vice President: Yallabandi Harshini (3 Flourish)</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
