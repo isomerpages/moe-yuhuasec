@@ -67,12 +67,11 @@ and dedication will allow us to build on the Yuhua Concert Band’s legacy.</p>
 <br><strong>Band Leader</strong>: Ang Hui Juan(3 Flourish)&nbsp;
 <br><strong>Band Leader</strong>: Aponesto Franz Graeden(3 Connect)
 <br><strong>Band Leader</strong>: Yuvvika Therumaraj(3 Respect)&nbsp;</p>
-<p><strong>Key events/Achievements:</strong>
-</p>
+<h3><strong>Key events/Achievements:</strong></h3>
 <p>-Concert Band Mini Concert 2024
 <br>- Singapore Youth Festival Arts Presentation (2023, 2021, 2019)
-<br>- MOE National Day Observance Ceremony Recording (2022)
-<br>- National Day Parade Military Tattoo 2023</p>
+<br>- National Day Parade Military Tattoo 2023
+<br>- MOE National Day Observance Ceremony Recording (2022)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_04_22_at_9_42_58_AM.jpg">
 </div>
