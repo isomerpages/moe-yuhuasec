@@ -78,11 +78,6 @@ Heartland celebrations with SportSG</p>
 </tr>
 </tbody>
 </table>
-<ol data-tight="true" class="tight">
-<li>
-<p></p>
-</li>
-</ol>
 <table>
 <tbody>
 <tr>
