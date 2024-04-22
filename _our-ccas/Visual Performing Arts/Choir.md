@@ -34,7 +34,7 @@ even to the wider society in meaningful ways.</p>
 <p><strong>2023 - 2024 Student Leaders</strong>
 </p>
 <p>President: &nbsp;MANISHA D/O SUPAIAH(3 CARE)
-<br>Vice-President: RAZANAH BINTE HIRWAN(3 CONTRIBUTE)</p>
+<br>Vice-President: RAZANAH BINTE HIRWAN (3 CONTRIBUTE)</p>
 <h4>Key Events of the Year/Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
