@@ -36,6 +36,10 @@ even to the wider society in meaningful ways.</p>
 <p>President: &nbsp;Manisha D/o Supaiah (3 Care)
 <br>Vice-President: Razanah Binte Hirwan (3 Contribute)</p>
 <h4>Key Events/Achievements:</h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>SYF AP 2023 Certificate of Accomplishment</p>
@@ -47,6 +51,12 @@ Panelists (Nationwide approach due to Covid-19)</p>
 <li>
 <p>SYF AP 2019 Certificate of Accomplishment</p>
 </li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
 <p>Choral Masterclass with Ms Sonia Nadya Simanjuntak (Indonesia)</p>
 </li>
@@ -64,6 +74,15 @@ Panelists (Nationwide approach due to Covid-19)</p>
 Heartland celebrations with SportSG</p>
 </li>
 </ul>
+</td>
+</tr>
+</tbody>
+</table>
+<ol data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
 <table>
 <tbody>
 <tr>
