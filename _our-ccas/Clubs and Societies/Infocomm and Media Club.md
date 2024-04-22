@@ -3,6 +3,7 @@ title: Infocomm and Media Club
 permalink: /our-ccas/Clubs-and-Societies/infocomm-and-media-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 # **Infocomm and Media Club**
 
@@ -31,7 +32,7 @@ Muhammad Rizqi Pujangga Bin Kasiran
 * Amanda Pamelia Binte Ismail
 
 
-### CCA Highlights
+### Events/Achievements
 
 **Daily P.A. System duty for Morning Assembly**
 <img src="/images/2abc.png" style="width:70%">
