@@ -23,8 +23,7 @@ Ms Hu Longmei
 
 ### Student Leaders
 
-**Chairperson:** Tharrini Jessie D/O Uthayakumar(3 Connect)
-
+	**Chairperson:** Tharrini Jessie D/O Uthayakumar(3 Connect
 **Vice Chairperson:**  Aleeschia Noeha Binte Feidzal(3 Connect)
 
 ### Key Events/Achievements
