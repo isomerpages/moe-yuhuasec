@@ -123,17 +123,16 @@ Khew Yun Zhen</p>
 <img style="width:70%" height="auto" width="100%" src="/images/choir8.png">
 </div>
 <p>Photo @sota after SYF AP performance 2023</p>
-<h3></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>SYF AP 2019 Certificate of Accomplishment</p>
+<p>SYF AP 2023 Certificate of Accomplishment</p>
 </li>
 <li>
 <p>SYF AP 2021 Participation via audio recording submission; Feedback by
 Panelists (Nationwide approach due to Covid-19)</p>
 </li>
 <li>
-<p>SYF AP 2023 Certificate of Accomplishment</p>
+<p>SYF AP 2019 Certificate of Accomplishment</p>
 </li>
 </ul>
 <p></p>
