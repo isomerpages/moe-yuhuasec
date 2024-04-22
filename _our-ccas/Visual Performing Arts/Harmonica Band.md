@@ -23,10 +23,10 @@ Ms Hu Longmei
 
 ### Student Leaders
 
-**Chairperson:** Chong Yu Sen (3 Resilience)  
-**Vice Chairperson:** Pathavee Ho Jun Yan<br>  (3 Adaptability)  
-**Quartermaster:** How Zu Wen Lucas (3 Resilience)  
-**Quartermaster:** Lin Xiao Ming (3 Contribute)
+**Chairperson:** Tharrini Jessie D/O Uthayakumar(3 Connect)
+
+**Vice Chairperson:**  Aleeschia Noeha Binte Feidzal(3 Connect)
+
 ### Key Events/Achievements
 
 * Singapore Youth Festival Arts Presentation (2019, 2021, 2023)
