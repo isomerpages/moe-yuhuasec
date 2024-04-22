@@ -38,6 +38,16 @@ even to the wider society in meaningful ways.</p>
 <h4>Key Events of the Year/Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
+<p>SYF AP 2023 Certificate of Accomplishment</p>
+</li>
+<li>
+<p>SYF AP 2021 Participation via audio recording submission; Feedback by
+Panelists (Nationwide approach due to Covid-19)</p>
+</li>
+<li>
+<p>SYF AP 2019 Certificate of Accomplishment</p>
+</li>
+<li>
 <p>Choral Masterclass with Ms Sonia Nadya Simanjuntak (Indonesia)</p>
 </li>
 <li>
@@ -123,16 +133,4 @@ Khew Yun Zhen</p>
 <img style="width:70%" height="auto" width="100%" src="/images/choir8.png">
 </div>
 <p>Photo @sota after SYF AP performance 2023</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>SYF AP 2023 Certificate of Accomplishment</p>
-</li>
-<li>
-<p>SYF AP 2021 Participation via audio recording submission; Feedback by
-Panelists (Nationwide approach due to Covid-19)</p>
-</li>
-<li>
-<p>SYF AP 2019 Certificate of Accomplishment</p>
-</li>
-</ul>
 <p></p>
