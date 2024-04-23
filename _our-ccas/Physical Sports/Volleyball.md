@@ -208,7 +208,7 @@ teamwork, discipline and resilience.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong> B division</strong>
+<p><strong>B division</strong>
 </p>
 </li>
 </ul>
