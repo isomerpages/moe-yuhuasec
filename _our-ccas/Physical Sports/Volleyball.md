@@ -200,7 +200,7 @@ teamwork, discipline and resilience.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong> • B division</strong>
+<p><strong>• B division</strong>
 </p>
 </td>
 </tr>
