@@ -27,23 +27,18 @@ competitions, and providing audio-visual support for school events.</p>
 <br>&nbsp; Ms Shahidah Bte Safii
 <br>&nbsp; Mdm Lalitha</p>
 <h3>Student Leaders</h3>
-<p><strong>President:</strong>&nbsp; Muhammad Rizqi Pujangga Bin Kasiran <strong>Vice-President</strong>:
-Lim Kun Wei Alexander Granville <strong>Exco-Committee</strong>: &nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ong Jun Hong Frederick</p>
+<p><strong>President:</strong>&nbsp;Lim Kun Wei Alexander Granville</p>
 </li>
 <li>
-<p>Hanns Goh (Wu Yaoguo)</p>
+<p><strong>Vice-President</strong>: Muhammad Shahrul Nizam Bin Mohamed Mazlan</p>
 </li>
 <li>
-<p>Muhammad Shahrul Nizam Bin Mohamed Mazlan</p>
-</li>
-<li>
-<p>Amanda Pamelia Binte Ismail</p>
+<p><strong>Vice-President</strong>: Ong Jun Hong Frederick</p>
 </li>
 </ul>
-<h3>Events/Achievements</h3>
+<h3>Key Events/Achievements</h3>
 <p><strong>Daily P.A. System duty for Morning Assembly</strong>
 </p>
 <div class="isomer-image-wrapper">
