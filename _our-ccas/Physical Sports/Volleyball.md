@@ -62,10 +62,16 @@ teamwork, discipline and resilience.</p>
 <p>2024: B division Boys</p>
 </th>
 <th rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>West Zone Champions</strong>
 </p>
+</li>
+<li>
 <p><strong>National Top 4</strong>
 </p>
+</li>
+</ul>
 </th>
 </tr>
 <tr>
@@ -200,8 +206,12 @@ teamwork, discipline and resilience.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>• B division</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong> B division</strong>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
