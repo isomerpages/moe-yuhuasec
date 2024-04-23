@@ -96,7 +96,7 @@ share with you more about our dance spirit &amp; Yuhua Secondary School!</p>
 <p>GetActive! Singapore Heartlands Festival 2023 with SportsSg</p>
 </li>
 <li>
-<p>Aesthetic Day performance collaboration with other CCA group</p>
+<p>Aesthetic Day performance collaboration with other CCA groups</p>
 </li>
 </ul>
 </td>
