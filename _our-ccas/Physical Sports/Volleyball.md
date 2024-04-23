@@ -55,10 +55,13 @@ teamwork, discipline and resilience.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/53658055043_7d28ea31f4_c.jpg">
 </div>
 <h3><strong>Key Events / Achievements</strong></h3>
-<p><strong>2024</strong>
-</p>
-<p><u>B division Boys:</u>
-</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2024: B division Boys</p>
+</th>
+<th rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>West Zone Champions</p>
@@ -67,10 +70,14 @@ teamwork, discipline and resilience.</p>
 <p>National Top 4</p>
 </li>
 </ul>
-<p><strong>2023</strong>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023: C division Boys</strong>
 </p>
-<p><u>C division Boys:</u>
-</p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>West Zone 3rd</p>
@@ -79,10 +86,14 @@ teamwork, discipline and resilience.</p>
 <p>National Top 16</p>
 </li>
 </ul>
-<p><strong>2022</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022: C division Girls</strong>
 </p>
-<p><u>C division Girls:</u>
-</p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>West Zone 4th</p>
@@ -91,6 +102,24 @@ teamwork, discipline and resilience.</p>
 <p>National Top 8</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022: C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p><strong>2022</strong>
+</p>
+<p><u>C division Girls:</u>
+</p>
 <p><u>C division Boys:</u>
 </p>
 <ul data-tight="true" class="tight">
