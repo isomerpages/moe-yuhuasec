@@ -32,29 +32,25 @@ teamwork, discipline and resilience.</p>
 <p>Boys</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain</strong>: DAMIEN TAN YAN MING</p>
+<p><strong>Captain</strong>: Fabian Lim Kai Feng(3 Responsibilty)</p>
 </li>
 <li>
-<p><strong>Vice-captain</strong>: ONG CHUA WEN</p>
-</li>
-<li>
-<p><strong>Vice-captain</strong>: CHUN SI HAO</p>
+<p><strong>Vice-captain</strong>: Mak Jun Rong Deon(3 Resilience)</p>
+<p></p>
 </li>
 </ul>
 <p>Girls</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain</strong>: NG XIN TONG CHARMAINE</p>
+<p><strong>Captain</strong>: Goh Zi Xuan (3 Flourish)</p>
 </li>
 <li>
-<p><strong>Vice-captain</strong>: SHANNON FONG YI XUAN</p>
+<p><strong>Vice-captain</strong>: Joey Teh Liu xuan(3 Adaptability)</p>
 </li>
 <li>
-<p><strong>Vice-captain</strong>: NUR ALIYAH HADZIQAH BINTE MOHAMAD HADZRIEN</p>
+<p><strong>Vice-captain</strong>: Darlyn bong yee fang(3 Responsibilty)</p>
 </li>
 </ul>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/53658055043_7d28ea31f4_c.jpg">
 </div>
@@ -143,12 +139,9 @@ teamwork, discipline and resilience.</p>
 </p>
 <p><strong>March and December holiday training camp</strong>
 </p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/53658184144_71666d8232_c.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/volleyball_2.jpg">
 </div>
