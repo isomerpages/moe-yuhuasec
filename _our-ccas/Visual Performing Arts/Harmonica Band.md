@@ -23,11 +23,10 @@ Ms Hu Longmei
 
 ### Student Leaders
 
-**Chairperson:** Chong Yu Sen (3 Resilience)  
-**Vice Chairperson:** Pathavee Ho Jun Yan<br>  (3 Adaptability)  
-**Quartermaster:** How Zu Wen Lucas (3 Resilience)  
-**Quartermaster:** Lin Xiao Ming (3 Contribute)
-### Key Events of the Year
+**Chairperson:** Tharrini Jessie D/O Uthayakumar(3 Connect
+**Vice Chairperson:**  Aleeschia Noeha Binte Feidzal(3 Connect)
+
+### Key Events/Achievements
 
 * Singapore Youth Festival Arts Presentation (2019, 2021, 2023)
 * National Day Medley video organised by the Kreta Ayer - Kim Seng Youth Network branch of the People’s Association (2021, 2022) 
@@ -44,5 +43,3 @@ Ms Hu Longmei
  |  ![](/images/harmonica4.png)  |![](/images/harmonica5.png)
  | -------- | -------- |
  | M.A.D. For Recycling (Make A Difference)| Values-In-Action (VIA) Project|
- 
- ![](/images/harmonica6.png)

@@ -32,123 +32,195 @@ teamwork, discipline and resilience.</p>
 <p>Boys</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain</strong>: DAMIEN TAN YAN MING</p>
+<p><strong>Captain</strong>: Fabian Lim Kai Feng(3 Responsibilty)</p>
 </li>
 <li>
-<p><strong>Vice-captain</strong>: ONG CHUA WEN</p>
-</li>
-<li>
-<p><strong>Vice-captain</strong>: CHUN SI HAO</p>
+<p><strong>Vice-captain</strong>: Mak Jun Rong Deon(3 Resilience)</p>
+<p></p>
 </li>
 </ul>
 <p>Girls</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain</strong>: NG XIN TONG CHARMAINE</p>
+<p><strong>Captain</strong>: Goh Zi Xuan (3 Flourish)</p>
 </li>
 <li>
-<p><strong>Vice-captain</strong>: SHANNON FONG YI XUAN</p>
+<p><strong>Vice-captain</strong>: Joey Teh Liu xuan(3 Adaptability)</p>
 </li>
 <li>
-<p><strong>Vice-captain</strong>: NUR ALIYAH HADZIQAH BINTE MOHAMAD HADZRIEN</p>
+<p><strong>Vice-captain</strong>: Darlyn bong yee fang(3 Responsibilty)</p>
 </li>
 </ul>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/53658055043_7d28ea31f4_c.jpg">
 </div>
 <h3><strong>Key Events / Achievements</strong></h3>
-<p><strong>2024</strong>
-</p>
-<p><u>B division Boys:</u>
-</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2024: B division Boys</p>
+</th>
+<th rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>West Zone Champions</p>
+<p><strong>West Zone Champions</strong>
+</p>
 </li>
 <li>
-<p>National Top 4</p>
+<p><strong>National Top 4</strong>
+</p>
 </li>
 </ul>
-<p><strong>2023</strong>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023: C division Boys</strong>
 </p>
-<p><u>C division Boys:</u>
-</p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>West Zone 3rd</p>
+<p><strong>West Zone 3rd</strong>
+</p>
 </li>
 <li>
-<p>National Top 16</p>
+<p><strong>National Top 16</strong>
+</p>
 </li>
 </ul>
-<p><strong>2022</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022: C division Girls</strong>
 </p>
-<p><u>C division Girls:</u>
-</p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>West Zone 4th</p>
+<p><strong>West Zone 4th</strong>
+</p>
 </li>
 <li>
-<p>National Top 8</p>
+<p><strong>National Top 8</strong>
+</p>
 </li>
 </ul>
-<p><u>C division Boys:</u>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022: C division boys</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>West Zone 3rd</p>
+<p><strong>West Zone3rd</strong>
+</p>
 </li>
 <li>
-<p>National Top 8</p>
+<p><strong>National Top 8</strong>
+</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Competitions (local): West Zone Inter-Schools Volleyball Competition</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>B division February</p>
+<p><strong>B division February</strong>
+</p>
 </li>
 <li>
-<p>C division July</p>
+<p><strong>C division July</strong>
+</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>National Schools Volleyball Competition</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>B division March</p>
+<p><strong>B division March</strong>
+</p>
 </li>
 <li>
-<p>C Division August</p>
+<p><strong>C Division August</strong>
+</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mintonette Invitational Volleyball Tournament</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>B division December</p>
-</li>
-<li>
-<p>ZHS invitational tournament (June)</p>
-</li>
-<li>
-<p>B and C division Shuqun-Yuhua Alumni Cup (December) • B division</p>
-<p></p>
+<p><strong>B division December</strong>
+</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>ZHS invitational tournament (June)</strong>
+</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>B and C division</strong>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Shuqun-Yuhua Alumni Cup (December)</strong>
+</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>B division</strong>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Taiwan Trip November (2023)</strong>
 </p>
-<p><strong>March and December holiday training camp</strong>
-</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/53658184144_71666d8232_c.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="March and December holiday training camp" src="/images/53658184144_71666d8232_c.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/volleyball_2.jpg">
 </div>

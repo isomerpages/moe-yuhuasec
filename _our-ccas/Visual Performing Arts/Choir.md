@@ -33,9 +33,13 @@ even to the wider society in meaningful ways.</p>
 <br>Mr Jonathan MacPherson</p>
 <p><strong>2023 - 2024 Student Leaders</strong>
 </p>
-<p>President: &nbsp;MANISHA D/O SUPAIAH(3 CARE)
-<br>Vice-President: RAZANAH BINTE HIRWAN (3 CONTRIBUTE)</p>
-<h4>Key Events of the Year/Achievements</h4>
+<p>President: Manisha D/o Supaiah (3 Care)
+<br>Vice-President: Razanah Binte Hirwan (3 Contribute)</p>
+<h4>Key Events/Achievements:</h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>SYF AP 2023 Certificate of Accomplishment</p>
@@ -47,6 +51,12 @@ Panelists (Nationwide approach due to Covid-19)</p>
 <li>
 <p>SYF AP 2019 Certificate of Accomplishment</p>
 </li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
 <p>Choral Masterclass with Ms Sonia Nadya Simanjuntak (Indonesia)</p>
 </li>
@@ -64,6 +74,10 @@ Panelists (Nationwide approach due to Covid-19)</p>
 Heartland celebrations with SportSG</p>
 </li>
 </ul>
+</td>
+</tr>
+</tbody>
+</table>
 <table>
 <tbody>
 <tr>
