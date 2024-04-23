@@ -62,14 +62,10 @@ teamwork, discipline and resilience.</p>
 <p>2024: B division Boys</p>
 </th>
 <th rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>West Zone Champions</p>
-</li>
-<li>
-<p>National Top 4</p>
-</li>
-</ul>
+<p><strong>West Zone Champions</strong>
+</p>
+<p><strong>National Top 4</strong>
+</p>
 </th>
 </tr>
 <tr>
@@ -80,10 +76,12 @@ teamwork, discipline and resilience.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>West Zone 3rd</p>
+<p><strong>West Zone 3rd</strong>
+</p>
 </li>
 <li>
-<p>National Top 16</p>
+<p><strong>National Top 16</strong>
+</p>
 </li>
 </ul>
 </td>
@@ -96,74 +94,118 @@ teamwork, discipline and resilience.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>West Zone 4th</p>
+<p><strong>West Zone 4th</strong>
+</p>
 </li>
 <li>
-<p>National Top 8</p>
+<p><strong>National Top 8</strong>
+</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022: C</p>
+<p><strong>2022: C division boys</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>West Zone3rd</strong>
+</p>
+</li>
+<li>
+<p><strong>National Top 8</strong>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Competitions (local): West Zone Inter-Schools Volleyball Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>B division February</strong>
+</p>
+</li>
+<li>
+<p><strong>C division July</strong>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>National Schools Volleyball Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>B division March</strong>
+</p>
+</li>
+<li>
+<p><strong>C Division August</strong>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mintonette Invitational Volleyball Tournament</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>B division December</strong>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>ZHS invitational tournament (June)</strong>
+</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>B and C division</strong>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Shuqun-Yuhua Alumni Cup (December)</strong>
+</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong> • B division</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p><strong>2022</strong>
-</p>
-<p><u>C division Girls:</u>
-</p>
-<p><u>C division Boys:</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>West Zone 3rd</p>
-</li>
-<li>
-<p>National Top 8</p>
-</li>
-</ul>
-<p><strong>Competitions (local): West Zone Inter-Schools Volleyball Competition</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>B division February</p>
-</li>
-<li>
-<p>C division July</p>
-</li>
-</ul>
-<p><strong>National Schools Volleyball Competition</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>B division March</p>
-</li>
-<li>
-<p>C Division August</p>
-</li>
-</ul>
-<p><strong>Mintonette Invitational Volleyball Tournament</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>B division December</p>
-</li>
-<li>
-<p>ZHS invitational tournament (June)</p>
-</li>
-<li>
-<p>B and C division Shuqun-Yuhua Alumni Cup (December) • B division</p>
-<p></p>
-</li>
-</ul>
 <p><strong>Taiwan Trip November (2023)</strong>
 </p>
 <div class="isomer-image-wrapper">
