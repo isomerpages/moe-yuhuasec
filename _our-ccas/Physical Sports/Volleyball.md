@@ -137,10 +137,8 @@ teamwork, discipline and resilience.</p>
 </ul>
 <p><strong>Taiwan Trip November (2023)</strong>
 </p>
-<p><strong>March and December holiday training camp</strong>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/53658184144_71666d8232_c.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="March and December holiday training camp" src="/images/53658184144_71666d8232_c.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/volleyball_2.jpg">
