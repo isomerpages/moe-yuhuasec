@@ -44,7 +44,7 @@ and to demonstrate good sportsmanship.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Girls Captain: Gurneet Judge Bjarne (3 Resilience)
-<br>Vice : Syarah Huriyah Bte Mohd Halme (3Resilience)</p>
+<br>Vice Captain : Syarah Huriyah (3Resilience)</p>
 </td>
 </tr>
 </tbody>
