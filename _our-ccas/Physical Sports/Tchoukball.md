@@ -31,7 +31,9 @@ and to demonstrate good sportsmanship.</p>
 <p>Mr John Ho
 <br>Mdm Kavitha
 <br>Mdm Yeo Aik Ser&nbsp;
-<br>Ms Jenny Ong</p>
+<br>Ms Jenny Ong
+<br>
+</p>
 <h3>Student Leaders</h3>
 <table>
 <tbody>
@@ -78,11 +80,11 @@ and to demonstrate good sportsmanship.</p>
 <p>6th position for Boys’ teams</p>
 </li>
 </ul>
-<p><strong>JSCC-WWSS 1st Inter-School Tchoukball Tournament 2023</strong>
+<p><strong>2023 JSCC-WWSS 1st Inter-School Tchoukball Tournament</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>2nd Runner’s up**</p>
+<p>2nd Runner’s up</p>
 </li>
 </ul>
 <p></p>
