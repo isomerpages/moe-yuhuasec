@@ -38,7 +38,7 @@ and to demonstrate good sportsmanship.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Boys Captain: Leon Djunaedi (3 Flourish)
-<br>Vice Captain: Pang Cheng Yi (3 Contribute)</p>
+<br>Vice : Pang Cheng Yi (3 Contribute)</p>
 </td>
 </tr>
 <tr>
