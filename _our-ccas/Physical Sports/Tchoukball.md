@@ -33,11 +33,22 @@ and to demonstrate good sportsmanship.</p>
 <br>Mdm Yeo Aik Ser&nbsp;
 <br>Ms Jenny Ong</p>
 <h3>Student Leaders</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Boys Captain: Leon Djunaedi (3 Flourish)
 <br>Vice Captain: Pang Cheng Yi (3 Contribute)</p>
-<p>Girls Captain: Gurneet Judge Bjarne Madas(3 Resilience)
-<br>Vice Captain: Syarah Huriyah Binte Mohamad Halme(3 Resilience)</p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Girls Captain: Gurneet Judge Bjarne (3 Resilience)
+<br>Vice : Syarah Huriyah Bte Mohd Halme (3Resilience)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>CCA Highlights</h3>
 <ul data-tight="true" class="tight">
 <li>
