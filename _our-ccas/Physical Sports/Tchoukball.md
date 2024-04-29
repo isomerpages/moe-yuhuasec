@@ -70,21 +70,4 @@ and to demonstrate good sportsmanship.</p>
 </li>
 </ul>
 <h3>Achievements</h3>
-<p><strong>2023 ‘B’ division National Tchoukball Championships</strong>
-</p>
-<ul>
-<li>
-<p>5th position for Girls’ teams</p>
-</li>
-<li>
-<p>6th position for Boys’ teams</p>
-</li>
-</ul>
-<p><strong>2023 JSCC-WWSS 1st Inter-School Tchoukball Tournament</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2nd Runner’s up</p>
-</li>
-</ul>
 <p></p>
