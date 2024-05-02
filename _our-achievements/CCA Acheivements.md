@@ -2,21 +2,15 @@
 title: CCA Achievements
 permalink: /our-achievements/cca-achievements/
 description: ""
+variant: markdown
 ---
 # **CCA Achievements**
 
-### Photo Gallery of our CCAs in Action!
+![](/images/53668641762_b67d2c3f62_c.jpg)
 
-<img src="/images/Band%20SYF%202021.jpg" style="width:70%">
+![](/images/WhatsApp_Image_2024_04_22_at_9_42_58_AM__1_.jpg)
 
-![](/images/Boys%20Bridage_JM_Frasier.jpg)
-
-![](/images/Choir%20SYF%202019.jpg)
-
-![](/images/Concert%20Band%20SYF%202019.jpg)
-
-![](/images/Dance%20SYF%202021.jpg)
-uploaded 5 out of 23 images)
+![](/images/WhatsApp_Image_2024_04_30_at_5_04_11_PM__1_.jpg)
 
 ### Co-Curricular Activities in Yuhua
 
@@ -26,12 +20,13 @@ Co-Curricular Activities are important platforms for Yuhuans to explore their in
 
 As part of their programs, our Uniformed Groups go through an annual performance review and are benchmarked with other schools by their respective headquarters. We are glad to share that our Uniformed Groups grow from strength to strength and were recognized for their efforts over the years.
 
-| CCA 	| 2021 (Awarded in 2022) 	| 2022(awarded in 2023) 	|
-|---	|---	|---	|
-| NPCC 	| UOPA Gold 	| UOPA Gold 	|
-| NCDCC 	| UOPA Gold 	| UOPA Gold 	|
-| NCC 	| URA - Certificate of Distinction 	| URA - Certificate of Participation 	|
-| Boys Brigade 	| JM Fraser Silver 	| JM Fraser Distinction 	|
+
+
+| CCA | 2021 (Awarded in 2022) | 2022(awarded in 2023) |
+| -------- | -------- | -------- |
+| NPCC     | UOPA Gold     | UOPA Gold     |
+| NCC | URA - Certificate of Distinction | URA - Certificate of Participation |
+| Boys Brigade | JM Fraser Silver | JM Fraser Distinction |
 
 
 **Visual &amp; Performing Arts (VPA)**
@@ -39,8 +34,8 @@ As part of their programs, our Uniformed Groups go through an annual performance
 Our Visual and Performing Arts groups have also been a source of school pride, and do well nationally as well. They participate in public performances and the bi-annual Singapore Youth Festival (SYF) organized by the Arts Education Branch. The SYF provides an opportunity for our Yuhuans to demonstrate their talents and be benchmarked against other schools. Our Visual and Performing Arts groups have done the school proud in recent years.
 
 | CCA 	| 2021 	|  2023 	|
-|---	|---	|---	|
-| Concert Band 	| Certificate of Accomplishment 	|  	|
+| -------- | -------- | -------- |
+| Concert Band 	| Certificate of Accomplishment 	| 
 | Harmonica Band 	| Certificate of Distinction &amp; Accomplishment 	| Certificates of Distinction |
 | Stagewright<br>(English Drama) 	| Certificates of Distinction &amp; Accomplishment 	| Certificate of Accomplishment 	|
 | Choir 	| Participated in SYF 2021 through recording (no benchmarking) 	|  	|
@@ -67,8 +62,8 @@ Our Sports CCAs are strong in their development of character, and through this, 
 
 Beyond these accomplishments as a group, we have our students who excelled individually in their CCAs, receiving awards and accolades for their drive to excel in their areas of passion and interest.
 
-| CCA 	| Student / CCA 	| Achievements 	| Year 	|
-|---	|---	|---	|---	|
+| CCA 	| Student / CCA 	| Achievements 	| Year |
+| -------- | -------- | -------- |-------- |
 | Boys Brigade 	| Goh Kun Ming 	| Boys Brigade Founders Award 	| 2023 	|
 | Boys Brigade 	| On Wee Chuan 	| Boys’ Brigade HQ - Best Boy Award 	| 2022 	|
 | Canoeing 	| Goh Kai Kiat David 	| Top 4 in semi finals for NSG Canoeing 	| 2022 	|
