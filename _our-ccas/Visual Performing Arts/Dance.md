@@ -83,11 +83,11 @@ share with you more about our dance spirit &amp; Yuhua Secondary School!</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Yuhua Dance Live performance@ Istana open house</p>
+<p>Yuhua Dance Live performance@ Istana open house 2024</p>
 </li>
 <li>
 <p>Singapore Youth Festival Arts Presentation - Certificate of Accomplishment
-2023</p>
+2023 &amp; 2021</p>
 </li>
 <li>
 <p>JOY of Yuhua</p>
@@ -96,7 +96,7 @@ share with you more about our dance spirit &amp; Yuhua Secondary School!</p>
 <p>GetActive! Singapore Heartlands Festival 2023 with SportsSg</p>
 </li>
 <li>
-<p>Aesthetic Day performance collaboration with other CCA group</p>
+<p>Aesthetic Day performance collaboration with other CCA groups</p>
 </li>
 </ul>
 </td>
