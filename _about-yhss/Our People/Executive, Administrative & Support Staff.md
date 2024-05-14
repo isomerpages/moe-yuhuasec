@@ -18,7 +18,6 @@ variant: markdown
 |  Mdm Noraini Bte Kadir  	| Corporate Support Officer 	|
 |  Mdm Sarah Bte Mohamed 	|  Corporate Support Officer   	|
 |  Mdm Lim Seok Har  	|  Corporate Support Officer   	|
-|  Mrs Lau-Ng Lai Hong  	|  STEM Instructor (Laboratory) 	|
 |  Mrs Balaji Rani  	| STEM Instructor (Laboratory)  	|
 | Ms Chua Sze Huey  	|    STEM Instructor (Laboratory)     	|
 | Mr Noor Hazemi B Ribot  	| STEM Instructor (Workshop)  	|
@@ -40,9 +39,3 @@ variant: markdown
 | Mdm Pappu Lalitha 	| ICT Manager 2	|
 | Mr Asymawi Bin Mohd Nor 	| Desktop Engineer 	|
 | Mr Syed Ibrahim Haja Abdul Wadood	| Desktop Engineer 	|
-
-
-
-
-
-
