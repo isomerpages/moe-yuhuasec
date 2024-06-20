@@ -20,8 +20,4 @@ variant: markdown
 | 9 | Member | Mdm Chua Kah Hoon, Doreen |
 | 10 | Member | Mr Paul Kok Kuan Pow, PBM |
 | 11 | Member | Mr Sam Ang Mong Soon|
-| 12 | Member | Mr Randy Ng Giam Teck|
-
-
-
 
