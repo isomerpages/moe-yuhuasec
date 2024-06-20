@@ -19,7 +19,6 @@ variant: markdown
 |  Mdm Sarah Bte Mohamed 	|  Corporate Support Officer   	|
 |  Mdm Lim Seok Har  	|  Corporate Support Officer   	|
 |  Mrs Balaji Rani  	| STEM Instructor (Laboratory)  	|
-| Ms Chua Sze Huey  	|    STEM Instructor (Laboratory)     	|
 | Mr Noor Hazemi B Ribot  	| STEM Instructor (Workshop)  	|
 | Mr Mohd Ayub Bin Anang 	| STEM Instructor (Workshop)  	|
 | Ms Hazfarisha Halim  	| Student Welfare Officer (SWO)  	|
