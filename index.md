@@ -22,11 +22,29 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infopic:
+      title: Timetable for Semester 2 (2024)
+      subtitle: Timetable for semester 2
+      id: infopic
+      description: You may access the timetables for your class at the page for
+        Information for Students below.
+      button: Information for Students
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
+      image: /images/Timetable_2024.png
+      alt: Image alt text
+  - infobar:
+      title: YHSS Term 3 Termly Newsletter for Parents
+      subtitle: YHSS Term 3 Newsletter
+      id: infobar
+      description: Dear parents, please find the termly newsletter for Term 3 (2024)
+        at the Information for Parents page below.
+      button: Information for Parents
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
+  - infopic:
       title: Direct School Admissions (DSA) 2024
       subtitle: Information for parents
       id: infopic
-      description: "Please find information regarding the Direct School Admissions
-        (DSA) 2024 at the link below. "
+      description: Please find information regarding the Direct School Admissions
+        (DSA) 2024 at the link below.
       button: Click here for details
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/direct-school-admissions-dsa/
       image: /images/dsa2023.png
