@@ -31,6 +31,14 @@ sections:
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
       image: /images/Timetable_2024.png
       alt: Image alt text
+  - infobar:
+      title: YHSS Term 3 Termly Newsletter for Parents
+      subtitle: YHSS Term 3 Newsletter
+      id: infobar
+      description: Dear parents, please find the termly newsletter for Term 3 (2024)
+        at the Information for Parents page below.
+      button: Information for Parents
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
   - infopic:
       title: Direct School Admissions (DSA) 2024
       subtitle: Information for parents
@@ -71,11 +79,4 @@ sections:
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
       image: /images/Screenshot_2024_03_22_070218.png
       alt: Image alt text
-  - infobar:
-      title: YHSS Term 3 Termly Newsletter for Parents
-      subtitle: YHSS Term 3 Newsletter
-      id: infobar
-      description: Dear parents, please find the termly newsletter for Term 3 (2024) below.
-      button: Term 3 newsletter (2024)
-      url: ccc
 ---
