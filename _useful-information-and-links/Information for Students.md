@@ -7,6 +7,20 @@ variant: markdown
 # **Information for Students**
 
 
+### Semester 2 Timetable
+----------------------
+Dear students,  
+You may access the Semester 2 timetable for 2024 below.
+
+[Secondary 1](/files/2024_Sem_2_TT_Sec_1_for_upload.pdf)
+
+[Secondary 2](/files/2024_Sem_2_TT_Sec_2_for_upload.pdf)
+
+[Secondary 3](/files/2024_Sem_2_TT_Sec_3_for_upload.pdf)
+
+[Secondary 4 &amp; 5](/files/2024_Sem_2_TT_Sec_4_and_5_for_upload.pdf)
+
+
 ### Semester 1 Timetable
 ----------------------
 Dear students,  
