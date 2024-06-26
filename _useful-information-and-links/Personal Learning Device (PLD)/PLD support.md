@@ -102,4 +102,19 @@ process by at least a few weeks.</p>
 </div>
 </details>
 </div>
+<h3>Loss of iPad (out of school)</h3>
+<ol data-tight="true" class="tight">
+<li>
+<p>Make a police report regarding the loss of iPad immediately.</p>
+</li>
+<li>
+<p>Student to inform the Form Teacher about the loss of iPad.</p>
+</li>
+<li>
+<p>Student to submit a copy of the police report to the iSEC centre.</p>
+</li>
+<li>
+<p>Purchase of replacement iPad can be arranged by the school staff thereafter.</p>
+</li>
+</ol>
 <p></p>
