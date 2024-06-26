@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Personal Learning Device (PLD)
 variant: tiptap
 ---
-<h1><strong>Important information on PLD</strong></h1>
+<h1><strong>PLD Support</strong></h1>
 <p><strong>If students encounter any issues with the iPad, Apple Pencil or Keyboard case, please bring the items to the school iSEC centre first</strong>.
 Some issues can be resolved by our ICT managers immediately.</p>
 <h3>Device Warranty &amp; Insurance</h3>
