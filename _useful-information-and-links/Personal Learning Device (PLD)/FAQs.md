@@ -1,8 +1,8 @@
 ---
 title: FAQs
-permalink: /useful-information-and-links/NDL-Programme/FAQs
+permalink: /useful-information-and-links/NDL-Programme/FAQs/
 description: ""
-third_nav_title: NDL Programme
+third_nav_title: Personal Learning Device (PLD)
 ---
 # **FAQs**
 
