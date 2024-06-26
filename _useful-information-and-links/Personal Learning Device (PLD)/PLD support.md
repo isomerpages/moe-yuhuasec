@@ -7,13 +7,13 @@ variant: tiptap
 ---
 <h1><strong>PLD Support</strong></h1>
 <p><strong>If students encounter any issues with the iPad, Apple Pencil or Keyboard case, please bring the items to the school iSEC centre first</strong>.
-Some issues can be resolved by our ICT managers immediately.</p>
+Some issues can be resolved by the school staff immediately.</p>
 <h3>Device Warranty &amp; Insurance</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/warranty.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>iPad and Apple Pencil</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -67,11 +67,38 @@ parents will need to bring the iPad to the Asiapac service centre.</p>
 <p></p>
 </li>
 <li>
-<p>sss</p>
+<p>If parents are unable to bring the iPad down to the asiapac service centre,
+the iPad can be left with the school iSEC centre and asiapac will collect
+iPad from school. However, do take note this will delay the repair process
+by at least a few weeks.</p>
 </li>
 </ol>
 <p></p>
 <p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Logitech Keyboard</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ol data-tight="true" class="tight">
+<li>
+<p>Visit the asiapac service centre with the keyboard case.</p>
+<p><strong>AsiaPac Service Centre</strong>
+<br>219 Henderson Road, #05-01, Henderson Industrial Park</p>
+<p>Singapore, 159556</p>
+<p>Contact number: 6272 0088</p>
+<p></p>
+</li>
+<li>
+<p>Asiapac service centre will assess the device damage and advise accordingly.</p>
+</li>
+<li>
+<p>If parents are unable to bring the keyboard case down to the asiapac service
+centre, the case can be left with the school iSEC centre and asiapac will
+collect case from school. However, do take note this will delay the repair
+process by at least a few weeks.</p>
+</li>
+</ol>
 </div>
 </details>
 </div>
