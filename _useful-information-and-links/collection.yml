@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Canteen Advertisement.md
-      - NDL Programme/National Digital Literacy Programme.md
-      - NDL Programme/Important Information for Parents.md
-      - NDL Programme/FAQs.md
-      - NDL Programme/Media Resources on NDLP.md
-      - NDL Programme/.keep
+      - Personal Learning Device (PLD)/National Digital Literacy Programme.md
+      - Personal Learning Device (PLD)/Important Information for Parents.md
+      - Personal Learning Device (PLD)/FAQs.md
+      - Personal Learning Device (PLD)/Media Resources on NDLP.md
+      - Personal Learning Device (PLD)/.keep
       - Information for Parents.md
       - Information for Staff.md
       - Information for Students.md
