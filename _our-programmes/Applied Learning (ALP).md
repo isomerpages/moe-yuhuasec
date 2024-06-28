@@ -1,7 +1,8 @@
 ---
 title: Applied Learning (ALP)
-permalink: /our-programmes/applied-learning-alp
+permalink: /our-programmes/applied-learning-alp/
 description: ""
+variant: markdown
 ---
 # **Applied Learning (ALP)**
 
@@ -17,9 +18,9 @@ Our school Applied Learning Programme (ALP) on Coding, Design Thinking and Robot
 
 CODER aims to   
 
-1.  cultivate an innovative and design thinking mindset in students through a curriculum that encourage them to solve real and authentic problems through coding and robotics. 
-2.  develop proficiency in analytical thinking and come up with solutions and responses beyond that which is rote or rule-based. 
-3.  appreciate the range and power of coding and robotics, and foster an interest in, enjoyment of, and confidence in the use of digital technology.
+1.  Cultivate an innovative and design thinking mindset in students through a curriculum that encourage them to solve real and authentic problems through coding and robotics. 
+2.  Develop proficiency in analytical thinking and come up with solutions and responses beyond that which is rote or rule-based. 
+3.  Appreciate the range and power of coding and robotics, and foster an interest in, enjoyment of, and confidence in the use of digital technology.
 
 ### Key Programme
 

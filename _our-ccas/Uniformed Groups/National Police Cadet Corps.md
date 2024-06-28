@@ -22,15 +22,22 @@ NPCC is an organisation that firmly believes in the development of character, le
 ### Our Team
 
 **Teacher Officers:**  
-OIC: Mr Lee Yi Xin (OC)
-<br>2IC:  Mr Mohamed Azmil (dy OC)<br>         Miss Tricia Ong
+OIC: Mr Mohamed Azmil (OC) 
+<br>2IC: Mr Lee Yi Xin (dy OC)<br>         Miss Tricia Ong
 
 **Star Leaders:**<br>
 **NPCC Chairman:**
-<br>Nurdini Aliah Binte Yuslim Yanis (3 Connect)  
-**NPCC Vice-Chairman:**<br> Ngoo Yu Xuan (3 Resilience)  
-**NPCC Vice-Chairman:**<br> Evelyn Quah (3 Adaptability)  
-**NPCC Vice-Chairman:**<br> Gwendolyn Jas Lee (3 Contribute)
+<br>Lee Cheng Xin (3 Flourish)  
+**Head of Training:**
+<br>Vengatesan Sadhvini (3 Flourish)
+<br>**NPCC Vice-Chairman (Administration):**
+<br>Wong Jing Yi (3 Flourish)
+<br>**NPCC Vice-Chairman (Communications):**
+<br>K Rubikkaa (3 Connect)
+<br>**NPCC Vice-Chairman (Well-being):**
+<br>Advita C Raj (3 Care)
+
+<br>
 
 <img src="/images/yhssnpcc2.png" style="width:70%">
 
@@ -46,9 +53,9 @@ OIC: Mr Lee Yi Xin (OC)
 
 ##### **Enrichment:**
 
-**Sec.1**: First Aid certification    
-**Sec.2**: One-Star Kayaking certification   
-**Sec.3**: Air Pistol
+One-Star Kayaking certification (2023)
+<br>First Aid certification (2024)
+
 
 <img src="/images/yhssnpcc3.png" style="width:50%">
 
@@ -75,13 +82,11 @@ Sec 2: Adventure Training Camp (ATC) in NPCC Camp Resilience, Pulau Ubin
 **HQ Parades:**<br>
 * NPCC Annual Parade
 * Police Day Parade
-* SYF Opening
 * National Day Parade
 
 #### **Competitions**
 * .22 Shooting Competition
 * .38 Shooting Competition
-* Campcraft Competition (bi-annual)
 * Inter-unit Drills Competition (bi-annual)
 * X-Challenge (bi-annual)
 * Youth Video Competition
@@ -91,16 +96,23 @@ Sec 2: Adventure Training Camp (ATC) in NPCC Camp Resilience, Pulau Ubin
 *   OEV to Hong Kong (Sec 3)
  ##### **External Programmes / Achievements:**
 **Unit Overall Proficiency Award:**<br>
-The Yuhua NPCC unit achieved the Distinction standard for the Unit Overall Proficiency Award (UOPA) in 2022.
+The Yuhua NPCC unit achieved the Distinction standard for the Unit Overall Proficiency Award (UOPA) in 2023.
 <img src="/images/yhssnpcc10.png" style="width:50%">
-###### SPF-NPCC Pinnacle Badge 2023:
-* **Station Inspector:** Mohammed Arddrean Zikry Bin Mohammed Zakry (4 Connect)
-* **Station Inspector:** Krishnarajan Jeevanesan (4 Resilience)
 
-**Best Unit Cadet Award 2023:**
-* Male : Chua Chee Yang (4 Contribute)
-* Female: Chong Xuan Ya Glenda (4 Adaptability)
+**Recipients of SPF-NPCC Badge**
+<br>Station Inspector Nurdini Aliah Binte Yuslim Yanis (4 Connect)
+<br>Station Inspector Chua Yu Xuan (4 Care)
+<br>Staff Sergeant Evelyn Quah Xiang Boon (4 Adaptability)
+
+**Special Mention**
+<br>Station Inspector Ngoo Yu Xuan (4 Resilience)
+   
+**Best Unit Cadet Award 2024:**
+<br>Staff Sergeant Nur Laiqah Binte Irman (4 Connect)
+<br>Staff Sergeant Gwendolyn Jas Lee (4 Contribute)
+
 <img src="/images/yhssnpcc11.png" style="width:50%">
+
 ##### SOCIAL MEDIA:
 [YHSS NPCC INSTAGRAM]( https://www.instagram.com/yhssnpcc/)
 &nbsp;**https://www.instagram.com/yhssnpcc/**
