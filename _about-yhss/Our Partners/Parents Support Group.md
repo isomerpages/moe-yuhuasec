@@ -38,9 +38,7 @@ Advisor of Parent Support Group 2024**
 
 **Events Coordinator:** Mr Gregory Poo
 
-**Advisor:** Dr Quah Saw Han&nbsp;
-
-**EXCO Members:** Ms Amy Ng 
+**Advisor:** Dr Quah Saw HanMs Amy Ng 
 Mdm Thazin Aye
 
 Mdm Josephine Chow
