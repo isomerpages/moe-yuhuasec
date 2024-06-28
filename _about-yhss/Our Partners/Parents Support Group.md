@@ -48,11 +48,9 @@ Advisor of Parent Support Group 2024**
 * Mdm Zarine Khan Wong
 * Mr Osman Bin Abdulla
 
-SIGN UP FOR PARENT SUPPORT GROUP&nbsp;
+#### Sign up for Parent Support Group
 
-Fill in the form here. (Please help to hyperlink the word here to the link below)&nbsp;
-
-[https://form.gov.sg/61c8f7732efd780012552976](https://form.gov.sg/61c8f7732efd780012552976)
+Fill in the form&nbsp;: [here](https://form.gov.sg/61c8f7732efd780012552976)
 
 
 ### PSG Gallery
@@ -123,12 +121,3 @@ Fill in the form here. (Please help to hyperlink the word here to the link below
 | -------- | -------- | -------- |
 |     |      |      |
 
-
-
-
-
-
-
-### Sign up for Parent Support Group
-
-Fill in the form&nbsp;[here](https://form.gov.sg/61c8f7732efd780012552976).
