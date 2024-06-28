@@ -7,60 +7,63 @@ variant: markdown
 ---
 # **National Civil Defence Cadet Corps**
 
-<img src="/images/ncdcc5.png" style="width:70%">
+![](/images/NCDCC_Photo_1.jpg)
 
 ### Background
 
-Yuhua NCDCC has experienced significant growth since its inception, evolving from a modest unit comprising only 20 cadets to approximately 70 cadets at present. The NCDCC's distinctive emphasis lies in equipping its members with essential Civil Defence skills, including first aid, fire prevention, and fire-fighting.
-Demonstrating their commitment to serving the school, NCDCC cadets are readily available to administer First Aid during various school events, such as Sports Day, and Emergency Evacuation Exercises, among others. Additionally, NCDCC cadets serve as ambassadors, raising awareness about Civil Defence initiatives.
-NCDCC cadets also partake in a meticulously designed, varied, and challenging training program. Engaging visits to notable sites like the Civil Defence Heritage Gallery, Civil Defence Academy, and CD Shelter provide cadets with invaluable opportunities to acquire Civil Defence knowledge in an enjoyable and lasting manner. To put their acquired skills to the test, cadets actively participate in various competitions organized by the Home Team Academy, including the Urban Adventure Challenge and Precision Drill Competition.
+Yuhua NCDCC aims to equip our cadets with the Triangle of Life skills, which are basic firefighting, first aid and CPR+AED. We have experienced significant growth since our inception, increasing our intake over the years to a healthy cohort of 70 cadets at present
+<br>Yuhua NCDCC trains our cadets to be ready for adversity and equips them with the practical skills which may prove crucial in the face of dangers and emergencies.
+
 
 ### Our Team
 
 **Teachers:**  
-* OIC: Mr Clovis Song Sheng Yang (OC)
-* 2IC: Mr Alvin Ng Kiat Hou
-* Ms Ellavarasi D/O Kulasajagaran
-* Mr Kamaroazmir Kamaruddin
+* OIC: 	Mr Alvin Ng Kiat Hou (OC)
+* 2IC: 	Mr Clovis Song Sheng Yang 
+* TO:  	Ms Ellavarasi D/O Kulasajagaran
+* TO:  	Mr Kamaroazmir Kamaruddin
 
 **Student Leaders:**
-**Unit Sergeant Major (USM):** 
-SSG Hyra Musfira Putri Mustafa Kamal (3 Resilience)
+* Unit Sergeant Major (USM): SSG Bardelosa Andrey Arshavin Luczon
+* Assistant Sergeant Major (ASM): SSG Rosetiaralina Binte Rosli
+* Regiment Sergeant Major (RSM): SGT Rizq Rifqi Bin Herman Filani
 
-**Assistant Sergeant Major (ASM):** 
-SSG Muhammad Nur Qa’ish Hakeem Bin Muhammad Sukri (3 Connect)
-
-**Regiment Sergeant Major (RSM):** 
-SSG Nur Ayuni Binte Abdullah (3 Responsibility)
 
 ### Key Events of the Year
 
 **Training Programme**&nbsp;
 
-Our dedicated cadets undergo a carefully designed, comprehensive, and challenging training program that equips them with essential skills. The NCDCC curriculum focuses on the Triangle of Life Skills, emphasizing proficiencies in basic firefighting, first aid, and CPR+AED. These skills are highly valuable, as they can make a significant impact in critical situations and potentially save lives.
+Yuhua NCDCC provides opportunities for our cadets to hone their leadership and communication skills while serving the school through the administering of first aid during school events such as Sports Day and Emergency Evacuation Exercises. Additionally, our cadets serve as Civil Defence ambassadors, raising awareness about emergency preparedness through community engagement and school outreach programmes.
+ 
+Our cadets are provided with authentic learning opportunities to acquire Civil Defence knowledge through visits to notable sites like the Civil Defence Heritage Gallery and Civil Defence shelters. The cadets put their skills to the test by participating in events organised by the Home Team Academy, including the Urban Adventure Challenge and Precision Drill Competition.
 
-Furthermore, our cadets have the opportunity to participate in visits to respected institutions such as the Civil Defence Heritage Gallery, the Civil Defence Academy, and the Jurong Fire Station. These hands-on experiences allow our cadets to acquire Civil Defence knowledge in an engaging and practical manner.
-
-To assess their acquired skills, our cadets actively participate in a variety of competitions organized by the Home Team Academy. These include the Urban Adventure Challenge, and the Precision Drill Competition.
 
 **Key events of the year**
 * Yuhua NCDCC Unit Camp
 * Courses aligned with the Cadet Proficiency Badge Scheme (CPBS)
-* Visits to Civil Defence Academy, Civil Defence Heritage Centre, Jurong Fire Station and Dart Base.
+* Visits to Civil Defence Academy, Civil Defence Heritage Centre, Jurong Fire Station and DART Base.
 * Secondary 1 Affirmation Day
-* Secondary 3 Specialisation Course – Medical Response, Urban Search and Rescue and Fire Safety
+* Secondary 3 Specialisation Courses – Fire Safety, Medical Response, Urban Search and Rescue (USAR), Marine Fire and Rescue *NEW
 * Participating in NCDCC Service Month – School and community sharing of Civil Defence knowledge
 * Precision Drill Competition
+
 
 <img src="/images/ncdcc1.png" style="width:70%">
 <img src="/images/ncdcc2.png" style="width:70%">
 
 ### Achievements
-* SCDF - NCDCC Pinnacle Award
-* The SCDF - NCDCC Pinnacle award is presented to the most outstanding cadet in NCDCC. This is the highest accolade that a cadet may receive in this uniform group. The recipient of this award is Warrant Officer David Goh from 4 Care.
-* Unit Best Cadet Award
-* The Unit Best Cadet award is presented to the most outstanding cadet in the unit, one who has contributed immensely to the unit’s development. The recipient of this award is Warrant Officer David Goh from 4 Care.
-* Unit Overall Proficiency Award 
-* The Yuhua NCDCC unit achieved the Distinction standard for the Unit Overall Proficiency Award (UOPA) in 2022.
+* SSCDF - NCDCC Pinnacle Award
+* The SCDF - NCDCC Pinnacle award is presented to the most outstanding cadet in NCDCC. This is the highest accolade that a cadet may receive in this uniform group. 
+* The recipients of this award are:
+<br>Warrant Officer Hyra Musfira Putri Mustafa Kamal
+<br>Warrant Officer Nur Ayuni Binte Abdullah
 
-<img src="/images/ncdcc4.png" style="width:30%">
+Unit Best Cadet Award
+* The Unit Best Cadet award is presented to the most outstanding cadet in the unit, one who has contributed immensely to the unit’s development. 
+* The recipient of this award is Warrant Officer Hyra Musfira Putri Mustafa Kamal
+
+![](/images/Untitled_design__3_.png)
+
+* Unit Overall Proficiency Award 
+* The Yuhua NCDCC unit achieved the Distinction standard for the Unit Overall Proficiency Award (UOPA) in 2023.
+
