@@ -15,9 +15,7 @@ The EMP is a two-year upper secondary programme that prepares students for the G
 
 YHSS’ EMP students will have opportunities to pursue deeper learning in various musical pursuits. Through an in-depth study of various musical traditions, such as Western Classical music, Asian Music, Jazz, and Pop, students will engage in rich learning experiences that involve listening, performing, composing, and theoretical study. Our EMP students will also participate in diverse enrichment activities, such as masterclasses with industry professionals, learning journeys to higher education institutions and cultural groups, and combined schools’ camps and showcase platforms organised by the Ministry of Education.
 
-![](/images/New_Photo_1.jpg)
-
-![](/images/New_Photo_2.jpg)
+![](/images/Untitled_design.png)
 
 
 At Yuhua Secondary School, all students will have access to well-equipped teaching rooms, practice studios, and performance spaces. The school also has a rich variety of instruments and learning resources to cater to different interests and learning needs.
