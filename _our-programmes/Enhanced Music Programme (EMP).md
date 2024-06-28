@@ -2,6 +2,7 @@
 title: Enhanced Music Programme (EMP)
 permalink: /our-programmes/enhanced-music-programme-emp/
 description: ""
+variant: markdown
 ---
 # **Enhanced Music Programme (EMP)**
 
@@ -13,6 +14,11 @@ The EMP is a two-year upper secondary programme that prepares students for the G
 ![](/images/my%20project-1%20(2).png)
 
 YHSS’ EMP students will have opportunities to pursue deeper learning in various musical pursuits. Through an in-depth study of various musical traditions, such as Western Classical music, Asian Music, Jazz, and Pop, students will engage in rich learning experiences that involve listening, performing, composing, and theoretical study. Our EMP students will also participate in diverse enrichment activities, such as masterclasses with industry professionals, learning journeys to higher education institutions and cultural groups, and combined schools’ camps and showcase platforms organised by the Ministry of Education.
+
+![](/images/New_Photo_1.jpg)
+
+![](/images/New_Photo_2.jpg)
+
 
 At Yuhua Secondary School, all students will have access to well-equipped teaching rooms, practice studios, and performance spaces. The school also has a rich variety of instruments and learning resources to cater to different interests and learning needs.
 
@@ -31,6 +37,8 @@ Students who are interested to study O-Level Music at Secondary Three should not
 * Pass the EMP Selection Exercise, which will take place in Semester 2. 
 
 **Useful Links**
+
+* [YHSS LLP Webpage](https://www.yuhuasec.moe.edu.sg/our-programmes/learning-for-life-llp/)
 * [MOE EMP Webpage](https://www.moe.gov.sg/education-in-sg/our-programmes/emp-sec)
 * [MOE O-Level Music Teaching and Learning Syllabus](http://go.gov.sg/olmsyllabus)
 * [MOE EMP and MEP YouTube Page](http://go.gov.sg/empmepyoutubepage)
