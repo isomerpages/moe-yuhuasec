@@ -13,11 +13,11 @@ variant: tiptap
 <p>Both Yuhua Secondary and Shuqun Secondary have a long history of excellence
 and success in Volleyball. This strength in Volleyball continued with the
 reborn Yuhua Secondary when the two schools merged in 2019. Our volleyball
-CCA provides many opportunities for student to grow in confidence and courage.
-By demanding the highest standards from our volleyballers, we know that
-this habit of excellence will spread into other aspects of their lives.
-Our vision is to nurture every volleyballer into men and women who embody
-teamwork, discipline and resilience.</p>
+CCA provides many opportunities for students to grow in confidence and
+courage. By demanding the highest standards from our volleyballers, we
+know that this habit of excellence will spread into other aspects of their
+lives. Our vision is to nurture every volleyballer into men and women who
+embody teamwork, discipline and resilience.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/53647324362_b8828f2db7_c.jpg">
@@ -55,173 +55,70 @@ teamwork, discipline and resilience.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/53658055043_7d28ea31f4_c.jpg">
 </div>
 <h3><strong>Key Events / Achievements</strong></h3>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>2024: B division Boys</p>
-</th>
-<th rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>West Zone Champions</strong>
-</p>
-</li>
-<li>
-<p><strong>National Top 4</strong>
-</p>
-</li>
-</ul>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2023: C division Boys</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>West Zone 3rd</strong>
-</p>
-</li>
-<li>
-<p><strong>National Top 16</strong>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2022: C division Girls</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>West Zone 4th</strong>
-</p>
-</li>
-<li>
-<p><strong>National Top 8</strong>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2022: C division boys</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>West Zone3rd</strong>
-</p>
-</li>
-<li>
-<p><strong>National Top 8</strong>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Competitions (local): West Zone Inter-Schools Volleyball Competition</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>B division February</strong>
-</p>
-</li>
-<li>
-<p><strong>C division July</strong>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>National Schools Volleyball Competition</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>B division March</strong>
-</p>
-</li>
-<li>
-<p><strong>C Division August</strong>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mintonette Invitational Volleyball Tournament</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>B division December</strong>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>ZHS invitational tournament (June)</strong>
-</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>B and C division</strong>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Shuqun-Yuhua Alumni Cup (December)</strong>
-</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>B division</strong>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Taiwan Trip November (2023)</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="March and December holiday training camp" src="/images/53658184144_71666d8232_c.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__4_.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/volleyball_2.jpg">
-</div>
+<p></p>
+<p><strong>2024: B division Boys</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>West Zone Champions</p>
+</li>
+<li>
+<p>National Top 4</p>
+</li>
+</ul>
+<p><strong>2023: C division Boys</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>West Zone 3rd</p>
+</li>
+<li>
+<p>National Top 16</p>
+<p></p>
+</li>
+</ul>
+<p><strong>2022: C division Girls</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>West Zone 4th</p>
+</li>
+<li>
+<p>National Top 8</p>
+</li>
+</ul>
+<p></p>
+<p><strong>2022: C division boys</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>West Zone3rd</p>
+</li>
+<li>
+<p>National Top 8</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Competitions (local):</strong> 
+</p>
+<p>West Zone Inter-Schools Volleyball Competition:</p>
+<p>B division February</p>
+<p>C division July</p>
+<p>National Schools Volleyball Competition:</p>
+<p>B division March</p>
+<p>C Division August</p>
+<p>Mintonette Invitational Volleyball Tournament:</p>
+<p>B division December</p>
+<p>ZHS invitational tournament (June):</p>
+<p>B and C division</p>
+<p>Shuqun-Yuhua Alumni Cup (December):</p>
+<p>B division</p>
+<p></p>
+<p></p>
 <p></p>
