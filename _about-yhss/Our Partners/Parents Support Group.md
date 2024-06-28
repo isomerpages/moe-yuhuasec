@@ -5,20 +5,13 @@ description: ""
 third_nav_title: Our Partners
 variant: markdown
 ---
-# Parents Support Group**
+## Yuhua Parents Support Group(PSG)
 
 ![PSG](/images/MAIN_PHOTO.jpg)
-
-### Yuhua Secondary School Parent Support Group
-
-**
-
 Yuhua Secondary School Parent Support Group (PSG)&nbsp;
 
 “It takes a village to raise a child” – so a common saying goes.&nbsp; Since 2000, the members of Yuhua Secondary School Parent Support Group have been supporting one another, the teachers, and the school leaders, in creating and maintaining a safe and nurturing environment where Yuhuans, our “children”, can flourish as curious and adaptable learners who care for themselves, for others and for the community.
-
 There is strong friendship among the members – we are proud that many of us are still actively contributing and participating in events like parenting programmes (talks from the school counsellor, Triple P seminars), parent-child bonding activities (visit to Kok Fah Technology Farm, Parent-Child Bonding Challenge), and special events at the school (Teacher’s Day, Partners’ Appreciation Day), long after our children have graduated from the school.&nbsp; New members will find warm welcome from existing members, and experience great camaraderie and fabulous food when we have our year-end Family Day celebration and other gatherings.
-
 We keep close touch with the teachers and school leaders who update us once a quarter on new initiatives and progress, who also listen patiently and with an open mind on feedback and suggestions from the parents.
 
 Join us, for the following:
