@@ -57,7 +57,7 @@ Fill in the form here. (Please help to hyperlink the word here to the link below
 
 ### PSG Gallery
 
-##### Career Guidance sharing 2014 by parent-support group members
+##### Career Guidance sharing by parent-support group members
 
 ![](/images/cce28d6d3_64918.jpg)
 
@@ -83,13 +83,7 @@ Fill in the form here. (Please help to hyperlink the word here to the link below
 
 ![](/images/a6acd9f4c_64929.jpg)
 
-![](/images/2dbeceaba_64930.jpg)
-
-![](/images/c949c82af_64931.jpg)
-
-![](/images/5cbededc6_64932.jpg)
-
-![](/images/89cdb82b6_64933.jpg)
+![](/images/2dbeceaba_6493[](/images/89cdb82b6_64933.jpg)
 
 ![](/images/0d89c79b0_64934.png)
 
