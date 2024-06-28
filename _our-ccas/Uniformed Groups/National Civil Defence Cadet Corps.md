@@ -52,18 +52,17 @@ Our cadets are provided with authentic learning opportunities to acquire Civil D
 <img src="/images/ncdcc2.png" style="width:70%">
 
 ### Achievements
-* SSCDF - NCDCC Pinnacle Award
+**SSCDF - NCDCC Pinnacle Award**
 * The SCDF - NCDCC Pinnacle award is presented to the most outstanding cadet in NCDCC. This is the highest accolade that a cadet may receive in this uniform group. 
 * The recipients of this award are:
 <br>Warrant Officer Hyra Musfira Putri Mustafa Kamal
 <br>Warrant Officer Nur Ayuni Binte Abdullah
 
-Unit Best Cadet Award
+**Unit Best Cadet Award**
 * The Unit Best Cadet award is presented to the most outstanding cadet in the unit, one who has contributed immensely to the unit’s development. 
 * The recipient of this award is Warrant Officer Hyra Musfira Putri Mustafa Kamal
 
 ![](/images/Untitled_design__3_.png)
 
-* Unit Overall Proficiency Award 
+**Unit Overall Proficiency Award** 
 * The Yuhua NCDCC unit achieved the Distinction standard for the Unit Overall Proficiency Award (UOPA) in 2023.
-
