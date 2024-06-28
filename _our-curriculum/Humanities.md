@@ -28,13 +28,9 @@ The Humanities department infuses inquiry learning with fieldwork and learning j
 
 ### Signature Programme(s)
 
-**Sec 1 Historical Investigation**  
-
-Sec 1 students embarked on their Historical Investigation, where they were required to investigate a given hypothesis. The fieldwork is part of their research and evidence gathering phase. The fieldwork was also facilitated by Sec 3 student docents who took over as nonyas, babas, coolies, opera actresses and immigrants. Students will then consolidate the information and share their findings between classes through visual and verbal presentations.
-
 **Sec 2 Integrated Humanities Fieldwork:**
 
-At Sec 2, students will embark on fieldwork, which revolves around the theme of housing and common spaces. Through this fieldwork, designed through Understanding by Design (UbD) model, students will learn about the concept of Change and Continuity. Students will be required to interview residents, collect necessary data and record their observation. They will then analyse the data based on their findings and answer the guiding questions which they have crafted.
+In 2024, we have merged the Secondary 2 Integrated Humanities Fieldwork with Flourish Week. Through this fieldwork, designed using the Understanding by Design (UbD) model, students visit the Singapore River to answer the question, "How has the Singapore River evolved to meet the needs of a sustainable nation?" At the river, they are introduced to its heritage through engaging activities that immerse them in its sights, sounds, and smells, enhancing their appreciation and understanding of the river's rich history.
 
 **Sec 3 Integrated Humanities Fieldwork:**
 
@@ -42,4 +38,4 @@ Sec 3 Students will also embark on a fieldwork project that ties in the topic of
 
 **Docents Programme**
 
-The Docent Programme is introduced in 2019 as part of nurturing our students to be confident leaders. Through this programme, students acquire the skills and values to guide our young learners through the local fieldwork.
+The Docents Programme, introduced in 2019, aims to nurture our students into confident leaders. Through this programme, students develop 21st-century skills through various activities. Some of the activities undertaken by the docents include webinars, presentations on contemporary issues, facilitation of learning journeys, and participation in Model United Nations. These experiences not only enhance their knowledge and skills but also prepare them to take on leadership roles in the future.
