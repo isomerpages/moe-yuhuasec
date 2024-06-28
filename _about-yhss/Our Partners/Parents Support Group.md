@@ -28,17 +28,12 @@ We look forward to you being part of our Yuhua family.&nbsp; &nbsp;
 
 **Dr Quah Saw Han  
 Advisor of Parent Support Group 2024**
+##### **2024 YHSS PSG EXCO Members**
 
-### **2024 YHSS PSG EXCO Members**
-
-Chairperson
-
+**Chairperson:**
 Mdm Aarti Agarwal
 
-  
-
-Vice Chairperson&nbsp;
-
+**Vice Chairperson&nbsp;**:
 Mdm Lim Hwei Ling
 
   
