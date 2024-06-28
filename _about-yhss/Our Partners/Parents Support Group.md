@@ -30,34 +30,17 @@ We look forward to you being part of our Yuhua family.&nbsp; &nbsp;
 Advisor of Parent Support Group 2024**
 ##### **2024 YHSS PSG EXCO Members**
 
-**Chairperson:**
-Mdm Aarti Agarwal
+**Chairperson:** Mdm Aarti Agarwal
 
-**Vice Chairperson&nbsp;**:
-Mdm Lim Hwei Ling
+**Vice Chairperson&nbsp;**: Mdm Lim Hwei Ling
 
-  
+**Secretary&nbsp;**: Ms Tina Sia
 
-Secretary&nbsp;
+**Events Coordinator:** Mr Gregory Poo
 
-Ms Tina Sia
+**Advisor:** Dr Quah Saw Han&nbsp;
 
-  
-
-Events Coordinator
-
-Mr Gregory Poo
-
-  
-
-Advisor
-
-Dr Quah Saw Han&nbsp;
-
-EXCO Members
-
-Ms Amy Ng
-
+**EXCO Members:** Ms Amy Ng 
 Mdm Thazin Aye
 
 Mdm Josephine Chow
