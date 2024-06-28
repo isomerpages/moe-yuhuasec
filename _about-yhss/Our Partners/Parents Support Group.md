@@ -77,7 +77,7 @@ plus the various school and PSG activities that you can participate in.</p>
 <p>Fill in the form&nbsp;: <a href="https://form.gov.sg/61c8f7732efd780012552976" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <h3>PSG Gallery</h3>
-<p>Career Guidance sharing by parent-support group members</p>
+<h4>Career Guidance sharing by parent-support group members</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce28d6d3_64918.jpg">
 </div>
