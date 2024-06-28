@@ -87,9 +87,9 @@ Fill in the form&nbsp;: [here](https://form.gov.sg/61c8f7732efd780012552976)
 
 ##### Learning Fiesta 
 
-![](/images/f2c7afe8c_64936.jpg)
 
-![](/images/b5cc338df_64937.jpg)
+| ![](/images/f2c7afe8c_64936.jpg) | ![](/images/b5cc338df_64937.jpg) |  |
+| -------- | -------- | -------- |
 
 ##### PSG in action
 
@@ -120,4 +120,3 @@ Fill in the form&nbsp;: [here](https://form.gov.sg/61c8f7732efd780012552976)
 |![](/images/17ea57ee8_64947.jpg)  | ![](/images/307b11ff0_64948.jpg) | |
 | -------- | -------- | -------- |
 |     |      |      |
-
