@@ -5,59 +5,86 @@ description: ""
 third_nav_title: Our Partners
 variant: markdown
 ---
-# **Parents Support Group**
+# Parents Support Group**
 
 ![PSG](/images/MAIN_PHOTO.jpg)
 
 ### Yuhua Secondary School Parent Support Group
 
-“It takes a village to raise a child” – so a common saying goes.&nbsp; Since 2000, the members of Yuhua Secondary School Parent Support Group have been supporting one another, the teachers, and the school leaders, in creating and maintaining a safe and nurturing environment where Yuhuans, our “children”, can flourish as curious and adaptable learners who care for themselves, for others and for the community.  
+**
 
-There is strong friendship among the members – we are proud that many of us are still actively contributing and participating in events like parenting programmes (e.g., talks from the school counsellor, Triple P seminars, etc.), parent-child bonding activities (e.g., Kelong trip, Hort Park visit, Online Parent-Child Bonding Challenge, etc.), and special events at the school (e.g., Camp Melody, Partners’ Appreciation Day, etc.), long after our children have graduated from the school.&nbsp; New members will find warm welcome from existing members, and experience great camaraderie and fabulous food when we have our year-end Family Day celebration and other gatherings.
+Yuhua Secondary School Parent Support Group (PSG)&nbsp;
+
+“It takes a village to raise a child” – so a common saying goes.&nbsp; Since 2000, the members of Yuhua Secondary School Parent Support Group have been supporting one another, the teachers, and the school leaders, in creating and maintaining a safe and nurturing environment where Yuhuans, our “children”, can flourish as curious and adaptable learners who care for themselves, for others and for the community.
+
+There is strong friendship among the members – we are proud that many of us are still actively contributing and participating in events like parenting programmes (talks from the school counsellor, Triple P seminars), parent-child bonding activities (visit to Kok Fah Technology Farm, Parent-Child Bonding Challenge), and special events at the school (Teacher’s Day, Partners’ Appreciation Day), long after our children have graduated from the school.&nbsp; New members will find warm welcome from existing members, and experience great camaraderie and fabulous food when we have our year-end Family Day celebration and other gatherings.
 
 We keep close touch with the teachers and school leaders who update us once a quarter on new initiatives and progress, who also listen patiently and with an open mind on feedback and suggestions from the parents.
 
-  
-
 Join us, for the following:
 
-* Get the latest on school activities and programmes.
-* Get support from other parents as you support your child in his/her learning and development.
-* Get opportunities to learn new skills and knowledge through the various parenting programmes.
-* Get close to your child(ren) through the tips gained from parenting sessions, plus the various school and PSG activities that you can participate in.
-
+*   Get the latest on school activities and programmes.
+    
+*   Get support from other parents as you support your child in his/her learning and development.
+    
+*   Get opportunities to learn new skills and knowledge through the various parenting programmes.
+    
+*   Get close to your child(ren) through the tips gained from parenting sessions, plus the various school and PSG activities that you can participate in.
+    
 We look forward to you being part of our Yuhua family.&nbsp; &nbsp;
 
-**Dr Quah Saw Han**   
-**Advisor of Parent Support Group 2022**
+**Dr Quah Saw Han  
+Advisor of Parent Support Group 2024**
 
-### 2022 YHSS PSG EXCO Members
+### **2024 YHSS PSG EXCO Members**
 
-**Chairperson**  
-• Ms Amy Ng
+Chairperson
 
-<img src="/images/Amy.jpeg" style="width:25%">
+Mdm Aarti Agarwal
 
-**Vice Chairperson**    
-• Mr Lim Tick Hook
+  
 
-<img src="/images/Lim%20Tick%20Hook.jpeg" style="width:25%">
+Vice Chairperson&nbsp;
 
-**Secretary**  
-• Ms Tina Sia
+Mdm Lim Hwei Ling
 
-<img src="/images/Tina.jpeg" style="width:25%">
+  
 
-**Events Coordinator**  
-• Mr Gregory Poo
+Secretary&nbsp;
 
-<img src="/images/Gregory.jpeg" style="width:25%">
+Ms Tina Sia
 
+  
 
-**Advisor**    
-• Dr Quah Saw Han
+Events Coordinator
 
-<img src="/images/Saw%20Han.jpeg" style="width:25%">
+Mr Gregory Poo
+
+  
+
+Advisor
+
+Dr Quah Saw Han&nbsp;
+
+EXCO Members
+
+Ms Amy Ng
+
+Mdm Thazin Aye
+
+Mdm Josephine Chow
+
+Mdm Zarine Khan Wong
+
+Mr Osman Bin Abdullah&nbsp;
+
+SIGN UP FOR PARENT SUPPORT GROUP&nbsp;
+
+Fill in the form here. (Please help to hyperlink the word here to the link below)&nbsp;
+
+[https://form.gov.sg/61c8f7732efd780012552976](https://form.gov.sg/61c8f7732efd780012552976)
+
+**
 
 ### PSG Gallery
 
