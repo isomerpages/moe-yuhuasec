@@ -38,14 +38,15 @@ Advisor of Parent Support Group 2024**
 
 **Events Coordinator:** Mr Gregory Poo
 
-**Advisor:** Dr Quah Saw HanMs Amy Ng 
-Mdm Thazin Aye
+**Advisor:** Dr Quah Saw Han
 
-Mdm Josephine Chow
+**EXCO Members**: 
 
-Mdm Zarine Khan Wong
-
-Mr Osman Bin Abdullah&nbsp;
+* Ms Amy Ng
+* Mdm Thazin Aye
+* Mdm Josephine Chow
+* Mdm Zarine Khan Wong
+* Mr Osman Bin Abdulla
 
 SIGN UP FOR PARENT SUPPORT GROUP&nbsp;
 
@@ -53,7 +54,6 @@ Fill in the form here. (Please help to hyperlink the word here to the link below
 
 [https://form.gov.sg/61c8f7732efd780012552976](https://form.gov.sg/61c8f7732efd780012552976)
 
-**
 
 ### PSG Gallery
 
