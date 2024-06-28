@@ -83,29 +83,7 @@ embody teamwork, discipline and resilience.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>2022: C division Girls</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>West Zone 4th</p>
-</li>
-<li>
-<p>National Top 8</p>
-</li>
-</ul>
-<p></p>
-<p><strong>2022: C division boys</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>West Zone3rd</p>
-</li>
-<li>
-<p>National Top 8</p>
-</li>
-</ul>
-<p></p>
-<p><strong>Competitions (local):</strong> 
+<p><strong>Competitions (local):</strong>
 </p>
 <p>West Zone Inter-Schools Volleyball Competition:</p>
 <p>B division February</p>
