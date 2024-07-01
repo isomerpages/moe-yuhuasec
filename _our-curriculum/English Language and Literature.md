@@ -14,37 +14,27 @@ Language gives life and colour to us because we use it to express ourselves and 
 
 #### Signature Programme(s)
 
-Some of our key programmes include the following: 
+Some of our key programmes include the following:&nbsp;
 
-a. a school-wide Reading and Media Literacy Programme.
+* **School-wide Reading and Media Literacy Programme.**
+* **Self-directed gamified approach to the acquisition of grammar and vocabulary.** To encourage students to learn at their own time and space, the department actively engages students online via&nbsp;in-house learning portals with added gamified elements. For example, students learn about grammar and vocabulary through a series of trainings and missions, which are both competitive and fun.
+* **Annual World Book Day&nbsp; to inculcate interests and increase motivation in the learning of English and English Literature.** The WBD is a week-long festival of activities organised by the Department designed at inculcating interest and love in the language. Activities that were organised this year include the following :
+<br>i. Spelling Bee Competition 
+<br>ii. Characters Come Alive
+<br>iii. Library Thematic Display
+<br>iv. WBD Essay Challenge&nbsp;
 
-b. Self-directed gamified approach to acquiring of grammar training and vocabulary acquisition.
-
-To encourage students to learn at their own time and space, the department actively engages students online via in-house learning portals with added gamified elements. For example, students learn about grammar and vocabulary through a series of trainings and missions, which are both competitive and fun.
-
-c. Annual EL Fest to inculcate interests and increase motivation in the learning of English and English Literature
-This year marks the first EL Fest. The EL Fest is a week-long festival of activities organised by the Department designed at inculcating interest and love in the language. Activities that are organised this year include the following :
-
-i. Spelling Bee Competition   
-ii. Grammar Challenge   
-iii. Enrichment Workshops for Graduating Classes 
-
-As for Literature, the Literature Unit organised the following activities to deepen students’ interest and increase engagement in Literature similarly: 
-
-iv. Blackout Poetry 
-v. Flash Fiction 
-vi. National Schools Literature Festival – Set Text and Unseen Debates 
-
-d. Annual Term Project as Weighted Assessment to inculcate Joy of Learning 
-
-At Yuhua, students do not just go through the usual pen-and-paper test. At every level, students complete a Term Project as one of the Weighted Assessments. These projects aim to develop specific skills in the students.  
-
-Examples of the Term Projects include the following :
-
-i. Ted Talk for Sec 2    
-ii. Analysis of pop songs for Sec 2 Literature     
+* **As for Literature, the Literature Unit organised the following activities to deepen students’ interest and increase&nbsp;engagement in Literature:**&nbsp;
+<br>i. Blackout Poetry&nbsp;
+<br>ii. Flash Fiction&nbsp;
+<br>ii. National Schools Literature Festival – Set Text and Unseen Debates&nbsp;
+* **Annual Term Project as Weighted Assessment to inculcate Joy of Learning.**&nbsp;At Yuhua, students do not just go through the usual pen-and-paper test. At every level, students complete a Term&nbsp;Project as one of the Weighted Assessments. These projects aim to develop specific skills in the students. Examples of the Term Projects include the following :
+<br>i. VLOG for Sec 3  
+ii. Analysis of pop songs for Sec 2 Literature&nbsp;    
 iii. Travel brochure design and feature writing for Sec 3.
 
-![](/images/EL.jpg)
+![](/images/Untitled_design__39_.png)
 
-![](/images/67097737_1107672902766124_2556523405419479040_n.jpg)
+![](/images/05f64892_9e26_4a62_9069_c5ae7a4e313a.jpg)
+
+![](/images/b59410bf_b051_4504_a005_bcfdc3d98bfd.jpg)
