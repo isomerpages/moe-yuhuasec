@@ -6,8 +6,9 @@ third_nav_title: Clubs and Societies
 variant: tiptap
 ---
 <h1><strong>Tinkering and Robotics Club</strong></h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/yhsstrc1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG20240326151311.jpg">
 </div>
 <h3>Background of Robotics Club</h3>
 <p>Yuhua’s Tinkering and Robotic Club strives to provide a platform for students
@@ -60,7 +61,7 @@ of curiosity, respect, responsibility, and adaptability.</p>
 <h3>Gallery:</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__20_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__21_.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
