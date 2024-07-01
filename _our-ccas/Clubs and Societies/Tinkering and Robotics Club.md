@@ -18,47 +18,23 @@ and programmers always work hard to equip themselves with the required
 skills. The club’s members experience various hands-on opportunities to
 design and code to solve real world problems. We aim to nature our members
 to care, connect and contribute effectively. Members will display the values
-of curiosity, respect, responsibility, and adaptability</p>
+of curiosity, respect, responsibility, and adaptability.</p>
+<p></p>
 <h3>Teachers in Charge</h3>
 <p>Mr Sim Lit Sen (OIC)
-<br>Mr Danial Tan Wee Meng
+<br>Mr Daniel Tan Wee Meng
 <br>Ms Muliyahna
 <br>Mr Low Chee Wah</p>
 <h3>Student Leaders</h3>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>President: Javier Enjae Cadiz (3 Flourish)</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice President 1: Raju Deepak (3 Flourish)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice President 2:Muhammad Safwan( 3 Flourish)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>COMM.MEMBER: Siti Aisyah Muhamad(3 Resilience)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>COMM.MEMBER: Murugapandian Usharani Aksitha(3 Contribute)</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p><strong>President</strong>: Javier Enjae Cadiz (3 Flourish)</p>
+<p><strong>Vice President 1</strong>: Raju Deepak (3 Flourish)</p>
+<p><strong>Vice President 2</strong>:Muhammad Safwan( 3 Flourish)</p>
+<p><strong>COMM.MEMBER</strong>: Siti Aisyah Muhamad(3 Resilience)</p>
+<p><strong>COMM.MEMBER</strong>: Murugapandian Usharani Aksitha(3 Contribute)</p>
+<p></p>
+<p></p>
+<p></p>
 <h3>Key Events/ Achievements</h3>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Sec 1 - Lego Mindstorm EV3</p>
@@ -69,119 +45,29 @@ of curiosity, respect, responsibility, and adaptability</p>
 <li>
 <p>Sec 3 - IOT Coding on Microbit using Javascript and/or Python</p>
 </li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
 <li>
-<p>MakeX Spark Online Competition- Singapore (19 Sept 2022) – OVERALL TEAM
-CHAMPION (INTERMEDIDATE)</p>
+<p>2nd place in the Make X Robotic Competition Singapore 2023 (25 Aug 2023)</p>
 </li>
 <li>
-<p>MakeX Spark Online Competition- Singapore (19 Sept 2022) -Yound Designer
-award and Young Innovator Award</p>
+<p>Make X Robotic Competition Singapore 2023-Best Engineering Notebook Award
+(25 Aug 2023)</p>
 </li>
 </ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Participation:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>NRC WRO® Robo Mission (Regular) 2022 (7 Sept 2022)</p>
-</li>
-<li>
-<p>Tech for Good 2022 (1 Oct 2022)**</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
+<p><strong>Participation</strong>:</p>
+<p>Make X Robotic Competition Singapore 2023 (25 Aug 2023)</p>
+<p>Maze Master: Robotic Mouse Competition (21 Oct 2023)</p>
+<p></p>
 <h3>Gallery:</h3>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yhsstrc11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__20_.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yhsstrc3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__19_.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yhsstrc12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__18_.png">
 </div>
-</th>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yhsstrc5.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yhsstrc6.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yhsstrc8.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yhsstrc10.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yhsstrc2.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yhsstrc4.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yhsstrc7.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yhsstrc9.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
