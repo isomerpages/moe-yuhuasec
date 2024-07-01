@@ -26,3 +26,9 @@ Through the learning process, students cultivate creative, critical and reflecti
 4.&nbsp; &nbsp; &nbsp;Intergeneration Learning Programme Working with agencies such as National Silver Academy, students share their nutrition knowledge with seniors and exchange culinary tips where both seniors and students learn from each other on food nutrition, culinary skills and, food heritage and culture.&nbsp; &nbsp;
 
 5.&nbsp; &nbsp; &nbsp;Industrial Mentorship Programme Working with agencies such as the Singapore Science Centre, students with a strong disposition in electronics and robotics will be attached to an industrial mentor where they work together to develop smart projects that serve the community.
+
+![](/images/Untitled_design__34_.png)
+
+![](/images/Untitled_design__35_.png)
+
+![](/images/Untitled_design__36_.png)

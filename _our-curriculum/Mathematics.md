@@ -42,20 +42,53 @@ ACCURATE:<br>Students can derive correct and feasible solutions, checking their 
 ### PARTICIPATION AND ACHIEVEMENTS
 
 **PEER COACH TRAINING**<br>
+Math peer coaching is a collaborative learning approach where students work together to enhance their understanding of mathematical concepts. This method involves more experienced or knowledgeable students assisting their peers in tackling challenging problems, clarifying doubts, and developing effective study strategies. Peer coaching in math is useful because it fosters a supportive learning environment, encourages active engagement, and builds confidence among students. By explaining concepts to others, peer coaches reinforce their own understanding, while learners benefit from personalized guidance and diverse perspectives, ultimately leading to improved academic performance and a stronger grasp of mathematical principles.
 
-|![]/images/Math%20Dept/math%20trained%20peer%20coaches%202021.jpg)|![](/images/Math%20Dept/math%20trained%20peer%20coaches%202022.jpg)|
-| -------- | -------- |
+##### **ALL SECONDARY SINGAPORE MATHEMATICS COMPETITION 2023:** <br>
+**Certification of Participation**
+<br>4NA: 
+Ho Jun Jie – 4 Adaptability
+<br>Richard Chen Fu Hai – 4 Respect
+<br>Nimer Lance Jeren Jara – 4 Responsibility
+![](/images/ASSMC_Award_2023__4NA_.jpg)
 
-##### **ALL SECONDARY SINGAPORE MATHEMATICS COMPETITION 2022:** <br>
-![](/images/Math%20Dept/2022%20asmc_upper%20sec.jpeg)**5th Place In Upper Secondary N(T) Category**: <br>Liew Yu Heng (401) 
-Participation Upper Secondary: Cheng Kei Win (401), Mohamed Nor Sharizam Bin Muhamad Sharikin (401), Soo Tse Siang (404), <br>Tay Weide Xavier (404), Lee Yong Le Ethan (404)
-![](/images/Math%20Dept/2022%20asmc_lower%20sec.jpeg)**Participation Lower Secondary:** <br>Choon Kah Ning (202), Mohamad Rayyan Hambali Bin Mohamad Umar (203), Anderz Lan Jun Rong (203), Janice Lee Siew Hui (201), Tank Yuk Xuan (201),<br>Teo Zhi Rong (201)<br>
-##### **Singapore International Mathematical And Computational Challenge 2022 Participation:**<br>
-Chen Jeun Wei (308), Chua Chee Yang (308), Rishivandh (308)
+4NT: 
+<br>KOH KE XIN - 4 Curiosity
+<br>NUR MUHAMAD SYAFIQ BIN MAZLAN - 4 Curiosity
+
+![](/images/ASSMC_Award_2023__4NT_.jpg)
+
+##### **SINGAPORE MATHEMATICAL OLYMPIAD 2023**<br>
+**Certificate of Participation**
+
+HAN HANAQI BIN HAMRAN - 4 Connect
+<br>YAU DE YANG DAYAN - 4 Connect
+<br>JORDAN YAM JIE MING - 4 Contribute
+<br>TING MAN EN - 3 Contribute
+<br>ARYA TALESARA - 3 Contribute
+<br>CHAI JUN HAO - 3 Contribute
+<br>CHLOE LIM XIN HUI - 3 Contribute
+<br>GOVINDARAJU VAISHNAVA PRIYAN - 3 Connect
+<br>MUHAMMAD MIKHAIL BIN MOHAMMAD FIRHAN - 3 Connect
+
+![](/images/SMO_2023_Awards.jpg)
+
+##### **YUHUA MATH MODELLING CHALLENGE 2023**<br>
+
+**Team Champions (2 Normal Stream)**
+<br>2 Curiosity - GERLIN HO HUI WEN, LEONG QI EN JOWIN, PUTERI HAZ DIYANAH, TEO NING NI
+<br>2 Adaptability - CHEN YI HAO, QIU BINNI, ARIQ DANIYAL
+<br>2 Respect - JAYDEN TEO XU KAI, HAU QI XUAN, TAN XI HUI
+<br>2 Responsibility - GREGG SIAH, ONG MINRU, FREDDY HO ZHAN HUI
+
+**Team Champions (2 Express)**
+<br>2 Contribute - RAGHURAM SENTHIL KUMAR, STEVE SOE WAI YAN HTET, MUTHUKKUMARAN ANURADHA MAHESH, MAO YUXI
+
+![](/images/Untitled_design__29_.png)
+
+![](/images/YMMC_2023_Awards.jpg)
+
 ##### ELEMENTS OF BUSINESS SKILLS
-Students were immersed in a world of hospitality excellence at JW Marriot Hotel as they toured the hotel’s luxurious amenities. The staff warmly welcomed the teachers and students, providing them with first hand insights about customer service and hotel operations. This experience enabled students to broaden their understanding of business management and relate their learning to real life.
+Students were immersed in a world of hospitality excellence at JW Marriot Hotel as they toured the hotel’s luxurious amenities. The staff warmly welcomed the teachers and students, providing them with first hand insights about customer service and hotel operations. This experience enabled students to broaden their understanding of business management and relate their learning to real life. This year, we brought the students for Duck Tour (tourist attraction) &amp; a trip to Suntec City to look at the different retail &amp; F&amp;B outlets to further enhance their learning experience.
 
-
-||    |
-| -------- |-------- | 
-|![](/images/Math%20Dept/ebs%20lj%20_1.JPG)![](/images/Math%20Dept/ebs%20lj_4.JPG)|![](/images/Math%20Dept/ebs%20lj_3.JPG)![](/images/Math%20Dept/ebs%20lj_2.JPG)|
+![](/images/Untitled_design__30_.png)

@@ -6,11 +6,11 @@ third_nav_title: Physical Sports
 variant: markdown
 ---
 # **Football**
-<img src="/images/football2.jpg" style="width:70%">
+![](/images/Website_Refresh_2024_Football_1.jpg)
 
 ### Background
 
-Formed in 2019, the Yuhua Football Team has developed a strong sense of camaraderie and team spirit. In addition to their participation in the ‘B’ and ‘C’ Division National School Games, friendly games are organised regularly to maintain students’ engagement.&nbsp;
+Formed in 2019, the Yuhua Football Team has developed a strong sense of camaraderie and team spirit. In addition to their participation in the ‘B’ and ‘C’ Division National School Games, friendly games are organised regularly to maintain students’ engagement. 
 
 Our team of teachers and coaches is committed to support the students in their passion for football in alignment with the development of their character and sportsmanship.
 
@@ -20,12 +20,14 @@ Our team of teachers and coaches is committed to support the students in their p
 Ms Bo Yiting (OIC)<br>
 Mr Muhammad Shukri Shuhaimi (2IC)<br>
 Mr Tam Alan&nbsp;<br>
-Mr Liew Shang Zhi<br>
-Mr Shukri Shuhaimi
+Mr Foo Gui Zhong<br>
+
 
 **Student Leaders:**&nbsp;<br>
-**Team Captain:** Muhammad Izz Danial Bin Muhammad Fadhlin (3 Adaptability)<br>
-**Team Vice-Captain:** Muhammad Khalaf Bin Mohamed Abdul Jalil (2 Curiosity)
+**B Division Captain:** Muhammad Khalaf Bin Mohamed Abdul Jalil <br>
+**C Division Captain:** Yatishraja s/o Meganathan<br>
+**C Division Captain:** Mohammad Danial Alfian Bin Mohammad Sufian
+
 
 ### Key Programmes
 
@@ -36,11 +38,9 @@ Mr Shukri Shuhaimi
 
 ### Achievements
 
-**2019** Participation in National School Games B Division Competition - First Placing in league 5 preliminary round 
+**2023** B Division National School Games (League 4) - Top 8**<br>
+**2023** C Division National School Games (League 5) - 3rd Placing**
 
-**2020** Participation in National School Games B Division Competition - League 4 
+![](/images/Website_Refresh_2024_Football_2.jpg)
 
-**2023** B Division National School Games (League 4) - Top 8**
-
-<img src="/images/football1.jpg" style="width:60%">
-<img src="/images/football3.jpg" style="width:60%">
+![](/images/Website_Refresh_2024_Football_3.jpg)

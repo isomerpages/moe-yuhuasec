@@ -25,9 +25,6 @@ components:</p>
 <p>Values Education</p>
 </li>
 <li>
-<p>Values of the Month (VOM)</p>
-</li>
-<li>
 <p>Values in Action (VIA)</p>
 </li>
 <li>
@@ -49,16 +46,20 @@ components:</p>
 <p>Student Leadership</p>
 </li>
 </ul>
-<p>Other key programmes include Values in Action (VIA) projects, National
-Education (NE) programmes, Cyber Wellness Carnival, Education and Career
-Guidance (ECG) Institutes of Higher Learning (IHL) Fair, Alumni Talks and
-Elective Modules (EM)/ Advanced Elective Modules (AEM).</p>
-<p>Industry Partners / Alumni Talks (during Flourish week):</p>
+<p>Other key programmes include Student Initiated Learning via Values in
+Action (SILVIA) projects, National Education (NE) programmes, Alumni Talks
+and Applied Learning Modules at Schools (ApLM@Schools).</p>
+<p></p>
+<p><strong>Industry Partners / Alumni Talks (during Flourish week):</strong>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2abc.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__31_.png">
 </div>
-<p>ApLM@Schools:</p>
+<p><strong>ApLM@Schools:</strong>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/4abc.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__32_.png">
 </div>
 <p></p>

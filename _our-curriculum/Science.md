@@ -11,7 +11,8 @@ variant: markdown
 																												 
 ### Department Introduction
 
-The Yuhua Science Department comprises of 14 dedicated and caring Science teachers, as well as 3 lab technicians.
+The Yuhua Science Department comprises of 15 dedicated and caring Science teachers, as well as STEM instructors (Laboratory).
+
 
 ![](/images/Science%201.jpg)
 
@@ -62,12 +63,10 @@ In 2019, some of the activities for Math-nifi-Science week included:
 
 The Science department also regularly sends students for Science-related competitions, to provide additional exposure to content taught beyond the classroom.&nbsp;
 
-The following is a list of the competitions that the students have participated recently:
+The following is a list of the competitions that the students have participated in recently:
 
-* Ignite Skills Challenge 2021 (Dancing Drone Challenge – Finalist)  
-* I am a Young Sustainability Champion (8 students made it to round 2 of the competition)
-* Chemistry Olympiad 2021
-* Singapore Physics League 2021
-* Biology Olympiad 2021
-* 10th International Biomedical Quiz 2021&nbsp;
-* National Science Challenge 2020
+* STEM Challenge
+* Ignite Skills Challenge 2024
+* Chemistry Olympiad 2024
+* Singapore Physics League 2024
+* Biology Olympiad 2024

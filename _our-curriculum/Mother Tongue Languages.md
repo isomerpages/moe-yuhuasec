@@ -14,50 +14,54 @@ variant: markdown
 
 Mother Tongue Languages (MTL) Department aims to nurture our students to be keen learners, competent users of their mother tongue languages as well as individual who are morally upright.
 
-The department expose students to the beauty and moral values of their MTL through classroom teaching and enrichment programmes, which allow our students to use their MTL as a living language effectively beyond the classroom settings. To further enthuse students in learning and using their MTL as well as to inculcate values, platforms and opportunities such as MTL Fortnight, language camps and participation in cluster/ zonal/ national competitions or activities will be provided to encourage students to use their MTL and appreciate the culture and values associated with it.
+The department exposes students to the beauty and moral values of their MTL through classroom teaching and enrichment programmes, which allow our students to use their MTL as a living language effectively beyond the classroom settings. To further enthuse students in learning and using their MTL as well as to inculcate values, platforms and opportunities such as Overseas Immersion Programme, MTL Fortnight, language camps and part are provided to encourage students to use their MTL and appreciate the culture and values associated with it.
+
 
 ### Signature Programme(s)
 
 **Conversational Chinese/Malay Programme**  
 
-The aims of the Conversational Chinese Language (CL)/Malay Language (ML) programme are:&nbsp;
+The aims of the Conversational Chinese Language (CL)/Malay Language (ML) programme are: 
 
-1.  To strengthen Singapore’s multiracial compact and engender multiculturalism through an active and inclusive approach
-2.  To develop in students keener interest in one another’s culture from a young age
-3.  To enable students to have some grounding of functional CL/ML so that they could more easily pick up the language should they need it for economic or other reasons in adult life.
+1. To strengthen Singapore’s multiracial compact and engender multiculturalism through an active and inclusive approach
+2. To develop in students keener interest in one another’s culture from a young age
+3. To enable students to have some grounding of functional CL/ML so that they could more easily pick up the language should they need it for economic or other reasons in adult life.
 
-Under this programme, the department aims to provide a variety of learning experiences such for students to build a basic understanding of the language and the associated culture.&nbsp;
+Under this programme, the department aims to provide a variety of learning experiences such for students to build a basic understanding of the language and the associated culture. 
 
 Upon completion of the programme, students should be able to:
 
-1.  Communicate in their non-mother tongue language in everyday situations using simple phrases and sentences
-2.  Develop cross-cultural appreciation and build stronger cross-ethnic relationships
-<img src="/images/MTL%201.png" style="width:50%">
-<img src="/images/MTL%202.png" style="width:50%">
-<img src="/images/MTL%204.png" style="width:50%">
-<img src="/images/MTL%205.png" style="width:50%">
-<img src="/images/MTL%206.png" style="width:50%">
+1. Communicate in their non-mother tongue language in everyday situations using simple phrases and sentences
+2. Develop cross-cultural appreciation and build stronger cross-ethnic relationships
 
-**Sharing at Malay Language Seminar 2022**
+![](/images/Untitled_design__25_.png)
 
-<img src="/images/PHOTO-2022-04-04-14-50-54.jpg" style="width:50%">
-<img src="/images/IMG-20220315-WA0009%202.jpg" style="width:50%">
-<img src="/images/IMG-20220315-WA0019%202.jpg" style="width:50%">
+**Melayuhua Drama Production**
+![](/images/Untitled_design__26_.png)
 
-Every year, the Malay Language Centre of Singapore (MLCS) and the&nbsp;Academy of Singapore Teachers,&nbsp;organises the annual Malay Language Seminar. This year, Yuhua Secondary School’s &nbsp;Malay Language Unit was honoured to be selected to share their PLT findings at the 2022 Malay Language&nbsp;Seminar.
+As part of enriching students’ acquisition of Malay language, Yuhua Secondary Malay language unit, exposes students to literary text as part of its ApT Reader Programme (Appreciate and Transform). Students not only read and appreciate the texts provided, but they also expand their understanding of the text by producing song, poetry, drawing or skit. In encouraging the authentic use of the Malay language and as an extension of the ApT Reader programme, the unit further organises the biennial Melayuhua Drama production. Melayuhua drama production acts as an experiential and immersive platform in cultivating communication and collaborative skills. Students engaged in language and cultural exploration through creative expression. Through interactive sessions with peers and support from teachers, students are empowered to embrace linguistic challenges with confidence, contributing to their overall development as resilient and adaptable individuals. By showcasing students’ talent through Melayuhua drama production, it not only enriches the learning experience of  Malay language and culture but also  integrates 21st Century Competencies of communication, collaboration and instilling confidence in students. 
 
-The theme of year’s seminar is&nbsp;The Arif Budiman Vision: Weaving the Excellence of Teaching and Learning of Malay Language and Culture in the Universe of Life (_Visi Arif Budiman: Menyulam Kecemerlangan PdP Bahasa dan Kebudayaan Melayu di Tengah Angkasaraya Kehidupan)._
+**CL Unit- Cultural Immersion Programme to Wuxi and Shanghai** 
+![](/images/Untitled_design__27_.png)
 
-The objectives of the seminar are as follows:
+In 2022, our school signed a Memorandum of Understanding (MOU) with Jiangnan New City Experimental Middle School in Wuxi, China. This MOU commits us to a close partnership in three key areas:
+* Establishing exchange programmes for students
+* Developing a wide spectrum of exchange activities for school leaders and teachers
+* Collaborating on the teaching and learning of specific subject areas
 
-a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To enhance teachers’ knowledge to plan and carry out effective Malay language teaching and learning;  
+A virtual exchange between our Chinese Language students and their counterparts at Jiangnan New City Experimental Middle School took place in May 2023. Though conducted online, this exchange enhanced the students' understanding of each other's geographical environment, historical culture, and social customs.
+ 
+The actual travel exchange took place from May 28 to June 1, 2024. This trip offered our Secondary Three students a wonderful opportunity to gain valuable cultural experiences and broaden their global perspectives. In addition to visiting our Twinning School, Jiangnan New City Experimental Middle School and learning alongside its students, our students explored various historical and cultural sites in Wuxi and Shanghai. We believe this trip was not only educational but also a memorable and enriching experience for the students.
 
-b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To enhance teachers’ professional development in conducting school-based research; and
+**TL Unit: Strengthening of Language and Culture 
+‘Naanum Oru Padaippaali’ Programme 2023**
 
-c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To provide platform for teachers to share their research findings and best practices.
+![](/images/Untitled_design__28_.png)
 
-Mr Muhammad Shukri and Mdm Noorlinda Abdullah who were the school presenters, confidently shared on the application of CSI Planning method as well as ABC Dialogue in strengthening student narrative writing. The ML unit’s research has the objective of strengthening students' understanding of question and writing abilities in the 2 main domains of writing namely – effective planning and dialogue.
+(Budding Writers’ and Budding Artistes’ Programme in Tamil Language for Students in Secondary Schools)
 
-CSI planning and ABC Dialogue are applied to help students establish their clarity of thoughts in planning before starting the process of writing a narrative essay. This process can help increase students’ confidence in writing narrative essays. Embroidering the theory of Locus of Control in this process allows students to apply certain parts in improving the quality of their writing. This technique is expected to strengthen students' writing and help them master the 2 main domains of writing.
+Mother Tongue Languages Branch (MTLB) of Curriculum Planning &amp; Development Division 1, MOE’s Tamil unit had conducted a series of workshops for secondary school &amp; JC students who were involved in the Budding Writers’, Budding Artistes’, and Budding Poets in the `Naanum Oru Padaippaali’ Programme 2023.
 
-Participants who attended our presentation were impressed and gave positive feedback on the effectiveness of the writing method. The Malay Language unit is definitely looking forward to present their upcoming teaching and learning practices in future Malay Language Seminar.
+The main objective of this programme is to harness the synergy across community partners and agencies to nurture the passion in students for creating local literary works of quality and to ensure a continued pipeline of local writers. To meet the objective, workshops were conducted to develop students’ skills on the fundamentals of short story writing, scriptwriting and poetry writing.
+
+Upon completion of the workshops this year, our students submitted their creative work to local writers and scriptwriters. Based on the quality and effort of the creative works submitted by the students,  our  students’ creative works have selected and they were awarded during   ‘Vetri Vizha’ Prize Presentation Ceremony organised by  Mother Tongue Languages Branch (MTLB) of Curriculum Planning &amp; Development Division 1, MOE’s Tamil language unit.
