@@ -20,39 +20,17 @@ be good individuals and useful citizens.</p>
 <h3>Signature Programme(s)</h3>
 <p>The customised CCE curriculum in YHSS that comprises of the following
 components:</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>Values Education</p>
-</li>
-<li>
-<p>Values of the Month (VOM)</p>
-</li>
-<li>
 <p>Values in Action (VIA)</p>
-</li>
-<li>
 <p>National Education (NE)</p>
-</li>
-<li>
 <p>Cyber Wellness</p>
-</li>
-<li>
 <p>Education and Career Guidance (ECG)</p>
-</li>
-<li>
 <p>Sexuality Education (SEd)</p>
-</li>
-<li>
 <p>Social Skills</p>
-</li>
-<li>
 <p>Student Leadership</p>
-</li>
-</ul>
-<p>Other key programmes include Values in Action (VIA) projects, National
-Education (NE) programmes, Cyber Wellness Carnival, Education and Career
-Guidance (ECG) Institutes of Higher Learning (IHL) Fair, Alumni Talks and
-Elective Modules (EM)/ Advanced Elective Modules (AEM).</p>
+<p>Other key programmes include Student Initiated Learning via Values in
+Action (SILVIA) projects, National Education (NE)programmes, Alumni Talks
+and Applied Learning Modules at Schools (ApLM@Schools).</p>
 <p>Industry Partners / Alumni Talks (during Flourish week):</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2abc.jpg">
