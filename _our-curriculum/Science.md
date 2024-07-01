@@ -63,7 +63,7 @@ In 2019, some of the activities for Math-nifi-Science week included:
 
 The Science department also regularly sends students for Science-related competitions, to provide additional exposure to content taught beyond the classroom.&nbsp;
 
-The following is a list of the competitions that the students have participated recently:
+The following is a list of the competitions that the students have participated in recently:
 
 * STEM Challenge
 * Ignite Skills Challenge 2024
