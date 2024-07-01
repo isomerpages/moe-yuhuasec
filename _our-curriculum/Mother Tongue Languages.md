@@ -64,8 +64,4 @@ Mother Tongue Languages Branch (MTLB) of Curriculum Planning &amp; Development D
 
 The main objective of this programme is to harness the synergy across community partners and agencies to nurture the passion in students for creating local literary works of quality and to ensure a continued pipeline of local writers. To meet the objective, workshops were conducted to develop students’ skills on the fundamentals of short story writing, scriptwriting and poetry writing.
 
-Upon completion of the workshops this year, our students submitted their creative work to local writers and scriptwriters. Based on the quality and effort of the creative works submitted by the students,  our  students’ creative works have selected and they were awarded during   ‘Vetri Vizha’ Prize Presentation Ceremony organised by  Mother Tongue Languages Branch (MTLB) of Curriculum Planning &amp; Development Division 1, MOE’s Tamil language unit. 
-
-
-
-
+Upon completion of the workshops this year, our students submitted their creative work to local writers and scriptwriters. Based on the quality and effort of the creative works submitted by the students,  our  students’ creative works have selected and they were awarded during   ‘Vetri Vizha’ Prize Presentation Ceremony organised by  Mother Tongue Languages Branch (MTLB) of Curriculum Planning &amp; Development Division 1, MOE’s Tamil language unit.
