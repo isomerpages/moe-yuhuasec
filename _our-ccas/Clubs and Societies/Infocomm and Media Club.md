@@ -22,10 +22,11 @@ Additionally, they can further enhance their competencies in these areas
 through in-house training sessions by “new media”, participation in national
 competitions, and providing audio-visual support for school events.</p>
 <h3>Teachers in Charge</h3>
-<p>&nbsp; Mr Dolly Yansen
-<br>&nbsp; Ms Quek Poh Noi
-<br>&nbsp; Ms Shahidah Bte Safii
-<br>&nbsp; Mdm Lalitha</p>
+<p>Ms Quek Poh Noi</p>
+<p>Ms Shahidah Bte Safii</p>
+<p>Mdm Lalitha</p>
+<p>Ms Arfah Lubis</p>
+<p></p>
 <h3>Student Leaders</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -38,6 +39,11 @@ competitions, and providing audio-visual support for school events.</p>
 <p><strong>Vice-President</strong>: Ong Jun Hong Frederick</p>
 </li>
 </ul>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_members.jpg">
+</div>
 <h3>Key Events/Achievements</h3>
 <p><strong>Daily P.A. System duty for Morning Assembly</strong>
 </p>
@@ -50,14 +56,18 @@ competitions, and providing audio-visual support for school events.</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/infocom1.png">
 </div>
-<p><strong>Infocom-members and their products</strong>:</p>
+<p><strong>Students’ learning outcome:</strong>
+</p>
+<p><u>Perspective Drawings:</u>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/infocom7.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__22_.png">
 </div>
+<p><u>Vertical Symmetry:</u>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/infocom%20work.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/infocom%20members.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__23_.png">
 </div>
 <p></p>
