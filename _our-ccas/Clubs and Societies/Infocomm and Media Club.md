@@ -22,11 +22,20 @@ Additionally, they can further enhance their competencies in these areas
 through in-house training sessions by “new media”, participation in national
 competitions, and providing audio-visual support for school events.</p>
 <h3>Teachers in Charge</h3>
+<ul data-tight="true" class="tight">
+<li>
 <p>Ms Quek Poh Noi</p>
+</li>
+<li>
 <p>Ms Shahidah Bte Safii</p>
+</li>
+<li>
 <p>Mdm Lalitha</p>
+</li>
+<li>
 <p>Ms Arfah Lubis</p>
-<p></p>
+</li>
+</ul>
 <h3>Student Leaders</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -39,8 +48,6 @@ competitions, and providing audio-visual support for school events.</p>
 <p><strong>Vice-President</strong>: Ong Jun Hong Frederick</p>
 </li>
 </ul>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_members.jpg">
 </div>
@@ -56,17 +63,15 @@ competitions, and providing audio-visual support for school events.</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/infocom1.png">
 </div>
-<p><strong>Students’ learning outcome:</strong>
+<p><strong>Students’ learning outcome: </strong>
 </p>
 <p><u>Perspective Drawings:</u>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__22_.png">
 </div>
 <p><u>Vertical Symmetry:</u>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__23_.png">
 </div>
