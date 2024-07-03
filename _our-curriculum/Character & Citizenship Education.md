@@ -58,7 +58,6 @@ and Applied Learning Modules at Schools (ApLM@Schools).</p>
 </div>
 <p><strong>ApLM@Schools:</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__32_.png">
 </div>
