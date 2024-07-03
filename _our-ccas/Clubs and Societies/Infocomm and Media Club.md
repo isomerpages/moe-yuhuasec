@@ -63,7 +63,7 @@ competitions, and providing audio-visual support for school events.</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/infocom1.png">
 </div>
-<p><strong>Students’ learning outcome: </strong>
+<p><strong>Students’ learning outcome:</strong>
 </p>
 <p><u>Perspective Drawings:</u>
 </p>
