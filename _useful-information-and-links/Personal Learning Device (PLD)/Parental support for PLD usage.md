@@ -11,7 +11,7 @@ variant: tiptap
 you can refer to these two handbooks.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I on Learning with a PLD.pdf</a>
+<p><a href="/files/Parent Handbook I on Learning with a PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook I on Learning with a PLD.pdf</a>
 </p>
 </li>
 <li>
