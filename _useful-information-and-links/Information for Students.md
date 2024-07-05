@@ -2,97 +2,57 @@
 title: Information for Students
 permalink: /useful-information-and-links/information-for-students/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# **Information for Students**
-
-
-### Semester 2 Timetable
-----------------------
-Dear students,  
-You may access the Semester 2 timetable for 2024 below.
-
-[Secondary 1](/files/2024_Sem_2_TT_Sec_1_for_upload.pdf)
-
-[Secondary 2](/files/2024_Sem_2_TT_Sec_2_for_upload.pdf)
-
-[Secondary 3](/files/2024_Sem_2_TT_Sec_3_for_upload.pdf)
-
-[Secondary 4 &amp; 5](/files/2024_Sem_2_TT_Sec_4_and_5_for_upload.pdf)
-
-
-### Semester 1 Timetable
-----------------------
-Dear students,  
-You may access the Semester 1 timetable for 2024 below.
-
-[Secondary 1](/files/2024_Sem_1_TT_Sec_1_4_Jan.pdf)
-
-[Secondary 2](/files/2024_Sem_1_TT_Sec_2_4_Jan.pdf)
-
-[Secondary 3](/files/2024_Sem_1_TT_Sec_3_4_Jan.pdf)
-
-[Secondary 4 &amp; 5](/files/2024_Sem_1_TT_Sec_45_4_Jan.pdf)
-
-
-### Term 1 Letter for 2024
-
-Dear students, you may access the Term 1 Letter for 2024 [here](/files/YHSS_2024_Term_1_Letter__29122023_.pdf).
-
-
-### Student Handbook
-
-Dear students, you may access the [YHSS Student Handbook](https://sites.google.com/moe.edu.sg/yhss-handbook-site/home?pli=1) for information on the expectations for attire, academic matters and co-curricular matters.
-
-
-### School Photos
--------------
-You may access the school photos at this&nbsp;[album](https://www.flickr.com/photos/197130688@N02/albums).
-
-### Student HBL Site
-
-Click&nbsp;[here](https://sites.google.com/moe.edu.sg/yhss-hbl).
-
-### Baseline ICT Lessons
-
-Click&nbsp;[here](https://sites.google.com/moe.edu.sg/yhss-hbl/help-for-students/sec-1-baseline-ict-lesson?authuser=0).
-
-### Blended Learning Materials
-
-[Study Skills](https://drive.google.com/file/d/1uRhBRpI0PIMAJQjML8LEjA5YD6-COw3N/view)&nbsp;package for Lower Secondary  
-[Study Skills](https://drive.google.com/file/d/1VX8cX2p0cP0yrIjCoU7slUJk73KGhcBk/view)&nbsp;package for Upper Secondary&nbsp;  
-
-
-### Singapore Student Learning Space
-
-<div>
-<div style="float: left">
-<a href="https://vle.learning.moe.edu.sg/login">
-<img src="/images/SLSlogo.jpg" style="width:100%">
-</a> Click on the Student Learning Space Logo to login.
-	</div>
-</div> 
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-### My Skills Future Portal
-
-<div>
-<div style="float: left">
-<a href="https://www.myskillsfuture.sg/content/student/en/secondary.html">
-<img src="/images/MySkillsFuture.jpg" style="width:50%">
-</a> Click on the My Skills Future Logo<br>  
-For informed choices in education and career guidance and life long learning through the use of career-related tools and information.
-	</div>
+<h1><strong>Information for Students</strong></h1>
+<h3>Semester 2 Timetable</h3>
+<hr>
+<p>Dear students,
+<br>You may access the Semester 2 timetable for 2024 below.</p>
+<p><a href="/files/2024_Sem_2_TT_Sec_1_for_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
+</p>
+<p><a href="/files/2024_Sem_2_TT_Sec_2_for_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
+</p>
+<p><a href="/files/2024_Sem_2_TT_Sec_3_for_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+</p>
+<p><a href="/files/2024_Sem_2_TT_Sec_4_and_5_for_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5</a>
+</p>
+<h3>Semester 1 Timetable</h3>
+<hr>
+<p>Dear students,
+<br>You may access the Semester 1 timetable for 2024 below.</p>
+<p><a href="/files/2024_Sem_1_TT_Sec_1_4_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
+</p>
+<p><a href="/files/2024_Sem_1_TT_Sec_2_4_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
+</p>
+<p><a href="/files/2024_Sem_1_TT_Sec_3_4_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+</p>
+<p><a href="/files/2024_Sem_1_TT_Sec_45_4_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5</a>
+</p>
+<h3>Term 1 Letter for 2024</h3>
+<p>Dear students, you may access the Term 1 Letter for 2024 <a href="/files/YHSS_2024_Term_1_Letter__29122023_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h3>Student Handbook</h3>
+<p>Dear students, you may access the <a href="https://sites.google.com/moe.edu.sg/yhss-handbook-site/home?pli=1" rel="noopener noreferrer nofollow" target="_blank">YHSS Student Handbook</a> for
+information on the expectations for attire, academic matters and co-curricular
+matters.</p>
+<h3>School Photos</h3>
+<hr>
+<p>You may access the school photos at this&nbsp;<a href="https://www.flickr.com/photos/197130688@N02/albums" rel="noopener noreferrer nofollow" target="_blank">album</a>.</p>
+<h3>Student HBL Site</h3>
+<p>Click&nbsp;<a href="https://sites.google.com/moe.edu.sg/yhss-hbl" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h3>Baseline ICT Lessons</h3>
+<p>Click&nbsp;<a href="https://sites.google.com/moe.edu.sg/yhss-hbl/help-for-students/sec-1-baseline-ict-lesson?authuser=0" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h3>Blended Learning Materials</h3>
+<p><a href="https://drive.google.com/file/d/1uRhBRpI0PIMAJQjML8LEjA5YD6-COw3N/view" rel="noopener noreferrer nofollow" target="_blank">Study Skills</a>&nbsp;package
+for Lower Secondary
+<br><a href="https://drive.google.com/file/d/1VX8cX2p0cP0yrIjCoU7slUJk73KGhcBk/view" rel="noopener noreferrer nofollow" target="_blank">Study Skills</a>&nbsp;package
+for Upper Secondary&nbsp;</p>
+<h3>Singapore Student Learning Space</h3>
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/SLSlogo.jpg">
 </div>
-
+<p>Click on the Student Learning Space Logo to login.</p>
+<p>
 <br>
 <br>
 <br>
@@ -100,3 +60,20 @@ For informed choices in education and career guidance and life long learning thr
 <br>
 <br>
 <br>
+</p>
+<h3>My Skills Future Portal</h3>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/MySkillsFuture.jpg">
+</div>
+<p>Click on the My Skills Future Logo
+<br>For informed choices in education and career guidance and life long learning
+through the use of career-related tools and information.</p>
+<p>
+<br><strong>School Library books  SPYDUS Catalogue: </strong>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</p>
