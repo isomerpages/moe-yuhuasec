@@ -36,15 +36,6 @@ for Upper Secondary&nbsp;</p>
 <img style="width:100%" height="auto" width="100%" src="/images/SLSlogo.jpg">
 </div>
 <p>Click on the Student Learning Space Logo to login.</p>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
 <h3>My Skills Future Portal</h3>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/MySkillsFuture.jpg">
@@ -52,12 +43,5 @@ for Upper Secondary&nbsp;</p>
 <p>Click on the My Skills Future Logo
 <br>For informed choices in education and career guidance and life long learning
 through the use of career-related tools and information.</p>
-<p>
-<br><strong>School Library books SPYDUS Catalogue: </strong>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
+<h4><br><strong>School Library books SPYDUS Catalogue: </strong><br><br><br><br><br><br></h4>
+<p></p>
