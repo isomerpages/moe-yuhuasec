@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Semester 2 Timetable</h3>
 <p>Dear students,
 <br>You may access the Semester 2 timetable for 2024 below.</p>
-<p><a href="/files/2024_Sem_2_TT_Sec_1_for_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 </a>
+<p><a href="/files/2024_Sem_2_TT_Sec_1_for_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
 </p>
 <p><a href="/files/2024_Sem_2_TT_Sec_2_for_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
 </p>
