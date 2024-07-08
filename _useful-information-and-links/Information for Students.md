@@ -43,5 +43,12 @@ for Upper Secondary&nbsp;</p>
 <p>Click on the My Skills Future Logo
 <br>For informed choices in education and career guidance and life long learning
 through the use of career-related tools and information.</p>
-<h4><br><strong>School Library books SPYDUS Catalogue: </strong><br><br><br><br><br><br></h4>
+<p><strong>School Library books SPYDUS Catalogue: </strong>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</p>
 <p></p>
