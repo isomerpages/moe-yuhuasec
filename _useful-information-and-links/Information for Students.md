@@ -6,10 +6,9 @@ variant: tiptap
 ---
 <h1><strong>Information for Students</strong></h1>
 <h3>Semester 2 Timetable</h3>
-<hr>
 <p>Dear students,
 <br>You may access the Semester 2 timetable for 2024 below.</p>
-<p><a href="/files/2024_Sem_2_TT_Sec_1_for_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
+<p><a href="/files/2024_Sem_2_TT_Sec_1_for_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 </a>
 </p>
 <p><a href="/files/2024_Sem_2_TT_Sec_2_for_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
 </p>
@@ -17,12 +16,10 @@ variant: tiptap
 </p>
 <p><a href="/files/2024_Sem_2_TT_Sec_4_and_5_for_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5</a>
 </p>
-<hr>
 <h3>Student Handbook</h3>
 <p>Dear students, you may access the <a href="https://sites.google.com/moe.edu.sg/yhss-handbook-site/home?pli=1" rel="noopener noreferrer nofollow" target="_blank">YHSS Student Handbook</a> for
 information on the expectations for attire, academic matters and co-curricular
 matters.</p>
-<hr>
 <h3>School Photos</h3>
 <p>You may access the school photos at this&nbsp;<a href="https://www.flickr.com/photos/197130688@N02/albums" rel="noopener noreferrer nofollow" target="_blank">album</a>.</p>
 <h3>Student HBL Site</h3>
