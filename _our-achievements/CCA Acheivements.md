@@ -59,7 +59,7 @@ and were recognized for their efforts over the years.</p>
 <p>UOPA Gold</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>UOPA - Distinction (Gold) 2023</p>
+<p>UOPA - Distinction (Gold)</p>
 </td>
 </tr>
 <tr>
