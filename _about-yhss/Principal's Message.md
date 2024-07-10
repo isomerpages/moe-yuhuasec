@@ -24,4 +24,3 @@ I hope you are as excited as I am with 2024, and I look forward to your continue
 
 Mr Kevin Pang
 <br>Principal, Yuhua Secondary School
-
