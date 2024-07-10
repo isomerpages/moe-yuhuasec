@@ -25,4 +25,3 @@ I hope you are as excited as I am with 2024, and I look forward to your continue
 Mr Kevin Pang
 <br>Principal, Yuhua Secondary School
 
-[YHSS 2024 Term 1 Letter](/files/YHSS_2024_Term_1_Letter__29122023_.pdf)
