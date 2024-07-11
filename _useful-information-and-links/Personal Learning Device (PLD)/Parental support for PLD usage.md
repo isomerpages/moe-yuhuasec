@@ -15,8 +15,7 @@ you can refer to these two handbooks.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/IP3___Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II on Learning with a P</a>
-<a href="/files/ip3___parent_handbook__ii__2024_final1.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><a href="/files/IP3___Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">ersonal Learning Device.pdf</a>
+<p><a href="/files/IP3___Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook II on Learning with a PLD.pdf</a>
 </p>
 </li>
 </ol>
