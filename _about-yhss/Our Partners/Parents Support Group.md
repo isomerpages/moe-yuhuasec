@@ -50,16 +50,16 @@ plus the various school and PSG activities that you can participate in.</p>
 <p><strong>Dr Quah Saw Han<br>Advisor of Parent Support Group 2024</strong>
 </p>
 <h5><strong>2024 YHSS PSG EXCO Members</strong></h5>
-<p><strong>Chairperson</strong> 
+<p><strong>Chairperson</strong>
 </p>
 <p>Mdm Aarti Agarwal</p>
-<p><strong>Vice Chairperson&nbsp;</strong> 
+<p><strong>Vice Chairperson&nbsp;</strong>
 </p>
 <p>Mdm Lim Hwei Ling</p>
-<p><strong>Secretary</strong> 
+<p><strong>Secretary</strong>
 </p>
 <p>Ms Tina Sia</p>
-<p><strong>Events Coordinator</strong> 
+<p><strong>Events Coordinator</strong>
 </p>
 <p>Mr Gregory Poo</p>
 <p><strong>Advisor</strong>
