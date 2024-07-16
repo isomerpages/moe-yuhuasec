@@ -41,19 +41,6 @@ with Parents on 6 April 2024 below:</p>
 </p>
 <p><a href="/files/2024_Sec_2_PTM__Subject_Combination_for_2025_Sec_3T_22_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Combination slides for 2025 Secondary 3 Normal (Technical)/G1 students</a>
 </p>
-<h3>Weighted Assessment 1 Schedules</h3>
-<hr>
-<p>Dear Parents,
-<br>You may now access the schedules for Weighted Assessment 1 via the links
-below:</p>
-<p><a href="/files/Sec_1_WA1_Parent_Letter_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
-</p>
-<p><a href="/files/Sec_2_WA1_Parent_Letter_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
-</p>
-<p><a href="/files/Sec_3_WA1_Parent_Letter_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
-</p>
-<p><a href="/files/Sec_45_WA1_Parent_Letter_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4/5</a>
-</p>
 <h3>Sec 1 Parent-Teacher Meeting materials</h3>
 <hr>
 <p>Dear Parents,
@@ -62,7 +49,6 @@ below:</p>
 </p>
 <p><a href="/files/Sec_1_2024_Briefing_for_Parents_for_PDLP.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 PDLP briefing slides</a>
 </p>
-<hr>
 <h3>Student Handbook</h3>
 <hr>
 <p>Dear parents, you may access <a href="https://sites.google.com/moe.edu.sg/yhss-handbook-site/home?pli=1" rel="noopener noreferrer nofollow" target="_blank">YHSS Student Handbook</a> for
