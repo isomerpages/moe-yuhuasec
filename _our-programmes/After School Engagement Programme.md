@@ -30,7 +30,7 @@ The objectives of the YEAHub are:
 ##### Key Programmes in 2023:
 
 Term 1:
-Sharing by Dr Daryl Chow, Origame Founder
+Sharing by Dr Daryl Chow, Origami Founder
 
 
 | ![](/images/2023%20images/yeahub_term1.png) | ![](/images/2023%20images/Term1_Yeahub.png) | 
