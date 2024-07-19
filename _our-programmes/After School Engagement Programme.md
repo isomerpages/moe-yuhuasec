@@ -18,9 +18,9 @@ YEAHub crew members who are also known as the YEAHub Ambassadors, are guided by 
 
 The objectives of the YEAHub are:
 
-1. To provide a safe and conducive environment for Yuhuans to drop in after school and be meaningfully engaged in social interactions and community learning.
-2. To foster school connectedness and build quality relationships with trusted adults in a school environment.
-3. To empower students to become effective leaders and active learners through purposeful programmes that engage the target students.o known as the YEAHub Ambassadors, are guided by the teachers to plan and facilitate the Centre programmes for the school.
+1.  To provide a safe and conducive environment for Yuhuans to drop in after school and be meaningfully engaged in social interactions and community learning.
+2.  To foster school connectedness and build quality relationships with trusted adults in a school environment.
+3.  To empower students to become effective leaders and active learners through purposeful programmes that engage the target students.o known as the YEAHub Ambassadors, are guided by the teachers to plan and facilitate the Centre programmes for the school.
 #### Teachers in Charge:
 
 *  Mr Wilfred Lim
