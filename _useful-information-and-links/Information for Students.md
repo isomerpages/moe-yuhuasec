@@ -5,6 +5,16 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Students</strong></h1>
+<h4>O Level Preliminary Examination Schedule 2024</h4>
+<p>Dear Students,
+<br>You may access the O Level Preliminary Examination Schedule for 2024 below.</p>
+<p><a href="/files/2024_O_Level_Prelim_Schedule_final.pdf" rel="noopener noreferrer nofollow" target="_blank">O Level Preliminary Examination Schedule 2024</a>
+</p>
+<h4>N Level Preliminary Examination Schedule 2024</h4>
+<p>Dear Students,
+<br>You may access the N Level Preliminary Examination Schedule for 2024 below.</p>
+<p><a href="/files/2024_N_Level_Prelim_Schedule_final.pdf" rel="noopener noreferrer nofollow" target="_blank">N Level Preliminary Examination Schedule 2024</a>
+</p>
 <h3>Semester 2 Timetable</h3>
 <p>Dear students,
 <br>You may access the Semester 2 timetable for 2024 below.</p>

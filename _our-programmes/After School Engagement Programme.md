@@ -18,28 +18,25 @@ YEAHub crew members who are also known as the YEAHub Ambassadors, are guided by 
 
 The objectives of the YEAHub are:
 
-1. To provide a safe and conducive environment for Yuhuans to drop in after school and be meaningfully engaged in social interactions and community learning.
-2. To foster school connectedness and build quality relationships with trusted adults in a school environment.
-3. To empower students to become effective leaders and active learners through purposeful programmes that engage the target students.
+1.  To provide a safe and conducive environment for Yuhuans to drop in after school and be meaningfully engaged in social interactions and community learning.
+2.  To foster school connectedness and build quality relationships with trusted adults in a school environment.
+3.  To empower students to become effective leaders and active learners through purposeful programmes that engage the target students.o known as the YEAHub Ambassadors, are guided by the teachers to plan and facilitate the Centre programmes for the school.
+ 
+#### Teachers in Charge:
 
-##### Teachers in Charge:
-
-*  Ms Veronica Nair 
 *  Mr Wilfred Lim
-*  Ms Fathima
 *  Ms Khadijah 
 *  Ms Syahfiqah
 
 ##### Key Programmes in 2023:
 
 Term 1:
-Sharing by Dr Daryl Chow, Origame Founder
+Sharing by Dr Daryl Chow, Origami Founder
 
 
 | ![](/images/2023%20images/yeahub_term1.png) | ![](/images/2023%20images/Term1_Yeahub.png) | 
 | -------- | -------- | 
 | Sharing by    | Dr Daryl Chow: Origame Founder     | 
-
 
 Term 2:
 YEAHganza Chess Tournament 2023
@@ -73,4 +70,3 @@ fellow Yuhuans.
 
 <img src="/images/2023%20images/yeahubterm4.png" style="width:70%">
 <img src="/images/2023%20images/yeahubterm4_1.png" style="width:70%">
-
