@@ -134,35 +134,6 @@ of our Yuhuans at the Singapore Mathematical Olympiad (SMO):</p>
 <p>Singapore Mathematical Olympiad – Honourable Mention&nbsp;</p>
 </td>
 </tr>
-<tr>
-<th rowspan="6" colspan="1">
-<p><strong>Ong Jing Kang Dylan</strong>
-</p>
-<p><strong>Ong Chen Teck Brayden </strong>
-</p>
-<p><strong>Chew Shi An</strong>
-</p>
-<p><strong>Chan Zhi Hng</strong>
-</p>
-<p><strong>Joel Li Jun Hui</strong>
-</p>
-<p><strong>Tan Jun Hon</strong>
-</p>
-</th>
-<th rowspan="6" colspan="1">
-<p><strong>4 Contribute</strong>
-</p>
-</th>
-<td rowspan="6" colspan="1">
-<p>Singapore Mathematical Olympiad – Certificate of Participation</p>
-<p></p>
-</td>
-</tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
-<tr></tr>
 </tbody>
 </table>
 <table style="minWidth: 75px">
@@ -175,26 +146,6 @@ of our Yuhuans at the Singapore Mathematical Olympiad (SMO):</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong> &nbsp;</strong>
-</p>
 <p><strong>Chew Shi An</strong>
 </p>
 <p><strong>Chan Zhi Hng</strong>
@@ -202,8 +153,6 @@ of our Yuhuans at the Singapore Mathematical Olympiad (SMO):</p>
 <p><strong>Joel Li Jun Hui</strong>
 </p>
 <p><strong>Tan Jun Hon</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,22 +162,9 @@ of our Yuhuans at the Singapore Mathematical Olympiad (SMO):</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Mathematical Olympiad – Certificate of Participation</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>Singapore Mathematical Olympiad – Certificate of Participation&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 </tr>
