@@ -65,7 +65,7 @@ Language, the following students were awarded the following prizes:</p>
 <p>Certificate of Participation for the Budding Writers Award:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p> <strong>Jayaraman Mansikaa (2 Care)</strong>
+<p><strong>Jayaraman Mansikaa (2 Care)</strong>
 </p>
 </li>
 <li>
@@ -93,7 +93,7 @@ and received the following prizes for the various categories:</p>
 <p>&nbsp;Consolation Prize for Oratorical Competition:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p> <strong>Harnivedaa Kabirbabu (1 Care)</strong>
+<p><strong>Harnivedaa Kabirbabu (1 Care)</strong>
 </p>
 </li>
 <li>
@@ -122,34 +122,78 @@ of our Yuhuans at the Singapore Mathematical Olympiad (SMO):</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p><strong>Arya Talesara</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>4 Contribute</strong>
 </p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Singapore Mathematical Olympiad – Honourable Mention&nbsp;</p>
+</td>
+</tr>
+<tr>
+<th rowspan="6" colspan="1">
+<p><strong>Ong Jing Kang Dylan</strong>
+</p>
+<p><strong>Ong Chen Teck Brayden </strong>
+</p>
+<p><strong>Chew Shi An</strong>
+</p>
+<p><strong>Chan Zhi Hng</strong>
+</p>
+<p><strong>Joel Li Jun Hui</strong>
+</p>
+<p><strong>Tan Jun Hon</strong>
+</p>
+</th>
+<th rowspan="6" colspan="1">
+<p><strong>4 Contribute</strong>
+</p>
+</th>
+<td rowspan="6" colspan="1">
+<p>Singapore Mathematical Olympiad – Certificate of Participation</p>
+<p></p>
+</td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>Singapore Mathematical Olympiad – Honourable Mention</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ong Jing Kang Dylan</strong>
-</p>
-<p><strong>Ong Chen Teck Brayden &nbsp;</strong>
+<p><strong> &nbsp;</strong>
 </p>
 <p><strong>Chew Shi An</strong>
 </p>
@@ -321,8 +365,7 @@ in the Singapore Junior Chemistry Olympiad 2024.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">In the 2024 Singapore Junior Physics Olympiad (SJPO), the following students received Certificate of Participation.</a>
+<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">In the 2024 Singapore Junior Physics Olympiad (SJPO), the following students received Certificate of Participation.</a>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
