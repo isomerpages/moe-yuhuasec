@@ -5,9 +5,19 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Staff Achievements</strong></h1>
-<p><strong>SHHK Leap Award 2024 飞跃教师奖</strong>
-</p>
-<p></p>
+<h3><strong>SHHK Leap Award 2024 </strong>飞跃教师奖 </h3>
+<p>We Celebrate Mdm Irfana Begum Ikbal! The Listening Educator for Advancement
+and Progress (LEAP) Award, was launched by the late President S R Nathan
+in 2011 and awarded by Singapore Hock Kian Huay Kuan annually to recognise
+exceptional teachers who have made a positive impact in nurturing their
+students from the heart. It is a strong affirmation for a teacher’s belief
+in the potential of student’s potential to excel beyond their capabilities.
+This year, the Award received a total of 234 nominations from 154 schools.
+We are proud to share that our very own Mdm Irfana is one of the 15 teachers
+to be presented the prestigious award by Minister Chan Chun Sing! Congratulations
+Mdm Irfana! May you continue to touch lives and inspire them to Care, Connect
+and Contribute! Do click on this link to learn more about this award and
+Mdm Irfana!</p>
 <h3>Tamil Chudar Awards 2022</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp%20Image%202022-03-25.jpeg">
