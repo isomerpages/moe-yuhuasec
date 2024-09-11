@@ -18,9 +18,22 @@ to be presented the prestigious award by Minister Chan Chun Sing! Congratulation
 Mdm Irfana! May you continue to touch lives and inspire them to Care, Connect
 and Contribute! Do click on this link to learn more about this award and
 Mdm Irfana!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/shhk.jpg">
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <h3>Tamil Chudar Awards 2022</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp%20Image%202022-03-25.jpeg">
