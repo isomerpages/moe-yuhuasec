@@ -95,7 +95,7 @@ and were recognized for their efforts over the years.</p>
 <p>Boys Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JM Fraser Silver</p>
+<p>JM Fraser Silver and JM Frasier Award (Excellence with Distinction) 2022</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>JM Fraser Distinction</p>
@@ -205,32 +205,43 @@ in.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>CCA</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2022</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2023</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2024</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Volleyball Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>West Zone C Division Volleyball Championships - 3rd
-<br>
-<br>National C Division Volleyball Championships - Top 8
-<br>
-<br>West Zone B Division Volleyball Championships - 5th</p>
+<p>West Zone C Division Volleyball Championships - 3rd</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>West Zone B Division National School Games - 5th in group rounds</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mintonette Cup 4th (Under 16 Boys)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National C Division Volleyball Championships - Top 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>West Zone B Division Volleyball Championships - 1st</p>
@@ -238,17 +249,46 @@ in.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>West Zone B Division Volleyball Championships - 5th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Schools B Division (Boys) National School Games - Fourth</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>Volleyball Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>West Zone C Division Volleyball Championships - 4th
-<br>
-<br>National C Division Volleyball Championships - Top 8
-<br>
-<br>West Zone B Division Volleyball Championships - top 8 (4th in group rounds)</p>
+<p>West Zone C Division Volleyball Championships - 4th</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>West Zone B Division National School Games - top 6 in group rounds</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participated in West Zone B Division (Girls) National School Games</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National C Division Volleyball Championships - Top 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>West Zone B Division Volleyball Championships - top 8 (4th in group rounds)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -265,7 +305,7 @@ in.</p>
 <p>Participated in B Div NSG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Participated in B Div NSG (Boys)</p>
 </td>
 </tr>
 <tr>
@@ -279,36 +319,48 @@ in.</p>
 <p>National School Games B Division Football League Four (top 8)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National School Games B Division Football League Four</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Tchoukball Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Inter-School B Division Tchoukball Championships - top 5
-<br>
-<br>Inter-School C Division Tchoukball Championships - top 8</p>
+<p>Inter-School B Division Tchoukball Championships - top 5</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Participated in B Div NSG (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participated in B Div NSG (Boys)</p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inter-School C Division Tchoukball Championships - top 8</p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Tchoukball Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Inter-School B Division Tchoukball Championships - top 5
-<br>
-<br>Inter-School C Division Tchoukball Championships - top 7</p>
+<p>Inter-School B Division Tchoukball Championships - top 5</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Participated in B Div NSG (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participated in B Div NSG (Girls)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inter-School C Division Tchoukball Championships - top 7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -319,13 +371,13 @@ in.</p>
 <p>Wushu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore National Wushu Competition 2022 ( Group event)</p>
+<p>Singapore National Wushu Competition 2022 (Group event)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participated in B Div NSG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Participated in National School Games</p>
 </td>
 </tr>
 </tbody>
@@ -348,7 +400,7 @@ to excel in their areas of passion and interest.</p>
 <p>CCA</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Student / CCA</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Achievements</p>
@@ -418,6 +470,20 @@ to excel in their areas of passion and interest.</p>
 <p>NCC</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mark Jachin Gumban</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC outstanding Cadet Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Muhamad Iman bin Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -446,6 +512,48 @@ to excel in their areas of passion and interest.</p>
 <p>NCDCC</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Hyra Musfira Putri Mustafa Kamal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC Unit Best Cadet Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCDCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hyra Musfira Putri Mustafa Kamal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCDF-NCDCC Pinnacle Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCDCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Ayuni Binte Abdullah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCDF-NCDCC Pinnacle Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCDCC</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Goh Kai Kiat David</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -523,6 +631,77 @@ to excel in their areas of passion and interest.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2022</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Laiqah Binte Irman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best Unit Cadet (Female)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gwendolyn Jas Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best Unit Cadet (Female)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Evelyn Quah Xiang Boon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(Ke Xiangwen)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Yu Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurdini Aliah Binte Yuslim Yanis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
 </td>
 </tr>
 <tr>
@@ -702,7 +881,8 @@ Innovator award</p>
 <p>Wushu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cadee Chew Yi Xuan (Zhou Yi Xuan)</p>
+<p>Cadee Chew Yi Xuan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(Zhou Yi Xuan)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NSG Sportsmanship Award</p>
