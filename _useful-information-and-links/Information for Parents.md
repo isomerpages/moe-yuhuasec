@@ -10,7 +10,7 @@ variant: tiptap
 <br>You may access the O Level Preliminary Examination Schedule for 2024 below.</p>
 <p><a href="/files/2024_O_Level_Prelim_Schedule_final.pdf" rel="noopener noreferrer nofollow" target="_blank">O Level Preliminary Examination Schedule 2024</a>
 </p>
-<h4>N Level Preliminary Examination Schedule 2024</h4>
+<p>N Level Preliminary Examination Schedule 2024</p>
 <p>Dear Parents/Guardians,
 <br>You may access the N Level Preliminary Examination Schedule for 2024 below.</p>
 <p><a href="/files/2024_N_Level_Prelim_Schedule_final.pdf" rel="noopener noreferrer nofollow" target="_blank">N Level Preliminary Examination Schedule 2024</a>
