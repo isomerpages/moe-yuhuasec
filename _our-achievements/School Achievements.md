@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1><strong>School Achievements</strong></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/green_award.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/green_schools1.jpg">
 </div>
 <p>Green Schools @ South West Award Ceremony - 3 Stars Award for Year 2023
 and 2021</p>
