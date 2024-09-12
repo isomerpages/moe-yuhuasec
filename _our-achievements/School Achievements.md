@@ -49,8 +49,7 @@ valuable and meaningful ways.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Green Schools @ South West Award Ceremony -</p>
-<p>3 Stars Award for Year 2023</p>
+<p>Green Schools @ South West Award Ceremony -3 Stars Award for Year 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2023</p>
