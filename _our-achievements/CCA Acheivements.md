@@ -418,6 +418,20 @@ to excel in their areas of passion and interest.</p>
 <p>NCC</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mark Jachin Gumban</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC outstanding Cadet Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Muhamad Iman bin Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -446,6 +460,48 @@ to excel in their areas of passion and interest.</p>
 <p>NCDCC</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Hyra Musfira Putri Mustafa Kamal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC Unit Best Cadet Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCDCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hyra Musfira Putri Mustafa Kamal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCDF-NCDCC Pinnacle Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCDCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Ayuni Binte Abdullah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCDF-NCDCC Pinnacle Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCDCC</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Goh Kai Kiat David</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -523,6 +579,77 @@ to excel in their areas of passion and interest.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2022</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Laiqah Binte Irman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best Unit Cadet (Female)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gwendolyn Jas Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best Unit Cadet (Female)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Evelyn Quah Xiang Boon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(Ke Xiangwen)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Yu Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurdini Aliah Binte Yuslim Yanis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
 </td>
 </tr>
 <tr>
@@ -702,7 +829,8 @@ Innovator award</p>
 <p>Wushu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cadee Chew Yi Xuan (Zhou Yi Xuan)</p>
+<p>Cadee Chew Yi Xuan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(Zhou Yi Xuan)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NSG Sportsmanship Award</p>
