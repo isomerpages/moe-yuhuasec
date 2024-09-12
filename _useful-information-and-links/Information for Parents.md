@@ -27,10 +27,10 @@ variant: tiptap
 </p>
 <p><a href="/files/2024_Sem_2_TT_Sec_4_and_5_for_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5</a>
 </p>
-<h3>Term 3 Letter for 2024</h3>
+<h3>Term 4 Letter for 2024</h3>
 <hr>
 <p>Dear Parents,
-<br>You may access the Term 3 Letter for 2024 <a href="/files/YHSS_2024_Term_3_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<br>You may access the Term 4 Letter for 2024 <a href="/files/YHSS_2024_Term_4_Letter__Final__V1.pdf" rel="noopener nofollow" target="_blank">here!</a>
 </p>
 <h3>Sharing on Educational Technology with Parents on 6 April 2024</h3>
 <hr>
