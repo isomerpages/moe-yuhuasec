@@ -95,7 +95,7 @@ and were recognized for their efforts over the years.</p>
 <p>Boys Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JM Fraser Silver</p>
+<p>JM Fraser Silver and JM Frasier Award (Excellence with Distinction) 2022</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>JM Fraser Distinction</p>
