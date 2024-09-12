@@ -23,7 +23,7 @@ tier of recognition under this programme over the years.</p>
 valuable and meaningful ways.</p>
 <h4>Mr Pang, Our Principal with the Civil Defence (CD) Ready School Award!</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCDF%20CD%20readyWith%20Mr%20Pang.jpg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/SCDF%20CD%20readyWith%20Mr%20Pang.jpg">
 </div>
 <h3>Our School Achievements</h3>
 <table style="minWidth: 75px">
