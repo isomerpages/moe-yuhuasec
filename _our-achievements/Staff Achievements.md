@@ -113,7 +113,16 @@ Mdm Irfana!</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>The Academy Awards for Professional Development recognise and affirm the
+efforts of officers in the education service and partners in education
+for their contributions to the professional development of the teaching
+fraternity. There are three categories of recognition: - Fellow of Academy
+of Singapore Teachers - Associate of Academy of Singapore Teachers - Partner
+of Academy of Singapore Teachers The following teachers have been recognised
+as Associates of Academy of Singapore Teachers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Flourish_wall_poster__teacher_2024_Page_10.jpg">
+</div>
 <h3>Tamil Chudar Awards 2022</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp%20Image%202022-03-25.jpeg">
