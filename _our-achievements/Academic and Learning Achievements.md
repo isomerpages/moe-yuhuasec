@@ -1,757 +1,3277 @@
 ---
 title: Academic and Learning Achievements
-permalink: /our-achievements/academic-and-learning-achievements
+permalink: /our-achievements/academic-and-learning-achievements/
 description: ""
+variant: tiptap
 ---
-# **Academic and Learning Achievements**
-
-### Year of 2023
-<google-sheets-html-origin style="color: rgb(0, 0, 0);"><table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" cellpadding="0" dir="ltr" border="1" style="table-layout: fixed; font-size: 10pt; font-family: Arial; width: 0px; border-collapse: collapse; border: none;">
-  <thead>
-    <tr style="height: 21px;">
-      <th>S/No</th>
-      <th>Name</th>
-      <th>Achievements</th>
-      <th>Year</th>
-      <th>Class</th>
-    </tr>
-  </thead><colgroup><col width="46"><col width="421"><col width="567"><col width="74"><col width="100"></colgroup>
-  <tbody>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">1</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;KOH KE XIN&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">KOH KE XIN</td>
-      <td rowspan="20" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Chingay 2023: Audience's Favourite Rabbits Art-Venture Installation&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: top;"><div style="max-height: 420px;">Chingay 2023: Audience's Favourite Rabbits Art-Venture Installation</div></td>
-      <td rowspan="20" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2023}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: top; text-align: center;"><div style="max-height: 420px;">2023</div></td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 Curiosity&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">4 Curiosity</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">2</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NABIL ABUZAR BIN ISSA&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">NABIL ABUZAR BIN ISSA</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 Curiosity&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">4 Curiosity</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">3</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NURUL AISYAH BINTE MOHAMMED ZULKILFLI&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">NURUL AISYAH BINTE MOHAMMED ZULKILFLI</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 Adaptability&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">4 Adaptability</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:4}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">4</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;GURRALA SREETHAM&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">GURRALA SREETHAM</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 Adaptability&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">4 Adaptability</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:5}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">5</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;FATIMAH FITRI AZMIE&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">FATIMAH FITRI AZMIE</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 Respect&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">4 Respect</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:6}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">6</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NURINA BALQIS BINTE FREADY FAZLI&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">NURINA BALQIS BINTE FREADY FAZLI</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 Respect&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">4 Respect</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:7}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">7</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;SYED SEYIPH SHAHAB&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">SYED SEYIPH SHAHAB</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 Respect&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">4 Respect</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:8}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">8</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ANIQ HILMAN BIN IKA ZAHARY&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">ANIQ HILMAN BIN IKA ZAHARY</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 Responsibility&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">4 Responsibility</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:9}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">9</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;RISYAM ZAIFI BIN ZAINUDIN&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">RISYAM ZAIFI BIN ZAINUDIN</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 Responsibility&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">4 Responsibility</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:10}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">10</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;DIYAN UMAIRAH BINTE ZULFI&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">DIYAN UMAIRAH BINTE ZULFI</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 Resilience&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">4 Resilience</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:11}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">11</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;EUNICE TAN XUN PIN&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">EUNICE TAN XUN PIN</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 Resilience&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">4 Resilience</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:12}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">12</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;LIM XIN TING&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">LIM XIN TING</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 Resilience&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">4 Resilience</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:13}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">13</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NUR ZULAIKHA ABDULLAH&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">NUR ZULAIKHA ABDULLAH</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 Resilience&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">4 Resilience</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:14}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">14</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;SUFFI SYAMMIRRAH FATIHAH BINTE MUHAMMAD SUHAIMI&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">SUFFI SYAMMIRRAH FATIHAH BINTE MUHAMMAD SUHAIMI</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 Resilience&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">4 Resilience</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:15}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">15</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;FAREESHA BEGUM BINTE HIDAYATHULLAH&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">FAREESHA BEGUM BINTE HIDAYATHULLAH</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 Care&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">4 Care</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:16}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">16</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;HALIMATUL 'ALAWIAH BINTE RAMLAN&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">HALIMATUL 'ALAWIAH BINTE RAMLAN</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 Care&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">4 Care</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:17}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">17</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TAY SHAOQI SHERIS&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">TAY SHAOQI SHERIS</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 Care&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">4 Care</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:18}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">18</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;THET THET AUNG SAN&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">THET THET AUNG SAN</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 Care&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">4 Care</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:19}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">19</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;YEO CHING YUN, GRACELYN&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">YEO CHING YUN, GRACELYN</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 Care&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">4 Care</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:20}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">20</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;GOH KAI KIAT DAVID&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">GOH KAI KIAT DAVID</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 Care&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">4 Care</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:21}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">21</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;LI CHEOK FUNG, ANDREAS&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom;">LI CHEOK FUNG, ANDREAS</td>
-      <td rowspan="5" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The students' original song \&quot;Our Story\&quot; was selected as one of the Top 10 songs for the Lower Secondary Category in the Singapore Youth Festival Youth Station Project 2023. &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;"><div style="max-height: 105px;">The students' original song "Our Story" was selected as one of the Top 10 songs for the Lower Secondary Category in the Singapore Youth Festival Youth Station Project 2023.</div></td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2023}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: top; text-align: center;">2023</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 Respect&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">2 Respect</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:22}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">22</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;LUM CHEE HOU RIAN (LIN ZHIHAO)&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom;">LUM CHEE HOU RIAN (LIN ZHIHAO)</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2023}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: top; text-align: center;">2023</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 Respect&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">2 Respect</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:23}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">23</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CHEW WEN XUAN ADEN&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom;">CHEW WEN XUAN ADEN</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2023}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: top; text-align: center;">2023</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 Care&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">2 Care</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:24}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">24</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;GOH KOI LUCK&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom;">GOH KOI LUCK</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2023}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: top; text-align: center;">2023</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 Care&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">2 Care</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:25}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">25</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;APONESTO FRANZ GRAEDEN DISPO &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom;">APONESTO FRANZ GRAEDEN DISPO</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2023}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: top; text-align: center;">2023</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 Connect&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">2 Connect</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:26}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">26</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;STACY CHAN YI LING&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom;">STACY CHAN YI LING</td>
-      <td rowspan="5" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The students' original song \&quot;Light of My Life\&quot; received an Honourable Mention for the Lower Secondary Category in the Singapore Youth Festival Youth Station Project 2023. &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;"><div style="max-height: 105px;">The students' original song "Light of My Life" received an Honourable Mention for the Lower Secondary Category in the Singapore Youth Festival Youth Station Project 2023.</div></td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2023}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: top; text-align: center;">2023</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 Responsibility&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">2 Responsibility</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:27}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">27</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;JOLYNE TEO WEI HE&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom;">JOLYNE TEO WEI HE</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2023}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: top; text-align: center;">2023</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 Resilience&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">2 Resilience</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:28}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">28</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NATALIE TAN LI LIN&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom;">NATALIE TAN LI LIN</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2023}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: top; text-align: center;">2023</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 Resilience&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">2 Resilience</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:29}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">29</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;SARAVANAN MEHAA&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom;">SARAVANAN MEHAA</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2023}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: top; text-align: center;">2023</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 Care&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">2 Care</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:30}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">30</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;SHEENA KHINE BINTE ABDUL GANI&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom;">SHEENA KHINE BINTE ABDUL GANI</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2023}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: top; text-align: center;">2023</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 Contribute&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">2 Contribute</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:31}" data-sheets-formula="=1+R[-1]C[0]" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; text-align: center;">31</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;GAN BING&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: top;">GAN BING</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;His original song \&quot;You've Got What it Takes\&quot; was selected as one of the Top 10 songs for the Open Category in the Singapore Youth Festival Youth Station Project 2023. &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;">His original song "You've Got What it Takes" was selected as one of the Top 10 songs for the Open Category in the Singapore Youth Festival Youth Station Project 2023.</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2023}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: top; text-align: center;">2023</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 Adaptability&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: top; text-align: center;">4 Adaptability</td>
-    </tr>
-  </tbody>
-</table></google-sheets-html-origin>
-
-### Year of 2022
-<google-sheets-html-origin style="color: rgb(0, 0, 0);"><table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" cellpadding="0" dir="ltr" border="1" style="table-layout: fixed; font-size: 10pt; font-family: Arial; width: 0px; border-collapse: collapse; border: none;">
-  <thead>
-    <tr style="height: 21px;">
-      <th>S/No</th>
-      <th>Name</th>
-      <th>Achievements</th>
-      <th>Year</th>
-      <th>Class</th>
-    </tr>
-  </thead><colgroup><col width="46"><col width="421"><col width="567"><col width="74"><col width="100"></colgroup>
-  <tbody>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">1</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Gurrala Sreetham&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">Gurrala Sreetham</td>
-      <td rowspan="2" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;W7 Upload! Online Art Competition (Certificate of Commendation)&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; overflow-wrap: break-word;"><div style="max-height: 42px;">W7 Upload! Online Art Competition (Certificate of Commendation)</div></td>
-      <td rowspan="2" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2022}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;"><div style="max-height: 42px;">2022</div></td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:302}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">302</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">2</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Syed Seyiph Shahab&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">Syed Seyiph Shahab</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:303}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">303</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">1</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Adnan Zuhayr Bin Razali &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">Adnan Zuhayr Bin Razali</td>
-      <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Singapore Youth Festival Youth Station Project 2022. The students' original song \&quot;When We Were Younger\&quot; was selected as one of the Top 10 songs for the Lower Secondary Category. In total, students from 74 school submitted 171 original songs for consideration.&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; overflow-wrap: break-word;"><div style="max-height: 63px;">Singapore Youth Festival Youth Station Project 2022. The students' original song "When We Were Younger" was selected as one of the Top 10 songs for the Lower Secondary Category. In total, students from 74 school submitted 171 original songs for consideration.</div></td>
-      <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2022}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;"><div style="max-height: 63px;">2022</div></td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:202}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">202</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">2</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Guevarra Beatrice Raine Cruz &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">Guevarra Beatrice Raine Cruz</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:204}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">204</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">3</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Koh Shuyu, Leeann &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">Koh Shuyu, Leeann</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:204}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">204</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">1</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pathavee Ho Jun Yan &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">Pathavee Ho Jun Yan</td>
-      <td rowspan="4" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Singapore Youth Festival Youth Station Project 2022. The students' original song \&quot;Voices\&quot; was selected as one of the Top 10 songs for the Lower Secondary Category. In total, students from 74 school submitted 171 original songs for consideration.\n\n&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; overflow-wrap: break-word;"><div style="max-height: 84px;">Singapore Youth Festival Youth Station Project 2022. The students' original song "Voices" was selected as one of the Top 10 songs for the Lower Secondary Category. In total, students from 74 school submitted 171 original songs for consideration.<br><br></div></td>
-      <td rowspan="4" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2022}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;"><div style="max-height: 84px;">2022</div></td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:203}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">203</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">2</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tay Hang Yu&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">Tay Hang Yu</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:204}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">204</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">3</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Becky Fok Zhi Hui &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">Becky Fok Zhi Hui</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:205}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">205</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:4}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">4</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Cha Zi Yi &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">Cha Zi Yi</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:205}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">205</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">1</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Fareesha Begum Binte Hidayathullah &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">Fareesha Begum Binte Hidayathullah</td>
-      <td rowspan="4" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Singapore Youth Festival 2022 Art Exhibition. The students' artwork, \&quot;Waste of Waste\&quot; was awarded the Certificate of Recognition and selected for an on-site exhibition at the National Museum of Singapore &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; overflow-wrap: break-word;"><div style="max-height: 84px;">Singapore Youth Festival 2022 Art Exhibition. The students' artwork, "Waste of Waste" was awarded the Certificate of Recognition and selected for an on-site exhibition at the National Museum of Singapore</div></td>
-      <td rowspan="4" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2022}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;"><div style="max-height: 84px;">2022</div></td>
-      <td rowspan="4" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:306}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;"><div style="max-height: 84px;">306</div></td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">2</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Qiara Quzandria Binte Adnan &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">Qiara Quzandria Binte Adnan</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">3</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Leong Mei Ling Amanda Fitriana &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">Leong Mei Ling Amanda Fitriana</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:4}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">4</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Thet Thet Aung San &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">Thet Thet Aung San</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">1</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Liew Yu Heng&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">Liew Yu Heng</td>
-      <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;IgnITE Skills Challenge 2022 - Mobile Robot Challenge 1st Prize&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;"><div style="max-height: 63px;">IgnITE Skills Challenge 2022 - Mobile Robot Challenge 1st Prize</div></td>
-      <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2022}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;"><div style="max-height: 63px;">2022</div></td>
-      <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:401}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;"><div style="max-height: 63px;">401</div></td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">2</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mohamed Nor Sharizam Bin Muhamad Sharikin&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; overflow-wrap: break-word;">Mohamed Nor Sharizam Bin Muhamad Sharikin</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">3</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Muhammad Nur Sufyan Bin Nordin&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">Muhammad Nur Sufyan Bin Nordin</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">1</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mak Jun Rong, Deon&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">Mak Jun Rong, Deon</td>
-      <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;IgnITE Skills Challenge 2022 - AI Car Challenge Finalist (Top 10)&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;"><div style="max-height: 63px;">IgnITE Skills Challenge 2022 - AI Car Challenge Finalist (Top 10)</div></td>
-      <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2022}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;"><div style="max-height: 63px;">2022</div></td>
-      <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:102}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;"><div style="max-height: 63px;">102</div></td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">2</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Fabian Lim Kai Feng &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">Fabian Lim Kai Feng</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">3</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Jordan Lo Zheng Jie &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">Jordan Lo Zheng Jie</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">1</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;JANICE LEE SIEW HUI&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">JANICE LEE SIEW HUI</td>
-      <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;IgnITE Skills Challenge 2022 - AI Car Challenge&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;"><div style="max-height: 63px;">IgnITE Skills Challenge 2022 - AI Car Challenge</div></td>
-      <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2022}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;"><div style="max-height: 63px;">2022</div></td>
-      <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:201}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;"><div style="max-height: 63px;">201</div></td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">2</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CHAN JIA LE KAYDEN&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">CHAN JIA LE KAYDEN</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">3</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TEO ZHI RONG&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">TEO ZHI RONG</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">1</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;KIMBERLIE LEE RUI YU       &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">KIMBERLIE LEE RUI YU</td>
-      <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;IgnITE Skills Challenge 2022 - Logistics Challenge&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;"><div style="max-height: 63px;">IgnITE Skills Challenge 2022 - Logistics Challenge</div></td>
-      <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2022}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;"><div style="max-height: 63px;">2022</div></td>
-      <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:103}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;"><div style="max-height: 63px;">103</div></td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">2</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;YUVVIKA THERUMARAJ      &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">YUVVIKA THERUMARAJ</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">3</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;JAYDEN TEO XU KAI            &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">JAYDEN TEO XU KAI</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">1</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CHAN GUAN YANG               &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">CHAN GUAN YANG</td>
-      <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;IgnITE Skills Challenge 2022 - Logistics Challenge&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;"><div style="max-height: 63px;">IgnITE Skills Challenge 2022 - Logistics Challenge</div></td>
-      <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2022}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;"><div style="max-height: 63px;">2022</div></td>
-      <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:103}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;"><div style="max-height: 63px;">103</div></td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">2</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CEDRIC LI YAO ZHONG&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">CEDRIC LI YAO ZHONG</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">3</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;LUM CHEE HOU RIAN&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">LUM CHEE HOU RIAN</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">1</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;AQIL BIN AMAN&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255); font-size: 11pt; color: rgb(34, 34, 34);">AQIL BIN AMAN</td>
-      <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;IgnITE Skills Challenge 2022 - ChromatoDigiArt Challenge &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;"><div style="max-height: 63px;">IgnITE Skills Challenge 2022 - ChromatoDigiArt Challenge</div></td>
-      <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2022}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;"><div style="max-height: 63px;">2022</div></td>
-      <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:203}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;"><div style="max-height: 63px;">203</div></td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">2</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TOH QIXIAN&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255); font-size: 11pt; color: rgb(34, 34, 34);">TOH QIXIAN</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">3</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MUHAMMAD NUR HASSAN&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255); font-size: 11pt; color: rgb(34, 34, 34);">MUHAMMAD NUR HASSAN</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">1</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;THANCHNAMOORTHY HARIPRIYAN &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">THANCHNAMOORTHY HARIPRIYAN</td>
-      <td rowspan="5" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;A Drama Workshop cum Competition was organised by Commonwealth Secondary School Tamil unit for W1W7 Cluster Lower Secondary students. \nAfter the workshop, participants competed in the drama competition by submitting a video based on the topic of Resilience. Our school won first prize for the W1W7 Cluster Tamil Drama Competition.&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; overflow-wrap: break-word;"><div style="max-height: 105px;">A Drama Workshop cum Competition was organised by Commonwealth Secondary School Tamil unit for W1W7 Cluster Lower Secondary students.<br>After the workshop, participants competed in the drama competition by submitting a video based on the topic of Resilience. Our school won first prize for the W1W7 Cluster Tamil Drama Competition.</div></td>
-      <td rowspan="5" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2022}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;"><div style="max-height: 105px;">2022</div></td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:203}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">203</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">2</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CAROUNAGARANE GURU PRASATH &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">CAROUNAGARANE GURU PRASATH</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:205}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">205</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">3</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; MUTHAMIL SELVAN DARSHAN&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt;">MUTHAMIL SELVAN DARSHAN</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:205}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">205</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:4}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">4</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;AKSHITHA PANDI MANIKANDAPANDI&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">AKSHITHA PANDI MANIKANDAPANDI</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:207}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; text-align: center;">207</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:5}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 11pt; text-align: center;">5</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;PAZHANIVEL ABARNA &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">PAZHANIVEL ABARNA</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:207}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; text-align: center;">207</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; text-align: center;">1</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NURUL AISHAH &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">NURUL AISHAH</td>
-      <td rowspan="4" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;\nBLACKARENA Malay Drama Competition organised by organised by Bukit Batok East CC MAEC and supported by Malay Language and Literary Promotional Committee (MLLPC), MESRA and Lee Foundation. \n- 4th place and Best Actress Award&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;"><div style="max-height: 84px;"><br>BLACKARENA Malay Drama Competition organised by organised by Bukit Batok East CC MAEC and supported by Malay Language and Literary Promotional Committee (MLLPC), MESRA and Lee Foundation.<br>- 4th place and Best Actress Award</div></td>
-      <td rowspan="4" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2022}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; text-align: center;"><div style="max-height: 84px;">2022</div></td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:302}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">302</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; text-align: center;">2</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; PUTERI ELLYZA&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">PUTERI ELLYZA</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:304}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">304</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; text-align: center;">3</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; SARAH ARYANA&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">SARAH ARYANA</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:304}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">304</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:4}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt; text-align: center;">4</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NURIYAN INSYIRA&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-size: 11pt;">NURIYAN INSYIRA</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:304}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">304</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">1</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CHEW TING AN CYRUS&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">CHEW TING AN CYRUS</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Singapore Junior Chemistry Olympiad 2022 - Bronze&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom;">Singapore Junior Chemistry Olympiad 2022 - Bronze</td>
-      <td rowspan="28" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2022}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word; text-align: center;"><div style="max-height: 588px;">2022</div></td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:409}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">409</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">2</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CHEN JEUN WEI&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">CHEN JEUN WEI</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Singapore Junior Chemistry Olympiad 2022 - Merit &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom;">Singapore Junior Chemistry Olympiad 2022 - Merit</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">3</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;SAYEDA FAHMIDA ISLAM MAHEE&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">SAYEDA FAHMIDA ISLAM MAHEE</td>
-      <td rowspan="26" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Singapore Junior Chemistry Olympiad 2022 - Certificate of Participation\n\nAn annual competition organised by the Singapore National Institute of Chemistry (SNIC) in partnership with NUS, NTU, SUTD and Nanyang Polytechnic and supported by the Ministry of Education (MOE). \n&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;"><div style="max-height: 546px;">Singapore Junior Chemistry Olympiad 2022 - Certificate of Participation<br><br>An annual competition organised by the Singapore National Institute of Chemistry (SNIC) in partnership with NUS, NTU, SUTD and Nanyang Polytechnic and supported by the Ministry of Education (MOE).<br></div></td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:402}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">402</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:4}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">4</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;SITI NUR AISYAH BINTE IBRAHIM&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">SITI NUR AISYAH BINTE IBRAHIM</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:402}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">402</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:5}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">5</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TOMMY LEE JUN FENG&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">TOMMY LEE JUN FENG</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:402}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">402</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:6}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">6</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;VENKATESAN HAAM PRASATH&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">VENKATESAN HAAM PRASATH</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:402}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">402</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:7}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">7</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;SIRUVANI SIVAKUMAR&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">SIRUVANI SIVAKUMAR</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:408}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">408</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:8}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">8</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TEO YIN SHUEN&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">TEO YIN SHUEN</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:408}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">408</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:9}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">9</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CHUA TZE YEN&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">CHUA TZE YEN</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:408}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">408</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:10}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">10</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CHEW JUN LIANG&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">CHEW JUN LIANG</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:408}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">408</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:11}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">11</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;LOW WEN JIE OWEN&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">LOW WEN JIE OWEN</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:409}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">409</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:12}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">12</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ERNST GOO SHANG WEI&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">ERNST GOO SHANG WEI</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:409}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">409</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:13}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">13</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;LEE XIN NEE&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">LEE XIN NEE</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:14}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">14</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;SELVAKUMAR MAHESHWARI&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">SELVAKUMAR MAHESHWARI</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:15}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">15</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;LUCAS PEH YI JIE&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">LUCAS PEH YI JIE</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:16}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">16</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;SUGUMAR RISHIVANDH&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 11pt;">SUGUMAR RISHIVANDH</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:17}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">17</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NGA WEI SHENG&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255); font-family: Calibri; font-size: 11pt;">NGA WEI SHENG</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:18}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">18</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MUTHUKUMARAN ARUNKUMAR&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 11pt;">MUTHUKUMARAN ARUNKUMAR</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:19}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">19</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;WONG QI EN AUDRIC&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255); font-family: Calibri; font-size: 11pt;">WONG QI EN AUDRIC</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:20}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">20</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;JAY MIN DIVAKAR&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">JAY MIN DIVAKAR</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:21}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">21</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TONG JIA BAO&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">TONG JIA BAO</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:22}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">22</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;WIJETUNGA MUDALIGE WEIHAN WIJETUNGA&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 11pt;">WIJETUNGA MUDALIGE WEIHAN WIJETUNGA</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:23}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">23</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CHUA CHEE YANG&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">CHUA CHEE YANG</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:24}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">24</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;JET ANG YONG XIANG&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">JET ANG YONG XIANG</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:25}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">25</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CHAN WEN HUI&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">CHAN WEN HUI</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:26}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">26</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;THIHA THANT ZAW&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 11pt;">THIHA THANT ZAW</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:27}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">27</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;SEAN WU WEI LOONG&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">SEAN WU WEI LOONG</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:28}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">28</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ANDRIE SU HENG YI&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">ANDRIE SU HENG YI</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 28px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:29}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">29</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CANDY KOH TIANTIAN&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255);">CANDY KOH TIANTIAN</td>
-      <td rowspan="2" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;5th Text Recital Competition for Primary and Secondary Schools \nLower Secondary (Individual)\nBronze Award&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle;"><div style="max-height: 56px;">5th Text Recital Competition for Primary and Secondary Schools<br>Lower Secondary (Individual)<br>Bronze Award</div></td>
-      <td rowspan="2" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2022}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; text-align: center;"><div style="max-height: 56px;">2022</div></td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:106}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; text-align: center;">106</td>
-    </tr>
-    <tr style="height: 28px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:30}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">30</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;XU YUJIA&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; background-color: rgb(255, 255, 255); font-family: docs-Calibri; font-size: 12pt;">XU YUJIA</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:108}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; text-align: center;">108</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:31}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">31</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NATALIE TAN LI LIN &quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">NATALIE TAN LI LIN</td>
-      <td rowspan="4" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;5th Text Recital Competition for Primary and Secondary Schools \nLower Secondary (Team)\nBronze Award&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle;"><div style="max-height: 84px;">5th Text Recital Competition for Primary and Secondary Schools<br>Lower Secondary (Team)<br>Bronze Award</div></td>
-      <td rowspan="4" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2022}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; text-align: center;"><div style="max-height: 84px;">2022</div></td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:105}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">105</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:32}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">32</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NG YU HAN&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">NG YU HAN</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:105}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">105</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:33}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">33</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;KEITH CHIA JIA WE&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">KEITH CHIA JIA WE</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:105}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">105</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:34}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">34</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;LEE CHENG XIN&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">LEE CHENG XIN</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:105}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">105</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:35}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">35</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;HU JIANI JOEY&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">HU JIANI JOEY</td>
-      <td rowspan="5" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;5th Text Recital Competition for Primary and Secondary Schools \nUpper Secondary (Team)\nBronze Award&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle;"><div style="max-height: 105px;">5th Text Recital Competition for Primary and Secondary Schools<br>Upper Secondary (Team)<br>Bronze Award</div></td>
-      <td rowspan="5" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2022}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; text-align: center;"><div style="max-height: 105px;">2022</div></td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:307}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; text-align: center;">307</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:36}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">36</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TONG JIA BAO&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">TONG JIA BAO</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:37}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">37</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ONG YEE XUAN&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">ONG YEE XUAN</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:38}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">38</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;BONG WAN HUA&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">BONG WAN HUA</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:39}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">39</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;LEE XIN NEE&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">LEE XIN NEE</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:40}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">40</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;LIEW YU HENG&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">LIEW YU HENG</td>
-      <td rowspan="6" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;National Chinese Challenge 2022-Certificate of Participation&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; font-family: Calibri; font-size: 12pt;"><div style="max-height: 126px;">National Chinese Challenge 2022-Certificate of Participation</div></td>
-      <td rowspan="6" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2022}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; text-align: center;"><div style="max-height: 126px;">2022</div></td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:401}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">401</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:41}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">41</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;VENICE LIEU QIAN YAO&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">VENICE LIEU QIAN YAO</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:404}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">404</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:42}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">42</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;TONG JIABAO&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">TONG JIABAO</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:43}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">43</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;LEE XIN NEE&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">LEE XIN NEE</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:44}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">44</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;BONG WAN HUA&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">BONG WAN HUA</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:45}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">45</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;ANG KAI QI ANGELINE&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">ANG KAI QI ANGELINE</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:46}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">46</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Lee Yong Le Ethan&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">Lee Yong Le Ethan</td>
-      <td rowspan="5" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;All Singapore Secondary Mathematics Competition (ASMC) for Normal Course Students 2022 \n- Certificate of Participation&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle;"><div style="max-height: 105px;">All Singapore Secondary Mathematics Competition (ASMC) for Normal Course Students 2022<br>- Certificate of Participation</div></td>
-      <td rowspan="12" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2022}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; text-align: center;"><div style="max-height: 252px;">2022</div></td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:404}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">404</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:47}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">47</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Soo Tse Siang&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">Soo Tse Siang</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:404}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">404</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:48}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">48</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tay Weide Xavier&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">Tay Weide Xavier</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:404}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">404</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:49}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">49</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Nor Sharizam Bin Muhamad Sharikin&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">Nor Sharizam Bin Muhamad Sharikin</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:401}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">401</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:50}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">50</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Cheng Kei Win&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">Cheng Kei Win</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:401}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">401</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:51}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">51</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Liew Yu Heng&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">Liew Yu Heng</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;All Singapore Secondary Mathematics Competition (ASMC) for Normal Course Students 2022 \n- Certificate of Achievement (5th Place)&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom;">All Singapore Secondary Mathematics Competition (ASMC) for Normal Course Students 2022<br>- Certificate of Achievement (5th Place)</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:401}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">401</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:52}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">52</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Choon Kah Ning&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">Choon Kah Ning</td>
-      <td rowspan="6" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;All Singapore Secondary Mathematics Competition (ASMC) for Normal Course Students 2022 \n- Certificate of Participation&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle;"><div style="max-height: 126px;">All Singapore Secondary Mathematics Competition (ASMC) for Normal Course Students 2022<br>- Certificate of Participation</div></td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:202}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">202</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:53}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">53</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Anderz Lan Jun Rong&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">Anderz Lan Jun Rong</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:203}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">203</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:54}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">54</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mohamad Rayyan Hambali&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">Mohamad Rayyan Hambali</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:203}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">203</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:55}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">55</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Janice Lee Siew Hui&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">Janice Lee Siew Hui</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:201}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">201</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:56}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">56</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tan Yuk Xuan&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">Tan Yuk Xuan</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:201}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">201</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:57}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">57</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Teo Zhi Rong&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; font-family: Calibri; font-size: 12pt;">Teo Zhi Rong</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:201}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">201</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:58}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">58</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CHEN JEUN WEI&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom;">CHEN JEUN WEI</td>
-      <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Singapore International Mathematics Computational\n(Junior Challenge)&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle;"><div style="max-height: 63px;">Singapore International Mathematics Computational<br>(Junior Challenge)</div></td>
-      <td rowspan="3" colspan="1" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2022}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: middle; text-align: center;"><div style="max-height: 63px;">2022</div></td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:59}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">59</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CHUA CHEE YANG&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom;">CHUA CHEE YANG</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:60}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">60</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;SUGUMAR RISHIVANDH&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom;">SUGUMAR RISHIVANDH</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:308}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">308</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:61}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">61</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;MOHAMAD KARIIM REHAIZAD BIN RUSLAN&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom;">MOHAMAD KARIIM REHAIZAD BIN RUSLAN</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Animation and Game Making (AGM) Competition 2022\nAnimation Category (Bronze Award)&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom;">Animation and Game Making (AGM) Competition 2022<br>Animation Category (Bronze Award)</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2022}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">2022</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:201}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">201</td>
-    </tr>
-    <tr style="height: 21px;">
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:62}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">62</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;HOW XUAN FENG CHARLENE&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom;">HOW XUAN FENG CHARLENE</td>
-      <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Animation and Game Making (AGM) Competition 2022\nGame Making Category (Gold Award)&quot;}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom;">Animation and Game Making (AGM) Competition 2022<br>Game Making Category (Gold Award)</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2022}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">2022</td>
-      <td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:301}" style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(0, 0, 0) rgb(0, 0, 0) rgb(204, 204, 204); border-image: initial; overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-align: center;">301</td>
-    </tr>
-  </tbody>
-</table></google-sheets-html-origin>
-
-### Year of 2021
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">S/No</th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Name</th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Achievements</th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Year</th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Class</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Cheong Kei Win</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Network for Teaching Entrepreneurship (NFTE) <br>Youth Challenge<br><br>Global Young Entrepreneur (Singapore)</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">401 </td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Toh Shan Xuan (Individual)</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="11"><br><br><br><br><br><br><br><br><br><br>The 4th Text Recital Competition <br>for Primary and Secondary <br>Schools (第三届新加坡中小学课文<br>朗诵比赛 (Bronze Award) for<br> Individual and Groups</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">104</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Liu Fang Chu Fan</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">104</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Ang Yun Wen</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">105</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">5</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Tan Zi Yi</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">106</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">6</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Lee Xin Nee</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">206</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">7</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Lim Xin Ting</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">206</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">8</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Hu Jiani Joey</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">206</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">9</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Liew Yu Heng</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">301</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">10</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Venice Lieu Qian Yao</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">304</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">11</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Chua Jing Wen Rachel</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">402</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">12</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Qi Ke</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">404</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">13</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Lee Xin Nee</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="8"><br><br><br><br><br><br>The 3rd Text Recital Competition for <br>Primary and Secondary <br>Schools (第三届新加坡中小学<br>课文朗诵比赛 (Bronze Award)</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">206</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">14</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Lim Xin Ting</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">206</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">15</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Bong Wan Hua</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">204</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">16</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Hu Jiani Joey</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">204</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">17</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Tong Jiabao</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">204</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">18</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Chua Jing Wen Rachel</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">402</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">19</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Chow Sher Mayne</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">402</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">20</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Qi Ke</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">402</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">21</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Gan Bing</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="3"><br>IgnITE Skills Challenge - <br>Dancing Drones Challenge - <br>Finals</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">202</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">22</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Yong Qing Long</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">202</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">23</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Gurrala Sreetham</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">203</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">24</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mark Jeshurun Gumban Mirasol</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="4"><br><br><br>Singapore Physics League 2021 - <br>Team Bronze Award</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">409</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">25</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Cheng Yu Siang, Dylan</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">409</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">26</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Swan Pyae Hmu Naing</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">409</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">27</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Siew Jie Wen</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">409</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">28</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Yen Jun Kai Vincent</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="4"><br><br><br>Singapore Physics League 2021 <br>- Team Honorable Mention</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">409</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">29</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Joni Jafrul Ahammed</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">409</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">30</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Ong Joon Hao</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">409</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">31</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">To Jie Le</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">409</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">32</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Sreeram Rojin</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Singapore Junior Chemistry Olympiad - <br>Bronze (Individual)</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">409</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">33</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Siew Jie Wen</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Singapore Junior Chemistry Olympiad - <br>Merit (Individual)</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">409</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">34</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Ng Xin Yue</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Singapore Junior Chemistry Olympiad - <br>Merit (Individual)</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">409</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">35</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Bryan Yee Yixuan</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Singapore Junior Chemistry Olympiad - <br>Merit (Individual)</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">409</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">36</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Bill Gates</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="3"><br><br>ITE IgnITE challenge - <br><br>Robotito challenge - finals</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="3">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">301</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">37</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Caleb Loh Zeng Hung</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">301</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">38</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Darren Ng Guo Xuan</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">301</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">39</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Liew Yu Heng</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="3"><br><br>ITE IgnITE challenge - <br><br>Robotito challenge - 2nd prize</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="3">2021</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">301</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">40</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mohd Sharizam</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">301</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">41</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Muhd Sufyan</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">301</td></tr></tbody></table>
-
-
+<h1><strong>Academic and Learning Achievements</strong></h1>
+<h3>Year of 2024</h3>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>No.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Student / CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievements</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sitinuratiqa Binte Mohamad Yunos</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>From a total of 58 entries, the students' original song "Rhythms of Life"
+was 1 of 11 songs selected to be featured at the Youth Station Select –
+Live! Showcase (Lower Secondary Category).</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Curiosity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Emerald Win</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Adaptability</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eva Tan Yi En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Adaptability</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Amber Lee Zhi Yao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Edric Wong Pui Kin</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>From a total of 58 entries, the students' original song "By Your
+<br>Side" was 1 of 11 songs selected to be featured at the Youth Station Select
+– Live! Showcase (Lower Secondary Category).</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Responsibility</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Izzadiana Qalisyah Binte Muhammad Rasidi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wynnie Tan Yun Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toh Zixun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Contribute</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Richard Joshua Ruban</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Contribute</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Li Cheok Fung, Andreas</p>
+</td>
+<td rowspan="7" colspan="1">
+<p>From a total of 53 entries, the students' original song "Seasons" was
+1 of 12 songs selected to be featured at the Youth Station Select – Live!
+Showcase (Open Category).</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Responsibility</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Koi Luck</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Connect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pathavee Ho Jun Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Adaptability</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Becky Fok Zhi Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Hang Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Koh Shuyu, Leeann</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guevarra Beatrice Raine Cruz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Connect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ariff Mirza Bin Asrul Nizam</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Participated in the 3T Translation Competition, organized by National
+Junior College where they received the consolation prize</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Safwan Bin M Shaifullah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Flourish</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raudhah Binte Abdul Rahman</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Recognized by the National Malay Language Council as the Ambassadors for
+Malay Language Month due to their deep involvement in the Malay Language
+activities that were carried out in school.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Connect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Ashraf Bin Rayelias</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Contribute</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Isaac Tan Xiang Ze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Won the Gold Award in the 7th National Text Recital Competition organised
+by the Committee to Promote Chinese Language Learning, Pei Hwa Presbyterian
+Primary School and the Singapore Chinese Teachers’ Literary Recital Society.
+Isaac went on to perform a live recital at the Singapore Chinese Cultural
+Centre where he emerged third.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Contribute</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chloe, Chen Yi Pei</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>31 students took part in the Singapore Pledge Hard-Pen Calligraphy Competition
+organized by The Chinese Calligraphy Society of Singapore. The Chinese
+Language Unit selected the top five submissions in recognition of the effort
+put in by the participants.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Connect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Olivia Nah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Contribute</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Min Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Adaptability</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Victoria Alin Chong Shu Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Contribute</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Stella Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Contribute</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jayaraman Mansikaa</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>In the MOE Budding Writers’ and Budding Artistes’ Programme 2024 in Tamil
+Language, the students were awarded Certificate of Participation for the
+Budding Writers Award.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yaalini Rajasekar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Latisha d/o Nahendran</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>In the MOE Budding Writers’ and Budding Artistes’ Programme 2024 in Tamil
+Language, the students were awarded Certificate of Participation for the
+Budding Artistes Award.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sivasankaran Srisharan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Adapatbility</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muthukkumaran Anuradha Mahesh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Connect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Harnivedaa Kabirbabu</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Students took part in the W1W7 Cluster Tamil Competition and received
+the Consolation Prize for Oratorical Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>33</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saravanakumar Kobika</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Connect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Latisha d/o Nahendran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students took part in the W1W7 Cluster Tamil Competition and received
+the 1st Prize in the Touch-Typing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Abdul Kadhir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students took part in the W1W7 Cluster Tamil Competition and received
+Consolation Prize in the Touch-Typing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Adaptability</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kam Xin Hui, Christina</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NFTE Youth Entrepreneurship Challenge
+<br>Top 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Curiosity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>37</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurdini Aliyah Binte Yuslim</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>3T Translation Competition by NJC (Semi Finals)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Connect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Norsafynaz Binte Muhammad Norasif</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Connect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>39</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Syukri Bin Arman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ramsankar Thavanesh</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Creative Writing Competition (Cluster)
+<br>2nd Prize for both</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Connect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>41</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pazhanivel Abarna</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Connect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saravanaperumal Sathya Dharunkarthik</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Oratorical Competition (Cluster) Consolation Prize</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>43</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shreekesh S/O Sivanesan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Touch Typing Competition (Cluster) Consolation Prize</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Curiosity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>44</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Akash Alastair S/O Krishna</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Touch Typing Competition (Cluster) 3rd Prize</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Curiosity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>45</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurdini Aliyah Binte Yuslim</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Ambassadors for Malay Language Month. (Malay Language Council)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Connect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>46</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aqmal Putra Bin Md Nur Hafi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Care</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Year of 2023</h3>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>S/No</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOH KE XIN</p>
+</td>
+<td rowspan="20" colspan="1">
+<p>Chingay 2023: Audience's Favourite Rabbits Art-Venture Installation</p>
+</td>
+<td rowspan="20" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Curiosity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NABIL ABUZAR BIN ISSA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Curiosity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NURUL AISYAH BINTE MOHAMMED ZULKILFLI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Adaptability</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GURRALA SREETHAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Adaptability</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FATIMAH FITRI AZMIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NURINA BALQIS BINTE FREADY FAZLI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYED SEYIPH SHAHAB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANIQ HILMAN BIN IKA ZAHARY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Responsibility</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RISYAM ZAIFI BIN ZAINUDIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Responsibility</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DIYAN UMAIRAH BINTE ZULFI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EUNICE TAN XUN PIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM XIN TING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUR ZULAIKHA ABDULLAH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SUFFI SYAMMIRRAH FATIHAH BINTE MUHAMMAD SUHAIMI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FAREESHA BEGUM BINTE HIDAYATHULLAH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HALIMATUL 'ALAWIAH BINTE RAMLAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAY SHAOQI SHERIS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>THET THET AUNG SAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YEO CHING YUN, GRACELYN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOH KAI KIAT DAVID</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LI CHEOK FUNG, ANDREAS</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>The students' original song "Our Story" was selected as one of the Top
+10 songs for the Lower Secondary Category in the Singapore Youth Festival
+Youth Station Project 2023.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LUM CHEE HOU RIAN (LIN ZHIHAO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEW WEN XUAN ADEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOH KOI LUCK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>APONESTO FRANZ GRAEDEN DISPO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Connect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STACY CHAN YI LING</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>The students' original song "Light of My Life" received an Honourable
+Mention for the Lower Secondary Category in the Singapore Youth Festival
+Youth Station Project 2023.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Responsibility</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JOLYNE TEO WEI HE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NATALIE TAN LI LIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SARAVANAN MEHAA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHEENA KHINE BINTE ABDUL GANI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Contribute</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GAN BING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>His original song "You've Got What it Takes" was selected as one of the
+Top 10 songs for the Open Category in the Singapore Youth Festival Youth
+Station Project 2023.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Adaptability</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Year of 2022</h3>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>S/No</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gurrala Sreetham</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>W7 Upload! Online Art Competition (Certificate of Commendation)</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>302</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Syed Seyiph Shahab</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>303</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adnan Zuhayr Bin Razali</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Singapore Youth Festival Youth Station Project 2022. The students' original
+song "When We Were Younger" was selected as one of the Top 10 songs for
+the Lower Secondary Category. In total, students from 74 school submitted
+171 original songs for consideration.</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>202</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guevarra Beatrice Raine Cruz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>204</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Koh Shuyu, Leeann</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>204</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pathavee Ho Jun Yan</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>Singapore Youth Festival Youth Station Project 2022. The students' original
+song "Voices" was selected as one of the Top 10 songs for the Lower Secondary
+Category. In total, students from 74 school submitted 171 original songs
+for consideration.
+<br>
+<br>
+</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>203</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Hang Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>204</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Becky Fok Zhi Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>205</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cha Zi Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>205</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fareesha Begum Binte Hidayathullah</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>Singapore Youth Festival 2022 Art Exhibition. The students' artwork, "Waste
+of Waste" was awarded the Certificate of Recognition and selected for an
+on-site exhibition at the National Museum of Singapore</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>306</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Qiara Quzandria Binte Adnan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leong Mei Ling Amanda Fitriana</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thet Thet Aung San</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liew Yu Heng</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>IgnITE Skills Challenge 2022 - Mobile Robot Challenge 1st Prize</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>401</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohamed Nor Sharizam Bin Muhamad Sharikin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Nur Sufyan Bin Nordin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mak Jun Rong, Deon</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>IgnITE Skills Challenge 2022 - AI Car Challenge Finalist (Top 10)</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>102</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fabian Lim Kai Feng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jordan Lo Zheng Jie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JANICE LEE SIEW HUI</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>IgnITE Skills Challenge 2022 - AI Car Challenge</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>201</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHAN JIA LE KAYDEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TEO ZHI RONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KIMBERLIE LEE RUI YU</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>IgnITE Skills Challenge 2022 - Logistics Challenge</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>103</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YUVVIKA THERUMARAJ</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JAYDEN TEO XU KAI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHAN GUAN YANG</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>IgnITE Skills Challenge 2022 - Logistics Challenge</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>103</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CEDRIC LI YAO ZHONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LUM CHEE HOU RIAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AQIL BIN AMAN</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>IgnITE Skills Challenge 2022 - ChromatoDigiArt Challenge</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>203</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TOH QIXIAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD NUR HASSAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>THANCHNAMOORTHY HARIPRIYAN</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>A Drama Workshop cum Competition was organised by Commonwealth Secondary
+School Tamil unit for W1W7 Cluster Lower Secondary students.
+<br>After the workshop, participants competed in the drama competition by
+submitting a video based on the topic of Resilience. Our school won first
+prize for the W1W7 Cluster Tamil Drama Competition.</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>203</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CAROUNAGARANE GURU PRASATH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>205</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUTHAMIL SELVAN DARSHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>205</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AKSHITHA PANDI MANIKANDAPANDI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>207</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PAZHANIVEL ABARNA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>207</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NURUL AISHAH</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>
+<br>BLACKARENA Malay Drama Competition organised by organised by Bukit Batok
+East CC MAEC and supported by Malay Language and Literary Promotional Committee
+(MLLPC), MESRA and Lee Foundation.
+<br>- 4th place and Best Actress Award</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>302</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PUTERI ELLYZA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>304</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SARAH ARYANA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>304</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NURIYAN INSYIRA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>304</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEW TING AN CYRUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Chemistry Olympiad 2022 - Bronze</p>
+</td>
+<td rowspan="28" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>409</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEN JEUN WEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Chemistry Olympiad 2022 - Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAYEDA FAHMIDA ISLAM MAHEE</p>
+</td>
+<td rowspan="26" colspan="1">
+<p>Singapore Junior Chemistry Olympiad 2022 - Certificate of Participation
+<br>
+<br>An annual competition organised by the Singapore National Institute of
+Chemistry (SNIC) in partnership with NUS, NTU, SUTD and Nanyang Polytechnic
+and supported by the Ministry of Education (MOE).
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>402</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SITI NUR AISYAH BINTE IBRAHIM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>402</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TOMMY LEE JUN FENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>402</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VENKATESAN HAAM PRASATH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>402</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SIRUVANI SIVAKUMAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>408</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TEO YIN SHUEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>408</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUA TZE YEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>408</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEW JUN LIANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>408</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOW WEN JIE OWEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>409</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ERNST GOO SHANG WEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>409</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE XIN NEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SELVAKUMAR MAHESHWARI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LUCAS PEH YI JIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SUGUMAR RISHIVANDH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NGA WEI SHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUTHUKUMARAN ARUNKUMAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WONG QI EN AUDRIC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JAY MIN DIVAKAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TONG JIA BAO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WIJETUNGA MUDALIGE WEIHAN WIJETUNGA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUA CHEE YANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JET ANG YONG XIANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHAN WEN HUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>THIHA THANT ZAW</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEAN WU WEI LOONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANDRIE SU HENG YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CANDY KOH TIANTIAN</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>5th Text Recital Competition for Primary and Secondary Schools
+<br>Lower Secondary (Individual)
+<br>Bronze Award</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>106</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>XU YUJIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>108</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NATALIE TAN LI LIN</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>5th Text Recital Competition for Primary and Secondary Schools
+<br>Lower Secondary (Team)
+<br>Bronze Award</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>105</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG YU HAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>105</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>33</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KEITH CHIA JIA WE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>105</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE CHENG XIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>105</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HU JIANI JOEY</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>5th Text Recital Competition for Primary and Secondary Schools
+<br>Upper Secondary (Team)
+<br>Bronze Award</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>307</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TONG JIA BAO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>37</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ONG YEE XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BONG WAN HUA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>39</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE XIN NEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIEW YU HENG</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>National Chinese Challenge 2022-Certificate of Participation</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>401</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>41</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VENICE LIEU QIAN YAO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>404</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TONG JIABAO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>43</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE XIN NEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>44</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BONG WAN HUA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>45</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANG KAI QI ANGELINE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>46</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Yong Le Ethan</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>All Singapore Secondary Mathematics Competition (ASMC) for Normal Course
+Students 2022
+<br>- Certificate of Participation</p>
+</td>
+<td rowspan="12" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>404</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>47</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Soo Tse Siang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>404</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>48</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Weide Xavier</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>404</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>49</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nor Sharizam Bin Muhamad Sharikin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>401</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>50</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheng Kei Win</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>401</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>51</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liew Yu Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All Singapore Secondary Mathematics Competition (ASMC) for Normal Course
+Students 2022
+<br>- Certificate of Achievement (5th Place)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>401</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>52</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choon Kah Ning</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>All Singapore Secondary Mathematics Competition (ASMC) for Normal Course
+Students 2022
+<br>- Certificate of Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>202</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>53</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Anderz Lan Jun Rong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>203</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>54</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohamad Rayyan Hambali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>203</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>55</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Janice Lee Siew Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>201</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>56</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Yuk Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>201</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>57</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teo Zhi Rong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>201</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>58</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEN JEUN WEI</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Singapore International Mathematics Computational
+<br>(Junior Challenge)</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>59</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUA CHEE YANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>60</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SUGUMAR RISHIVANDH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>308</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>61</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOHAMAD KARIIM REHAIZAD BIN RUSLAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Animation and Game Making (AGM) Competition 2022
+<br>Animation Category (Bronze Award)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>201</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>62</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOW XUAN FENG CHARLENE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Animation and Game Making (AGM) Competition 2022
+<br>Game Making Category (Gold Award)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>301</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Year of 2021</h3>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>S/No</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Achievements</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheong Kei Win</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Network for Teaching Entrepreneurship (NFTE)
+<br>Youth Challenge
+<br>
+<br>Global Young Entrepreneur (Singapore)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>401&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toh Shan Xuan (Individual)</p>
+</td>
+<td rowspan="11" colspan="1">
+<p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>The 4th Text Recital Competition
+<br>for Primary and Secondary
+<br>Schools (第三届新加坡中小学课文
+<br>朗诵比赛&nbsp;(Bronze Award) for
+<br>Individual and Groups</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>104</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liu Fang Chu Fan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>104</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ang Yun Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>105</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Zi Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>106</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Xin Nee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>206</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Xin Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>206</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hu Jiani Joey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>206</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liew Yu Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>301</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Venice Lieu Qian Yao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>304</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Jing Wen Rachel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>402</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Qi Ke</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>404</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Xin Nee</p>
+</td>
+<td rowspan="8" colspan="1">
+<p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>The 3rd Text Recital Competition for
+<br>Primary and Secondary
+<br>Schools (第三届新加坡中小学
+<br>课文朗诵比赛&nbsp;(Bronze Award)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>206</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Xin Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>206</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bong Wan Hua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>204</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hu Jiani Joey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>204</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tong Jiabao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>204</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Jing Wen Rachel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>402</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chow Sher Mayne</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>402</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Qi Ke</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>402</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gan Bing</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>
+<br>IgnITE Skills Challenge -
+<br>Dancing Drones Challenge -
+<br>Finals</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>202</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yong Qing Long</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>202</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gurrala Sreetham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>203</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mark Jeshurun Gumban Mirasol</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>
+<br>
+<br>
+<br>Singapore Physics League 2021 -
+<br>Team Bronze Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>409</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheng Yu Siang, Dylan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>409</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Swan Pyae Hmu Naing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>409</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siew Jie Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>409</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yen Jun Kai Vincent</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>
+<br>
+<br>
+<br>Singapore Physics League 2021
+<br>- Team Honorable Mention</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>409</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joni Jafrul Ahammed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>409</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Joon Hao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>409</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To Jie Le</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>409</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sreeram Rojin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Chemistry Olympiad -
+<br>Bronze (Individual)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>409</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>33</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siew Jie Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Chemistry Olympiad -
+<br>Merit (Individual)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>409</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Xin Yue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Chemistry Olympiad -
+<br>Merit (Individual)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>409</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bryan Yee Yixuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Chemistry Olympiad -
+<br>Merit (Individual)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>409</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bill Gates</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>
+<br>
+<br>ITE IgnITE challenge -
+<br>
+<br>Robotito challenge - finals</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>301</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>37</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Caleb Loh Zeng Hung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>301</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Darren Ng Guo Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>301</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>39</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liew Yu Heng</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>
+<br>
+<br>ITE IgnITE challenge -
+<br>
+<br>Robotito challenge - 2nd prize</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>301</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohd Sharizam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>301</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>41</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhd Sufyan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>301</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Year of 2019/2020</h3>
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">S/No</th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Name</th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Achievements</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Year</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Class</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Karin Jeslyn Chua</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Singapore Math Olympiad (Junior): Honourable Mention</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2019</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">205</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Chua Brian</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Singapore Math Olympiad (Junior): Honourable Mention</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2019</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">104</td></tr><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Goh Benson</td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Singapore Math Olympiad (Junior): Honourable Mention</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2019</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">105</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Nur Syarifah Bte Najib</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">National Malay Writing Competition (Gold With Honours)</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2019</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">404</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">5</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mohamed Nor Sharizam Bin Muhamad Sharikin</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">National All Singapore Secondary Mathematics Competition for Normal Course: 15th place</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2020</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">201</td></tr></tbody></table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>S/No</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Achievements</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Karin Jeslyn Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Math Olympiad (Junior): Honourable Mention</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>205</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Brian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Math Olympiad (Junior): Honourable Mention</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>104</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Benson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Math Olympiad (Junior): Honourable Mention</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>105</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Syarifah Bte Najib</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Malay Writing Competition (Gold With Honours)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>404</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohamed Nor Sharizam Bin Muhamad Sharikin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National All Singapore Secondary Mathematics Competition for Normal Course:
+15th place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>201</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
