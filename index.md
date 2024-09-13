@@ -32,10 +32,10 @@ sections:
       image: /images/Timetable_2024.png
       alt: Image alt text
   - infobar:
-      title: YHSS Term 3 Termly Newsletter for Parents
-      subtitle: YHSS Term 3 Newsletter
+      title: YHSS Term 4 Termly Newsletter for Parents
+      subtitle: YHSS Term 4 Newsletter
       id: infobar
-      description: Dear parents, please find the termly newsletter for Term 3 (2024)
+      description: Dear parents, please find the termly newsletter for Term 4 (2024)
         at the Information for Parents page below.
       button: Information for Parents
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
