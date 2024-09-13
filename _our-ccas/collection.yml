@@ -2,7 +2,6 @@ collections:
   our-ccas:
     output: true
     order:
-      - Clubs and Societies/Clubs and Societies.md
       - Clubs and Societies/Infocomm and Media Club.md
       - Clubs and Societies/Media Resource Library.md
       - Clubs and Societies/Tinkering and Robotics Club.md
