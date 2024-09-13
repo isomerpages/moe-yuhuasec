@@ -40,16 +40,6 @@ sections:
       button: Information for Parents
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
   - infopic:
-      title: Direct School Admissions (DSA) 2024
-      subtitle: Information for parents
-      id: infopic
-      description: Please find information regarding the Direct School Admissions
-        (DSA) 2024 at the link below.
-      button: Click here for details
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/direct-school-admissions-dsa/
-      image: /images/dsa2023.png
-      alt: Image alt text
-  - infopic:
       title: Yearbook 2023
       subtitle: YEARBOOK 2023
       id: infopic
@@ -68,15 +58,5 @@ sections:
       button: click here to read the article!
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
-      alt: Image alt text
-  - infopic:
-      title: Secondary 2 Parent-Teacher Meeting
-      subtitle: information for parents
-      id: infopic
-      description: Please find the materials for the Parent-Teacher Meeting for
-        Secondary 2 on 22 March 2024 at the link below.
-      button: Information for Parents
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
-      image: /images/Screenshot_2024_03_22_070218.png
       alt: Image alt text
 ---

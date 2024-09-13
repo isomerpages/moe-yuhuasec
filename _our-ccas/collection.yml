@@ -2,12 +2,10 @@ collections:
   our-ccas:
     output: true
     order:
-      - Clubs and Societies/Clubs and Societies.md
       - Clubs and Societies/Infocomm and Media Club.md
       - Clubs and Societies/Media Resource Library.md
       - Clubs and Societies/Tinkering and Robotics Club.md
       - Clubs and Societies/.keep
-      - Visual Performing Arts/Visual Performing Arts.md
       - Visual Performing Arts/Choir.md
       - Visual Performing Arts/Concert Band.md
       - Visual Performing Arts/Dance.md
@@ -20,7 +18,6 @@ collections:
       - Physical Sports/Volleyball.md
       - Physical Sports/Wushu.md
       - Physical Sports/.keep
-      - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/Boys Brigade.md
       - Uniformed Groups/National Cadet Corps.md
       - Uniformed Groups/National Civil Defence Cadet Corps.md
