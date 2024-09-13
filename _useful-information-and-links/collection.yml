@@ -2,7 +2,6 @@ collections:
   useful-information-and-links:
     output: true
     order:
-      - Canteen Advertisement.md
       - Personal Learning Device (PLD)/.keep
       - Personal Learning Device (PLD)/National Digital Literacy Programme.md
       - Personal Learning Device (PLD)/PLD support.md
