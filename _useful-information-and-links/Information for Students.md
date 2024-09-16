@@ -62,9 +62,8 @@ for Upper Secondary&nbsp;</p>
 through the use of career-related tools and information.</p>
 <hr>
 <h4><strong>School Library books SPYDUS Catalogue :</strong></h4>
-<p>
-<br>Click <strong><u>here</u></strong> to access the School Library Management
-System.
+<p>Click <a href="https://schoolibrary.moe.edu.sg/yuhuasec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener nofollow" target="_blank">here</a> to
+access the School Library Management System.
 <br>
 <br>
 <br>
