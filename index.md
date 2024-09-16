@@ -32,7 +32,7 @@ sections:
       image: /images/Timetable_2024.png
       alt: Image alt text
   - infobar:
-      title: YHSS EYE Exam timetable
+      title: YHSS EYE Exam Schedule
       subtitle: YHSS Term 4
       id: infobar
       description: Dear parents, please find the EYE timetable at the Information for
