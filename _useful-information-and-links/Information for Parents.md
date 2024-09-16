@@ -14,8 +14,8 @@ variant: tiptap
 </p>
 <p><a href="/files/S3_EYE_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary Three End of Year Examination Schedule 2024</a>
 </p>
-<h3>Semester 2 Timetable</h3>
 <hr>
+<h3>Semester 2 Timetable</h3>
 <p>Dear Parents/Guardians,
 <br>You may access the Semester 2 timetable for 2024 below.</p>
 <p><a href="/files/2024_Sem_2_TT_Sec_1_for_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
@@ -26,20 +26,20 @@ variant: tiptap
 </p>
 <p><a href="/files/2024_Sem_2_TT_Sec_4_and_5_for_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5</a>
 </p>
-<h3>Term 4 Letter for 2024</h3>
 <hr>
+<h3>Term 4 Letter for 2024</h3>
 <p>Dear Parents,
 <br>You may access the Term 4 Letter for 2024 <a href="/files/YHSS_2024_Term_4_Letter__Final__V1.pdf" rel="noopener nofollow" target="_blank">here!</a>
 </p>
-<h3>Sharing on Educational Technology with Parents on 6 April 2024</h3>
 <hr>
+<h3>Sharing on Educational Technology with Parents on 6 April 2024</h3>
 <p>Dear Parents,
 <br>You may access the materials for the sharing on Educational Technology
 with Parents on 6 April 2024 below:</p>
 <p><a href="/files/EdTech_in_YHSS__sharing_with_parents___for_uploading_.pdf" rel="noopener noreferrer nofollow" target="_blank">Slides on EdTech in YHSS (for parents)</a>
 </p>
-<h3>Sec 2 Parent-Teacher Meeting materials</h3>
 <hr>
+<h3>Sec 2 Parent-Teacher Meeting materials</h3>
 <p>Dear Parents,
 <br>You may access the materials for the Sec 2 Parent-Teacher Meeting below:</p>
 <p><a href="/files/ECG_for_Sec_2_22_March_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 ECG Briefing slides</a>
@@ -50,21 +50,21 @@ with Parents on 6 April 2024 below:</p>
 </p>
 <p><a href="/files/2024_Sec_2_PTM__Subject_Combination_for_2025_Sec_3T_22_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Combination slides for 2025 Secondary 3 Normal (Technical)/G1 students</a>
 </p>
-<h3>Sec 1 Parent-Teacher Meeting materials</h3>
 <hr>
+<h3>Sec 1 Parent-Teacher Meeting materials</h3>
 <p>Dear Parents,
 <br>You may access the materials for the Sec 1 Parent-Teacher Meeting below:</p>
 <p><a href="/files/Sec_1_Acad_Briefing_Slides_2024_for_Sec_1_PTM_12_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Academic Briefing slides</a>
 </p>
 <p><a href="/files/Sec_1_2024_Briefing_for_Parents_for_PDLP.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 PDLP briefing slides</a>
 </p>
-<h3>Student Handbook</h3>
 <hr>
+<h3>Student Handbook</h3>
 <p>Dear parents, you may access <a href="https://sites.google.com/moe.edu.sg/yhss-handbook-site/home?pli=1" rel="noopener noreferrer nofollow" target="_blank">YHSS Student Handbook</a> for
 more information on the expectations for students, academic matters and
 co-curricular matters.</p>
-<h3>2024 Booklists</h3>
 <hr>
+<h3>2024 Booklists</h3>
 <p>Secondary 2 (2024)</p>
 <p><a href="/files/yhss%202024%20s2%20g1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G1</a>
 </p>
@@ -89,6 +89,7 @@ co-curricular matters.</p>
 <p>Secondary 5 (2024)</p>
 <p><a href="/files/yhss%202024%20s5%20na.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 Normal (Academic)</a>
 </p>
+<hr>
 <h3>Financial Assistance Scheme (FAS)</h3>
 <p>Please click&nbsp;<a href="/files/2023document4a_moe%20fas%20pamphet%20el.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information on FAS or refer to the&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>&nbsp;for
@@ -113,6 +114,7 @@ scan and email the required documents together with the completed form
 to&nbsp;<a href="mailto:yuhua_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yuhua_ss@moe.edu.sg</a>,&nbsp;attention
 to Mdm Lim Seok Har &amp; Mdm Noraini.&nbsp;&nbsp;Alternatively, the form
 and documents can be submitted/mailed to the school’s General Office.</p>
+<hr>
 <h3>Parents Gateway</h3>
 <p>Dear Parents,&nbsp;</p>
 <p>We are pleased to inform you that our school is now onboard Parents Gateway.
