@@ -5,11 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
-<h4>O Level Preliminary Examination Schedule 2024</h4>
+<h4>Secondary 1 to 3 End of Year Examination Schedule 2024</h4>
 <p>Dear Parents/Guardians,
-<br>You may access the O Level Preliminary Examination Schedule for 2024 below.</p>
-<p><a href="/files/2024_O_Level_Prelim_Schedule_final.pdf" rel="noopener noreferrer nofollow" target="_blank">O Level Preliminary Examination Schedule 2024</a>
-</p>
+<br>You may access the Sec1 to Sec 3 EYE Schedule for 2024 below.</p>
+<p></p>
 <p>N Level Preliminary Examination Schedule 2024</p>
 <p>Dear Parents/Guardians,
 <br>You may access the N Level Preliminary Examination Schedule for 2024 below.</p>
