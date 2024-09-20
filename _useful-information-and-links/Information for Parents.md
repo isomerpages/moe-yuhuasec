@@ -27,6 +27,12 @@ variant: tiptap
 <p><a href="/files/2024_Sem_2_TT_Sec_4_and_5_for_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5</a>
 </p>
 <hr>
+<h3>Term 4 Parent Letter</h3>
+<p>Dear Parents,
+<br>You may access the Term 4 Letter to Parents below:</p>
+<p><a href="/files/YHSS_2024_Term_4_Letter__Final__V3.pdf" rel="noopener nofollow" target="_blank">Term 4 Letter to Parents</a>
+</p>
+<p></p>
 <h3>Sharing on Educational Technology with Parents on 6 April 2024</h3>
 <p>Dear Parents,
 <br>You may access the materials for the sharing on Educational Technology
