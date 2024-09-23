@@ -8,7 +8,7 @@ variant: tiptap
 <h4>Secondary 1 to 3 End of Year Examination Schedule 2024</h4>
 <p>Dear Parents/Guardians,
 <br>You may access the Sec1 to Sec 3 EYE Schedule for 2024 below.</p>
-<p><a href="/files/2024_N_Level_Prelim_Schedule_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary One End of Year Examination Schedule 2024</a>
+<p><a href="/files/S1_EYE_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary One End of Year Examination Schedule 2024</a>
 </p>
 <p><a href="/files/S2_EYE_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary Two End of Year Examination Schedule 2024</a>
 </p>
