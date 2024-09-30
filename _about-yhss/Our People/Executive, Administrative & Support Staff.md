@@ -161,6 +161,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Anna Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Part Time Adjunct School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Toh Su Qi</p>
 </td>
 <td rowspan="1" colspan="1">
