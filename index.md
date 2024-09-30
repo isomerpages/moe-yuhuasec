@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Yuhua Secondary School
-description: Brief site description here
+description: The official website of Yuhua Secondary School
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
