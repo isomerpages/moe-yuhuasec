@@ -1,6 +1,6 @@
 title: Yuhua Secondary School
 url: https://www.yuhuasec.moe.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/crest.png
 colors:
   primary-color: "#284078"
   secondary-color: "#4372d6"
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: ""
+description: The official website of Yuhua Secondary School
 permalink: none
 baseurl: ""
 exclude:
