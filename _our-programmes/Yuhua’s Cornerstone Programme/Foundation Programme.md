@@ -19,20 +19,12 @@ and develop social skills to interact with others.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SECONDARY ONE</p>
-<p>Self-Directed Learner</p>
-<p>Self-Awareness</p>
-<p>Relationship Management</p>
-<p>Responsible Decision Making</p>
-<p></p>
+<p><strong>SECONDARY ONE</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SECONDARY TWO</p>
-<p>Active Contributor</p>
-<p>Concerned Citizens</p>
-<p>Social Awareness</p>
-<p>Adaptive Thinking</p>
-<p></p>
+<p><strong>SECONDARY TWO</strong>
+</p>
 </td>
 </tr>
 <tr>
