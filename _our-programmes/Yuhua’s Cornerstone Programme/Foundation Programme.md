@@ -43,4 +43,8 @@ and develop social skills to interact with others.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>At Upper Secondary, students will participate in the Network for Teaching
+Entrepreneurship (NFTE) programme which is designed to build a positive
+mindset in our students and learn entrepreneurial skills. Through the programme,
+we hope that our students can become confident individuals who are contributors
+to the society after graduating from secondary school.</p>
