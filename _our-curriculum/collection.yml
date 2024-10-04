@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Sexuality Education.md
       - Aesthetics Craft & Technology.md
       - Character & Citizenship Education.md
       - English Language and Literature.md
