@@ -19,6 +19,11 @@ and develop social skills to interact with others.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SECONDARY ONE</p>
+<p>Self-Directed Learner</p>
+<p>Self-Awareness</p>
+<p>Relationship Management</p>
+<p>Responsible Decision Making</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
