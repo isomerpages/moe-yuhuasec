@@ -7,7 +7,7 @@ image: /images/corner_stone.png
 third_nav_title: Yuhua’s Cornerstone Programme
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/corner_stone.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/corner_stone.png">
 </div>
 <p><strong>Cornerstone</strong> is YHSS’ whole-school approach to care-connect-contribute
 towards our suite of UPLIFT initiatives.</p>
