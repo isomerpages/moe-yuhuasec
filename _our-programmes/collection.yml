@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Yuhua’s Cornerstone Programme/Yuhua’s Cornerstone Programme.md
       - Yuhua’s Cornerstone Programme/Foundation Programme.md
       - Yuhua’s Cornerstone Programme/After School Engagement Programme.md
       - Yuhua’s Cornerstone Programme/.keep
