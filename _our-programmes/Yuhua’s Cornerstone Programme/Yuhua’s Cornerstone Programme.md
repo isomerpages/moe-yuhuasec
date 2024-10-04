@@ -11,10 +11,9 @@ third_nav_title: Yuhua’s Cornerstone Programme
 </div>
 <p><strong>Cornerstone</strong> is YHSS’ whole-school approach to care-connect-contribute
 towards our suite of UPLIFT initiatives.</p>
-<p>&nbsp;According to the Cambridge Dictionary, the word ‘cornerstone’ refers
-to <strong><em>something of great importance that everything else depends on.</em></strong>
+<p>According to the Cambridge Dictionary, the word ‘cornerstone’ refers to <strong><em>something of great importance that everything else depends on.</em></strong>
 </p>
-<p>&nbsp;Our mission is to build <strong><em>Yuhuans of Character and Purpose Who Care, Connect and Contribute.</em></strong> We
+<p>Our mission is to build <strong><em>Yuhuans of Character and Purpose Who Care, Connect and Contribute.</em></strong> We
 aim to <strong>build all students up to the peak </strong>based on <strong><em>Maslow Hierarchy of Needs.</em></strong> Towards
 this end, Cornerstone is our effort towards uplifting every Yuhuan – building
 esteem and motivation by first ensuring with priority different foundational
