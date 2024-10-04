@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Yuhua’s Cornerstone Programme</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/corner_stone.png">
+</div>
 <p>Our After School Engagement (ASE) programme - Yuhua Engagement Activity
 Hub (YEAHub) is meant to complement our co-curricular activity (CCA) programme
 and will operate on non-CCA days i.e. Mondays, Wednesdays and Fridays from
