@@ -20,46 +20,14 @@ The Department takes reference from MOE’s Science Curriculum Framework, which 
 
 <img src="/images/sci.jpg" style="width:50%">
 
-&nbsp;The department aims to make the learning of Science fun while making it relevant to everyday life.  
+### Vision
+
+&nbsp;A department that espouses the joy of learning Science through emphasis on the skills and values central to the practice of Science  
+
 
 ### Signature Programme(s)
 
-**iSEE**&nbsp;
-
-**SCIENTIFIC&nbsp;EXPERIENTIAL &amp;&nbsp;EXPLORATORY LEARNING PROGRAMME**
-
-The iSEE programme is the signature programme of the Yuhua Science Department. It is explicitly linked to the various parts of the science curriculum. It provides regular pulses of learning opportunities which are progressive in nature such that they delve into the depth of the subject content.&nbsp;
-
-The iSEE learning programme will cover 3 fields in science, namely,&nbsp;
-
-(i) biodiversity,&nbsp;   
-(ii) chemistry and our environment, and&nbsp;  
-(iii) the physical world around us.&nbsp;
-
-To facilitate the inquiry learning process, all lower secondary students will experience the phases of inquiry learning by participating in modules covering each field/area. Each module will provide students with learning experiences (LE), exploratory and explanatory opportunities (EO) and extension of their learning to new contexts (EL).&nbsp;
-
-For example, the Secondary 2 students underwent an iSee module on the theme “Interactions” (Physical world around us) and were tasked to design a “solar cooker” which was used for cooking marshmallows. The project allows students to demonstrate their learning from the chapters on Energy and Work Done, Effects of Heat and its Transmission, as well as Chemical Changes, and allows the students to extend their learning to new contexts.&nbsp;
-
-														 Math-Nifi-Science Week
-
-The Science department also collaborates with the Math department to organise the Math-nifi-Science week.&nbsp;
-
-The aims of the Math-nifi-Science week are:
-
-* arouse students’ learning interests through heightening students’ awareness of the interconnectedness of Mathematical and Scientific concepts.&nbsp;
-* provide students with opportunities to apply Maths and Science concepts in real-world contexts.
-* deepen students’ mastery of fundamental mathematical and scientific skills to support the Maths and Science curriculum.
-
-
-In 2019, some of the activities for Math-nifi-Science week included:
-
-* Learning Journey to the Science Centre for DinoQuest and a Mass Escape Room challenge
-* Paper aeroplane challenge&nbsp;
-* Examining the microscopic world around us using a Foldoscope&nbsp;
-
-  
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; **Science Competitions**
+**Science Competitions**
 
 The Science department also regularly sends students for Science-related competitions, to provide additional exposure to content taught beyond the classroom.&nbsp;
 
@@ -67,6 +35,8 @@ The following is a list of the competitions that the students have participated 
 
 * STEM Challenge
 * Ignite Skills Challenge 2024
-* Chemistry Olympiad 2024
+* Singapore Junior Chemistry Olympiad 2024
 * Singapore Physics League 2024
-* Biology Olympiad 2024
+* Singapore Junior Biology Olympiad 2024
+* Singapore National Crystal Growing Challenge
+
