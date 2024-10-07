@@ -61,30 +61,29 @@ to the society after graduating from secondary school.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p></p>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FOUNDATION4.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/FOUNDATION4.png">
 </div>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FOUNDATION6.png">
 </div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p></p>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FOUNDATION5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/foundation5__1.png">
 </div>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FOUNDATION7.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/FOUNDATION7.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
