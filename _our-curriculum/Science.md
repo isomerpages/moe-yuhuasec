@@ -40,3 +40,6 @@ The following is a list of the competitions that the students have participated 
 * Singapore Junior Biology Olympiad 2024
 * Singapore National Crystal Growing Challenge
 
+![Singapore National Crystal Growing Challenge 2024](/images/WhatsApp_Image_2024_09_27_at_16_27_09.jpg)
+
+![](/images/WhatsApp_Image_2024_09_27_at_16_27_08.jpg)
