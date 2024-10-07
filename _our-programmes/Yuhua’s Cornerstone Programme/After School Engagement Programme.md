@@ -81,12 +81,8 @@ and positive friendships.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/2023%20images/yeah_hub_term3_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yeahub3.png">
 </div>
 </td>
 </tr>
