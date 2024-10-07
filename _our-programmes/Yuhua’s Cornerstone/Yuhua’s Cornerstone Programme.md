@@ -29,6 +29,4 @@ on Maslow’s Hierarchy of Needs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Cornerstone.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
