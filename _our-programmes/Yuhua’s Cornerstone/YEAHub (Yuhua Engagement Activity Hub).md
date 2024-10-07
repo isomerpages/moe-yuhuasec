@@ -80,9 +80,14 @@ and positive friendships.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Sporty Thursdays</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yeahub3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yeahub3_1.png">
 </div>
 </td>
 </tr>
@@ -102,7 +107,6 @@ and positive friendships.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/yeahub7.png">
 </div>
