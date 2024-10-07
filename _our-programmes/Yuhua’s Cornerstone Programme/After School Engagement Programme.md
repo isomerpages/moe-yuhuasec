@@ -5,7 +5,9 @@ description: ""
 variant: tiptap
 third_nav_title: Yuhua’s Cornerstone Programme
 ---
-<h4></h4>
+<p><strong>YEAHub(Yuhua Engagement Activity Hub)</strong>
+<br>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -13,23 +15,31 @@ third_nav_title: Yuhua’s Cornerstone Programme
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20images/yeahub_term1.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/YEAHUB1.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20images/Term1_Yeahub.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YEAHUB.png">
 </div>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sharing by</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 images/Term1_Yeahub.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Daryl Chow: Origame Founder</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2023 images/yeahub_term1.png">
+</div>
 </td>
 </tr>
 </tbody>
