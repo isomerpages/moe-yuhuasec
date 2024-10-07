@@ -44,7 +44,39 @@ third_nav_title: Yuhua’s Cornerstone Programme
 </tr>
 </tbody>
 </table>
-<p>Term 2: YEAHganza Chess Tournament 2023</p>
+<p>Many of the YEAHub afterschool activities are initiated by the students
+who often provide the school with suggestions to the type of activities
+they enjoy. As a result, many of the YEAHub activities have become mainstay
+programmes that are held regularly after school and students continue to
+find joy in participating with their friends. We continue to invite and
+encourage our students to initiate activities that they enjoy and provide
+opportunities for like-minded individuals to come together to build meaningful
+and positive friendships.&nbsp;</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Weekly Footballing Fun &amp; ‘Be Better’ Football Tournament</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>Term 2: YEAHganza Chess Tournament 2023</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/2023%20images/yea_hub2.png">
 </div>
