@@ -18,5 +18,9 @@ aim to <strong>build all students up to the peak </strong>based on <strong><em>M
 this end, Cornerstone is our effort towards uplifting every Yuhuan – building
 esteem and motivation by first ensuring with priority different foundational
 needs are well taken care of.</p>
-<p>&nbsp;<strong>We enable Yuhuans to conquer the peak, by first laying a strong foundation.</strong>
+<p><strong>We enable Yuhuans to conquer the peak, by first laying a strong foundation.</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/cornerstone2.png">
+</div>
+<p></p>
