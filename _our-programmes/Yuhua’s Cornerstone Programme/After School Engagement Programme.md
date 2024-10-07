@@ -88,7 +88,26 @@ and positive friendships.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>YEAHganza Chess Tournament 2023</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Chess Interest Group</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>EAHganza Chess Tournament 2023</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/2023%20images/yea_hub2.png">
 </div>
