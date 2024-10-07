@@ -73,10 +73,25 @@ and positive friendships.&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yeahub3.png">
+<img style="width:70%" height="auto" width="100%" src="/images/2023%20images/yeah_hub_term3_1.png">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>YEAHganza Chess Tournament 2023</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/2023%20images/yea_hub2.png">
@@ -87,18 +102,4 @@ and positive friendships.&nbsp;</p>
 </div>
 <p>Sporty Thursday:
 <br>A bonding session/ platform for the students through sports</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/2023%20images/yeah_hub_term3_1.png">
-</div>
-<p>Term 4: YEAHub Poster competition Students are given the platform to design
-posters as reminders about school rules. This allow students to: ➔ further
-build our culture of Care in school ➔ connect with each other – A message
-for students by students ➔ contribute back to school by raising awareness
-and responsibility in educating fellow Yuhuans.</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/2023%20images/yeahubterm4.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/2023%20images/yeahubterm4_1.png">
-</div>
 <p></p>
