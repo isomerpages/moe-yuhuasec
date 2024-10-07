@@ -23,4 +23,12 @@ needs are well taken care of.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/cornerstone2.png">
 </div>
-<p></p>
+<p><strong>Cornerstone</strong> provides a <strong>progressive and integrated programme</strong> to&nbsp;foster
+a sense of belonging, school readiness and build students’ motivation based
+on Maslow’s Hierarchy of Needs.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cornerstone.png">
+</div>
+<p>
+<br>
+</p>
