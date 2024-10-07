@@ -66,32 +66,20 @@ and positive friendships.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YEAHUB_FOOTBALL.png">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>Term 2: YEAHganza Chess Tournament 2023</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yeahub3.png">
+</div>
+<p>YEAHganza Chess Tournament 2023</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/2023%20images/yea_hub2.png">
-</div>
-<p><strong>Footballing Fun Programme and “Be Better” Football Tournament 2023</strong>
-<br>Our Footballing Fun programme aims to complement the school’s character
-development efforts and instill important character values in our students.
-This takes place on every Wednesday.</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/2023%20images/yeah_hub_football1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/2023%20images/yeah_hub_football2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/2023%20images/yeah_hub_football3.png">
 </div>
 <p>Term 3: Street Dance</p>
 <div class="isomer-image-wrapper">
