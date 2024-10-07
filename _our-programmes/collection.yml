@@ -2,7 +2,10 @@ collections:
   our-programmes:
     output: true
     order:
-      - After School Engagement Programme.md
+      - Yuhua’s Cornerstone Programme/Yuhua’s Cornerstone Programme.md
+      - Yuhua’s Cornerstone Programme/Foundation Programme.md
+      - Yuhua’s Cornerstone Programme/After School Engagement Programme.md
+      - Yuhua’s Cornerstone Programme/.keep
       - Applied Learning (ALP).md
       - Enhanced Music Programme (EMP).md
       - Environmental Education.md
@@ -11,6 +14,5 @@ collections:
       - Overseas Learning/IP.md
       - Overseas Learning/.keep
       - Positive Education.md
-      - Sexuality Education.md
       - Student Leadership.md
       - Yuhua CARES.md

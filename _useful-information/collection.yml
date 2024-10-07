@@ -1,5 +1,5 @@
 collections:
-  useful-information-and-links:
+  useful-information:
     output: true
     order:
       - Personal Learning Device (PLD)/.keep
