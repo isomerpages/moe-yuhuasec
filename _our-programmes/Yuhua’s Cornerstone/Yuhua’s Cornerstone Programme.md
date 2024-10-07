@@ -4,10 +4,10 @@ permalink: /yuhua-s-cornerstone-programme/
 variant: tiptap
 description: ""
 image: /images/corner_stone.png
-third_nav_title: Yuhua’s Cornerstone Programme
+third_nav_title: Yuhua’s Cornerstone
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/corner_stone.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/corner_stone.png">
 </div>
 <p><strong>Cornerstone</strong> is YHSS’ whole-school approach to care-connect-contribute
 towards our suite of UPLIFT initiatives.</p>
@@ -21,14 +21,12 @@ needs are well taken care of.</p>
 <p><strong>We enable Yuhuans to conquer the peak, by first laying a strong foundation.</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/cornerstone2.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/cornerstone2.png">
 </div>
 <p><strong>Cornerstone</strong> provides a <strong>progressive and integrated programme</strong> to&nbsp;foster
 a sense of belonging, school readiness and build students’ motivation based
 on Maslow’s Hierarchy of Needs.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cornerstone.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Cornerstone.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>

@@ -3,7 +3,7 @@ title: Foundation Programme
 permalink: /foundation-programme/
 variant: tiptap
 description: ""
-third_nav_title: Yuhua’s Cornerstone Programme
+third_nav_title: Yuhua’s Cornerstone
 ---
 <p>The aim of the Foundation Programme is to develop socio-emotional competencies
 in our students that will enable them to grow in confidence and as individuals
@@ -61,30 +61,24 @@ to the society after graduating from secondary school.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p></p>
+<td rowspan="2" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FOUNDATION4.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/foundation5__1.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FOUNDATION6.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/FOUNDATION6.png">
+</div>
+</td>
+<td rowspan="2" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/FOUNDATION4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/FOUNDATION7.png">
 </div>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FOUNDATION5.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FOUNDATION7.png">
-</div>
-</td>
-</tr>
+<tr></tr>
 </tbody>
 </table>
-<p></p>
 <p></p>

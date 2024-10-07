@@ -3,7 +3,7 @@ title: After School Engagement Programme
 permalink: /our-programmes/after-school-engagement-programme/
 description: ""
 variant: tiptap
-third_nav_title: Yuhua’s Cornerstone Programme
+third_nav_title: Yuhua’s Cornerstone
 ---
 <p><strong>YEAHub(Yuhua Engagement Activity Hub)</strong>
 <br>
