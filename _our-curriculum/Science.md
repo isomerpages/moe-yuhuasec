@@ -18,7 +18,7 @@ The Yuhua Science Department comprises of 15 dedicated and caring Science teache
 
 The Department takes reference from MOE’s Science Curriculum Framework, which encapsulates the thrust of Science education in Singapore to prepare our students to be sufficiently adept as effective citizens, be able to function in and contribute to an increasingly technologically-driven society.
 
-<img src="/images/sci.jpg" style="width:50%">
+![](/images/Screenshot_2024_10_07_132558.png)
 
 ### Vision
 
