@@ -5,52 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Yuhua’s Cornerstone Programme
 ---
-<h4><strong>Yuhua’s Cornerstone Programme</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/corner_stone.png">
-</div>
-<p>Our After School Engagement (ASE) programme - Yuhua Engagement Activity
-Hub (YEAHub) is meant to complement our co-curricular activity (CCA) programme
-and will operate on non-CCA days i.e. Mondays, Wednesdays and Fridays from
-3.00pm to 5.30pm. YEAHub complements and enhances the school’s efforts
-at pro-active student engagement and functions as a vehicle for creating
-a safe and conducive learning environment. YEAHub crew members who are
-also known as the YEAHub Ambassadors, are guided by the teachers to plan
-and facilitate the Centre programmes for the school’s population.</p>
-<p><strong>Programme Objectives</strong>
-</p>
-<p>The objectives of the YEAHub are:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>To provide a safe and conducive environment for Yuhuans to drop in after
-school and be meaningfully engaged in social interactions and community
-learning.</p>
-</li>
-<li>
-<p>To foster school connectedness and build quality relationships with trusted
-adults in a school environment.</p>
-</li>
-<li>
-<p>To empower students to become effective leaders and active learners through
-purposeful programmes that engage the target students.o known as the YEAHub
-Ambassadors, are guided by the teachers to plan and facilitate the Centre
-programmes for the school.</p>
-</li>
-</ol>
-<h4>Teachers in Charge:</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr Wilfred Lim</p>
-</li>
-<li>
-<p>Ms Khadijah</p>
-</li>
-<li>
-<p>Ms Syahfiqah</p>
-</li>
-</ul>
-<h5>Key Programmes in 2023:</h5>
-<p>Term 1: Sharing by Dr Daryl Chow, Origami Founder</p>
+<h4></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
