@@ -1,9 +1,9 @@
 ---
-title: After School Engagement Programme
+title: YEAHub (Yuhua Engagement Activity Hub)
 permalink: /our-programmes/after-school-engagement-programme/
 description: ""
 variant: tiptap
-third_nav_title: Yuhua’s Cornerstone
+third_nav_title: Yuhua’s Cornerstone Programme
 ---
 <p><strong>YEAHub(Yuhua Engagement Activity Hub)</strong>
 <br>
@@ -80,9 +80,14 @@ and positive friendships.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Sporty Thursdays</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yeahub3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yeahub3_1.png">
 </div>
 </td>
 </tr>
@@ -102,7 +107,6 @@ and positive friendships.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/yeahub7.png">
 </div>
@@ -110,8 +114,9 @@ and positive friendships.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>EAHganza Chess Tournament:</p>
+<p><strong>EAHganza Chess Tournament:</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/2023%20images/yea_hub2.png">
+<img style="width: 70%;" height="auto" width="100%" src="/images/2023%20images/yea_hub2.png">
 </div>
 <p></p>

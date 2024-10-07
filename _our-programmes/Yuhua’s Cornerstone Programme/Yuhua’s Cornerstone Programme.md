@@ -4,7 +4,7 @@ permalink: /yuhua-s-cornerstone-programme/
 variant: tiptap
 description: ""
 image: /images/corner_stone.png
-third_nav_title: Yuhua’s Cornerstone
+third_nav_title: Yuhua’s Cornerstone Programme
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/corner_stone.png">

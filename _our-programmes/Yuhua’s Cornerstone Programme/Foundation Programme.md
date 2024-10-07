@@ -3,7 +3,7 @@ title: Foundation Programme
 permalink: /foundation-programme/
 variant: tiptap
 description: ""
-third_nav_title: Yuhua’s Cornerstone
+third_nav_title: Yuhua’s Cornerstone Programme
 ---
 <p>The aim of the Foundation Programme is to develop socio-emotional competencies
 in our students that will enable them to grow in confidence and as individuals
