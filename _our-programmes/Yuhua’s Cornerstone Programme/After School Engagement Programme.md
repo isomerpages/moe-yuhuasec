@@ -114,10 +114,4 @@ and positive friendships.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/2023%20images/yea_hub2.png">
 </div>
-<p>Term 3: Street Dance</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/2023%20images/Yeah_hub_term3.png">
-</div>
-<p>Sporty Thursday:
-<br>A bonding session/ platform for the students through sports</p>
 <p></p>
