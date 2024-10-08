@@ -114,7 +114,7 @@ and positive friendships.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p><strong>EAHganza Chess Tournament:</strong>
+<p><strong>YEAHganza Chess Tournament:</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" src="/images/2023%20images/yea_hub2.png">
