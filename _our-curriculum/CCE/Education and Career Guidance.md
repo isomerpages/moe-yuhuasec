@@ -14,7 +14,7 @@ enables our Yuhuans to embrace future opportunities, appreciate the value
 of all occupations, and embody the courage to care, connect, and contribute
 to an ever-changing world.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ECG.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ECG.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
