@@ -104,7 +104,7 @@ of 'A Community Where Learners Flourish'.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong><a href="https://www.moe.gov.sg/post-secondary" rel="noopener noreferrer nofollow" target="_blank">MOE Post-secondary website on pathways, admissions and courses </a></strong>
+<p><strong><a href="https://www.moe.gov.sg/post-secondary" rel="noopener noreferrer nofollow" target="_blank">MOE Post-secondary website on pathways, admissions and courses</a></strong>
 </p>
 </th>
 </tr>
