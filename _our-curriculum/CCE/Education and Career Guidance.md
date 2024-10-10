@@ -38,13 +38,15 @@ education and career opportunities while respecting the value of all occupations
 </li>
 <li>
 <p>Staying relevant - How do I get there?</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Build students' adaptability and resilience to embrace the need for lifelong
 learning.</p>
 <p>Key school programmes in ECG include Applied learning Modules at Schools
 (ApLM@Schools) and Flourish week (ECG).</p>
 <p></p>
+</li>
+</ul>
 </li>
 </ul>
 <p></p>
