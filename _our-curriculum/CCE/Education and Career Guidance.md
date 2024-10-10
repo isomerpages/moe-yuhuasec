@@ -48,12 +48,12 @@ learning.</p>
 </ul>
 <p>Key school programmes in ECG include Applied learning Modules at Schools
 (ApLM@Schools) and Flourish week (ECG).</p>
-<p><strong>Applied learning Modules at Schools </strong>
+<p><strong>Applied learning Modules at Schools</strong>
 </p>
 <p>ApLM@Schools has been introduced to Yuhuans to extend and build upon the
 learning objectives of existing course subjects through applied learning.</p>
 <p>This customised programme offers Yuhuans the opportunity to:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Explore potential career paths and courses of study in post-secondary
 education institutions</p>
@@ -67,7 +67,7 @@ education institutions</p>
 <li>
 <p>Develop relevant real-world skills and knowledge through hands-on activities</p>
 </li>
-</ol>
+</ul>
 <p>By integrating applied learning into the curriculum, the programme seeks
 to broaden students' perspectives, foster critical thinking, and prepare
 them for future challenges.<strong>(ApLM@Schools)</strong>
