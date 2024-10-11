@@ -8,7 +8,7 @@ third_nav_title: CCE
 <h4><strong>YUHUA SECONDARY SCHOOL</strong></h4>
 <p><strong>Moe Sexuality Education in Schools</strong>
 </p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
@@ -21,21 +21,23 @@ The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.&nbsp;</p>
 </li>
-<li>
+</ul>
 <p>The Goals of Sexuality Education are to:&nbsp;</p>
-<p>(a)&nbsp;Support students in managing their physiological, social and
-emotional changes as they grow up and develop safe and healthy relationships.</p>
-<p>(b)&nbsp;Guide students to make wise, informed and responsible decisions
-on sexuality matters.</p>
-<p>(c)&nbsp;Help students develop a moral compass and respect for themselves
-and others by having positive mainstream values and attitudes about sexuality
-that are premised on the family as the basic unit of society.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.</p>
 </li>
 <li>
+<p>Guide students to make wise, informed and responsible decisions on sexuality
+matters.</p>
+</li>
+<li>
+<p>Help students develop a moral compass and respect for themselves and others
+by having positive mainstream values and attitudes about sexuality that
+are premised on the family as the basic unit of society.</p>
 <p>The <strong>Key Messages</strong> of Sexuality Education are:&nbsp;</p>
 </li>
-</ol>
-<ul data-tight="true" class="tight">
 <li>
 <p>(a) Love and respect yourself as you love and respect others;</p>
 </li>
