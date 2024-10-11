@@ -6,7 +6,8 @@ description: ""
 third_nav_title: CCE
 ---
 <h4><strong>YUHUA SECONDARY SCHOOL</strong></h4>
-<p>MOE SEXUALITY EDUCATION IN SCHOOLS</p>
+<p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
@@ -63,4 +64,6 @@ ones.</p>
 </ul>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education)" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
+<h4><strong>Overview of YUHUA Secondary School’s Sexuality Education Programme for 2024</strong></h4>
+<p></p>
 <p></p>
