@@ -24,26 +24,43 @@ on sexuality issues.</p>
 <p>The Goals of Sexuality Education are to:</p>
 </li>
 </ol>
+<ul data-tight="true" class="tight">
+<li>
 <p>Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
+</li>
+<li>
 <p>Guide students to make wise, informed and responsible decisions on sexuality
 matters.</p>
+</li>
+<li>
 <p>Help students develop a moral compass and respect for themselves and others
 by having positive mainstream values and attitudes about sexuality that
 are premised on the family as the basic unit of society.</p>
-<ol data-tight="true" class="tight">
+</li>
+</ul>
+<ol start="3" data-tight="true" class="tight">
 <li>
 <p>The Key Messages of Sexuality Education are:</p>
 </li>
 </ol>
+<ul data-tight="true" class="tight">
+<li>
 <p>Love and respect yourself as you love and respect others;</p>
+</li>
+<li>
 <p>Build positive relationships based on love and respect (which are the
 foundation for strong families);</p>
+</li>
+<li>
 <p>Make responsible decisions for yourself, your family and society; and</p>
+</li>
+<li>
 <p>Abstinence before marriage is the best protection against STIs/HIV and
 unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-<p>You may click here (please insert hyperlink: <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>)
-for more information on MOE Sexuality Education.</p>
-<p></p>
+</li>
+</ul>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education)" rel="noopener nofollow" target="_blank">here</a> for
+more information on MOE Sexuality Education.</p>
 <p></p>
