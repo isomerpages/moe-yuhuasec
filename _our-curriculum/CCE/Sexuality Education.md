@@ -8,7 +8,7 @@ third_nav_title: CCE
 <h4><strong>YUHUA SECONDARY SCHOOL</strong></h4>
 <p><strong>Moe Sexuality Education in Schools</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
@@ -21,8 +21,10 @@ The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.&nbsp;</p>
 </li>
-</ul>
+<li>
 <p>The Goals of Sexuality Education are to:&nbsp;</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>Support students in managing their physiological, social and emotional
@@ -36,22 +38,27 @@ matters.</p>
 <p>Help students develop a moral compass and respect for themselves and others
 by having positive mainstream values and attitudes about sexuality that
 are premised on the family as the basic unit of society.</p>
+</li>
+</ul>
+<ol start="3" data-tight="true" class="tight">
+<li>
 <p>The <strong>Key Messages</strong> of Sexuality Education are:&nbsp;</p>
 </li>
+</ol>
+<ul data-tight="true" class="tight">
 <li>
-<p>(a) Love and respect yourself as you love and respect others;</p>
+<p>Love and respect yourself as you love and respect others;</p>
 </li>
 <li>
-<p>(b) Build positive relationships based on love and respect (which are
-the foundation for strong families);</p>
+<p>Build positive relationships based on love and respect (which are the
+foundation for strong families);</p>
 </li>
 <li>
-<p>(c) Make responsible decisions for yourself, your family and society;
-and</p>
+<p>Make responsible decisions for yourself, your family and society; and</p>
 </li>
 <li>
-<p>(d) Abstinence before marriage is the best protection against STIs/HIV
-and unintended pregnancies. Casual sex can harm and hurt you and your loved
+<p>Abstinence before marriage is the best protection against STIs/HIV and
+unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 </li>
 </ul>
