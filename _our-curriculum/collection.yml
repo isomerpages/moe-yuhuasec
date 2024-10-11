@@ -2,10 +2,10 @@ collections:
   our-curriculum:
     output: true
     order:
-      - CCE/Sexuality Education.md
-      - CCE/Education and Career Guidance.md
-      - CCE/Character & Citizenship Education.md
       - CCE/.keep
+      - CCE/Character & Citizenship Education.md
+      - CCE/Education and Career Guidance.md
+      - CCE/Sexuality Education.md
       - Aesthetics Craft & Technology.md
       - English Language and Literature.md
       - Humanities.md
