@@ -37,11 +37,22 @@ that are premised on the family as the basic unit of society.</p>
 <p>The <strong>Key Messages</strong> of Sexuality Education are:&nbsp;</p>
 </li>
 </ol>
+<ul data-tight="true" class="tight">
+<li>
 <p>(a) Love and respect yourself as you love and respect others;</p>
+</li>
+<li>
 <p>(b) Build positive relationships based on love and respect (which are
 the foundation for strong families);</p>
+</li>
+<li>
 <p>(c) Make responsible decisions for yourself, your family and society;
 and</p>
+</li>
+<li>
 <p>(d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
+</li>
+</ul>
+<p></p>
