@@ -6,8 +6,7 @@ description: ""
 third_nav_title: CCE
 ---
 <h4><strong>YUHUA SECONDARY SCHOOL</strong></h4>
-<p><strong>Moe Sexuality Education in Schools</strong>
-</p>
+<p>MOE SEXUALITY EDUCATION IN SCHOOLS</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
@@ -19,47 +18,32 @@ family as the basic unit of society. This means encouraging healthy, heterosexua
 marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
-on sexuality issues.&nbsp;</p>
+on sexuality issues.</p>
 </li>
 <li>
-<p>The Goals of Sexuality Education are to:&nbsp;</p>
+<p>The Goals of Sexuality Education are to:</p>
 </li>
 </ol>
-<ul data-tight="true" class="tight">
-<li>
 <p>Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
-</li>
-<li>
 <p>Guide students to make wise, informed and responsible decisions on sexuality
 matters.</p>
-</li>
-<li>
 <p>Help students develop a moral compass and respect for themselves and others
 by having positive mainstream values and attitudes about sexuality that
 are premised on the family as the basic unit of society.</p>
-</li>
-</ul>
-<ol start="3" data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
-<p>The <strong>Key Messages</strong> of Sexuality Education are:&nbsp;</p>
+<p>The Key Messages of Sexuality Education are:</p>
 </li>
 </ol>
-<ul data-tight="true" class="tight">
-<li>
 <p>Love and respect yourself as you love and respect others;</p>
-</li>
-<li>
 <p>Build positive relationships based on love and respect (which are the
 foundation for strong families);</p>
-</li>
-<li>
 <p>Make responsible decisions for yourself, your family and society; and</p>
-</li>
-<li>
 <p>Abstinence before marriage is the best protection against STIs/HIV and
 unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-</li>
-</ul>
+<p>You may click here (please insert hyperlink: <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>)
+for more information on MOE Sexuality Education.</p>
+<p></p>
 <p></p>
