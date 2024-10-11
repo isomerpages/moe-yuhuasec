@@ -5,9 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
-<h2>Sexuality Education</h2>
-<p><strong>YUHUA SECONDARY SCHOOL</strong>
-</p>
+<h4><strong>YUHUA SECONDARY SCHOOL</strong></h4>
 <p><strong>Moe Sexuality Education in Schools</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -24,7 +22,7 @@ beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.&nbsp;</p>
 </li>
 <li>
-<p>The <strong>Goals</strong> of Sexuality Education are to:&nbsp;</p>
+<p>The Goals of Sexuality Education are to:&nbsp;</p>
 <p>(a)&nbsp;Support students in managing their physiological, social and
 emotional changes as they grow up and develop safe and healthy relationships.</p>
 <p>(b)&nbsp;Guide students to make wise, informed and responsible decisions
