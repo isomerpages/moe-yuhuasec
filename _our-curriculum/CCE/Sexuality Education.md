@@ -23,20 +23,16 @@ on sexuality issues.</p>
 </li>
 <li>
 <p>The Goals of Sexuality Education are to:</p>
-</li>
-</ol>
 <p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
 <p>(b) Guide students to make wise, informed and responsible decisions on
 sexuality matters.</p>
 <p>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
-that are premised on the family as the basic unit of society.&nbsp;</p>
-<ol start="3" data-tight="true" class="tight">
+that are premised on the family as the basic unit of society.</p>
+</li>
 <li>
 <p>The Key Messages of Sexuality Education are:&nbsp;</p>
-</li>
-</ol>
 <p>(a) Love and respect yourself as you love and respect others;</p>
 <p>(b) Build positive relationships based on love and respect (which are
 the foundation for strong families)</p>
@@ -47,7 +43,7 @@ ones.&nbsp;</p>
 <p>You may click here for more information on MOE Sexuality Education.&nbsp;</p>
 <p>Overview of YUHUA Secondary School’s Sexuality Education Programme for
 2024</p>
-<ol start="4" data-tight="true" class="tight">
+</li>
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
@@ -201,7 +197,6 @@ and consistent condom use).</p>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;Learn to negotiate their way out of a risky situation by applying
 skills of assertiveness and responsible decision-making</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 9</p>
@@ -213,25 +208,26 @@ skills of assertiveness and responsible decision-making</p>
 </p>
 <ol start="10" data-tight="true" class="tight">
 <li>
-<p>Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or
-supplementary sexuality education programmes by MOE-approved external providers.</p>
+<p>Parents may opt their children out of the Sexuality Education lessons,
+eTeens and/or supplementary sexuality education programmes by MOE-approved
+external providers.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="2024_Info_on_SEd_Annex_A" rel="noopener nofollow" target="_blank">here</a>. The completed form AnnexA is
-to be submitted by 25/01/2024.</p>
+at the start of the year and is also downloadable <a href="/files/2024_Info_on_SEd_Annex_A.pdf" rel="noopener nofollow" target="_blank">here</a><a href="/files/2024_Info_on_SEd_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">.</a> The completed form AnnexA
+is to be submitted by 25/01/2024.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="2024_Info_on_SEd_Annex_B" rel="noopener nofollow" target="_blank">here</a>. The completed form is to be submitted
-by 25/01/2024.</p>
+at the start of the year and is also downloadable <a href="/files/2024_Info_on_SEd_Annex_B.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed form
+is to be submitted by 25/01/2024.</p>
 </li>
 <li>
-<p>Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank"><u>yuhua_ss@moe.edu.sg</u></a> (insert
-the hyperlink for the school email) or 65661985 for discussion or to seek
-clarification about the school’s Sexuality Education programme.</p>
+<p>Parents can contact the school at <a href="mailto:yuhua_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yuhua_ss@moe.edu.sg</a> or 65661985 for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
 </li>
 </ol>
 <p><strong>&nbsp;</strong>
