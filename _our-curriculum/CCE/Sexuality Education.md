@@ -40,7 +40,8 @@ the foundation for strong families)</p>
 <p>(d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.&nbsp;</p>
-<p>You may click here for more information on MOE Sexuality Education.&nbsp;</p>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
+more information on MOE Sexuality Education.&nbsp;</p>
 <p>Overview of YUHUA Secondary School’s Sexuality Education Programme for
 2024</p>
 </li>
@@ -48,7 +49,7 @@ ones.&nbsp;</p>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and Culture, Society and Law. You may click here for
+Sexual Behaviour, and Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here </a>for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 </li>
 <li>
