@@ -147,11 +147,9 @@ negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
-</li>
-</ol>
 <p><strong>&nbsp;Information for Parents</strong>
 </p>
-<ol start="10" data-tight="true" class="tight">
+</li>
 <li>
 <p>Parents may opt their children out of the Sexuality Education lessons,
 eTeens and/or supplementary sexuality education programmes by MOE-approved
