@@ -102,31 +102,31 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Secondary 1</strong>
+<p><a href="2024_Info_on_SEd_for_Secondary_1" rel="noopener nofollow" target="_blank">Secondary 1</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Secondary 2</strong>
+<p><a href="2024_Info_on_SEd_for_Secondary_2" rel="noopener nofollow" target="_blank">Secondary 2</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Secondary 3</strong>
+<p><a href="2024_Info_on_SEd_for_Secondary_3" rel="noopener nofollow" target="_blank">Secondary 3</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Secondary 4</strong>
+<p><a href="2024_Info_on_SEd_for_Secondary_4" rel="noopener nofollow" target="_blank">Secondary 4</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Secondary 5</strong>
+<p><a href="2024_Info_on_SEd_for_Secondary_5" rel="noopener nofollow" target="_blank">Secondary 5</a>
 </p>
 </td>
 </tr>
