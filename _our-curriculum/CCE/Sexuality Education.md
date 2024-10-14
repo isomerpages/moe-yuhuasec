@@ -85,7 +85,8 @@ of the possible consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>At Yuhua Secondary School, the following Sexuality Education lessons will be taught in 2024:</u></a></strong>
+<p></p>
+<p><strong><u>At Yuhua Secondary School, the following Sexuality Education lessons will be taught in 2024:</u></strong>
 </p>
 </li>
 </ol>
@@ -150,10 +151,11 @@ negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
-</li>
-</ol>
+<p></p>
 <p><strong>At Yuhua Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2024:&nbsp;</strong>
 </p>
+</li>
+</ol>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -209,21 +211,28 @@ skills of assertiveness and responsible decision-making</p>
 </table>
 <p><strong>&nbsp;Information for Parents</strong>
 </p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the
-Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
-education programmes by MOE-approved external providers.</p>
-<p>11.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out
-of the <strong>Sexuality Education lessons</strong> need to complete an opt-out
-form. This form will be communicated to parents at the start of the year
-and is also downloadable <a href="2024_Info_on_SEd_Annex_A" rel="noopener nofollow" target="_blank">here</a>.
-The completed form AnnexA is to be submitted by 25/01/2024.</p>
-<p>12.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out
-of the <strong><em>eTeens</em> programme</strong> need to complete an opt-out
-form. This form will be communicated to parents at the start of the year
-and is also downloadable <a href="2024_Info_on_SEd_Annex_B" rel="noopener nofollow" target="_blank">here</a>The
-completed form is to be submitted by 25/01/2024.</p>
-<p>13.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank"><u>yuhua_ss@moe.edu.sg</u></a> (insert
+<ol start="10" data-tight="true" class="tight">
+<li>
+<p>Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or
+supplementary sexuality education programmes by MOE-approved external providers.</p>
+</li>
+<li>
+<p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable <a href="2024_Info_on_SEd_Annex_A" rel="noopener nofollow" target="_blank">here</a>. The completed form AnnexA is
+to be submitted by 25/01/2024.</p>
+</li>
+<li>
+<p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable <a href="2024_Info_on_SEd_Annex_B" rel="noopener nofollow" target="_blank">here</a>. The completed form is to be submitted
+by 25/01/2024.</p>
+</li>
+<li>
+<p>Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank"><u>yuhua_ss@moe.edu.sg</u></a> (insert
 the hyperlink for the school email) or 65661985 for discussion or to seek
 clarification about the school’s Sexuality Education programme.</p>
+</li>
+</ol>
 <p><strong>&nbsp;</strong>
 </p>
