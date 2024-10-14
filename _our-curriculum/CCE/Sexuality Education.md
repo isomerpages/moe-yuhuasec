@@ -81,12 +81,9 @@ repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p><strong><a rel="noopener noreferrer nofollow" target="_blank">At Yuhua Secondary School, the following Sexuality Education lessons will be taught in <u>2024</u>:</a></strong>
 </p>
-<p></p>
 <p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Secondary 1&nbsp;</strong>
+<p><strong>&nbsp;Secondary 1&nbsp;</strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -794,7 +791,7 @@ education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out
 of the <strong>Sexuality Education lessons</strong> need to complete an opt-out
 form. This form will be communicated to parents at the start of the year
-and is also downloadable here. The completed form AnnexA is to be submitted
+and is also downloadable . The completed form AnnexA is to be submitted
 by 25/01/2024.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out
 of the <strong><em>eTeens</em> programme</strong> need to complete an opt-out
