@@ -103,31 +103,31 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="2024_Info_on_SEd_for_Secondary_1" rel="noopener nofollow" target="_blank">Secondary 1</a>
+<p><a href="/files/2024_Info_on_SEd_for_Secondary_1.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="2024_Info_on_SEd_for_Secondary_2" rel="noopener nofollow" target="_blank">Secondary 2</a>
+<p><a href="/files/2024_Info_on_SEd_for_Secondary_2.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="2024_Info_on_SEd_for_Secondary_3" rel="noopener nofollow" target="_blank">Secondary 3</a>
+<p><a href="/files/2024_Info_on_SEd_for_Secondary_3.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="2024_Info_on_SEd_for_Secondary_4" rel="noopener nofollow" target="_blank">Secondary 4</a>
+<p><a href="/files/2024_Info_on_SEd_for_Secondary_4.pdf" rel="noopener nofollow" target="_blank">Secondary 4</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="2024_Info_on_SEd_for_Secondary_5" rel="noopener nofollow" target="_blank">Secondary 5</a>
+<p><a href="/files/2024_Info_on_SEd_for_Secondary_5.pdf" rel="noopener nofollow" target="_blank">Secondary 5</a>
 </p>
 </td>
 </tr>
