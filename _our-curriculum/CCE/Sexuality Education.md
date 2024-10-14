@@ -85,12 +85,10 @@ of the possible consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>At Yuhua Secondary School, the following Sexuality Education lessons will be taught in 2024:</u></a></strong>
+</p>
 </li>
 </ol>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">At Yuhua Secondary School, the following Sexuality Education lessons will be taught in <u>2024</u>:</a></strong>
-</p>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
-</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -98,7 +96,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>At Yuhua Secondary School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
+<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
 </p>
 </th>
 </tr>
