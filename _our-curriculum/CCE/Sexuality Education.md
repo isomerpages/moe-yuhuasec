@@ -147,63 +147,8 @@ negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
-<p></p>
-<p><strong>At Yuhua Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2024:&nbsp;</strong>
-</p>
 </li>
 </ol>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Topics/Lessons</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Programme Learning Objectives</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Time Period</strong>
-</p>
-<p><strong>(e.g. Term 3 Week 9)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>· Raise awareness and provide knowledge on:</p>
-<p>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
-to prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).</p>
-<p>b) Managing relationships and risky situations in a healthy way.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Classroom-based Lesson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;Learn to negotiate their way out of a risky situation by applying
-skills of assertiveness and responsible decision-making</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>&nbsp;Information for Parents</strong>
 </p>
 <ol start="10" data-tight="true" class="tight">
