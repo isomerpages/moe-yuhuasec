@@ -29,16 +29,14 @@ at all times.</p>
 desire to serve and who relate well with others and empathise with their
 needs.</p>
 <h3>Project Gratitude</h3>
-<p>Project Gratitude is an annual series of events in the first half of the
-year where Student Leaders lead their peers and classmates in seeking a
-deeper understanding of the roles of various members of the school community,
-especially the non-teaching staff. Student Leaders empathise and help non-teaching
-staff make the school a better environment to do their duties. Project
-Gratitude is a platform for the student leaders to canvass support from
-their peers towards expressing gratitude towards these staff.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20Leadership%202.png">
 </div>
+<p>Celebrating our unsung heroes at Project Gratitude! Our Student Councillors
+and Secondary 2 cChairpersons joined forces to design engaging activities,
+showing appreciation for the invaluable behind-the-scenes contributions
+of our non-teaching staff. Here's to strengthening bonds and acknowledging
+their incredible support!</p>
 <h4>2024 SC Events Photo Gallery:</h4>
 <p><strong>First Day of School:</strong>
 </p>
@@ -59,4 +57,13 @@ ahead!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/student_leadership.jpg">
 </div>
-<p>Investiture</p>
+<p><strong>Investiture:</strong>
+</p>
+<p>Celebrating the transition of leadership at our Investiture ceremony,
+where we honor the dedication of outgoing student leaders and welcome the
+fresh perspectives of those stepping into new roles. Here's to a future
+full of innovation and inspiration!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_leaders.jpg">
+</div>
+<p></p>
