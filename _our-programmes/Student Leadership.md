@@ -55,4 +55,5 @@ Here's to a fantastic start and a year full of new opportunities!</p>
 amazing student councillors led the orientation, guiding them through fun
 activities to break the ice and build new friendships in their new school
 environment. Here’s to a great start and a year of exciting adventures
-ahead!entation</p>
+ahead!</p>
+<p></p>
