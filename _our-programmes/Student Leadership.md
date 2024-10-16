@@ -40,7 +40,7 @@ their peers towards expressing gratitude towards these staff.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20Leadership%202.png">
 </div>
 <h4>2024 SC Events Photo Gallery:</h4>
-<p><strong>First Day of School: </strong>
+<p><strong>First Day of School:</strong>
 </p>
 <p>Kickstarting the school year with a burst of color and warmth! Our dedicated
 student councilors transformed the foyer into a welcoming haven, helping
