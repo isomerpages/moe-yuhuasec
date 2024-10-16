@@ -59,4 +59,4 @@ ahead!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/student_leadership.jpg">
 </div>
-<p></p>
+<p>Investiture</p>
