@@ -49,7 +49,7 @@ Here's to a fantastic start and a year full of new opportunities!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/First_Day_of_School__2_.jpg">
 </div>
-<p><strong>Secondary 1 Orientation:</strong>
+<p><strong>Secondary 1 Orientation: </strong>
 </p>
 <p>Welcoming our new Secondary 1 students with enthusiasm and support! Our
 amazing student councillors led the orientation, guiding them through fun
