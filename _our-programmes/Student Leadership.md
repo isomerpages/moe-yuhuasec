@@ -26,10 +26,7 @@ Project Gratitude is an annual series of events in the first half of the year wh
 
 ![](/images/Student%20Leadership%202.png)
 
-![](/images/Student%20Leadership%203.jpg)
+####    2024 SC Events Photo Gallery: 
+##### 	 First Day of School:
 
-![](/images/Student%20Leadership%204.jpg)
-
-![](/images/Student%20Leadership%205.jpg)
-
-![](/images/Student%20Leadership%206.jpg)
+Kickstarting the school year with a burst of color and warmth! Our dedicated student councillors transformed the foyer into a welcoming haven, helping everyone ease into the new term with friendly smiles and supportive hearts. Here's to a fantastic start and a year full of new opportunities!
