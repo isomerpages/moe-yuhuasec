@@ -56,7 +56,6 @@ amazing student councillors led the orientation, guiding them through fun
 activities to break the ice and build new friendships in their new school
 environment. Here’s to a great start and a year of exciting adventures
 ahead!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/student_leadership.jpg">
 </div>
