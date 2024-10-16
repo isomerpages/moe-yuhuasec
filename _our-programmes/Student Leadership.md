@@ -48,7 +48,8 @@ of new opportunities!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/First_Day_of_School__2_.jpg">
 </div>
-<p>Secondary 1 Orientation:</p>
+<p><strong>Secondary 1 Orientation:</strong>
+</p>
 <p>Welcoming our new Secondary 1 students with enthusiasm and support! Our
 amazing student councillors led the orientation, guiding them through fun
 activities to break the ice and build new friendships in their new school
