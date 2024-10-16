@@ -48,4 +48,4 @@ of new opportunities!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/First_Day_of_School__2_.jpg">
 </div>
-<p></p>
+<p>Secondary 1 Orientation</p>
