@@ -2,13 +2,13 @@ collections:
   useful-information:
     output: true
     order:
+      - Direct School Admissions (DSA).md
+      - Information for Parents.md
+      - Information for Staff.md
+      - Information for Students.md
       - Personal Learning Device (PLD)/.keep
       - Personal Learning Device (PLD)/National Digital Literacy Programme.md
       - Personal Learning Device (PLD)/PLD support.md
       - Personal Learning Device (PLD)/Parental support for PLD usage.md
       - Personal Learning Device (PLD)/FAQs.md
-      - Information for Parents.md
-      - Information for Staff.md
-      - Information for Students.md
-      - Direct School Admissions (DSA).md
       - School Calendar.md
