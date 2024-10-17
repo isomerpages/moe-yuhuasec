@@ -58,7 +58,7 @@ activities to break the ice and build new friendships in their new school
 environment. Here’s to a great start and a year of exciting adventures
 ahead!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/student_leadership.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/student_leadership.jpg">
 </div>
 <p><strong>Investiture:</strong>
 </p>
