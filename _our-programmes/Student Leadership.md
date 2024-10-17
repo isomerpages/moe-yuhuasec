@@ -30,7 +30,7 @@ desire to serve and who relate well with others and empathise with their
 needs.</p>
 <h3>Project Gratitude</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Student%20Leadership%202.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Student%20Leadership%202.png">
 </div>
 <p>Celebrating our unsung heroes at Project Gratitude! Our Student Councillors
 and Secondary 2 cChairpersons joined forces to design engaging activities,
@@ -58,7 +58,7 @@ activities to break the ice and build new friendships in their new school
 environment. Here’s to a great start and a year of exciting adventures
 ahead!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/student_leadership.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/student_leadership.jpg">
 </div>
 <p><strong>Investiture:</strong>
 </p>
