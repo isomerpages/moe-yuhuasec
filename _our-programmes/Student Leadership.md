@@ -69,4 +69,11 @@ full of innovation and inspiration!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_leaders.jpg">
 </div>
+<p><strong>Teachers’ Day Celebration:</strong>
+</p>
+<p>Honoring our incredible teachers on Teachers' Day! Our Student Councillors
+took the lead in planning and executing a memorable celebration filled
+with lively performances, fun games, and engaging quizzes. It was a day
+of joy, laughter, and appreciation for the amazing educators who inspire
+us every day!</p>
 <p></p>
