@@ -37,6 +37,9 @@ and Secondary 2 cChairpersons joined forces to design engaging activities,
 showing appreciation for the invaluable behind-the-scenes contributions
 of our non-teaching staff. Here's to strengthening bonds and acknowledging
 their incredible support!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Project_gratitude.png">
+</div>
 <h4>2024 SC Events Photo Gallery:</h4>
 <p><strong>First Day of School:</strong>
 </p>
