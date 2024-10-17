@@ -7,7 +7,7 @@ variant: tiptap
 <h1><strong>Student Leadership</strong></h1>
 <h3>Introduction</h3>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Student%20Leadership%201.png">
+<img style="width: 25%;" height="auto" width="100%" src="/images/Student%20Leadership%201.png">
 </div>
 <p>At Yuhua, we have adopted the principles of Servant Leadership by Robert
 Greenleaf in alignment with our school values into four pillars of practices,
@@ -30,7 +30,7 @@ desire to serve and who relate well with others and empathise with their
 needs.</p>
 <h3>Project Gratitude</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20Leadership%202.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Student%20Leadership%202.png">
 </div>
 <p>Celebrating our unsung heroes at Project Gratitude! Our Student Councillors
 and Secondary 2 cChairpersons joined forces to design engaging activities,
@@ -48,7 +48,7 @@ student councilors transformed the foyer into a welcoming haven, helping
 everyone ease into the new term with friendly smiles and supportive hearts.
 Here's to a fantastic start and a year full of new opportunities!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/First_Day_of_School__2_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/First_Day_of_School__2_.jpg">
 </div>
 <p><strong>Secondary 1 Orientation:</strong>
 </p>
