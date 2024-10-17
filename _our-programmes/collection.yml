@@ -2,17 +2,17 @@ collections:
   our-programmes:
     output: true
     order:
-      - Yuhua’s Cornerstone Programme/Yuhua’s Cornerstone Programme.md
-      - Yuhua’s Cornerstone Programme/Foundation Programme.md
-      - Yuhua’s Cornerstone Programme/YEAHub (Yuhua Engagement Activity Hub).md
-      - Yuhua’s Cornerstone Programme/.keep
       - Applied Learning (ALP).md
       - Enhanced Music Programme (EMP).md
       - Environmental Education.md
       - Learning for Life (LLP).md
+      - Overseas Learning/.keep
       - Overseas Learning/CCA.md
       - Overseas Learning/IP.md
-      - Overseas Learning/.keep
       - Positive Education.md
       - Student Leadership.md
       - Yuhua CARES.md
+      - Yuhua’s Cornerstone Programme/.keep
+      - Yuhua’s Cornerstone Programme/Yuhua’s Cornerstone Programme.md
+      - Yuhua’s Cornerstone Programme/Foundation Programme.md
+      - Yuhua’s Cornerstone Programme/YEAHub (Yuhua Engagement Activity Hub).md
