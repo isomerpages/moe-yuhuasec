@@ -18,13 +18,12 @@ their own strengths and weaknesses and make an effort to grow themselves
 in order to develop others and who are sensitive to social needs and help
 build positive relationships and a community that flourishes.&nbsp;</p>
 <h3>Programme Objectives</h3>
-<p>Yuhuan student leaders serve with purpose, pride and honour.&nbsp;</p>
-<p>Student Leaders must start with the right intention, which is the desire
-to care for and serve others. They should put in their best effort in serving
-others and continually improve themselves to accomplish something that
-they can be proud of. Student Leaders should preserve the honour of Student
-Leadership by demonstrating integrity and being gracious towards others
-at all times.</p>
+<p>Yuhuan student leaders serve with purpose, pride and honour.&nbsp;Student
+Leaders must start with the right intention, which is the desire to care
+for and serve others. They should put in their best effort in serving others
+and continually improve themselves to accomplish something that they can
+be proud of. Student Leaders should preserve the honour of Student Leadership
+by demonstrating integrity and being gracious towards others at all times.</p>
 <p>We aspire to develop Servant Leaders who are self-motivated and have the
 desire to serve and who relate well with others and empathise with their
 needs.</p>
