@@ -44,7 +44,26 @@ which make us different from other countries; and</p>
 <li>
 <p>by instilling the core values of our way of life, and the will to prevail,
 that ensures our continued success and well-being.</p>
-<p></p>
 </li>
 </ul>
+<h4><strong>National Education in Yuhua Secondary</strong></h4>
+<p>Yuhua Secondary School proudly commemorates four National Education Days:
+Total Defence Day, International Friendship Day, Racial Harmony Day, and
+National Day. Additionally, the school organizes a National Service Engagement
+for Secondary 2 students, inviting an alumnus currently serving in the
+national service to share his experiences, helping students appreciate
+their commitment to the nation. The NRIC Ceremony for Secondary 3 students
+further emphasizes the essence of being a Singapore citizen, fostering
+a sense of identity and responsibility within the community.</p>
+<h4><strong>Total Defence Day</strong></h4>
+<p>Total Defence Day was commemorated, under the theme "TD40: Together We
+Keep Singapore Strong." This year's focus was on Singaporeans' readiness
+and resilience in facing crises and disruptions, emphasizing that every
+citizen plays a role in preparing for challenges. Yuhua Secondary participated
+in the Food Resilience Experience, allowing students to experience emergency
+packed meals during recess. Additionally, the school conducted its annual
+Total Defence Readiness Programme, organized by the uniform groups, to
+further enhance awareness and preparedness among students.</p>
+<p>&nbsp;</p>
+<p></p>
 <p></p>
