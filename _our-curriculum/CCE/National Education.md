@@ -67,6 +67,5 @@ further enhance awareness and preparedness among students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE5.jpg">
 </div>
-<p>&nbsp;</p>
-<p></p>
+<h4>&nbsp;<strong>International Friendship Day</strong></h4>
 <p></p>
