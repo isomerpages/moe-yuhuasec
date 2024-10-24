@@ -68,4 +68,13 @@ further enhance awareness and preparedness among students.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE5.jpg">
 </div>
 <h4>&nbsp;<strong>International Friendship Day</strong></h4>
+<p>Our school commemorated <em>Embracing Diversity: Celebrating International Friendship</em> during
+the CCE lesson. The event, held via Zoom, aimed to foster cultural understanding,
+highlight the importance of international friendship, and showcase the
+rich diversity within our school community. The programme began with pre-recorded
+presentations from international students representing Myanmar, the Philippines,
+and Bangladesh. Students then participated in a Kahoot quiz based on the
+presentations, encouraging engagement and teamwork across classrooms. Prizes
+were awarded to top-performing classes, concluding the event with reflections
+on the power of friendship in fostering global unity and cooperation.</p>
 <p></p>
