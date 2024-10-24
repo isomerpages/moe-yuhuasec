@@ -64,6 +64,10 @@ in the Food Resilience Experience, allowing students to experience emergency
 packed meals during recess. Additionally, the school conducted its annual
 Total Defence Readiness Programme, organized by the uniform groups, to
 further enhance awareness and preparedness among students.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE5.jpg">
+</div>
 <p>&nbsp;</p>
 <p></p>
 <p></p>
