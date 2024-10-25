@@ -110,6 +110,6 @@ presenting Singapore’s various cultures to visiting students from China.
 On Racial Harmony Day itself, students participated in a TikTok Challenge
 showcasing ethnic dances, reinforcing unity amidst diversity.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE8.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/NE8.jpg">
 </div>
 <p></p>
