@@ -112,4 +112,60 @@ showcasing ethnic dances, reinforcing unity amidst diversity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/NE8.jpg">
 </div>
+<h4><strong>NS Engagement</strong></h4>
+<p>The National Service engagement session is held annually for all Secondary
+2 students. Its aim is to familiarize students with the National Service
+experience and address any questions they may have, while inspiring them
+to view this phase as meaningful. Through this session, students will develop
+a positive outlook on their future National Service and recognize their
+vital role in national defense. At the end of the session, students feel
+encouraged about their upcoming experiences and understand the importance
+of their contributions to the nation, fostering a sense of responsibility
+and commitment.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE9.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE10.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<h4><strong>NRIC Ceremony</strong></h4>
+<p>The NRIC Ceremony takes place annually for Secondary 3 students. It aims
+to help students understand the significance of the NRIC in their lives
+and foster a sense of allegiance towards Singapore. By the end of the programme,
+students should appreciate the importance of the NRIC and their status
+as Singapore citizens, while also developing empathy for those who face
+challenges in gaining citizenship. This initiative encourages a deeper
+understanding of their identity and responsibilities.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
