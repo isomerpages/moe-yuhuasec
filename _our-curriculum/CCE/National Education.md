@@ -99,4 +99,5 @@ on the power of friendship in fostering global unity and cooperation.</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Racial Harmony Day</strong></h4>
 <p></p>
