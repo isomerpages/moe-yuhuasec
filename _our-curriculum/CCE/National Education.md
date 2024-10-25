@@ -65,7 +65,7 @@ packed meals during recess. Additionally, the school conducted its annual
 Total Defence Readiness Programme, organized by the uniform groups, to
 further enhance awareness and preparedness among students.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE5.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/NE5.jpg">
 </div>
 <h4>&nbsp;<strong>International Friendship Day</strong></h4>
 <p>Our school commemorated <em>Embracing Diversity: Celebrating International Friendship</em> during
