@@ -100,4 +100,16 @@ on the power of friendship in fostering global unity and cooperation.</p>
 </tbody>
 </table>
 <h4><strong>Racial Harmony Day</strong></h4>
+<p>Racial Harmony Day was commemorated with the theme Singapore - Our Multicultural
+Mosaics. The programme aimed to deepen students’ understanding of Singapore's
+rich cultural diversity, focusing on respect for all ethnicities. The week-long
+commemoration began with a cultural exploration booth, featuring ethnic
+costume displays, traditional games, and interactive activities such as
+a polaroid photo booth. Additionally, Yuhuans acted as cultural ambassadors,
+presenting Singapore’s various cultures to visiting students from China.
+On Racial Harmony Day itself, students participated in a TikTok Challenge
+showcasing ethnic dances, reinforcing unity amidst diversity.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE8.jpg">
+</div>
 <p></p>
