@@ -161,12 +161,12 @@ understanding of their identity and responsibilities.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/NE11_1.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/NE11_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/NE12.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/NE12.jpg">
 </div>
 </td>
 </tr>
