@@ -77,4 +77,26 @@ and Bangladesh. Students then participated in a Kahoot quiz based on the
 presentations, encouraging engagement and teamwork across classrooms. Prizes
 were awarded to top-performing classes, concluding the event with reflections
 on the power of friendship in fostering global unity and cooperation.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE6.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NE7.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
