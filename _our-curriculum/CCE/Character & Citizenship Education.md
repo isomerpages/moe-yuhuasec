@@ -61,10 +61,8 @@ components:</p>
 <p>Other key programmes include Student Initiated Learning via Values in
 Action (SILVIA) projects, National Education (NE) programmes, Alumni Talks
 and Applied Learning Modules at Schools (ApLM@Schools).</p>
-<p></p>
 <p><strong>Industry Partners / Alumni Talks (during Flourish week):</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__31_.png">
 </div>
