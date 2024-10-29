@@ -26,11 +26,6 @@ student-centric and meaningful way. Embracing the belief that ‘Every Teacher
 a CCE Teacher’ and ‘Every School Experience is a CCE Lesson’, we strive
 to create a caring and enabling school environment that encourages authentic
 and collaborative learning.</p>
-<h3>Department Introduction</h3>
-<p>Aimed at customising integrated experiential learning, it is hoped that
-the CCE curriculum developed in Yuhua Secondary School will nurture students
-of character and build competencies in our students to develop them to
-be good individuals and useful citizens.</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/CCE.jpg">
 </div>
