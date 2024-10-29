@@ -12,23 +12,30 @@ third_nav_title: CCE
 </div>
 <p></p>
 <p></p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Character and Citizenship Education (CCE) is integral to the holistic
 development of our students, leading to positive life outcomes. Guided
 by MOE’s CCE 2021 Curriculum Frame and our school values - Curiosity, Adaptability,
 Respect, Responsibility, Resilience and Above All, CARE³, our CCE programme
 is designed to equip students with social-emotional competencies and prepare
 them to be future ready and active citizens of good character.</p>
+</li>
+<li>
 <p>At YHSS, CCE is enacted with intentionality through several learning platforms.
 These include CCE Lessons during curriculum time, Key Student Development
 Experiences (SDEs) beyond the classroom, school-based initiatives, teachable
 moments during other subject lessons, and learning opportunities beyond
 school.</p>
+</li>
+<li>
 <p>We adopt a whole school approach to ensure that CCE is delivered in a
 student-centric and meaningful way. Embracing the belief that ‘Every Teacher
 a CCE Teacher’ and ‘Every School Experience is a CCE Lesson’, we strive
 to create a caring and enabling school environment that encourages authentic
 and collaborative learning.</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/CCE.jpg">
 </div>
