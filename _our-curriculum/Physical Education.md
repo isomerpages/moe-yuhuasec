@@ -23,7 +23,6 @@ in physical activities.</p>
 Park.&nbsp; Students whose running time meets the NAPFA running test standards
 will see donations pledge to the President’s Challenge.&nbsp; There are
 also live performances from talented students and staff during the event.&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/crosscountry_1.jpg">
 </div>
