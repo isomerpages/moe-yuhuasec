@@ -44,7 +44,6 @@ in an authentic outdoor setting.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_1.jpg">
 </div>
