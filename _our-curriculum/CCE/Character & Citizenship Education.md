@@ -43,7 +43,7 @@ and collaborative learning.</p>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/CCE.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/CCE.jpg">
 </div>
 <p></p>
 <p></p>
