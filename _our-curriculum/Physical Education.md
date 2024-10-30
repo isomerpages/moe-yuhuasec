@@ -24,7 +24,7 @@ Park.&nbsp; Students whose running time meets the NAPFA running test standards
 will see donations pledge to the President’s Challenge.&nbsp; There are
 also live performances from talented students and staff during the event.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/crosscountry_1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/crosscountry_1.jpg">
 </div>
 <p><strong>Sports Education Programme (SEP)</strong>
 </p>
@@ -42,10 +42,10 @@ course, kayaking, tent pitching, orienteering) and apply school values
 in an authentic outdoor setting.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_1.jpg">
 </div>
 <p></p>
