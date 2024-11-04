@@ -5,17 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
-<h3>Semester 2 Timetable</h3>
-<p>Dear Parents/Guardians,
-<br>You may access the Semester 2 timetable for 2024 below.</p>
-<p><a href="/files/2024_Sem_2_TT_Sec_1_for_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
-</p>
-<p><a href="/files/2024_Sem_2_TT_Sec_2_for_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
-</p>
-<p><a href="/files/2024_Sem_2_TT_Sec_3_for_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
-</p>
-<p><a href="/files/2024_Sem_2_TT_Sec_4_and_5_for_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5</a>
-</p>
 <hr>
 <h3>Term 4 Parent Letter</h3>
 <p>Dear Parents,
@@ -59,26 +48,26 @@ co-curricular matters.</p>
 <p>Secondary 2 (2025)</p>
 <p><a href="/files/yhss%202024%20s2%20g1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G1</a>
 </p>
-<p><a href="/files/yhss%202024%20s2%20g2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G2</a>
+<p><a href="/files/2025_Sec_2_G2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G2</a>
 </p>
-<p><a href="/files/yhss%202024%20s2%20g3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G3</a>
+<p><a href="/files/2025_Sec_2_G3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G3</a>
 </p>
 <p>Secondary 3 (2025)</p>
-<p><a href="/files/yhss%202024%20s3%20nt.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Normal (Technical)</a>
+<p><a href="/files/2025_Sec_3_NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Normal (Technical)</a>
 </p>
-<p><a href="/files/yhss%202024%20s3%20na.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Normal (Academic)</a>
+<p><a href="/files/2025_Sec_3_NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Normal (Academic)</a>
 </p>
-<p><a href="/files/yhss%202024%20s3%20exp.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Express</a>
+<p><a href="/files/2025_Sec_3_Exp.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Express</a>
 </p>
 <p>Secondary 4 (2025)</p>
-<p><a href="/files/yhss%202024%20s4%20nt.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal (Technical)</a>
+<p><a href="/files/2025_Sec_4_NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal (Technical)</a>
 </p>
-<p><a href="/files/yhss%202024%20s4%20na.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal (Academic)</a>
+<p><a href="/files/2025_Sec_4_NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal (Academic)</a>
 </p>
-<p><a href="/files/yhss%202024%20s4%20exp.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Express</a>
+<p><a href="/files/2025_Sec_4_Exp.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Express</a>
 </p>
 <p>Secondary 5 (2025)</p>
-<p><a href="/files/yhss%202024%20s5%20na.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 Normal (Academic)</a>
+<p><a href="/files/2025_Sec_5__NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 Normal (Academic)</a>
 </p>
 <hr>
 <h3>Financial Assistance Scheme (FAS)</h3>
