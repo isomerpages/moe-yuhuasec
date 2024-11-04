@@ -22,23 +22,15 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infopic:
-      title: Timetable for Semester 2 (2024)
-      subtitle: Timetable for semester 2
+      title: Book list 2025
+      subtitle: Booklist 2025
       id: infopic
-      description: You may access the timetables for your class at the page for
-        Information for Students below.
-      button: Information for Students
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
-      image: /images/Timetable_2024.png
-      alt: Image alt text
-  - infobar:
-      title: YHSS EYE Exam Schedule
-      subtitle: YHSS Term 4
-      id: infobar
-      description: Dear parents, please find the EYE timetable at the Information for
-        Parents and Students page below.
+      description: You may access the Sec2-5 Booklist at the page for Information for
+        Students below.
       button: Information for Parents
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
+      image: /images/Timetable_2024.png
+      alt: Image alt text
   - infopic:
       title: Yearbook 2023
       subtitle: YEARBOOK 2023
