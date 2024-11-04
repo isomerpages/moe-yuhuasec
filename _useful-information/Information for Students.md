@@ -5,28 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Students</strong></h1>
-<h4>Secondary 1 to 3 End of Year Examination Schedule 2024</h4>
-<p>Dear Parents/Guardians,
-<br>You may access the Sec1 to Sec 3 EYE Schedule for 2024 below.</p>
-<p><a href="/files/S1_EYE_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary One End of Year Examination Schedule 2024</a>
-</p>
-<p><a href="/files/S2_EYE_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary Two End of Year Examination Schedule 2024</a>
-</p>
-<p><a href="/files/S3_EYE_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary Three End of Year Examination Schedule 2024</a>
-</p>
-<hr>
-<h3>Semester 2 Timetable</h3>
-<p>Dear students,
-<br>You may access the Semester 2 timetable for 2024 below.</p>
-<p><a href="/files/2024_Sem_2_TT_Sec_1_for_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
-</p>
-<p><a href="/files/2024_Sem_2_TT_Sec_2_for_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
-</p>
-<p><a href="/files/2024_Sem_2_TT_Sec_3_for_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
-</p>
-<p><a href="/files/2024_Sem_2_TT_Sec_4_and_5_for_upload.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5</a>
-</p>
-<hr>
 <h3>Student Handbook</h3>
 <p>Dear students, you may access the <a href="https://sites.google.com/moe.edu.sg/yhss-handbook-site/home?pli=1" rel="noopener noreferrer nofollow" target="_blank">YHSS Student Handbook</a> for
 information on the expectations for attire, academic matters and co-curricular

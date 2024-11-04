@@ -46,7 +46,7 @@ co-curricular matters.</p>
 <hr>
 <h3>2025 Booklists</h3>
 <p>Secondary 2 (2025)</p>
-<p><a href="/files/yhss%202024%20s2%20g1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G1</a>
+<p><a href="/files/2025_Sec_2_G1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G1</a>
 </p>
 <p><a href="/files/2025_Sec_2_G2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G2</a>
 </p>
