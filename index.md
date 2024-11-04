@@ -22,8 +22,8 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infopic:
-      title: Book list 2025
-      subtitle: Booklist 2025
+      title: Booklist 2025
+      subtitle: Secondary 2 to Secondary 5
       id: infopic
       description: You may access the Sec2-5 Booklist at the page for Information for
         Students below.
