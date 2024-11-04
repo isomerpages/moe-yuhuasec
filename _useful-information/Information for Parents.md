@@ -65,29 +65,29 @@ with Parents on 6 April 2024 below:</p>
 more information on the expectations for students, academic matters and
 co-curricular matters.</p>
 <hr>
-<h3>2024 Booklists</h3>
-<p>Secondary 2 (2024)</p>
+<h3>2025 Booklists</h3>
+<p>Secondary 2 (2025)</p>
 <p><a href="/files/yhss%202024%20s2%20g1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G1</a>
 </p>
 <p><a href="/files/yhss%202024%20s2%20g2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G2</a>
 </p>
 <p><a href="/files/yhss%202024%20s2%20g3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G3</a>
 </p>
-<p>Secondary 3 (2024)</p>
+<p>Secondary 3 (2025)</p>
 <p><a href="/files/yhss%202024%20s3%20nt.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Normal (Technical)</a>
 </p>
 <p><a href="/files/yhss%202024%20s3%20na.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Normal (Academic)</a>
 </p>
 <p><a href="/files/yhss%202024%20s3%20exp.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Express</a>
 </p>
-<p>Secondary 4 (2024)</p>
+<p>Secondary 4 (2025)</p>
 <p><a href="/files/yhss%202024%20s4%20nt.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal (Technical)</a>
 </p>
 <p><a href="/files/yhss%202024%20s4%20na.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal (Academic)</a>
 </p>
 <p><a href="/files/yhss%202024%20s4%20exp.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Express</a>
 </p>
-<p>Secondary 5 (2024)</p>
+<p>Secondary 5 (2025)</p>
 <p><a href="/files/yhss%202024%20s5%20na.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 Normal (Academic)</a>
 </p>
 <hr>
