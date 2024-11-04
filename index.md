@@ -29,7 +29,7 @@ sections:
         Students below.
       button: Information for Parents
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
-      image: /images/Timetable_2024.png
+      image: /images/crosscountry_1.jpg
       alt: Image alt text
   - infopic:
       title: Yearbook 2023
