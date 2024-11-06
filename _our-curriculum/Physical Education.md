@@ -17,7 +17,7 @@ Run, Sports Education Programme, Secondary 1 &amp; 3 Adventure Camp and
 Sports Carnival create opportunities for all Yuhuans to enjoy and participate
 in physical activities.</p>
 <h3>Signature Programme(s)</h3>
-<p><strong>Annual Cross Country Run – The Principal’s Challenge</strong>
+<p><strong>Annual Cross Country Run – The National Day Challenge</strong>
 </p>
 <p>Participants (students and staff) take part in a 2.4km run in West Coast
 Park.&nbsp; Students whose running time meets the NAPFA running test standards
