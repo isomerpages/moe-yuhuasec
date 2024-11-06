@@ -17,12 +17,12 @@ Run, Sports Education Programme, Secondary 1 &amp; 3 Adventure Camp and
 Sports Carnival create opportunities for all Yuhuans to enjoy and participate
 in physical activities.</p>
 <h3>Signature Programme(s)</h3>
-<p><strong>Annual Cross Country Run – The Principal’s Challenge</strong>
+<p><strong>Annual Cross Country Run – The National Day Challenge</strong>
 </p>
-<p>Participants (students and staff) take part in a 2.4km run in West Coast
-Park.&nbsp; Students whose running time meets the NAPFA running test standards
-will see donations pledge to the President’s Challenge.&nbsp; There are
-also live performances from talented students and staff during the event.&nbsp;</p>
+<p>Participants (students and staff) take part in a 2.4km run.&nbsp; Students
+whose running time meets the NAPFA running test standards will see donations
+pledge to the President’s Challenge.&nbsp; There are also live performances
+from talented students and staff during the event.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/crosscountry_1.jpg">
 </div>
@@ -33,7 +33,7 @@ sports like bowling and archery that are not taught during PE lessons.
 It aims to arouse students’ interest in continual sports participation,
 especially during their leisure time.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2024.png">
 </div>
 <p><strong>Annual Secondary 1 &amp; 3 Adventure Camp</strong>&nbsp;</p>
 <p>The programme is to provide students with an opportunity to participate
