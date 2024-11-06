@@ -33,7 +33,7 @@ sports like bowling and archery that are not taught during PE lessons.
 It aims to arouse students’ interest in continual sports participation,
 especially during their leisure time.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE1.jpg">
 </div>
 <p><strong>Annual Secondary 1 &amp; 3 Adventure Camp</strong>&nbsp;</p>
 <p>The programme is to provide students with an opportunity to participate
