@@ -32,7 +32,6 @@ from talented students and staff during the event.&nbsp;</p>
 sports like bowling and archery that are not taught during PE lessons.
 It aims to arouse students’ interest in continual sports participation,
 especially during their leisure time.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE_2024.png">
 </div>
