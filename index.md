@@ -60,4 +60,14 @@ sections:
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
       image: /images/crosscountry_1.jpg
       alt: Image alt text
+  - infopic:
+      title: Outstanding Youth in Education Award
+      subtitle: OYEA
+      id: infopic
+      description: OYEA gives national recognition to young teachers who are role
+        models for the teaching profession.
+      button: NOMINATION IS NOW OPEN!
+      url: https://go.gov.sg/oyea2025
+      image: /images/Screenshot_2024_11_11_085110.png
+      alt: Image alt text
 ---
