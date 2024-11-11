@@ -17,11 +17,15 @@ awards by 10th January 2025.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/pat2025" rel="noopener nofollow" target="_blank">PAT Award Nomination Form</a>
+<p><a href="https://go.gov.sg/pat2025" rel="noopener nofollow" target="_blank">PAT Award </a>
+</p>
+<p><a href="https://go.gov.sg/pat2025" rel="noopener nofollow" target="_blank">Nomination Form</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/oyea2025" rel="noopener nofollow" target="_blank">Outstanding Youth Education Award Nomination Form</a>
+<p><a href="https://go.gov.sg/oyea2025" rel="noopener nofollow" target="_blank">Outstanding Youth Education Award </a>
+</p>
+<p><a href="https://go.gov.sg/oyea2025" rel="noopener nofollow" target="_blank">Nomination Form</a>
 </p>
 </td>
 </tr>
