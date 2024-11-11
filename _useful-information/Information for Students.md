@@ -5,6 +5,33 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Students</strong></h1>
+<h3>Announcements:</h3>
+<p>Dear students,</p>
+<p>Nominate your favourite inspiring teacher for the following prestigious
+awards by 10th January 2025.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="President's Award" src="/images/Screenshot_2024_11_11_085049.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="OYEA" src="/images/Screenshot_2024_11_11_085110.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <h3>Student Handbook</h3>
 <p>Dear students, you may access the <a href="https://sites.google.com/moe.edu.sg/yhss-handbook-site/home?pli=1" rel="noopener noreferrer nofollow" target="_blank">YHSS Student Handbook</a> for
 information on the expectations for attire, academic matters and co-curricular
