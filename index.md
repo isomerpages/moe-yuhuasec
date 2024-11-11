@@ -41,16 +41,6 @@ sections:
       image: /images/Screenshot_2024_11_11_085110.png
       alt: Image alt text
   - infopic:
-      title: Booklist 2025
-      subtitle: Secondary 2 to Secondary 5
-      id: infopic
-      description: You may access the Sec2-5 Booklist at the page for Information for
-        Parents below.
-      button: Information for Parents
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
-      image: /images/crosscountry_1.jpg
-      alt: Image alt text
-  - infopic:
       title: YH Café
       subtitle: Yuhua in the news
       description: Our canteen was featured in Lianhe Zaobao recently. An inviting
