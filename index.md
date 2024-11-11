@@ -51,4 +51,13 @@ sections:
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
       alt: Image alt text
+  - infopic:
+      title: President’s Award for Teachers 2025
+      id: infopic
+      description: The President’s Award for Teachers  gives national recognition to
+        experienced teachers who are role models for the teaching profession.
+      button: NOMINATION IS NOW OPEN!
+      url: https://go.gov.sg/pat2025
+      image: /images/Screenshot_2024_11_11_085049.png
+      alt: Image alt text
 ---
