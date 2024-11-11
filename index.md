@@ -51,12 +51,11 @@ sections:
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
       alt: Image alt text
   - infopic:
-      title: Yearbook 2023
-      subtitle: YEARBOOK 2023
+      title: Yearbook
       id: infopic
       description: Click on the link below to find out more about the events and
         achievements of our school in 2023!
-      button: Link to YHSS YEARBOOK 2023
+      button: Link to YHSS YEARBOOK
       url: https://drive.google.com/file/d/1cSL9Ngm7nnIj6x8raOWHhbEcKl163s6Z/view?usp=drive_web
       alt: Image alt text
       image: /images/yhssllp4.png
