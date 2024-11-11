@@ -22,6 +22,16 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infopic:
+      title: YH Café
+      subtitle: Yuhua in the news
+      description: Our canteen was featured in Lianhe Zaobao recently. An inviting
+        space for students to dine and play amidst lush greenery, it's
+        definitely been a big hit!
+      button: click here to read the article!
+      url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
+      image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
+      alt: Image alt text
+  - infopic:
       title: President’s Award for Teachers 2025
       id: infopic
       description: The President’s Award for Teachers  gives national recognition to
@@ -39,16 +49,6 @@ sections:
       button: NOMINATION IS NOW OPEN!
       url: https://go.gov.sg/oyea2025
       image: /images/Screenshot_2024_11_11_085110.png
-      alt: Image alt text
-  - infopic:
-      title: YH Café
-      subtitle: Yuhua in the news
-      description: Our canteen was featured in Lianhe Zaobao recently. An inviting
-        space for students to dine and play amidst lush greenery, it's
-        definitely been a big hit!
-      button: click here to read the article!
-      url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
-      image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
       alt: Image alt text
   - infopic:
       title: Yearbook 2023
