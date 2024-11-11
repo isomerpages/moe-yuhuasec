@@ -17,6 +17,16 @@ awards by 10th January 2025.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pat2025" rel="noopener nofollow" target="_blank">PAT Award Nomination Form</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/oyea2025" rel="noopener nofollow" target="_blank">Outstanding Youth Education Award  Nomination Form</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="President's Award" src="/images/Screenshot_2024_11_11_085049.png">
