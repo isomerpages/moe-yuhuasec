@@ -76,5 +76,6 @@ sections:
       id: infobar
       description: You may access the Sec 2-5 Booklist at the page  for Information
         for Parents below.
-      button: Button Text
+      button: Info for Students & Parents
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
 ---
