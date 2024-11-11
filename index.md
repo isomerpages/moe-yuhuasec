@@ -22,14 +22,13 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infopic:
-      title: Booklist 2025
-      subtitle: Secondary 2 to Secondary 5
+      title: President’s Award for Teachers 2025
       id: infopic
-      description: You may access the Sec2-5 Booklist at the page for Information for
-        Students below.
-      button: Information for Parents
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
-      image: /images/crosscountry_1.jpg
+      description: The President’s Award for Teachers  gives national recognition to
+        experienced teachers who are role models for the teaching profession.
+      button: NOMINATION IS NOW OPEN!
+      url: https://go.gov.sg/pat2025
+      image: /images/Screenshot_2024_11_11_085049.png
       alt: Image alt text
   - infopic:
       title: Yearbook 2023
@@ -52,12 +51,13 @@ sections:
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
       alt: Image alt text
   - infopic:
-      title: President’s Award for Teachers 2025
+      title: Booklist 2025
+      subtitle: Secondary 2 to Secondary 5
       id: infopic
-      description: The President’s Award for Teachers  gives national recognition to
-        experienced teachers who are role models for the teaching profession.
-      button: NOMINATION IS NOW OPEN!
-      url: https://go.gov.sg/pat2025
-      image: /images/Screenshot_2024_11_11_085049.png
+      description: You may access the Sec2-5 Booklist at the page for Information for
+        Students below.
+      button: Information for Parents
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
+      image: /images/crosscountry_1.jpg
       alt: Image alt text
 ---
