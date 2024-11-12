@@ -22,25 +22,24 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infopic:
-      title: Booklist 2025
-      subtitle: Secondary 2 to Secondary 5
+      title: President’s Award for Teachers 2025
       id: infopic
-      description: You may access the Sec2-5 Booklist at the page for Information for
-        Students below.
-      button: Information for Parents
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
-      image: /images/crosscountry_1.jpg
+      description: The President’s Award for Teachers  gives national recognition to
+        experienced teachers who are role models for the teaching profession.
+      button: NOMINATION IS NOW OPEN!
+      url: https://go.gov.sg/pat2025
+      image: /images/Screenshot_2024_11_11_085049.png
       alt: Image alt text
   - infopic:
-      title: Yearbook 2023
-      subtitle: YEARBOOK 2023
+      title: Outstanding Youth in Education Award
+      subtitle: OYEA
       id: infopic
-      description: Click on the link below to find out more about the events and
-        achievements of our school in 2023!
-      button: Link to YHSS YEARBOOK 2023
-      url: https://drive.google.com/file/d/1cSL9Ngm7nnIj6x8raOWHhbEcKl163s6Z/view?usp=drive_web
+      description: OYEA gives national recognition to young teachers who are role
+        models for the teaching profession.
+      button: NOMINATION IS NOW OPEN!
+      url: https://go.gov.sg/oyea2025
+      image: /images/Screenshot_2024_11_11_085110.png
       alt: Image alt text
-      image: /images/yhssllp4.png
   - infopic:
       title: YH Café
       subtitle: Yuhua in the news
@@ -51,4 +50,21 @@ sections:
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
       alt: Image alt text
+  - infopic:
+      title: Yearbook
+      id: infopic
+      description: Click on the link below to find out more about the events and
+        achievements of our school in 2023!
+      button: Link to YHSS YEARBOOK
+      url: https://drive.google.com/file/d/1cSL9Ngm7nnIj6x8raOWHhbEcKl163s6Z/view?usp=drive_web
+      alt: Image alt text
+      image: /images/yhssllp4.png
+  - infobar:
+      title: Book List 2025
+      subtitle: Secondary 2 to Secondary 5
+      id: infobar
+      description: You may access the Sec 2-5 Booklist at the page  for Information
+        for Parents below.
+      button: Info for Students & Parents
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
 ---
