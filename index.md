@@ -67,4 +67,13 @@ sections:
         for Parents below.
       button: Info for Students & Parents
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
+  - infopic:
+      title: Open House
+      subtitle: Yuhua Secondary School
+      id: infopic
+      description: on 23.11.2024
+      button: Come & Join us
+      url: https://sites.google.com/moe.edu.sg/yhss-e-openhouse/home
+      image: /images/Open_house.png
+      alt: Image alt text
 ---
