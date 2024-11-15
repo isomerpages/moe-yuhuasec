@@ -1,12 +1,13 @@
 ---
 title: CCA
-permalink: /our-programmes/overseas-learning/cca
+permalink: /our-programmes/overseas-learning/cca/
 description: ""
 third_nav_title: Overseas Learning
+variant: markdown
 ---
 # **CCA**
 
-### Harmonica Band Trip to Cambodia
+### Harmonica Band Trip to Taiwan
 
 **Introduction**
 
