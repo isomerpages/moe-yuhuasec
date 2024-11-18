@@ -43,9 +43,6 @@ their potential and making a positive difference.</p>
 </li>
 </ol>
 <h3>Project Gratitude</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Student%20Leadership%202.png">
-</div>
 <p>Celebrating our unsung heroes at Project Gratitude! Our Student Councillors
 and Secondary 2 cChairpersons joined forces to design engaging activities,
 showing appreciation for the invaluable behind-the-scenes contributions
