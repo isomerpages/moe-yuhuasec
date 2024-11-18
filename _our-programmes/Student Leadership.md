@@ -43,8 +43,8 @@ their potential and making a positive difference.</p>
 </li>
 </ol>
 <h3>Project Gratitude</h3>
-<p>Celebrating our unsung heroes at Project Gratitude! Our Student Councillors
-and Secondary 2 cChairpersons joined forces to design engaging activities,
+<p>Celebrating our unsung heroes at Project Gratitude! Our Student Councilors
+and Secondary 2 Chairpersons joined forces to design engaging activities,
 showing appreciation for the invaluable behind-the-scenes contributions
 of our non-teaching staff. Here's to strengthening bonds and acknowledging
 their incredible support!</p>
