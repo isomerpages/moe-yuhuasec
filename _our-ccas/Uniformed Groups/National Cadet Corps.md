@@ -42,6 +42,7 @@ Ms Grace Tan
 
 ### CCA Leaders
 USM: MUHAMMAD NUR HASIF BIN KHAIRUL SHAM (3 CARE)<br>ASM: MARK JACHIN GUMBAN MIRASOL (3 CONTRIBUTE)**
+
 ### Key Events of the Year
 **Junior Cadets (Secondary 1):** 
 * Affirmation Ceremony 
