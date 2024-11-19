@@ -84,7 +84,7 @@ and confidence. Our team awaits you, a future Kung Fu Master!</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - 1 International cudgel</p>
 </th>
-<th rowspan="1" colspan="1">
+<th rowspan="2" colspan="1">
 <p>Cheryl: Pesta Sukan (July 2023)</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - traditional Nanquan</p>
@@ -100,6 +100,16 @@ and confidence. Our team awaits you, a future Kung Fu Master!</p>
 - 1 International Nangun</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - Traditional double short weapon</p>
+<p></p>
+<p>Misha: Nationals (November 2023)</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 1
+International Changquan</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 1
+International Cudgel</p>
+<p></p>
+<p>Shirmin: Nationals (November 2023)</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- 1 international broadsword</p>
 </th>
 </tr>
 <tr>
@@ -107,17 +117,6 @@ and confidence. Our team awaits you, a future Kung Fu Master!</p>
 <p>Chung Sheng: 狂人 @ malaysia</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-
 1 International cudgel</p>
-<p>________________________________________________</p>
-<p>Shirmin: Nationals (November 2023)</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- 1 international broadsword</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Misha: Nationals (November 2023)</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 1
-International Changquan</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 1
-International Cudgel</p>
 </th>
 </tr>
 </tbody>
