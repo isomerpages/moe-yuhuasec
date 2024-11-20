@@ -36,7 +36,10 @@ even to the wider society in meaningful ways.</p>
 <p>President: Manisha D/o Supaiah (3 Care)
 <br>Vice-President: Razanah Binte Hirwan (3 Contribute)</p>
 <h4>Key Events/Achievements:</h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -73,12 +76,30 @@ Panelists (Nationwide approach due to Covid-19)</p>
 <p>Performances in school and at external events, such as the National Day
 Heartland celebrations with SportSG</p>
 </li>
+<li>
+<p>Performance for the school’s World Book Day in March 2024</p>
+</li>
+<li>
+<p>Choral Masterclass with Ms Chen Anyu (Kaohsiung) in March 2024</p>
+</li>
+<li>
+<p>Performance for KAM Festival @ 10: A Choral Celebration II at School of
+the Arts (SOTA) on 5th May 2024, together with 4 other choirs (including
+a Thai choir)</p>
+</li>
+<li>
+<p>National Day Performance at Jurong Spring CC in August 2024</p>
+</li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
