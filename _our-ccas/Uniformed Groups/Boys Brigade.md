@@ -117,9 +117,20 @@ Pranav</p>
 </tbody>
 </table>
 <h3>Achievements:</h3>
-<p>JM Fraser Award 2021 (Sliver) BB Blaze 2022 (Gold Honour Roll) BB Character
-Quest 2022 (Silver Honour Roll) JM Fraser Award 2022 (Distinction) BB Blaze
-2023 (Bronze Honour Roll) Founder’s Award 2023 (SSG Goh Kun Ming)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>BB Blaze 2022 (Gold Honour Roll), BB Character Quest 2022 (Silver Honour
+Roll), JM Fraser Award 2022 (Distinction)</p>
+</li>
+<li>
+<p>BB Blaze 2023 (Bronze Honour Roll), BB Character Quest 2023 (Bronze Honour
+Roll), Founder’s Award 2023 (SSG Goh Kun Ming), JM Fraser Award 2023 (Distinction)</p>
+</li>
+<li>
+<p>BB Blaze 2024 (Bronze Honour Roll), BB Character Quest 2024 (Bronze Honour
+Roll)</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/brbrbrb.jpg">
 </div>
