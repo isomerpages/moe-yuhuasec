@@ -59,6 +59,9 @@ Pranav</p>
 <li>
 <p>BBSG (Share-a-Gift)</p>
 </li>
+<li>
+<p></p>
+</li>
 </ul>
 <table style="minWidth: 50px">
 <colgroup>
@@ -83,7 +86,7 @@ Pranav</p>
 <p>Participants of BB Blaze (Adventure)Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Laser Tag Experience during S1 CCA Trial 2023</p>
+<p>Laser Tag Experience during S1 CCA Trial</p>
 </td>
 </tr>
 </tbody>
