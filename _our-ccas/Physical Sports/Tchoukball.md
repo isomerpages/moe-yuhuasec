@@ -65,13 +65,16 @@ Qistina Binte Muhammad Fadhlin (2 Contribute)</p>
 <h3>CCA Highlights</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>CCA Orientation</p>
-</li>
-<li>
-<p>West Zone Tchoukball Clinic</p>
+<p>CCA Orientation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
 <p>Friendly Matches &amp; Competitions</p>
+</li>
+<li>
+<p>Training and Matches with other school</p>
+</li>
+<li>
+<p>Trident Cup</p>
 </li>
 <li>
 <p>Bi-Monthly Bonding Sessions</p>
