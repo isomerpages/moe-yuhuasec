@@ -58,9 +58,10 @@ Pranav</p>
 </li>
 <li>
 <p>BBSG (Share-a-Gift)</p>
-</li>
-<li>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB_2024.png">
+</div>
 </li>
 </ul>
 <table style="minWidth: 50px">
