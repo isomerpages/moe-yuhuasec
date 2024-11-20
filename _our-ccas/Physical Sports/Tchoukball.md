@@ -17,16 +17,19 @@ of 7 players-a-side on a court, this is a game that is played by both boys
 and girls. Opponents are not allowed to intercept or prevent the passing
 of the ball during play. Points are scored in Tchoukball by throwing the
 ball at a netted frame, which is placed at both ends of the court, and
-when the opponents are unable to catch the rebound.
-<br>Tchoukball gained new ground in 2023, starting with the Singapore Women’s
+when the opponents are unable to catch the rebound.</p>
+<p>Tchoukball gained new ground in 2023, starting with the Singapore Women’s
 Tchoukball Team emerging as the world’s top team after beating 30-year
 reigning champion Chinese Taipei at the Asia Pacific Tchoukball Championships.
 With this resounding achievement, Tchoukball was formally recognized as
-a National School Games (NSG)!
-<br>Tchoukball was first introduced in Yuhua Sec as a CCA in 2012. Through
+a National School Games (NSG)!</p>
+<p>Tchoukball was first introduced in Yuhua Sec as a CCA in 2012. Through
 Yuhua Tchoukball, we aspire to motivate student athletes to develop as
 excellent sportsmen and sportswomen who constantly strive to improve themselves
 and to demonstrate good sportsmanship.</p>
+<p>Yuhua Tchoukball milestones include attaining 1<sup>st</sup> Runners Up
+for the C Div Boys and C Div girls and sending a few of our Tchoukball
+players to the National Squad to play overseas in Malaysia and Taiwan.</p>
 <h3>Teachers in Charge</h3>
 <p>Mr John Ho
 <br>Mdm Kavitha
@@ -35,7 +38,10 @@ and to demonstrate good sportsmanship.</p>
 <br>
 </p>
 <h3>Student Leaders</h3>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
