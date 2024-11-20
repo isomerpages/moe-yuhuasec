@@ -63,25 +63,9 @@ Qistina Binte Muhammad Fadhlin (2 Contribute)</p>
 </tbody>
 </table>
 <h3>CCA Highlights</h3>
-<ul data-tight="true" class="tight">
-<li>
 <p>CCA Orientation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</li>
-<li>
 <p>Friendly Matches &amp; Competitions</p>
-</li>
-<li>
 <p>Training and Matches with other school</p>
-</li>
-<li>
 <p>Trident Cup</p>
-</li>
-<li>
 <p>Bi-Monthly Bonding Sessions</p>
-</li>
-<li>
 <p>End of Year Day Camp</p>
-</li>
-</ul>
-<h3>Achievements</h3>
-<p></p>
