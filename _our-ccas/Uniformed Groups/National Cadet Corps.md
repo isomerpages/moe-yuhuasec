@@ -3,6 +3,7 @@ title: National Cadet Corps
 permalink: /our-ccas/uniformed-groups/national-cadet-corps/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 # **National Cadet Corps**
 
@@ -41,6 +42,7 @@ Ms Grace Tan
 
 ### CCA Leaders
 USM: MUHAMMAD NUR HASIF BIN KHAIRUL SHAM (3 CARE)<br>ASM: MARK JACHIN GUMBAN MIRASOL (3 CONTRIBUTE)**
+
 ### Key Events of the Year
 **Junior Cadets (Secondary 1):** 
 * Affirmation Ceremony 
@@ -67,3 +69,5 @@ USM: MUHAMMAD NUR HASIF BIN KHAIRUL SHAM (3 CARE)<br>ASM: MARK JACHIN GUMBAN MIR
 
 **Outstanding Cadet Award(2023):**<br>
 MUHAMAD IMAN BIN ISMAIL (4 RESPECT)
+
+![NCC-2024](/images/Screenshot_2024_11_19_102956.png)

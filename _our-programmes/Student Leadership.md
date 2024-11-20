@@ -9,30 +9,42 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" src="/images/Student%20Leadership%201.png">
 </div>
-<p>At Yuhua, we have adopted the principles of Servant Leadership by Robert
-Greenleaf in alignment with our school values into four pillars of practices,
-namely Serve, Plan, Grow and Support. We develop Servant Leaders who have
-a heart that cares for others and a sense of responsibility to serve,&nbsp;
-who care for others and a sense of responsibility to serve, who recognise
-their own strengths and weaknesses and make an effort to grow themselves
-in order to develop others and who are sensitive to social needs and help
-build positive relationships and a community that flourishes.&nbsp;</p>
+<p></p>
+<p>At YHSS, we believe in nurturing the next generation of leaders by providing
+a comprehensive framework for student leadership development. Our student
+leaders—including CCA (Co-Curricular Activity) leaders, class leaders,
+and student councillors—play a vital role in shaping the school community
+and upholding our core values.</p>
+<p>Through their roles, our student leaders have the opportunity to grow
+as individuals and contribute meaningfully to the school. Leadership at
+YHSS is more than just a title—it is a journey of growth, responsibility,
+and impact.</p>
 <h3>Programme Objectives</h3>
-<p>Yuhuan student leaders serve with purpose, pride and honour.&nbsp;Student
-Leaders must start with the right intention, which is the desire to care
-for and serve others. They should put in their best effort in serving others
-and continually improve themselves to accomplish something that they can
-be proud of. Student Leaders should preserve the honour of Student Leadership
-by demonstrating integrity and being gracious towards others at all times.</p>
-<p>We aspire to develop Servant Leaders who are self-motivated and have the
-desire to serve and who relate well with others and empathise with their
-needs.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Tailored Training:</strong> Equip student leaders with essential
+skills through structured training programs specific to their roles, empowering
+them to excel in their tasks.</p>
+</li>
+<li>
+<p><strong>Skill Application:</strong> Provide opportunities for student leaders
+to practice and hone their skills by participating in various school events
+and initiatives.</p>
+</li>
+<li>
+<p><strong>Personal Growth:</strong> Foster confidence, responsibility, and
+resilience through real-world leadership challenges.</p>
+</li>
+<li>
+<p><strong>Community Contribution:</strong> Cultivate a sense of purpose and
+teamwork as leaders inspire and guide their peers to achieve shared goals.</p>
+<p>At YHSS, we are committed to supporting every student leader in discovering
+their potential and making a positive difference.</p>
+</li>
+</ol>
 <h3>Project Gratitude</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Student%20Leadership%202.png">
-</div>
-<p>Celebrating our unsung heroes at Project Gratitude! Our Student Councillors
-and Secondary 2 cChairpersons joined forces to design engaging activities,
+<p>Celebrating our unsung heroes at Project Gratitude! Our Student Councilors
+and Secondary 2 Chairpersons joined forces to design engaging activities,
 showing appreciation for the invaluable behind-the-scenes contributions
 of our non-teaching staff. Here's to strengthening bonds and acknowledging
 their incredible support!</p>
