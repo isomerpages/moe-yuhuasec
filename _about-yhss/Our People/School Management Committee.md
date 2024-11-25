@@ -273,13 +273,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (internal)
+<p>Subject Head
 <br>Mathematics</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tommy_wong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tommy Wong</a>
+<p><a href="mailto:yong_ping_tommy_wong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tommy Wong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
