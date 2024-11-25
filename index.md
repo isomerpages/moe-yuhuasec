@@ -22,15 +22,6 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infopic:
-      title: Open House
-      subtitle: Yuhua Secondary School
-      id: infopic
-      description: on 23.11.2024
-      button: Come & Join us
-      url: https://sites.google.com/moe.edu.sg/yhss-e-openhouse/home
-      image: /images/Open_house.png
-      alt: Image alt text
-  - infopic:
       title: President’s Award for Teachers 2025
       id: infopic
       description: The President’s Award for Teachers  gives national recognition to
