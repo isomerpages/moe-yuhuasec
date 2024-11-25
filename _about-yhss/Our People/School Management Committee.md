@@ -259,7 +259,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="LOH_KAI_LING@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Loh Kai Ling</a>
+<p><a href="mailto:LOH_KAI_LING@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Loh Kai Ling</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -279,7 +279,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="yong_ping_tommy_wong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tommy Wong</a>
+<p><a href="mailto:yong_ping_tommy_wong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tommy Wong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
