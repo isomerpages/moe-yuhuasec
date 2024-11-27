@@ -29,10 +29,6 @@ you can refer to these two handbooks.</p>
 <p><a href="https://www.moe.gov.sg/programmes/cyber-wellness/" rel="noopener noreferrer nofollow" target="_blank">Media Literacy Council</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/better-internet-sg" rel="noopener noreferrer nofollow" target="_blank">Better internet sg</a>
-</p>
-</li>
-<li>
 <p><a href="https://sure.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Library’s Learning &amp; Information Literacy Resources</a>
 </p>
 </li>
