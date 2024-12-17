@@ -12,15 +12,34 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Open House Site
-          description: More information here!
-          url: https://sites.google.com/moe.edu.sg/yhss-e-openhouse/home
+        - title: Sec 1 registration
+          description: For students posted to YHSS
+          url: https://sites.google.com/moe.edu.sg/yhsssec1reg2025?usp=sharing
         - title: YHSS Flickr page
           description: Access our school photos here!
           url: https://flickr.com/photos/197130688@N02/albums
         - title: Calendar of Events
           description: Click here!
           url: /useful-information-and-links/school-calendar
+  - infopic:
+      title: Secondary 1 Registration
+      subtitle: sec 1 registration 2025
+      id: infopic
+      description: To students joining us, we are thrilled to welcome you! You can
+        find more information on the first day of school and booklists on the
+        page below.
+      button: Sec 1 Registration page
+      url: https://sites.google.com/moe.edu.sg/yhsssec1reg2025?usp=sharing
+      image: /images/WhatsApp_Image_2024_12_17_at_12_21_14_PM.jpg
+      alt: Image alt text
+  - infobar:
+      title: Book List 2025
+      subtitle: Secondary 2 to Secondary 5
+      id: infobar
+      description: You may access the Sec 2-5 Booklist at the page  for Information
+        for Parents below.
+      button: Info for Students & Parents
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
   - infopic:
       title: President’s Award for Teachers 2025
       id: infopic
@@ -59,12 +78,4 @@ sections:
       url: https://drive.google.com/file/d/1cSL9Ngm7nnIj6x8raOWHhbEcKl163s6Z/view?usp=drive_web
       alt: Image alt text
       image: /images/yhssllp4.png
-  - infobar:
-      title: Book List 2025
-      subtitle: Secondary 2 to Secondary 5
-      id: infobar
-      description: You may access the Sec 2-5 Booklist at the page  for Information
-        for Parents below.
-      button: Info for Students & Parents
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
 ---
