@@ -30,7 +30,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS SHAMIM NISA BINTE YASSIN</p>
+<p><a href="mailto:SHAMIM_NISA_YASSIN@moe.edu.sg" rel="noopener noreferrer" target="_blank">MS SHAMIM NISA BINTE YASSIN</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:" rel="noopener noreferrer" target="_blank">MR KENNETH YEO</a>
@@ -43,11 +44,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kelvin_poon_weng_hong@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR KELVIN POON</a>
+<p><a href="mailto:WEE_LIANG_CHEW_DESMOND@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR WEE LIANG CHEW DESMOND</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:khadijah_saidi@moe.edu.sg" rel="noopener noreferrer" target="_blank">MS KHADIJAH BTE SAIDI</a>
+<p><a href="mailto:Grace_Tan_Wai_Yan@moe.edu.sg" rel="noopener noreferrer" target="_blank">MS GRACE TAN WAI YAN</a>
 </p>
 </td>
 </tr>
@@ -57,12 +58,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:SIM_LIT_SEN@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR SIM LIT SEN</a>
-</p>
+<p>RATHIYA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_hui_lin_a@moe.edu.sg" rel="noopener noreferrer" target="_blank">MS ONG HUI LIN TRICIA</a>
-</p>
+<p>YEO AIK SER</p>
 </td>
 </tr>
 <tr>
@@ -71,12 +70,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:BO_YITING@moe.edu.sg" rel="noopener noreferrer" target="_blank">MS BO YITING</a>
+<p><a href="BO_YITING@moe.edu.sg" rel="noopener nofollow" target="_blank">MS BO YITING</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:NOORLINDA_ABDULLAH@moe.edu.sg" rel="noopener noreferrer" target="_blank">MDM NOORLINDA BTE ABDULLAH</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -85,12 +83,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:CHEONG_AI_HWA_A@moe.edu.sg" rel="noopener noreferrer" target="_blank">MS CHEONG AI HWA</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:HU_LONGMEI@moe.edu.sg" rel="noopener noreferrer" target="_blank">MDM HU LONGMEI</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -99,13 +95,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:TAN_HAN_LIANG_SHAWN@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR TAN HAN LIANG SHAWN</a>
-</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:WEE_LIANG_CHEW_DESMOND@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR WEE LIANG CHEW DESMOND</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -114,12 +107,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ellavarasi_kulasajagaran@moe.edu.sg" rel="noopener noreferrer" target="_blank">MS ELLAVARASI</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kian_soon@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR TAN KIAN SOON</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -128,12 +119,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:LEK_MEI_XUAN@moe.edu.sg" rel="noopener noreferrer" target="_blank">MDM LEK MEI XUAN</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:YEH_BAO_YAW@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR YEH BAO YAW</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -142,8 +131,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_li_yun_jamie@moe.edu.sg" rel="noopener noreferrer" target="_blank">MS JAMIE KOH</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -339,8 +327,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Grace_Tan_Wai_Yan@moe.edu.sg" rel="noopener noreferrer" target="_blank">MS GRACE TAN WAI YAN</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -381,8 +368,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:SHAMIM_NISA_YASSIN@moe.edu.sg" rel="noopener noreferrer" target="_blank">MS SHAMIM NISA BINTE YASSIN</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
