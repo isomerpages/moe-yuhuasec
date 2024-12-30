@@ -61,7 +61,8 @@ variant: tiptap
 <p>RATHIYA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YEO AIK SER</p>
+<p><a href="YEO_AIK_SER@MOE.EDU.SG" rel="noopener nofollow" target="_blank">MDM YEO AIK SER</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -183,7 +184,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shirin_mahmud@moe.edu.sg" rel="noopener noreferrer" target="_blank">MRS SHIRIN GOH</a>
+<p><a href="mailto:KAVITHA_KARUNANITHI_KAVITHA@moe.edu.sg" rel="noopener noreferrer" target="_blank">MDM KARUNANITHI KAVITHA</a>
 </p>
 </td>
 </tr>
@@ -335,8 +336,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:KAVITHA_KARUNANITHI_KAVITHA@moe.edu.sg" rel="noopener noreferrer" target="_blank">MDM KARUNANITHI KAVITHA</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
