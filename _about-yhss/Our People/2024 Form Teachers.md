@@ -438,21 +438,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>4 Curiosity</strong>
 </p>
+<p></p>
 </td>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:bey_kian_chu_clement@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR BEY KIAN CHU CLEMENT</a>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:SALMIYATI_SALIM@moe.edu.sg" rel="noopener noreferrer" target="_blank">MDM SALMIYATI SALIM</a>
@@ -575,11 +565,8 @@ variant: tiptap
 <p><strong>5 Flourish</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>MR MOHAMED HAFIZ</p>
 </td>
 </tr>
 </tbody>
