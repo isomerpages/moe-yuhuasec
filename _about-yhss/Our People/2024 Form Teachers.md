@@ -474,7 +474,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MUHAMMAD ILYAS BIN ABDUSSAMAD (ML)</p>
+<p>MUHAMMAD ILYAS BIN ABDUSSAMAD</p>
 </td>
 </tr>
 <tr>
