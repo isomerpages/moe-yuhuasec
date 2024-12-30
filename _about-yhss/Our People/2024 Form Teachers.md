@@ -406,7 +406,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR YEH BAO YAW</p>
+<p><a href="YEH_BAO_YAW@moe.edu.sg" rel="noopener nofollow" target="_blank">MR YEH BAO YAW</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:huzaimah_hamzah@moe.edu.sg" rel="noopener noreferrer" target="_blank">MDM HUZAIMAH</a>
