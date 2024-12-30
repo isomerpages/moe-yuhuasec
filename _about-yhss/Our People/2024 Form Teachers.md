@@ -303,13 +303,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:CHAN_MAY_FOON@moe.edu.sg" rel="noopener noreferrer" target="_blank">MDM CHAN MAY FOON</a>
-</p>
+<p>SIM LIT SEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener noreferrer" target="_blank">MR LOW CHEE WAH</a>
-<br>
-</p>
+<p>ONG HUI LIN TRICIA</p>
 </td>
 </tr>
 <tr>
@@ -318,11 +315,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:NG_KIAT_HOU_ALVIN@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR NG KIAT HOU ALVIN</a>
-</p>
+<p>MR KELVIN POON</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:" rel="noopener noreferrer" target="_blank">MR LOW CHEE WAH</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -335,7 +332,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ENG_CHOO_HWEE_SERENE@moe.edu.sg" rel="noopener noreferrer" target="_blank">MRS ENG CHOO HWEE SERENE</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -344,11 +342,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:RAGUVARAN_RAJANDERAN@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR RAGUVARAN</a>
+<p><a href="mailto:TAN_WEI_MIN_ISAAC@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR TAN WEI MIN ISAAC</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ENG_CHOO_HWEE_SERENE@moe.edu.sg" rel="noopener noreferrer" target="_blank">MRS ENG CHOO HWEE SERENE</a>
+<p><a href="mailto:NG_KIAT_HOU_ALVIN@moe.edu.sg" rel="noopener noreferrer" target="_blank">R NG KIAT HOU ALVIN</a>
 </p>
 </td>
 </tr>
@@ -358,11 +356,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:MOHAMED_HAFIZ_MOHAMED_RIDWAN@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR MOHAMED HAFIZ</a>
-</p>
+<p>MS AZIDAH BTE KAMIS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MR TAN KIAN SOON</p>
 </td>
 </tr>
 <tr>
@@ -371,26 +368,23 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:TAN_WEI_MIN_ISAAC@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR TAN WEI MIN ISAAC</a>
-</p>
+<p>MICHAEL SEE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ALIZA_MAIN@moe.edu.sg" rel="noopener noreferrer" target="_blank">MDM ALIZA BTE MAIN</a>
-</p>
+<p>MS ELLAVARASI</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>3 Connect</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ALAN_TAM@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR TAM ALAN</a>
-</p>
+<p>WU XIAOYING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:THANDAYUTHAPAHNIE_PARVATHY@moe.edu.sg" rel="noopener noreferrer" target="_blank">MS THANDAYUTHAPAHNIE PARVATHY</a>
-</p>
+<p>MS LOH KAI LING</p>
 </td>
 </tr>
 <tr>
@@ -399,12 +393,25 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:LOH_KAI_LING@moe.edu.sg" rel="noopener noreferrer" target="_blank">MS LOH KAI LING</a>
+<p>MDM ZAKIAH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ALAN_TAM@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR TAM ALAN</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>3 Flourish</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR YEH BAO YAW</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:huzaimah_hamzah@moe.edu.sg" rel="noopener noreferrer" target="_blank">MDM HUZAIMAH</a>
 </p>
+<p></p>
 </td>
 </tr>
 </tbody>
