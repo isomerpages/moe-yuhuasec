@@ -208,8 +208,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:veronica_nair_mohan_nair@moe.edu.sg" rel="noopener noreferrer" target="_blank">MS VERONICA NAIR</a>
-</p>
+<p>TAN BOON SWAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhamad_fairoz@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR MUHAMAD FAIROZ B MOHD SUGIANTO</a>
