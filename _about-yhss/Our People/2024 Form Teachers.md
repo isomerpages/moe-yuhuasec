@@ -303,10 +303,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SIM LIT SEN</p>
+<p><a href="SIM_LIT_SEN@moe.edu.sg" rel="noopener nofollow" target="_blank">MR SIM LIT SEN</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ONG HUI LIN TRICIA</p>
+<p><a href="ONG_HUI_LIN_TRICIA@moe.edu.sg" rel="noopener nofollow" target="_blank">MS ONG HUI LIN TRICIA</a>
+</p>
 </td>
 </tr>
 <tr>
