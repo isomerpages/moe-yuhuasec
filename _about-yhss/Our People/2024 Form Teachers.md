@@ -361,7 +361,8 @@ variant: tiptap
 <p>MS AZIDAH BTE KAMIS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR TAN KIAN SOON</p>
+<p><a href="TAN_KIAN_SOON@moe.edu.sg" rel="noopener nofollow" target="_blank">MR TAN KIAN SOON</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -370,7 +371,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MICHAEL SEE</p>
+<p>MR MICHAEL SEE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS ELLAVARASI</p>
