@@ -6,7 +6,7 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h1><strong>2025 Form Teachers</strong></h1>
-<h3>Form Teachers of 2024 Secondary 1 Classes</h3>
+<h3>Form Teachers of 2025 Secondary 1 Classes</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -273,7 +273,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Form Teachers of 2024 Secondary 3 Classes</h3>
+<h3>Form Teachers of 2025 Secondary 3 Classes</h3>
 <table style="width: 0px">
 <colgroup></colgroup>
 <tbody>
@@ -416,7 +416,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Form Teachers of 2024 Secondary 4&amp;5 Classes</h3>
+<h3>Form Teachers of 2025 Secondary 4&amp;5 Classes</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
