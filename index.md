@@ -21,14 +21,6 @@ sections:
         - title: Calendar of Events
           description: Click here!
           url: /useful-information-and-links/school-calendar
-  - infobar:
-      title: 2025_Term 1_Letter  &
-      subtitle: Secondary 1-5
-      id: infobar
-      description: You may access Semester 1 timetables on the page "information for
-        parents and students"
-      button: Timetables
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
   - infopic:
       title: Secondary 1 Information
       subtitle: sec 1 - 2025
@@ -41,11 +33,19 @@ sections:
       image: /images/WhatsApp_Image_2024_12_17_at_12_21_14_PM.jpg
       alt: Image alt text
   - infobar:
+      title: 2025_Term 1_Letter  &
+      subtitle: Secondary 1-5
+      id: infobar
+      description: You may access Semester 1 timetables on the page "information for
+        parents and students"
+      button: Timetables
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
+  - infobar:
       title: Book List 2025
       subtitle: Secondary 2 to Secondary 5
       id: infobar
-      description: You may access the Sec 2-5 Booklist at the page  for Information
-        for Parents below.
+      description: You may access the Sec 2-5 Booklist on the Information for Parents
+        page below.
       button: Info for Students & Parents
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
   - infopic:
