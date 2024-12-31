@@ -37,7 +37,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sem_1_TT_Sec_4___5__caa_301224_.pdf" rel="noopener nofollow" target="_blank">Secondary 4&amp;5 (Semester1-2file025)</a>
+<p><a href="/files/2025_Sem_1_TT_Sec_4___5__caa_301224_.pdf" rel="noopener nofollow" target="_blank">Secondary 4&amp;5 (Semester1-2025)</a>
 </p>
 </td>
 </tr>
