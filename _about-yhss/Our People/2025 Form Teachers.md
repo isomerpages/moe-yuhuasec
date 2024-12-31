@@ -570,7 +570,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>MR MOHAMED HAFIZ</p>
+<p><a href="mohamed_hafiz_mohamed_ridwan@moe.edu.sg" rel="noopener nofollow" target="_blank">MR MOHAMED HAFIZ</a>
+</p>
 </td>
 </tr>
 </tbody>
