@@ -208,6 +208,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:LIM_PENG_LIM_WILFRED@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wilfred Lim</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head
+<br>Cornerstone</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="see_chern_siong@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr See Chern Siong Michael</a>
 </p>
 </td>
@@ -298,12 +308,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:LIM_PENG_LIM_WILFRED@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wilfred Lim</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head
-<br>Cornerstone</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -314,14 +322,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Subject Head
 <br>Physics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
