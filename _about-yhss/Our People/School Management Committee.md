@@ -317,15 +317,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:SITI_MAISURAH_ROSLI@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Siti Maisurah Rosli</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:yi_xin_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Yi Xin</a>
 </p>
 </td>
