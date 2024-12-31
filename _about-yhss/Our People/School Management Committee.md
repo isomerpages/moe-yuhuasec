@@ -79,7 +79,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="govindarajulu_naidu@moe.edu.sg" rel="noopener nofollow" target="_blank">GOVINDARAJULU NAIDU S/O MOKHANASUNDARAM</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Asst. Year Head</p>
