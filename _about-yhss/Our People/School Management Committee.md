@@ -15,7 +15,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong><a href="mailto:YUHUA_SS@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kevin Pang</a></strong>
+<p><a href="mailto:YUHUA_SS@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kevin Pang</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:YUHUA_SS@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Chin Guan</a></strong>
+<p><a href="mailto:YUHUA_SS@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Chin Guan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -47,7 +47,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
+<p>School Staff Developer</p>
 </td>
 </tr>
 <tr>
@@ -61,11 +61,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:GEJAVALLI_RAMASAMY@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Gejavalli d/o Ramasamy</a>
+<p><a href="mailto:ANG_BEE_LEE@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ang Bee Lee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
+<p>Year Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="foo_mei_yeng@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Foo Mei Yeng</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst. Year Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst. Year Head</p>
 </td>
 </tr>
 <tr>
@@ -150,12 +167,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ANG_BEE_LEE@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ang Bee Lee</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD
-<br>21CC</p>
+<p></p>
 </td>
 </tr>
 <tr>
