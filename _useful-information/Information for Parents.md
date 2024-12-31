@@ -43,7 +43,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>_____________________________________</h2>
+<p>______________________________________________________________________________________________________________</p>
 <h3>Sharing on Educational Technology with Parents on 6 April 2024</h3>
 <p>Dear Parents,
 <br>You may access the materials for the sharing on Educational Technology
