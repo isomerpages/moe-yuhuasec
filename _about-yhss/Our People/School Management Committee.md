@@ -83,7 +83,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asst. Year Head</p>
+<p>Assistant Year Head</p>
 </td>
 </tr>
 <tr>
@@ -92,17 +92,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asst. Year Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:HONG_WEI_LI@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shirlyn Hong</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD
-<br>Student Well-being</p>
+<p>Assistant Year Head</p>
 </td>
 </tr>
 <tr>
@@ -113,6 +103,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>HOD
 <br>Craft &amp; Tech</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:CHAN_KAH_WAI_JEFFREY@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jeffrey Chan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD
+<br>English Language</p>
 </td>
 </tr>
 <tr>
@@ -137,12 +137,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:CHAN_KAH_WAI_JEFFREY@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jeffrey Chan</a>
+<p><a href="mailto:HONG_WEI_LI@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shirlyn Hong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD
-<br>English Language</p>
+<br>Student Well-being</p>
 </td>
 </tr>
 <tr>
