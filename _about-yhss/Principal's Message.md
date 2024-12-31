@@ -58,13 +58,6 @@ of our Yuhuan community over the year.</p>
 <p>I hope you are as excited as I am with 2025, and I look forward to your
 continued support and partnership in your child / ward’s education journey
 at Yuhua Secondary. Together, let’s Be The Change, From Inside Out!</p>
-<ol data-tight="true" class="tight">
-<li>
 <p></p>
-</li>
-<li>
-<p></p>
-</li>
-</ol>
 <p>Mr Kevin Pang
 <br>Principal, Yuhua Secondary School</p>
