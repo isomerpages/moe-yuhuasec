@@ -127,22 +127,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:NG_YIH_LIN_CERENNA@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cerenna Ng</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD (internal)
-<br>Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:HONG_WEI_LI@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shirlyn Hong</a>
+<p><a href="mailto:Soh_Ming_Quan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Soh Ming Quan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD
-<br>Student Well-being</p>
+<br>ICT</p>
 </td>
 </tr>
 <tr>
@@ -177,6 +167,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:NG_YIH_LIN_CERENNA@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cerenna Ng</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (internal)
+<br>Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:wilfred_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Wilfred Yan</a>
 </p>
 </td>
@@ -187,12 +187,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Soh_Ming_Quan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Soh Ming Quan</a>
+<p><a href="mailto:HONG_WEI_LI@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shirlyn Hong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD
-<br>ICT</p>
+<br>Student Well-being</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
