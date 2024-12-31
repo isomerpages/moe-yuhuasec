@@ -25,15 +25,13 @@ evils of <strong>I-C-U:</strong>
 <p>&nbsp;To do so, character comes first – and we must build resolute <strong>Above All, CARE3 values</strong> and
 a strong moral compass in each and every Yuhuan, to <strong>Be The Change, From Inside Out.</strong>
 </p>
-<p>&nbsp;Secondly, to build Yuhuan Changemakers – we equip our students to <strong>Care, Connect and</strong>
-</p>
-<p><strong>Contribute with a Design Thinking Mindset</strong>. The future
-world needs not just problem solvers – but problem seekers. ‘Care, Connect,
-Contribute’ speaks of a Design Thinking mindset, where every Yuhuan adopts
-empathy and curiosity to connect with issues they are passionate about,
-applying all that they have learnt to contribute towards change. Beginning
-from school, at home and into the larger society, our hope is to build
-Yuhuans who truly live out what it means to <strong>Be The Change.</strong>
+<p>&nbsp;Secondly, to build Yuhuan Changemakers – we equip our students to <strong>Care, Connect and Contribute with a Design Thinking Mindset</strong>.
+The future world needs not just problem solvers – but problem seekers.
+‘Care, Connect, Contribute’ speaks of a Design Thinking mindset, where
+every Yuhuan adopts empathy and curiosity to connect with issues they are
+passionate about, applying all that they have learnt to contribute towards
+change. Beginning from school, at home and into the larger society, our
+hope is to build Yuhuans who truly live out what it means to <strong>Be The Change.</strong>
 </p>
 <p>Lastly, this rallying theme transfers agency, ownership and power to each
 and every Yuhuan.&nbsp; We must <strong>believe in the ability and capacity of all Yuhuans to Be The Change.</strong> This
