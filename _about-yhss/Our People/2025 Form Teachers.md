@@ -353,7 +353,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:NG_KIAT_HOU_ALVIN@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR NG KIAT HOU ALVIN</a>
+<p><a href="mailto:koh_li_yun_jamie@moe.edu.sg" rel="noopener noreferrer" target="_blank">MS KOH LI YUN JAMIE</a>
 </p>
 </td>
 </tr>
