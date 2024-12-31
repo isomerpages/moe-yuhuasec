@@ -198,12 +198,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:GAN_MAY_LING_PAMELA@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Gan May Ling Pamela</a>
+<p><a href="mailto:mailto:kelvin_poon_weng_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kelvin Poon</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head
-<br>Food and Consumer Education</p>
+<br>Co-Curricular Activities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="see_chern_siong@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr See Chern Siong Michael</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head</p>
+<p>D&amp;T</p>
 </td>
 </tr>
 <tr>
@@ -218,12 +228,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:HUZAIMAH_HAMZAH@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Huzaimah Bte Hamzah</a>
+<p><a href="mailto:GAN_MAY_LING_PAMELA@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Gan May Ling Pamela</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head
-<br>Malay Language</p>
+<br>Food and Consumer Education</p>
 </td>
 </tr>
 <tr>
@@ -248,11 +258,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:GOVINDARAJULU_NAIDU@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Govind Naidu</a>
+<p><a href="mailto:HUZAIMAH_HAMZAH@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Huzaimah Bte Hamzah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Subject Head
+<br>Malay Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -307,12 +334,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mailto:kelvin_poon_weng_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kelvin Poon</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head
-<br>Co-Curricular Activities</p>
+<p></p>
 </td>
 </tr>
 <tr>
