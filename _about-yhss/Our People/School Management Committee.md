@@ -188,6 +188,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:TAN_SHENG_YAN_SAMUEL@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Samuel Tan</a>
 </p>
 </td>
@@ -304,14 +312,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Subject Head
 <br>Aesthetics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
