@@ -19,9 +19,20 @@ are ready for the future. The future can be scary and challenging – and
 as a school, we must always prepare our students to guard against the triple
 evils of <strong>I-C-U:</strong>
 </p>
-<p>&nbsp;1) Individualism and Instant Gratification,</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1) Individualism and Instant Gratification,</p>
 <p>2) Change and Uncertainty and</p>
 <p>3) Unhealthy Well-Being Trends.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>&nbsp;To do so, character comes first – and we must build resolute <strong>Above All, CARE3 values</strong> and
 a strong moral compass in each and every Yuhuan, to <strong>Be The Change, From Inside Out.</strong>
 </p>
