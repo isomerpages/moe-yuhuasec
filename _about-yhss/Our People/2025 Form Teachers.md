@@ -358,7 +358,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS AZIDAH BTE KAMIS</p>
+<p><a href="azidah_kamis@moe.edu.sg" rel="noopener nofollow" target="_blank">MS AZIDAH BTE KAMIS</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="TAN_KIAN_SOON@moe.edu.sg" rel="noopener nofollow" target="_blank">MR TAN KIAN SOON</a>
@@ -477,7 +478,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MUHAMMAD ILYAS BIN ABDUSSAMAD</p>
+<p><a href="muhammad_ilyas_abdussamad@moe.edu.sg" rel="noopener nofollow" target="_blank">MUHAMMAD ILYAS </a>
+</p>
 </td>
 </tr>
 <tr>
@@ -542,7 +544,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:christopher_raj_arulanbazhagu@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR CHRISTOPHER RAJ S/O ARULANBAZHAGU</a>
+<p><a href="mailto:christopher_raj_arulanbazhagu@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR CHRISTOPHER RAJ </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
