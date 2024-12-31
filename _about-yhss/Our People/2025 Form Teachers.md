@@ -392,7 +392,8 @@ variant: tiptap
 <p>WU XIAOYING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS LOH KAI LING</p>
+<p><a href="mailto:loh_kai_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">MS LOH KAI LING</a>
+</p>
 </td>
 </tr>
 <tr>
