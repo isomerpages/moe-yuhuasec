@@ -14,10 +14,10 @@ unite all staff, students, and stakeholders with a common purpose. This
 year, the rallying theme is especially close to my heart: <strong>‘Be The Change, From Inside Out’.</strong> There
 are so many compelling reasons for this rallying theme, and I’ll outline
 them below.&nbsp;</p>
-<p>Firstly, it is my fervent desire, to build generations of Yuhuans who
-are ready for the future. The future can be scary and challenging – and
-as a school, we must always prepare our students to guard against the triple
-evils of <strong>I-C-U</strong>:</p>
+<p>Firstly, it is my fervent desire to build generations of Yuhuans who are
+ready for the future. The future can be scary and challenging – and as
+a school, we must always prepare our students to guard against the triple
+evils of <strong>I-C-U</strong>:,</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Individualism and Instant Gratification</p>
