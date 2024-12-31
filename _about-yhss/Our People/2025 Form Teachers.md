@@ -58,7 +58,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RATHIYA</p>
+<p><a href="mailto:rathiya_mohamed_ali@moe.edu.sg" rel="noopener nofollow" target="_blank">MDM RATHIYA</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="YEO_AIK_SER@MOE.EDU.SG" rel="noopener nofollow" target="_blank">MDM YEO AIK SER</a>
@@ -116,7 +117,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHEW KECHANG</p>
+<p><a href="mailto:chew_kechang_b@moe.edu.sg" rel="noopener nofollow" target="_blank">CHEW KECHANG</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -208,7 +210,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TAN BOON SWAN</p>
+<p><a href="mailto:tan_boon_swan_a@moe.edu.sg" rel="noopener nofollow" target="_blank">TAN BOON SWAN</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhamad_fairoz@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR MUHAMAD FAIROZ B MOHD SUGIANTO</a>
@@ -317,7 +320,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR KELVIN POON</p>
+<p><a href="kelvin_poon_weng_hong@moe.edu.sg" rel="noopener nofollow" target="_blank">MR KELVIN POON</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:" rel="noopener noreferrer" target="_blank">MR LOW CHEE WAH</a>
@@ -478,7 +482,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="muhammad_ilyas_abdussamad@moe.edu.sg" rel="noopener nofollow" target="_blank">MUHAMMAD ILYAS </a>
+<p><a href="muhammad_ilyas_abdussamad@moe.edu.sg" rel="noopener nofollow" target="_blank">MUHAMMAD ILYAS</a>
 </p>
 </td>
 </tr>
@@ -544,7 +548,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:christopher_raj_arulanbazhagu@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR CHRISTOPHER RAJ </a>
+<p><a href="mailto:christopher_raj_arulanbazhagu@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR CHRISTOPHER RAJ</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
