@@ -35,8 +35,8 @@ applying all that they have learnt to contribute towards change. Beginning
 from school, at home and into the larger society, our hope is to build
 Yuhuans who truly live out what it means to <strong>Be The Change.</strong>
 </p>
-<p>&nbsp;Lastly, this rallying theme transfers agency, ownership and power
-to each and every Yuhuan.&nbsp; We must <strong>believe in the ability and capacity of all Yuhuans to Be The Change.</strong> This
+<p>Lastly, this rallying theme transfers agency, ownership and power to each
+and every Yuhuan.&nbsp; We must <strong>believe in the ability and capacity of all Yuhuans to Be The Change.</strong> This
 rallying theme calls on each and every one of us – in school, and as stakeholders
 – to be entrusted with the power to make change within our own sphere of
 control.</p>
@@ -47,11 +47,10 @@ the school had the opportunity to share our approach to build our signature
 time to view this video (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/eia2024markettalk-yhss</a>)
 to appreciate the history, ethos and passion of our school in building
 Yuhua Changemakers.</p>
-<p>&nbsp;As we head into 2025, I look forward to how Yuhuans role-model what
-it means to <strong>Be The Change, From Inside Out.</strong> Do follow our
-Instagram<strong> </strong>(@yuhuasecondaryschool) and Facebook (@yuhuass)
-as we share further highlights and<strong> </strong>achievements of our
-Yuhuan community over the year.</p>
+<p>As we head into 2025, I look forward to how Yuhuans role-model what it
+means to <strong>Be The Change, From Inside Out.</strong> Do follow our Instagram<strong> </strong>(@yuhuasecondaryschool)
+and Facebook (@yuhuass) as we share further highlights and<strong> </strong>achievements
+of our Yuhuan community over the year.</p>
 <p>&nbsp;I hope you are as excited as I am with 2025, and I look forward
 to your continued support and partnership in your child / ward’s education
 journey at Yuhua Secondary. Together, let’s Be The Change, From Inside
