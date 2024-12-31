@@ -70,7 +70,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="foo_mei_yeng@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Foo Mei Yeng</a>
+<p><a href="mailto:foo_mei_yeng@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Foo Mei Yeng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,7 +79,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="govindarajulu_naidu@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Govindarajulu Naidu</a>
+<p><a href="mailto:govindarajulu_naidu@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Govindarajulu Naidu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -172,7 +172,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (internal)
+<p>HOD
 <br>Student Management</p>
 </td>
 </tr>
@@ -244,16 +244,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Subject Head
 <br>English Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:GAN_MAY_LING_PAMELA@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Gan May Ling Pamela</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head
-<br>Food and Consumer Education</p>
 </td>
 </tr>
 <tr>
