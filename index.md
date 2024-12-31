@@ -31,7 +31,7 @@ sections:
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
   - infopic:
       title: Secondary 1 Information
-      subtitle: sec 1 registration 2025
+      subtitle: sec 1 - 2025
       id: infopic
       description: To students joining us, we are thrilled to welcome you! You can
         find more information on the first day of school and booklists on the
