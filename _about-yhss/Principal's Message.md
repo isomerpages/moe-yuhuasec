@@ -10,18 +10,18 @@ I hope all Yuhuans hada wonderful break with your loved ones, all ready
 to start school. To all our new Secondary One students and families: my
 heartiest welcome!&nbsp;</p>
 <p>I lead Yuhua Secondary School with a new rallying theme each year – to
-unite all staff,students and stakeholders with a common purpose. This year,
-the rallying theme is especially close to my heart: <strong>‘Be The Change, From Inside Out’.</strong> There
+unite all staff, students, and stakeholders with a common purpose. This
+year, the rallying theme is especially close to my heart: <strong>‘Be The Change, From Inside Out’.</strong> There
 are so many compelling reasons for this rallying theme, and I’ll outline
 them below.&nbsp;</p>
 <p>Firstly, it is my fervent desire, to build generations of Yuhuans who
 are ready for the future. The future can be scary and challenging – and
-as a school, we must always prepare ourstudents to guard against the triple
+as a school, we must always prepare our students to guard against the triple
 evils of <strong>I-C-U:</strong>
 </p>
 <p>&nbsp;1) Individualism and Instant Gratification,</p>
 <p>2) Change and Uncertainty and</p>
-<p>3) Unhealthy Well Being Trends.</p>
+<p>3) Unhealthy Well-Being Trends.</p>
 <p>&nbsp;To do so, character comes first – and we must build resolute <strong>Above All, CARE3 values</strong> and
 a strong moral compass in each and every Yuhuan, to <strong>Be The Change, From Inside Out.</strong>
 </p>
