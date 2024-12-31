@@ -33,11 +33,11 @@ sections:
       image: /images/WhatsApp_Image_2024_12_17_at_12_21_14_PM.jpg
       alt: Image alt text
   - infobar:
-      title: 2025_Term 1_Letter  &
-      subtitle: Secondary 1-5
+      title: Semester 1 Timetable and Term 1 Letter
+      subtitle: Timetable & term 1 letter
       id: infobar
-      description: You may access Semester 1 timetables on the page "information for
-        parents and students"
+      description: You may access the Term 1 Letter and Semester 1 timetables on this
+        page below.
       button: Timetables
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
   - infobar:
