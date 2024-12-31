@@ -376,10 +376,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR MICHAEL SEE</p>
+<p><a href="see_chern_siong@moe.edu.sg" rel="noopener nofollow" target="_blank">MR MICHAEL SEE</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS ELLAVARASI</p>
+<p><a href="mailto:ellavarasi_kulasajagaran@moe.edu.sg" rel="noopener nofollow" target="_blank">MS ELLAVARASI</a>
+</p>
 </td>
 </tr>
 <tr>
