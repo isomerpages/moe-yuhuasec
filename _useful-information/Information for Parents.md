@@ -6,38 +6,43 @@ variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
 <hr>
-<h3>Term 4 Parent Letter</h3>
+<h3>2025: Term 1 Parent Letter</h3>
 <p>Dear Parents,
-<br>You may access the Term 4 Letter to Parents below:</p>
-<p><a href="/files/YHSS_2024_Term_4_Letter__Final__V3.pdf" rel="noopener nofollow" target="_blank">Term 4 Letter to Parents</a>
+<br>You may access the Term 1 Letter to Parents below:</p>
+<p><a href="/files/YHSS_2025_Term_1_Letter_31_Dec.pdf" rel="noopener nofollow" target="_blank">Term1_Letter to Parents</a>
 </p>
-<p></p>
-<h3>Sharing on Educational Technology with Parents on 6 April 2024</h3>
-<p>Dear Parents,
-<br>You may access the materials for the sharing on Educational Technology
-with Parents on 6 April 2024 below:</p>
-<p><a href="/files/EdTech_in_YHSS__sharing_with_parents___for_uploading_.pdf" rel="noopener noreferrer nofollow" target="_blank">Slides on EdTech in YHSS (for parents)</a>
+<h3>2025: Term 1 Timetables</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Sem_1_TT_Sec_1__caa_301224_.pdf" rel="noopener nofollow" target="_blank">Secondary 1 (Semester1-2025)</a>
 </p>
-<hr>
-<h3>Sec 2 Parent-Teacher Meeting materials</h3>
-<p>Dear Parents,
-<br>You may access the materials for the Sec 2 Parent-Teacher Meeting below:</p>
-<p><a href="/files/ECG_for_Sec_2_22_March_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 ECG Briefing slides</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Sem_1_TT_Sec_2__caa_301224_.pdf" rel="noopener nofollow" target="_blank">Secondary 2 (Semester1-2025)</a>
 </p>
-<p><a href="/files/2024_Sec_2_PTM_Subject_Combination_for_2025_Sec_3E_22_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Combination slides for 2025 Secondary 3 Express/G3 students</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Sem_1_TT_Sec_3__caa_301224_.pdf" rel="noopener nofollow" target="_blank">Secondary 3(Sefilemester1-2025)</a>
 </p>
-<p><a href="/files/2024_Sec_2_PTM_Subject_Combination_for_2025_Sec_3N_22_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Combination slides for 2025 Secondary 3 Normal (Academic)/G2 students</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Sem_1_TT_Sec_4___5__caa_301224_.pdf" rel="noopener nofollow" target="_blank">Secondary 4&amp;5 (Semester1-2025)</a>
 </p>
-<p><a href="/files/2024_Sec_2_PTM__Subject_Combination_for_2025_Sec_3T_22_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Combination slides for 2025 Secondary 3 Normal (Technical)/G1 students</a>
-</p>
-<hr>
-<h3>Sec 1 Parent-Teacher Meeting materials</h3>
-<p>Dear Parents,
-<br>You may access the materials for the Sec 1 Parent-Teacher Meeting below:</p>
-<p><a href="/files/Sec_1_Acad_Briefing_Slides_2024_for_Sec_1_PTM_12_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Academic Briefing slides</a>
-</p>
-<p><a href="/files/Sec_1_2024_Briefing_for_Parents_for_PDLP.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 PDLP briefing slides</a>
-</p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h3>Student Handbook</h3>
 <p>Dear parents, you may access <a href="https://sites.google.com/moe.edu.sg/yhss-handbook-site/home?pli=1" rel="noopener noreferrer nofollow" target="_blank">YHSS Student Handbook</a> for
@@ -123,3 +128,31 @@ perform a simple one-time onboarding process.&nbsp;</p>
 </li>
 </ul>
 <p>We look forward to your support. Thank you very much!</p>
+<p>____________________________________________________________________________________________________________</p>
+<h2>2024 PTM Resources:</h2>
+<h3>Sharing on Educational Technology with Parents on 6 April 2024</h3>
+<p>Dear Parents,
+<br>You may access the materials for the sharing on Educational Technology
+with Parents on 6 April 2024 below:</p>
+<p><a href="/files/EdTech_in_YHSS__sharing_with_parents___for_uploading_.pdf" rel="noopener noreferrer nofollow" target="_blank">Slides on EdTech in YHSS (for parents)</a>
+</p>
+<hr>
+<h3>2024: Sec 2 Parent-Teacher Meeting materials</h3>
+<p>Dear Parents,
+<br>You may access the materials for the Sec 2 Parent-Teacher Meeting below:</p>
+<p><a href="/files/ECG_for_Sec_2_22_March_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 ECG Briefing slides</a>
+</p>
+<p><a href="/files/2024_Sec_2_PTM_Subject_Combination_for_2025_Sec_3E_22_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Combination slides for 2025 Secondary 3 Express/G3 students</a>
+</p>
+<p><a href="/files/2024_Sec_2_PTM_Subject_Combination_for_2025_Sec_3N_22_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Combination slides for 2025 Secondary 3 Normal (Academic)/G2 students</a>
+</p>
+<p><a href="/files/2024_Sec_2_PTM__Subject_Combination_for_2025_Sec_3T_22_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Combination slides for 2025 Secondary 3 Normal (Technical)/G1 students</a>
+</p>
+<hr>
+<h3>2024:Sec 1 Parent-Teacher Meeting materials</h3>
+<p>Dear Parents,
+<br>You may access the materials for the Sec 1 Parent-Teacher Meeting below:</p>
+<p><a href="/files/Sec_1_Acad_Briefing_Slides_2024_for_Sec_1_PTM_12_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Academic Briefing slides</a>
+</p>
+<p><a href="/files/Sec_1_2024_Briefing_for_Parents_for_PDLP.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 PDLP briefing slides</a>
+</p>

@@ -2,25 +2,62 @@
 title: Principal's Message
 permalink: /about-yhss/principals-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Principal's Message
-===================
-
-    
-On behalf of the school, my warmest greetings to all! I hope all Yuhuans had a wonderful break with family, all ready to start a new school year. To all our new Secondary One students and family looking forward to the new adventure in Yuhua Secondary: my heartiest welcome!
-
-For Yuhuans who have been here for a number of years, you would know that I start every year with a new rallying theme. The rallying theme is one to unify and to give each and every one of us a common purpose, as we gather as one school and to help every Yuhuan in the community learn and flourish.
-
-This aligns with our school vision – **A Community Where Learners Flourish**. A guiding principle in which I lead Yuhua Secondary, is for the school to always prepare our students well for the future: to guard and thrive against the triple evils of **I-C-U** – 1) Individualism, 2) Change and Uncertainty and 3) Unhealthy Well Being Trends.
-
-We work as one team and community, to build students with empathy to care about their own well-being, and for the larger community and causes around them. Beyond individual gains and wants, we must build in our Yuhuans the psyche to look out for others around them – to employ the knowledge, skills and dispositions they learnt, to innovate adaptively to make a difference to the world around them. When you scan the educational and societal landscape, one can see clearly how much more complex the world is. The world is evolving rapidly, and we read daily in the news on new economic disruptions, political upheavals and social challenges facing us. It is only by the collective strength of the community, can we battle against I-C-U and the evils of various unhealthy well-being trends that abound.
-
-It is with this context in mind, that I proudly share that our rallying theme for 2024 is **‘Braving the Future: The Courage to Care, Connect, Contribute’**. This rallying theme revolves around the mission of the school, our core purpose to build every Yuhuan to **Care, Connect and Contribute**. This is a mission that resonates with students, staff and different stakeholders, and I am excited how we can build each Yuhuan to be courageous changemakers with the passion to make a difference.
-
-In 2024, I look forward to how the school (alongside families as the most crucial stakeholders) to build on the foundations we’ve laid, to inspire each individual and the school community **to have the Courage to Care, Connect and Contribute.** If you refer to **Annex A** at the end of this letter, we celebrate the various student and staff achievements in Term 4 2023\. Our students and staff are making a large impact in their various areas of strength, and I encourage all parents to follow our website, Facebook (@yuhuass) and Instagram (@yuhuasecondaryschool) sites, as we continue to celebrate the achievements of our Yuhuan community over the year.
-
-I hope you are as excited as I am with 2024, and I look forward to your continued support and partnership in your child / ward’s education journey at Yuhua Secondary. Let’s work together **to Brave the Future, with The Courage to Care, Connect and Contribute**!
-
-Mr Kevin Pang
-<br>Principal, Yuhua Secondary School
+<h1>Principal's Message</h1>
+<p>On behalf of the school, my warmest greetings to all in this new year!
+I hope all Yuhuans hada wonderful break with your loved ones, all ready
+to start school. To all our new Secondary One students and families: my
+heartiest welcome!&nbsp;</p>
+<p>I lead Yuhua Secondary School with a new rallying theme each year – to
+unite all staff, students, and stakeholders with a common purpose. This
+year, the rallying theme is especially close to my heart: <strong>‘Be The Change, From Inside Out’.</strong> There
+are so many compelling reasons for this rallying theme, and I’ll outline
+them below.&nbsp;</p>
+<p>Firstly, it is my fervent desire to build generations of Yuhuans who are
+ready for the future. The future can be scary and challenging – and as
+a school, we must always prepare our students to guard against the triple
+evils of <strong>I-C-U</strong>:,</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Individualism and Instant Gratification</p>
+</li>
+<li>
+<p>Change and Uncertainty and</p>
+</li>
+<li>
+<p>Unhealthy Well Being Trends.</p>
+</li>
+</ol>
+<p>To do so, character comes first – and we must build resolute <strong>Above All, CARE3 values</strong> and
+a strong moral compass in each and every Yuhuan, to <strong>Be The Change, From Inside Out.</strong>
+</p>
+<p>Secondly, to build Yuhuan Changemakers – we equip our students to <strong>Care, Connect and Contribute with a Design Thinking Mindset</strong>.
+The future world needs not just problem solvers – but problem seekers.
+‘Care, Connect, Contribute’ speaks of a Design Thinking mindset, where
+every Yuhuan adopts empathy and curiosity to connect with issues they are
+passionate about, applying all that they have learnt to contribute towards
+change. Beginning from school, at home and into the larger society, our
+hope is to build Yuhuans who truly live out what it means to <strong>Be The Change.</strong>
+</p>
+<p>Lastly, this rallying theme transfers agency, ownership and power to each
+and every Yuhuan.&nbsp; We must <strong>believe in the ability and capacity of all Yuhuans to Be The Change.</strong> This
+rallying theme calls on each and every one of us – in school, and as stakeholders
+– to be entrusted with the power to make change within our own sphere of
+control.</p>
+<p>Put into context, this rallying theme is nothing new. In <strong>MOE’s Excellence in Action 2024</strong>,
+the school had the opportunity to share our approach to build our signature
+‘Care, Connect,Contribute’ with all school leaders and educators in Singapore.
+Do take time to view this video (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/eia2024markettalk-yhss</a>)
+to appreciate the history, ethos and passion of our school in building
+Yuhua Changemakers.</p>
+<p>As we head into 2025, I look forward to how Yuhuans role-model what it
+means to <strong>Be The Change, From Inside Out.</strong> Do follow our Instagram<strong> </strong>(@yuhuasecondaryschool)
+and Facebook (@yuhuass) as we share further highlights and<strong> </strong>achievements
+of our Yuhuan community over the year.</p>
+<p>I hope you are as excited as I am with 2025, and I look forward to your
+continued support and partnership in your child / ward’s education journey
+at Yuhua Secondary. Together, let’s Be The Change, From Inside Out!</p>
+<p></p>
+<p>Mr Kevin Pang
+<br>Principal, Yuhua Secondary School</p>
