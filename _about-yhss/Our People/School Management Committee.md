@@ -79,7 +79,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="govindarajulu_naidu@moe.edu.sg" rel="noopener nofollow" target="_blank">Govindarajulu Naidu</a>
+<p><a href="govindarajulu_naidu@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Govindarajulu Naidu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
