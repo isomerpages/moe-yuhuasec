@@ -11,7 +11,38 @@ variant: tiptap
 <br>You may access the Term 1 Letter to Parents below:</p>
 <p><a href="/files/YHSS_2025_Term_1_Letter_31_Dec.pdf" rel="noopener nofollow" target="_blank">Term1_Letter to Parents</a>
 </p>
-<h4>2025-</h4>
+<h3>2025- Term 1 Timetables</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Sem_1_TT_Sec_1__caa_301224_.pdf" rel="noopener nofollow" target="_blank">Secondary 1 (Semester1-2025)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Sem_1_TT_Sec_2__caa_301224_.pdf" rel="noopener nofollow" target="_blank">Secondary 2 (Semester1-2025)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Sem_1_TT_Sec_3__caa_301224_.pdf" rel="noopener nofollow" target="_blank">Secondary  3(Sefilemester1-2025)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Sem_1_TT_Sec_4___5__caa_301224_.pdf" rel="noopener nofollow" target="_blank">Secondary 4&amp;5 (Semester1-2025)</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2>_____________________________________</h2>
 <h3>Sharing on Educational Technology with Parents on 6 April 2024</h3>
 <p>Dear Parents,
