@@ -1,6 +1,6 @@
 ---
 title: 2025 Form Teachers
-permalink: /about-yhss/our-people/2024-form-teachers/
+permalink: /about-yhss/our-people/2025-form-teachers/
 description: ""
 third_nav_title: Our People
 variant: tiptap
