@@ -17,23 +17,19 @@ them below.&nbsp;</p>
 <p>Firstly, it is my fervent desire, to build generations of Yuhuans who
 are ready for the future. The future can be scary and challenging – and
 as a school, we must always prepare our students to guard against the triple
-evils of <strong>I-C-U:</strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1) Individualism and Instant Gratification,</p>
-<p>2) Change and Uncertainty and</p>
-<p>3) Unhealthy Well-Being Trends.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;To do so, character comes first – and we must build resolute <strong>Above All, CARE3 values</strong> and
+evils of <strong>I-C-U</strong>:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Individualism and Instant Gratification</p>
+</li>
+<li>
+<p>Change and Uncertainty and</p>
+</li>
+<li>
+<p>Unhealthy Well Being Trends.</p>
+</li>
+</ol>
+<p>To do so, character comes first – and we must build resolute <strong>Above All, CARE3 values</strong> and
 a strong moral compass in each and every Yuhuan, to <strong>Be The Change, From Inside Out.</strong>
 </p>
 <p>&nbsp;Secondly, to build Yuhuan Changemakers – we equip our students to <strong>Care, Connect and Contribute with a Design Thinking Mindset</strong>.
@@ -64,6 +60,13 @@ of our Yuhuan community over the year.</p>
 to your continued support and partnership in your child / ward’s education
 journey at Yuhua Secondary. Together, let’s Be The Change, From Inside
 Out!</p>
+<ol data-tight="true" class="tight">
+<li>
 <p></p>
+</li>
+<li>
+<p></p>
+</li>
+</ol>
 <p>Mr Kevin Pang
 <br>Principal, Yuhua Secondary School</p>
