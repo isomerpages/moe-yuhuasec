@@ -9,7 +9,7 @@ variant: tiptap
 <h3>2025-Term 1 Letter</h3>
 <p>Dear students,
 <br>You may access the Term 1 Letter below:</p>
-<p><a href="/files/YHSS_2025_Term_1_Letter_31_Dec.pdf" rel="noopener nofollow" target="_blank">Term1_Letter </a>
+<p><a href="/files/YHSS_2025_Term_1_Letter_31_Dec.pdf" rel="noopener nofollow" target="_blank">Term1_Letter</a>
 </p>
 <h3>2025- Term 1 Timetables</h3>
 <table style="minWidth: 25px">
