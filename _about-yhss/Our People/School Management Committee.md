@@ -43,7 +43,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="chew_chong_kiat@moe.edu.sg" rel="noopener nofollow" target="_blank">Chew Chong Kiat</a>
+<p><a href="chew_chong_kiat@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Chew Chong Kiat</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
