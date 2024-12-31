@@ -128,8 +128,8 @@ perform a simple one-time onboarding process.&nbsp;</p>
 </li>
 </ul>
 <p>We look forward to your support. Thank you very much!</p>
-<p></p>
-<h2>2024  PTM Resources:</h2>
+<p>____________________________________________________________________________________________________________</p>
+<h2>2024 PTM Resources:</h2>
 <h3>Sharing on Educational Technology with Parents on 6 April 2024</h3>
 <p>Dear Parents,
 <br>You may access the materials for the sharing on Educational Technology
