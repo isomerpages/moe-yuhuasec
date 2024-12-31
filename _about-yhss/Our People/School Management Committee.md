@@ -43,15 +43,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="chew_chong_kiat@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Chew Chong Kiat</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Master teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:ANG_GEOK_LIN@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nick Ang</a>
 </p>
 </td>
@@ -197,14 +188,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:TAN_SHENG_YAN_SAMUEL@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Samuel Tan</a>
 </p>
 </td>
@@ -270,16 +253,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_pei_wen_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Pei Wen</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head
-<br>Student Leadership</p>
 </td>
 </tr>
 <tr>
