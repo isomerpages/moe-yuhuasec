@@ -11,6 +11,8 @@ variant: tiptap
 <br>You may access the Term 1 Letter to Parents below:</p>
 <p><a href="/files/YHSS_2025_Term_1_Letter_31_Dec.pdf" rel="noopener nofollow" target="_blank">Term1_Letter to Parents</a>
 </p>
+<p></p>
+<h2>_____________________________________</h2>
 <h3>Sharing on Educational Technology with Parents on 6 April 2024</h3>
 <p>Dear Parents,
 <br>You may access the materials for the sharing on Educational Technology
