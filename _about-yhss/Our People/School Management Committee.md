@@ -43,6 +43,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="chew_chong_kiat@moe.edu.sg" rel="noopener nofollow" target="_blank">Chew Chong Kiat</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Master teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:ANG_GEOK_LIN@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Nick Ang</a>
 </p>
 </td>
