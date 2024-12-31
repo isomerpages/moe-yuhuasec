@@ -76,7 +76,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SYAFIQ</p>
+<p><a href="mailto:muhammad_syafiq_saad@schools.gov.sg" rel="noopener nofollow" target="_blank">MR SYAFIQ</a>
+</p>
 </td>
 </tr>
 <tr>
