@@ -6,12 +6,12 @@ variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
 <hr>
-<h3>2025-Term 1 Parent Letter</h3>
+<h3>2025: Term 1 Parent Letter</h3>
 <p>Dear Parents,
 <br>You may access the Term 1 Letter to Parents below:</p>
 <p><a href="/files/YHSS_2025_Term_1_Letter_31_Dec.pdf" rel="noopener nofollow" target="_blank">Term1_Letter to Parents</a>
 </p>
-<h3>2025- Term 1 Timetables</h3>
+<h3>2025: Term 1 Timetables</h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
