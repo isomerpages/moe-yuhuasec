@@ -352,7 +352,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:NG_KIAT_HOU_ALVIN@moe.edu.sg" rel="noopener noreferrer" target="_blank">R NG KIAT HOU ALVIN</a>
+<p><a href="mailto:NG_KIAT_HOU_ALVIN@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR NG KIAT HOU ALVIN</a>
 </p>
 </td>
 </tr>
@@ -362,11 +362,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="azidah_kamis@moe.edu.sg" rel="noopener nofollow" target="_blank">MS AZIDAH BTE KAMIS</a>
+<p><a href="mailto:azidah_kamis@moe.edu.sg" rel="noopener nofollow" target="_blank">MS AZIDAH BTE KAMIS</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="TAN_KIAN_SOON@moe.edu.sg" rel="noopener nofollow" target="_blank">MR TAN KIAN SOON</a>
+<p><a href="mailto:TAN_KIAN_SOON@moe.edu.sg" rel="noopener nofollow" target="_blank">MR TAN KIAN SOON</a>
 </p>
 </td>
 </tr>
@@ -376,7 +376,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="see_chern_siong@moe.edu.sg" rel="noopener nofollow" target="_blank">MR MICHAEL SEE</a>
+<p><a href="mailto:see_chern_siong@moe.edu.sg" rel="noopener nofollow" target="_blank">MR MICHAEL SEE</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -391,7 +391,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WU XIAOYING</p>
+<p><a href="mailto:wu_xiaoying@moe.edu.sg" rel="noopener nofollow" target="_blank">MS WU XIAOYING</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:loh_kai_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">MS LOH KAI LING</a>
@@ -485,7 +486,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="muhammad_ilyas_abdussamad@moe.edu.sg" rel="noopener nofollow" target="_blank">MUHAMMAD ILYAS</a>
+<p><a href="mailto:muhammad_ilyas_abdussamad@moe.edu.sg" rel="noopener nofollow" target="_blank">MUHAMMAD ILYAS</a>
 </p>
 </td>
 </tr>
@@ -579,7 +580,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><a href="mohamed_hafiz_mohamed_ridwan@moe.edu.sg" rel="noopener nofollow" target="_blank">MR MOHAMED HAFIZ</a>
+<p><a href="mailto:mohamed_hafiz_mohamed_ridwan@moe.edu.sg" rel="noopener nofollow" target="_blank">MR MOHAMED HAFIZ</a>
 </p>
 </td>
 </tr>
