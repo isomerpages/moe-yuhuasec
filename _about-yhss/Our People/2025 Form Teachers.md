@@ -62,7 +62,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="YEO_AIK_SER@MOE.EDU.SG" rel="noopener nofollow" target="_blank">MDM YEO AIK SER</a>
+<p><a href="mailto:YEO_AIK_SER@MOE.EDU.SG" rel="noopener nofollow" target="_blank">MDM YEO AIK SER</a>
 </p>
 </td>
 </tr>
@@ -72,7 +72,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="BO_YITING@moe.edu.sg" rel="noopener nofollow" target="_blank">MS BO YITING</a>
+<p><a href="mailto:BO_YITING@moe.edu.sg" rel="noopener nofollow" target="_blank">MS BO YITING</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -419,7 +419,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="YEH_BAO_YAW@moe.edu.sg" rel="noopener nofollow" target="_blank">MR YEH BAO YAW</a>
+<p><a href="mailto:YEH_BAO_YAW@moe.edu.sg" rel="noopener nofollow" target="_blank">MR YEH BAO YAW</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
