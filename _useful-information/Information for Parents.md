@@ -11,7 +11,7 @@ variant: tiptap
 <br>You may access the Term 1 Letter to Parents below:</p>
 <p><a href="/files/YHSS_2025_Term_1_Letter_31_Dec.pdf" rel="noopener nofollow" target="_blank">Term1_Letter to Parents</a>
 </p>
-<p></p>
+<h4>2025-</h4>
 <h2>_____________________________________</h2>
 <h3>Sharing on Educational Technology with Parents on 6 April 2024</h3>
 <p>Dear Parents,
@@ -20,7 +20,7 @@ with Parents on 6 April 2024 below:</p>
 <p><a href="/files/EdTech_in_YHSS__sharing_with_parents___for_uploading_.pdf" rel="noopener noreferrer nofollow" target="_blank">Slides on EdTech in YHSS (for parents)</a>
 </p>
 <hr>
-<h3>Sec 2 Parent-Teacher Meeting materials</h3>
+<h3>2024: Sec 2 Parent-Teacher Meeting materials</h3>
 <p>Dear Parents,
 <br>You may access the materials for the Sec 2 Parent-Teacher Meeting below:</p>
 <p><a href="/files/ECG_for_Sec_2_22_March_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 ECG Briefing slides</a>
@@ -32,7 +32,7 @@ with Parents on 6 April 2024 below:</p>
 <p><a href="/files/2024_Sec_2_PTM__Subject_Combination_for_2025_Sec_3T_22_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Combination slides for 2025 Secondary 3 Normal (Technical)/G1 students</a>
 </p>
 <hr>
-<h3>Sec 1 Parent-Teacher Meeting materials</h3>
+<h3>2024:Sec 1 Parent-Teacher Meeting materials</h3>
 <p>Dear Parents,
 <br>You may access the materials for the Sec 1 Parent-Teacher Meeting below:</p>
 <p><a href="/files/Sec_1_Acad_Briefing_Slides_2024_for_Sec_1_PTM_12_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Academic Briefing slides</a>
