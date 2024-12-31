@@ -33,6 +33,14 @@ sections:
       image: /images/WhatsApp_Image_2024_12_17_at_12_21_14_PM.jpg
       alt: Image alt text
   - infobar:
+      title: 2025_Term 1_Letter  &
+      subtitle: Secondary 1-5
+      id: infobar
+      description: You may access Semester 1 timetables on the page "information for
+        parents and students"
+      button: Timetables
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
+  - infobar:
       title: Book List 2025
       subtitle: Secondary 2 to Secondary 5
       id: infobar
@@ -40,15 +48,6 @@ sections:
         for Parents below.
       button: Info for Students & Parents
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
-  - infopic:
-      title: President’s Award for Teachers 2025
-      id: infopic
-      description: The President’s Award for Teachers  gives national recognition to
-        experienced teachers who are role models for the teaching profession.
-      button: NOMINATION IS NOW OPEN!
-      url: https://go.gov.sg/pat2025
-      image: /images/Screenshot_2024_11_11_085049.png
-      alt: Image alt text
   - infopic:
       title: Outstanding Youth in Education Award
       subtitle: OYEA
@@ -60,14 +59,13 @@ sections:
       image: /images/Screenshot_2024_11_11_085110.png
       alt: Image alt text
   - infopic:
-      title: YH Café
-      subtitle: Yuhua in the news
-      description: Our canteen was featured in Lianhe Zaobao recently. An inviting
-        space for students to dine and play amidst lush greenery, it's
-        definitely been a big hit!
-      button: click here to read the article!
-      url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
-      image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
+      title: President’s Award for Teachers 2025
+      id: infopic
+      description: The President’s Award for Teachers  gives national recognition to
+        experienced teachers who are role models for the teaching profession.
+      button: NOMINATION IS NOW OPEN!
+      url: https://go.gov.sg/pat2025
+      image: /images/Screenshot_2024_11_11_085049.png
       alt: Image alt text
   - infopic:
       title: Yearbook
@@ -78,4 +76,14 @@ sections:
       url: https://drive.google.com/file/d/1cSL9Ngm7nnIj6x8raOWHhbEcKl163s6Z/view?usp=drive_web
       alt: Image alt text
       image: /images/yhssllp4.png
+  - infopic:
+      title: YH Café
+      subtitle: Yuhua in the news
+      description: Our canteen was featured in Lianhe Zaobao recently. An inviting
+        space for students to dine and play amidst lush greenery, it's
+        definitely been a big hit!
+      button: click here to read the article!
+      url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
+      image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
+      alt: Image alt text
 ---
