@@ -253,7 +253,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head
-<br>History</p>
+<br>21CC</p>
 </td>
 </tr>
 <tr>
@@ -262,7 +262,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Internal)
+<p>Subject Head
 <br>History</p>
 </td>
 </tr>
@@ -292,7 +292,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Covering)
+<p>Subject Head
 <br>Student Leadership</p>
 </td>
 </tr>
