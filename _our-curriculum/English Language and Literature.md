@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1><strong>English Language and Literature</strong></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20images/english%20language%20and%20literature%20ver2.png">
+<img style="width: 100%" height="auto" width="100%" alt="2025_EL" src="/images/2025/ENGLISH_LANGUAGE_AND_LITERATURE.png">
 </div>
 <h4>Department Introduction</h4>
 <p><strong>Strategic Objectives and Initiatives</strong>
