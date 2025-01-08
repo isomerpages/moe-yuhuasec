@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2024_mathematics.jpg">
 </div>
-<h3> CURRICULUM OBJECTIVES:</h3>
+<h3>CURRICULUM OBJECTIVES:</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>To create a positive learning experience for students so that they develop
