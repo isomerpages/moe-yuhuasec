@@ -29,7 +29,11 @@ Mr Benny Goh as our assistant conductor.&nbsp;</p>
 <p>We believe that dedication leads to excellence, and that our hard work
 and dedication will allow us to build on the Yuhua Concert Band’s legacy.</p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -59,10 +63,11 @@ and dedication will allow us to build on the Yuhua Concert Band’s legacy.</p>
 </table>
 <h3>Our Team</h3>
 <p><strong>Teachers:</strong> 
-<br>Ms Jamie Koh
+<br>Ms Koh Li Yun Jamie (OIC)
+<br>Mr Kenneth Yeo (2IC)
 <br>Ms Sunarti Bte Abdul Wahab
-<br>Mr Tommy Wong
-<br>Mr Shawn Tan Mr Kenneth Yeo</p>
+<br>Mr Arfah Lubis
+<br>Ms Wu Xiaoying</p>
 <p><strong>Student Leaders:</strong> 
 <br><strong>Band Leader</strong>: Ang Hui Juan(3 Flourish)&nbsp;
 <br><strong>Band Leader</strong>: Aponesto Franz Graeden(3 Connect)

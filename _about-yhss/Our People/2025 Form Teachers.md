@@ -389,7 +389,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>3 Connect</strong>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wu_xiaoying@moe.edu.sg" rel="noopener nofollow" target="_blank">MS WU XIAOYING</a>
@@ -406,7 +405,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM ZAKIAH</p>
+<p><a href="mailto:zakiah_binte_haron@moe.edu.sg" rel="noopener nofollow" target="_blank">MDM ZAKIAH</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ALAN_TAM@moe.edu.sg" rel="noopener noreferrer" target="_blank">MR TAM ALAN</a>

@@ -27,8 +27,19 @@ nurturing our choristers beyond their passion in music; to be active learners
 and responsible citizens who will be able to contribute to the school and
 even to the wider society in meaningful ways.</p>
 <h3>Our Team</h3>
-<p><strong>Teachers:</strong> Ms Pamela He
-<br>Ms Cheong Ai Hwa Mrs Serene Ang</p>
+<p><strong>Teachers:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Pamela He (OIC)</p>
+</li>
+<li>
+<p>Mrs Serene Eng (2IC)</p>
+</li>
+<li>
+<p>Ms Mei Xuan</p>
+</li>
+</ul>
 <p><strong>Conductors:</strong> Ms Wynne Lee
 <br>Mr Jonathan MacPherson</p>
 <p><strong>2023 - 2024 Student Leaders</strong>

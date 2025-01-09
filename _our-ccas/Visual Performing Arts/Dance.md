@@ -38,20 +38,26 @@ the joy of dance, contributing to their holistic growth and development.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__13_.png">
 </div>
 <p></p>
-<p><strong>Vision:</strong> 
+<p><strong>Vision: </strong>
 <br>To nurture passion and appreciation for the performing arts through music
 and movement.</p>
-<p><strong>Mission:</strong> 
+<p><strong>Mission: </strong>
 <br>To use dancing as a tool of expression and character development.</p>
 <h3>Our Team</h3>
-<p><a href="suhana_zainal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Suhana Zainal</a>
-</p>
-<p><a href="raguvaran_rajenderan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Raguvaran</a>
-</p>
-<p><a href="grace_tan_wai_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Grace Tan</a>
-</p>
-<p><a href="salmiyati_salim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Salmiyati Salim</a>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Suhana Zainal</p>
+</li>
+<li>
+<p>Ms Grace Tan</p>
+</li>
+<li>
+<p>Mr Raguvaran</p>
+</li>
+<li>
+<p>Mdm Kavitha</p>
+</li>
+</ul>
 <p></p>
 <p>If you have any questions, feel free to email our teachers-in-charge to
 know more about our CCA!&nbsp;</p>
