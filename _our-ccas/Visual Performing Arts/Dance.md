@@ -38,10 +38,10 @@ the joy of dance, contributing to their holistic growth and development.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__13_.png">
 </div>
 <p></p>
-<p><strong>Vision:</strong> 
+<p><strong>Vision: </strong>
 <br>To nurture passion and appreciation for the performing arts through music
 and movement.</p>
-<p><strong>Mission:</strong> 
+<p><strong>Mission: </strong>
 <br>To use dancing as a tool of expression and character development.</p>
 <h3>Our Team</h3>
 <p>Mdm Suhana Zainal</p>
