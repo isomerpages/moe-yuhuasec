@@ -37,7 +37,7 @@ players to the National Squad to play overseas in Malaysia and Taiwan.</p>
 <br>Mdm Yeo Aik Ser&nbsp;(2IC)
 <br>Mr Alan
 <br>Ms Azidah</p>
-<p><strong>   Student Leaders</strong>
+<p><strong>Student Leaders</strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
