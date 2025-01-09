@@ -8,10 +8,8 @@ third_nav_title: CCE
 <h1><strong>Character &amp; Citizenship Education</strong></h1>
 <h3>Our Team</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2023%20images/cce%20and%20student%20well-being%20committee.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2024_CCE___STUDENT_WELL_BEING_COMMITTEE.jpg">
 </div>
-<p></p>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
