@@ -48,6 +48,7 @@ and movement.</p>
 <p>Ms Grace Tan</p>
 <p>Mr Raguvaran</p>
 <p>Mdm Kavitha</p>
+<p></p>
 <p>If you have any questions, feel free to email our teachers-in-charge to
 know more about our CCA!&nbsp;</p>
 <p>You may also approach any of our friendly seniors who will be able to
