@@ -30,12 +30,15 @@ and to demonstrate good sportsmanship.</p>
 <p>Yuhua Tchoukball milestones include attaining 1<sup>st</sup> Runners Up
 for the C Div Boys and C Div girls and sending a few of our Tchoukball
 players to the National Squad to play overseas in Malaysia and Taiwan.</p>
-<h3>Teachers in Charge</h3>
+<h3>Our Team</h3>
+<p><strong>Teachers:</strong>
+</p>
 <p>Mr John Ho (OIC)
 <br>Mdm Yeo Aik Ser&nbsp;(2IC)
 <br>Mr Alan
 <br>Ms Azidah</p>
-<h3>Student Leaders</h3>
+<p><strong>   Student Leaders</strong>
+</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
