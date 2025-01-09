@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h1><strong>Tchoukball</strong></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20180918_Tchoukball.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tchouk_ball.jpg">
 </div>
 <h3>Background</h3>
 <p>Tchoukball is a relatively new sport that is gaining popularity in Singapore.
@@ -30,9 +30,6 @@ and to demonstrate good sportsmanship.</p>
 <p>Yuhua Tchoukball milestones include attaining 1<sup>st</sup> Runners Up
 for the C Div Boys and C Div girls and sending a few of our Tchoukball
 players to the National Squad to play overseas in Malaysia and Taiwan.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tchoukball" src="/images/Screenshot_2024_11_20_092842.png">
-</div>
 <h3>Teachers in Charge</h3>
 <p>Mr John Ho (OIC)
 <br>Mdm Yeo Aik Ser&nbsp;(2IC)
