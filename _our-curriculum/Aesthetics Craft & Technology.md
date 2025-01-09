@@ -7,7 +7,7 @@ variant: tiptap
 <h1><strong>Aesthetics, Craft &amp; Technology</strong></h1>
 <h3>Our Team</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025_C&amp;T" src="/images/2025/CRAFT___TECHNOLOGY.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2024_Craft_Tech.png">
 </div>
 <h3>Department Introduction</h3>
 <p>The Craft &amp; Technology department provides applied learning platforms
