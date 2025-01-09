@@ -29,10 +29,10 @@ while the graceful and skillful techniques demonstrate their perseverance
 and confidence. Our team awaits you, a future Kung Fu Master!</p>
 <h3>Our Team</h3>
 <p><strong>Teachers in charge:</strong>
-<br>Mdm Lek Mei Xuan
-<br>Ms Chow Wan Ling
+<br>Ms Chow Wan Ling (OIC)
+<br>Mdm Wang Run Jia (2IC)
 <br>Mdm Yang Yan
-<br>Ms Wang Run Jia
+<br>Ms Chong Ai Hwa
 <br>
 </p>
 <h3>Key Events of the Year</h3>
