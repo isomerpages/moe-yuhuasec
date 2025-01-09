@@ -44,10 +44,20 @@ and movement.</p>
 <p><strong>Mission: </strong>
 <br>To use dancing as a tool of expression and character development.</p>
 <h3>Our Team</h3>
+<ul data-tight="true" class="tight">
+<li>
 <p>Mdm Suhana Zainal</p>
+</li>
+<li>
 <p>Ms Grace Tan</p>
+</li>
+<li>
 <p>Mr Raguvaran</p>
+</li>
+<li>
 <p>Mdm Kavitha</p>
+</li>
+</ul>
 <p></p>
 <p>If you have any questions, feel free to email our teachers-in-charge to
 know more about our CCA!&nbsp;</p>
