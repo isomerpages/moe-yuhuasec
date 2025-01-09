@@ -34,12 +34,10 @@ players to the National Squad to play overseas in Malaysia and Taiwan.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Tchoukball" src="/images/Screenshot_2024_11_20_092842.png">
 </div>
 <h3>Teachers in Charge</h3>
-<p>Mr John Ho
-<br>Mdm Kavitha
-<br>Mdm Yeo Aik Ser&nbsp;
-<br>Ms Jenny Ong
-<br>
-</p>
+<p>Mr John Ho (OIC)
+<br>Mdm Yeo Aik Ser&nbsp;(2IC)
+<br>Mr Alan
+<br>Ms Azidah</p>
 <h3>Student Leaders</h3>
 <table style="minWidth: 25px">
 <colgroup>
