@@ -28,7 +28,7 @@ our motto goes “Unite as One, to Achieve and Excel”.
 <h3>Our Team</h3>
 <p><strong>Teachers</strong>
 <br>Ms Shamim Nisa Binte Yassin (OIC)
-<br>Ms Hu Longmei
+<br>Mr Shawn Tan (2IC)
 <br>Ms Hu Longmei
 <br>Ms Hu Longme</p>
 <h3>Student Leaders</h3>
