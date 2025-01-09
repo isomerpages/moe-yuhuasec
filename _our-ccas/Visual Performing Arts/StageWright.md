@@ -17,9 +17,9 @@ The Yuhua Stagewright Society was started in 2013, in an attempt to offer an alt
 
 ### Our Team
 **Teachers**<br>
-OIC: Mdm Amy Phua    
-2IC: Mr Tan Kian Soon   
-Mdm Irfana Begum    
+Mdm Amy Phua (OIC)    
+Mr Tan Kian Soon (2IC)   
+Ms Rathiya   
 Mdm Rafilah&nbsp;  
 
 ### Student Leaders
