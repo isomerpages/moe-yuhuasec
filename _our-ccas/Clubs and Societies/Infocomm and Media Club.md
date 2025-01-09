@@ -30,10 +30,10 @@ competitions, and providing audio-visual support for school events.</p>
 <p>Ms Shahidah Bte Safii</p>
 </li>
 <li>
-<p>Mdm Lalitha</p>
+<p>Michael See</p>
 </li>
 <li>
-<p>Ms Arfah Lubis</p>
+<p>Mdm Lalitha</p>
 </li>
 </ul>
 <h3>Student Leaders</h3>
