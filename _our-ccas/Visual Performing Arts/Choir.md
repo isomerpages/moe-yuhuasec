@@ -27,7 +27,7 @@ nurturing our choristers beyond their passion in music; to be active learners
 and responsible citizens who will be able to contribute to the school and
 even to the wider society in meaningful ways.</p>
 <h3>Our Team</h3>
-<p><strong>Teachers:</strong> 
+<p><strong>Teachers:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
