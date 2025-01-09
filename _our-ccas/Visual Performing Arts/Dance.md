@@ -44,15 +44,10 @@ and movement.</p>
 <p><strong>Mission:</strong> 
 <br>To use dancing as a tool of expression and character development.</p>
 <h3>Our Team</h3>
-<p><a href="suhana_zainal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Suhana Zainal</a>
-</p>
-<p><a href="raguvaran_rajenderan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Raguvaran</a>
-</p>
-<p><a href="grace_tan_wai_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Grace Tan</a>
-</p>
-<p><a href="salmiyati_salim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Salmiyati Salim</a>
-</p>
-<p></p>
+<p>Mdm Suhana Zainal</p>
+<p>Ms Grace Tan</p>
+<p>Mr Raguvaran</p>
+<p>Mdm Kavitha</p>
 <p>If you have any questions, feel free to email our teachers-in-charge to
 know more about our CCA!&nbsp;</p>
 <p>You may also approach any of our friendly seniors who will be able to
