@@ -59,15 +59,6 @@ sections:
       image: /images/Screenshot_2024_11_11_085110.png
       alt: Image alt text
   - infopic:
-      title: President’s Award for Teachers 2025
-      id: infopic
-      description: The President’s Award for Teachers  gives national recognition to
-        experienced teachers who are role models for the teaching profession.
-      button: NOMINATION IS NOW OPEN!
-      url: https://go.gov.sg/pat2025
-      image: /images/Screenshot_2024_11_11_085049.png
-      alt: Image alt text
-  - infopic:
       title: Yearbook
       id: infopic
       description: Click on the link below to find out more about the events and
