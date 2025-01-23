@@ -51,14 +51,14 @@ major growth sectors:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2025_ALP2.jpg">
 </div>
-<p><strong>Secondary 1: </strong>Environmental Sustainability in School</p>
+<h4><strong>Secondary 1: </strong>Environmental Sustainability in School</h4>
 <p>Using environmental sustainability as a core focus area, students will
 learn the 5 stages of the DT Process and employ DT towards innovative solutions
 for greater sustainability and green awareness in school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP3.jpg">
 </div>
-<p>&nbsp;<strong>Secondary 2:</strong> Social Innovations in Community</p>
+<h4>&nbsp;<strong>Secondary 2:</strong> Social Innovations in Community</h4>
 <p>At Secondary 2, students will be embarking on a journey into Design Thinking
 for Social Innovations to the community around school. Partnering with
 local stakeholders, students will be exposed to more complex social issues
@@ -68,31 +68,21 @@ good.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP4.jpg">
 </div>
-<p>&nbsp;<strong>Secondary 3-5:</strong> Design for the Future</p>
+<h4>&nbsp;<strong>Secondary 3-5:</strong> Design for the Future</h4>
 <p>At Upper Secondary, students are now more ready to initiate their own
 DT projects and make a difference to a core issue that is close to their
 hearts. Working in alignment with the Social Studies curriculum, students
 will take responsibility to champion for different projects of their passion,
 with an encouragement to consider DT projects that may fall within Green,
 Care and Digital growth areas.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP5.jpg">
 </div>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Design Thinking Festival</strong>
-</p>
-</li>
-</ul>
+<h4>&nbsp;<strong>Design Thinking Festival</strong></h4>
 <p>The Tier 1 ALP across all cohorts culminates in a Design Thinking Festival
 held annually in the last week of Term 4, where students will present their
 projects to different members of the school.</p>
-<p>&nbsp;</p>
-<p><strong>Tier 2: Targeted Student Groups</strong>
+<p>&nbsp;<strong>Tier 2: Targeted Student Groups</strong>
 </p>
 <p>At Tier 2 ALP, students will further deepen their development of 21CCs
 and to grow DT skills at the forefront. We aim for our Tier 2 students
@@ -108,7 +98,9 @@ in the school and the community.</p>
 </li>
 </ol>
 <p>&nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_ALP6.jpg">
+</div>
 <p>Tier 2 students will also attend the annual Yuhua Changemakers Summit
 and have opportunities for real-world experiences through volunteering,
 job shadowing, and internships.</p>
