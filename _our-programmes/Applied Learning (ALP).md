@@ -32,7 +32,6 @@ contributions to Singapore and the world.</p>
 </p>
 <p>Through the course of the programme, students learn and apply the five
 stages of Design Thinking:</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2025_ALP1.jpg">
 </div>
