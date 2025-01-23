@@ -30,7 +30,7 @@ competitions, and providing audio-visual support for school events.</p>
 <p>Ms Shahidah Bte Safii</p>
 </li>
 <li>
-<p>Mr Michael See</p>
+<p>Ms Fang Qing</p>
 </li>
 <li>
 <p>Mdm Lalitha</p>
