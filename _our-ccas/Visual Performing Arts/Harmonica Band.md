@@ -30,7 +30,7 @@ our motto goes “Unite as One, to Achieve and Excel”.
 <br>Ms Shamim Nisa Binte Yassin (OIC)
 <br>Mr Shawn Tan (2IC)
 <br>Ms Eileen Teng
-<br>Ms Kechang</p>
+<br>Mr Chew Kechang</p>
 <h3>Student Leaders</h3>
 <p><strong>Chairperson:</strong> Tharrini Jessie D/O Uthayakumar(3 Connect)
 <br><strong>Vice Chairperson:</strong> Aleeschia Noeha Binte Feidzal(3 Connect)</p>
