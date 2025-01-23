@@ -104,9 +104,7 @@ in the school and the community.</p>
 <p>Tier 2 students will also attend the annual Yuhua Changemakers Summit
 and have opportunities for real-world experiences through volunteering,
 job shadowing, and internships.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Programme Key Features</strong>
+<p><strong>&nbsp;Programme Key Features</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -126,8 +124,7 @@ job shadowing, and internships.</p>
 <p>Opportunities for external attachments and internships</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>Partnerships</strong>
+<p>&nbsp;<strong>Partnerships</strong>
 </p>
 <p>We collaborate with various organisations to provide authentic learning
 experiences:</p>
@@ -182,10 +179,6 @@ experiences:</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/0R2A1353.jpg">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/alp.jpg">
 </div>
