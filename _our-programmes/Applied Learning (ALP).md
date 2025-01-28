@@ -177,7 +177,4 @@ experiences:</p>
 <p>Loving Hearts Aging Centre</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alp.jpg">
-</div>
 <p></p>
