@@ -102,7 +102,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>2025 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE </strong>
 </p>
 </th>
 </tr>
