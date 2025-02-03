@@ -22,7 +22,7 @@ beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
 </li>
 <li>
-<p>The Goals of Sexuality Education are to:</p>
+<p>The <strong>Goals </strong>of Sexuality Education are to:</p>
 <p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
 <p>(b) Guide students to make wise, informed and responsible decisions on
@@ -32,7 +32,7 @@ others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
 </li>
 <li>
-<p>The Key Messages of Sexuality Education are:&nbsp;</p>
+<p>The <strong>Key Messages</strong> of Sexuality Education are:&nbsp;</p>
 <p>(a) Love and respect yourself as you love and respect others;</p>
 <p>(b) Build positive relationships based on love and respect (which are
 the foundation for strong families)</p>
@@ -42,8 +42,10 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.&nbsp;</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.&nbsp;</p>
-<p>Overview of YUHUA Secondary School’s Sexuality Education Programme for
-2024</p>
+<p></p>
+<p><strong>OVERVIEW OF YUHUA SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
+</p>
+<p></p>
 </li>
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -89,7 +91,7 @@ the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 <p></p>
-<p><strong><u>At Yuhua Secondary School, the following Sexuality Education lessons will be taught in 2024:</u></strong>
+<p><strong><u>At Yuhua Secondary School, the following Sexuality Education lessons will be taught in 2025:</u></strong>
 </p>
 </li>
 </ol>
@@ -106,31 +108,31 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_Info_on_SEd_for_Secondary_1.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
+<p><a href="/files/Sed_S1.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_Info_on_SEd_for_Secondary_2.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
+<p><a href="/files/Sed_S2.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_Info_on_SEd_for_Secondary_3.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a>
+<p><a href="/files/Sed_S3.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_Info_on_SEd_for_Secondary_4.pdf" rel="noopener nofollow" target="_blank">Secondary 4</a>
+<p><a href="/files/Sed_S4.pdf" rel="noopener nofollow" target="_blank">Secondary 4</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024_Info_on_SEd_for_Secondary_5.pdf" rel="noopener nofollow" target="_blank">Secondary 5</a>
+<p><a href="/files/Sed_S5.pdf" rel="noopener nofollow" target="_blank">Secondary 5</a>
 </p>
 </td>
 </tr>
