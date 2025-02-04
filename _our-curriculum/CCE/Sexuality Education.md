@@ -90,55 +90,47 @@ of the possible consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<p></p>
-<p><strong><u>At Yuhua Secondary School, the following Sexuality Education lessons will be taught in 2025:</u></strong>
-</p>
 </li>
 </ol>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>2025 Sexuality Education Lessons in CCE </strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S2_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S2_2.png">
+</div>
+<p><strong>&nbsp;</strong>
 </p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sed_S1.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sed_S2.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sed_S3.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sed_S4.pdf" rel="noopener nofollow" target="_blank">Secondary 4</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sed_S5.pdf" rel="noopener nofollow" target="_blank">Secondary 5</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>&nbsp;<em><u>eTeens</u></em><u> Programme</u></strong>:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S2_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S3_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S3_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S4_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S4_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S5_1.png">
+</div>
+<p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p><em>eTeens</em> is a programme developed by Health Promotion Board, in
@@ -156,31 +148,12 @@ negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
-<p><strong>&nbsp;Information for Parents</strong>
-</p>
-</li>
-<li>
-<p>Parents may opt their children out of the Sexuality Education lessons,
-eTeens and/or supplementary sexuality education programmes by MOE-approved
-external providers.</p>
-</li>
-<li>
-<p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/2024_Info_on_SEd_Annex_A.pdf" rel="noopener nofollow" target="_blank">here</a><a href="/files/2024_Info_on_SEd_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">.</a> The completed form AnnexA
-is to be submitted by 25/01/2024.</p>
-</li>
-<li>
-<p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/2024_Info_on_SEd_Annex_B.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed form
-is to be submitted by 25/01/2024.</p>
-</li>
-<li>
-<p>Parents can contact the school at <a href="mailto:yuhua_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yuhua_ss@moe.edu.sg</a> or 65661985 for
-discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eTeenss.png">
+</div>
+<p></p>
+<p></p>
 </li>
 </ol>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
