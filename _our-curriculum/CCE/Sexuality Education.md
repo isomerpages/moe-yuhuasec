@@ -22,7 +22,7 @@ beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
 </li>
 <li>
-<p>The Goals of Sexuality Education are to:</p>
+<p>The <strong>Goals </strong>of Sexuality Education are to:</p>
 <p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
 <p>(b) Guide students to make wise, informed and responsible decisions on
@@ -32,7 +32,7 @@ others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
 </li>
 <li>
-<p>The Key Messages of Sexuality Education are:&nbsp;</p>
+<p>The <strong>Key Messages</strong> of Sexuality Education are:&nbsp;</p>
 <p>(a) Love and respect yourself as you love and respect others;</p>
 <p>(b) Build positive relationships based on love and respect (which are
 the foundation for strong families)</p>
@@ -42,8 +42,10 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.&nbsp;</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.&nbsp;</p>
-<p>Overview of YUHUA Secondary School’s Sexuality Education Programme for
-2024</p>
+<p></p>
+<p><strong>OVERVIEW OF YUHUA SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
+</p>
+<p></p>
 </li>
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -88,55 +90,51 @@ of the possible consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<p></p>
-<p><strong><u>At Yuhua Secondary School, the following Sexuality Education lessons will be taught in 2024:</u></strong>
-</p>
 </li>
 </ol>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S2_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S2_2.png">
+</div>
+<p><strong>&nbsp;</strong>
 </p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024_Info_on_SEd_for_Secondary_1.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024_Info_on_SEd_for_Secondary_2.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024_Info_on_SEd_for_Secondary_3.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024_Info_on_SEd_for_Secondary_4.pdf" rel="noopener nofollow" target="_blank">Secondary 4</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024_Info_on_SEd_for_Secondary_5.pdf" rel="noopener nofollow" target="_blank">Secondary 5</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>&nbsp;<em><u>eTeens</u></em><u> Programme</u></strong>:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S2_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S3_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S3_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S4_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S4_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S4_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S5_1.png">
+</div>
+<p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p><em>eTeens</em> is a programme developed by Health Promotion Board, in
@@ -154,31 +152,12 @@ negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
-<p><strong>&nbsp;Information for Parents</strong>
-</p>
-</li>
-<li>
-<p>Parents may opt their children out of the Sexuality Education lessons,
-eTeens and/or supplementary sexuality education programmes by MOE-approved
-external providers.</p>
-</li>
-<li>
-<p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/2024_Info_on_SEd_Annex_A.pdf" rel="noopener nofollow" target="_blank">here</a><a href="/files/2024_Info_on_SEd_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">.</a> The completed form AnnexA
-is to be submitted by 25/01/2024.</p>
-</li>
-<li>
-<p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/2024_Info_on_SEd_Annex_B.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed form
-is to be submitted by 25/01/2024.</p>
-</li>
-<li>
-<p>Parents can contact the school at <a href="mailto:yuhua_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yuhua_ss@moe.edu.sg</a> or 65661985 for
-discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eTeenss.png">
+</div>
+<p></p>
+<p></p>
 </li>
 </ol>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
