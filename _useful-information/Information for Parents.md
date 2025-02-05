@@ -6,6 +6,35 @@ variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
 <hr>
+<h3>2025: Term 1 Weighted Assessment Parent Letters</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="/files/Sec_1_WA1_Parent_Letter_2025__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/files/Sec_3_WA1_Parent_Letter_2025__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Sec_2_WA1_Parent_Letter_2025__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Sec_4_and_5_WA1_Parent_Letter_2025__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4&amp;5</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>2025: Term 1 Parent Letter</h3>
 <p>Dear Parents,
 <br>You may access the Term 1 Letter to Parents below:</p>
