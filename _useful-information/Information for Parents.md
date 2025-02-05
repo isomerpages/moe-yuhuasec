@@ -15,19 +15,21 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Secondary 1 WA1</p>
+<p><a href="/files/Sec_1_WA1_Parent_Letter_2025__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 WA1</a>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Secondary 3 WA1</p>
+<p><a href="/files/Sec_3_WA1_Parent_Letter_2025__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 WA1</a>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Secondary 2 WA1</strong>
+<p><strong><a href="/files/Sec_2_WA1_Parent_Letter_2025__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 WA1</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Secondary 4&amp;5 WA1</strong>
+<p><strong><a href="/files/Sec_4_and_5_WA1_Parent_Letter_2025__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4&amp;5 WA1</a></strong>
 </p>
 </td>
 </tr>
