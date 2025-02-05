@@ -15,19 +15,19 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Secondary 1</p>
+<p>Secondary 1 WA1</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Secondary 3</p>
+<p>Secondary 3 WA1</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Secondary 2</strong>
+<p><strong>Secondary 2 WA1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Secondary 4&amp;5</strong>
+<p><strong>Secondary 4&amp;5 WA1</strong>
 </p>
 </td>
 </tr>
