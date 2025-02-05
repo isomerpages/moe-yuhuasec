@@ -178,10 +178,4 @@ with Parents on 6 April 2024 below:</p>
 <p><a href="/files/2024_Sec_2_PTM__Subject_Combination_for_2025_Sec_3T_22_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Combination slides for 2025 Secondary 3 Normal (Technical)/G1 students</a>
 </p>
 <hr>
-<h3>2024:Sec 1 Parent-Teacher Meeting materials</h3>
-<p>Dear Parents,
-<br>You may access the materials for the Sec 1 Parent-Teacher Meeting below:</p>
-<p><a href="/files/Sec_1_Acad_Briefing_Slides_2024_for_Sec_1_PTM_12_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Academic Briefing slides</a>
-</p>
-<p><a href="/files/Sec_1_2024_Briefing_for_Parents_for_PDLP.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 PDLP briefing slides</a>
-</p>
+<p></p>
