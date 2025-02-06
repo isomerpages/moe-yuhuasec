@@ -6,6 +6,15 @@ variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
 <hr>
+<h3>2025: Upper Secondary Parent-Teacher Meeting slides </h3>
+<p>Dear Parents,
+<br>You may access the materials for the Upper Secondary Parent-Teacher Meeting
+below:</p>
+<p><a href="/files/Slides_for_Upper_Sec_PTM.pdf" rel="noopener nofollow" target="_blank">ECG and Academic Sharing slides for Upper Sec PTM (2025)</a>
+</p>
+<p><a href="/files/2025_YHSS_Start_Of_Year_Slides_from_P__Upper_Sec_PTM_.pdf" rel="noopener nofollow" target="_blank">Principal's sharing slides for Upper Sec PTM (2025)</a>
+</p>
+<p></p>
 <h3>2025: Term 1 Weighted Assessment Parent Letters</h3>
 <table style="minWidth: 50px">
 <colgroup>
