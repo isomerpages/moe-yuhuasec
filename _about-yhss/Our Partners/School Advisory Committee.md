@@ -98,7 +98,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Bernard Lim Boon Kiong</p>
 </td>
 </tr>
 <tr>
@@ -109,7 +109,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tong Yen Sng</p>
 </td>
 </tr>
 <tr>
