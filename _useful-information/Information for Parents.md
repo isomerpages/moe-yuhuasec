@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
 <hr>
-<h3>2025: Upper Secondary Parent-Teacher Meeting slides </h3>
+<h3>2025: Upper Secondary Parent-Teacher Meeting slides</h3>
 <p>Dear Parents,
 <br>You may access the materials for the Upper Secondary Parent-Teacher Meeting
 below:</p>
