@@ -21,6 +21,13 @@ sections:
         - title: Calendar of Events
           description: Click here!
           url: /useful-information-and-links/school-calendar
+  - infobar:
+      title: 2025 Upper Secondary Parent-Teacher Meeting materials
+      id: infobar
+      description: Dear parents, you may find the slides for the Upper Secondary
+        Parent-Teacher Meeting for 2025 under Information for Parents.
+      button: Information for Parents
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
   - infopic:
       title: Secondary 1 Information
       subtitle: sec 1 - 2025
