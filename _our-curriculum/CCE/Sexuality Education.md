@@ -159,14 +159,13 @@ Abstinence and upholding family values are the key messages.</p>
 <p></p>
 <h4>INFORMATION FOR PARENTS</h4>
 <p></p>
-<p>10. Parents may opt their children out of the Sexuality Education lessons,
-eTeens and/or supplementary sexuality education programmes by MOE-approved
-external providers.</p>
+<p>10. Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or
+supplementary sexuality education programmes by MOE-approved external providers.</p>
 <p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable <a href="/files/ANNEX_A_MOE_Sexuality_Education_Parent_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>.
 The completed form is to be submitted by 14/2/2025.</p>
-<p>12. Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
+<p>12. Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable <a href="/files/ANNEX_B__eTeens_Parent_Opt_out_Form.pdf" rel="noopener nofollow" target="_blank">here.</a> The completed
 form is to be submitted by 14/2/2025.</p>
