@@ -157,6 +157,22 @@ Abstinence and upholding family values are the key messages.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/eTeenss.png">
 </div>
 <p></p>
+<h4>INFORMATION FOR PARENTS</h4>
+<p></p>
+<p>10. Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or
+supplementary sexuality education programmes by MOE-approved external providers.</p>
+<p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable <a href="/files/ANNEX_A_MOE_Sexuality_Education_Parent_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 14/2/2025.</p>
+<p>12. Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable <a href="/files/ANNEX_B__eTeens_Parent_Opt_out_Form.pdf" rel="noopener nofollow" target="_blank">here.</a> The completed
+form is to be submitted by 14/2/2025.</p>
+<p>13. Parents can contact the school at <a href="mailto:yuhua_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yuhua_ss@moe.edu.sg</a> or 65661985 for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
+<p></p>
 <p></p>
 </li>
 </ol>
