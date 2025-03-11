@@ -22,8 +22,9 @@ previously based in Shuqun Secondary School and has been in YHSS since
 <br>Mr Jeffrey Poh
 <br>Mr Yeh Bao Yaw</p>
 <h3>CCA Leaders</h3>
-<p>CSM: Choo Shao Quan Squad Leader: Muhammad Shareef Squad Leader: Jaiganesh
-Pranav</p>
+<p>CSM: Choo Shao Quan</p>
+<p>Squad Leader: Muhammad Shareef</p>
+<p>Squad Leader: Jaiganesh Pranav</p>
 <h3>Key Events of the Year</h3>
 <ul data-tight="true" class="tight">
 <li>
