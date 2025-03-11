@@ -46,10 +46,10 @@ and movement.</p>
 <h3>Our Team</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Suhana Zainal</p>
+<p>Mdm Suhana Zainal Bte Zainal (OIC)</p>
 </li>
 <li>
-<p>Ms Grace Tan</p>
+<p>Ms Grace Tan (2IC)</p>
 </li>
 <li>
 <p>Mr Raguvaran</p>
