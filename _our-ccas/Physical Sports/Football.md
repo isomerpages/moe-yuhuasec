@@ -21,7 +21,7 @@ character and sportsmanship.</p>
 <p><strong>Teachers:</strong>&nbsp;
 <br>Ms Bo Yiting (OIC)
 <br>Mr Muhammad Shukri Shuhaimi (2IC)
-<br>Mr Clovis&nbsp;
+<br>Mr Clovis Song&nbsp;
 <br>Mr Foo Gui Zhong
 <br>
 </p>
