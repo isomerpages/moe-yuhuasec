@@ -23,8 +23,8 @@ of curiosity, respect, responsibility, and adaptability.</p>
 <p></p>
 <h3>Teachers in Charge</h3>
 <p>Mr Sim Lit Sen (OIC)
-<br>Mr Daniel Tan Wee Meng
-<br>Ms Muliyahna
+<br>Mr Daniel Tan Wee Meng (2IC)
+<br>Ms Muliyahna Binte Sani
 <br>Mr Low Chee Wah</p>
 <h3>Student Leaders</h3>
 <p><strong>President</strong>: Javier Enjae Cadiz (3 Flourish)</p>
