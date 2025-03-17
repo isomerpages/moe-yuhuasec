@@ -19,20 +19,20 @@ through the use of career-related tools and information.</p>
 <h3>MOE HQ &amp; HR Portals</h3>
 <h5>1. SC Mobile</h5>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/SCMobile.jpg">
+<img style="width: 25%;" height="auto" width="100%" src="/images/SCMobile.jpg">
 </div>
 <p>Click on the SC Mobile Logo.
 <br>For Marking Students' Attendance.</p>
 <h5>2. School Cockpit</h5>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/SC.jpg">
+<img style="width: 25%;" height="auto" width="100%" src="/images/SC.jpg">
 </div>
 <p>Click on the School Cockpit Logo.
 <br>For School Cockpit Matters. Refer to School for Details.
 <br>Please open in Internet Explorer.</p>
 <h5>3. MOE Intranet</h5>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/moe%20intranet.jpg">
+<img style="width: 25%;" height="auto" width="100%" src="/images/moe%20intranet.jpg">
 </div>
 <p>Click on the MOE Intranet Logo.
 <br>For MOE Admin Matters. Refer to School for Details.
@@ -40,7 +40,7 @@ through the use of career-related tools and information.</p>
 </p>
 <h5>4. Reset MIMS Password</h5>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/MIMS%20Portal%20Logo.png">
+<img style="width: 25%;" height="auto" width="100%" src="/images/MIMS%20Portal%20Logo.png">
 </div>
 <p>Click on the MIMS Portal Logo to reset password.
 <br>For SSOE Service Desk: 1800 7663 663
