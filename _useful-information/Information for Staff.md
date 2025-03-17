@@ -29,17 +29,35 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h5></h5>
-<p></p>
-<h5></h5>
-<p></p>
 <h3>MOE HQ &amp; HR Portals</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <h5>1. SC Mobile</h5>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" src="/images/SCMobile.jpg">
 </div>
-<p>Click on the SC Mobile Logo.
-<br>For Marking Students' Attendance.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h5></h5>
+<p></p>
 <h5>2. School Cockpit</h5>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" src="/images/SC.jpg">
