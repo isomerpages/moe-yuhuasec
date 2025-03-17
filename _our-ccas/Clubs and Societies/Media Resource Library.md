@@ -30,9 +30,11 @@ encouraging interactive learning experiences.</p>
 <h3>Our Team</h3>
 <p><strong>Teachers</strong>
 </p>
-<p>Mr Muhamed Hafiz Bin Mohamed Ridwan
-<br>Mrs Chinnamah silvarajoo
-<br>Mdm Aliza Binte Main</p>
+<p>Mr Muhamed Hafiz Bin Mohamed Ridwan (OIC)</p>
+<p>Mdm Aliza Binte Main (2IC)</p>
+<p>Mrs Chinnamah Silvarajoo
+<br>
+</p>
 <p><strong>Student Leaders</strong>
 </p>
 <p>President:

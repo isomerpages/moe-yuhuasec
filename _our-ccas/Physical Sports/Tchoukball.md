@@ -35,7 +35,7 @@ players to the National Squad to play overseas in Malaysia and Taiwan.</p>
 </p>
 <p>Mr John Ho (OIC)
 <br>Mdm Yeo Aik Ser&nbsp;(2IC)
-<br>Mr Alan
+<br>Mr Alan Tam
 <br>Ms Azidah</p>
 <p><strong>Student Leaders</strong>
 </p>
