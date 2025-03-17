@@ -62,6 +62,6 @@ through the use of career-related tools and information.</p>
 <p>Click on the OPAL2.0 Logo.
 <br>For Training Courses, Details, Communities of Practice, Teaching Resources
 and Professional Development Resources.</p>
-<h5>8. HR Portal</h5><a class="isomer-image-wrapper" href="https://www.hrp.gov.sg"><img style="width:50%" height="auto" width="100%" src="/images/HRP%20Logo.png"></a>
+<h5>8. HR Portal</h5><a class="isomer-image-wrapper" href="https://www.hrp.gov.sg"><img style="width: 25%;" height="auto" width="100%" src="/images/HRP%20Logo.png"></a>
 <p>Click on the HR Portal Logo
 <br>For Pay and Claims Needs and Leave application.</p>
