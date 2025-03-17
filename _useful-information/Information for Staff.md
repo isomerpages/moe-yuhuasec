@@ -58,7 +58,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<h5>3. MOE Intranet</h5>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" src="/images/moe%20intranet.jpg">
+</div>
+<p>Click on the MOE Intranet Logo.
+<br>For MOE Admin Matters. Refer to School for Details.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>4. Reset MIMS Password</h5>
 </td>
 </tr>
 </tbody>
@@ -68,12 +78,8 @@ variant: tiptap
 <p></p>
 <h5></h5>
 <p></p>
-<h5>3. MOE Intranet</h5>
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" src="/images/moe%20intranet.jpg">
-</div>
-<p>Click on the MOE Intranet Logo.
-<br>For MOE Admin Matters. Refer to School for Details.
+<h5></h5>
+<p>
 <br>
 </p>
 <h5>4. Reset MIMS Password</h5>
