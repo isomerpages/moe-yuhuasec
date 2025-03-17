@@ -48,7 +48,7 @@ through the use of career-related tools and information.</p>
 </p>
 <h5>5. HR Online</h5>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/hr%20online.png">
+<img style="width: 25%;" height="auto" width="100%" src="/images/hr%20online.png">
 </div>
 <p>Click on the HR Online Logo.
 <br>For Human Resource Matters.</p>
@@ -58,10 +58,10 @@ through the use of career-related tools and information.</p>
 </div>
 <p>Click on the MOE ICON email Logo.
 <br>For MOE Email.</p>
-<h5>7. OPAL 2.0 - One Portal All Learners</h5><a class="isomer-image-wrapper" href="https://idm.opal2.moe.edu.sg/Account/Login?ReturnUrl=%2F"><img style="width:50%" height="auto" width="100%" src="/images/OPAL2%20Logo.png"></a>
+<h5>7. OPAL 2.0 - One Portal All Learners</h5><a class="isomer-image-wrapper" href="https://idm.opal2.moe.edu.sg/Account/Login?ReturnUrl=%2F"><img style="width: 25%;" height="auto" width="100%" src="/images/OPAL2%20Logo.png"></a>
 <p>Click on the OPAL2.0 Logo.
 <br>For Training Courses, Details, Communities of Practice, Teaching Resources
 and Professional Development Resources.</p>
-<h5>8. HR Portal</h5><a class="isomer-image-wrapper" href="https://www.hrp.gov.sg"><img style="width: 25%;" height="auto" width="100%" src="/images/HRP%20Logo.png"></a>
+<h5>8. HR Portal</h5><a class="isomer-image-wrapper" href="https://www.hrp.gov.sg"><img style="width: 15%;" height="auto" width="100%" src="/images/HRP%20Logo.png"></a>
 <p>Click on the HR Portal Logo
 <br>For Pay and Claims Needs and Leave application.</p>
