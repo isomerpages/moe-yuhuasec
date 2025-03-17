@@ -10,9 +10,9 @@ variant: tiptap
 <br>2.&nbsp;<a href="https://sites.google.com/moe.edu.sg/yhss-staff-links/home" rel="noopener noreferrer nofollow" target="_blank">YHSS staff links</a>
 </p>
 <h3>Yuhua Learning Portals</h3>
-<h5>1. Singapore Student Learning Space</h5><a class="isomer-image-wrapper" href="https://www.learning.moe.edu.sg/"><img style="width:100%" height="auto" width="100%" src="/images/SLSlogo.jpg"></a>
+<h5>1. Singapore Student Learning Space</h5><a class="isomer-image-wrapper" href="https://www.learning.moe.edu.sg/"><img style="width: 25%;" height="auto" width="100%" src="/images/SLSlogo.jpg"></a>
 <p>Click on the Student Learning Space Logo to login.</p>
-<h5>2. My Skills Future Portal</h5><a class="isomer-image-wrapper" href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html"><img style="width:50%" height="auto" width="100%" src="/images/MySkillsFuture.jpg"></a>
+<h5>2. My Skills Future Portal</h5><a class="isomer-image-wrapper" href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html"><img style="width: 25%;" height="auto" width="100%" src="/images/MySkillsFuture.jpg"></a>
 <p>Click on the My Skills Future Logo
 <br>For informed choices in education and career guidance and life long learning
 through the use of career-related tools and information.</p>
@@ -54,7 +54,7 @@ through the use of career-related tools and information.</p>
 <br>For Human Resource Matters.</p>
 <h5>6. ICONnect Email - not found</h5>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/icon.jpg">
+<img style="width: 25%;" height="auto" width="100%" src="/images/icon.jpg">
 </div>
 <p>Click on the MOE ICON email Logo.
 <br>For MOE Email.</p>
