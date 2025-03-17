@@ -88,7 +88,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h5>6. ICONnect Email </h5><a class="isomer-image-wrapper" href="https://icon.moe.edu.sg"><img style="width: 25%;" height="auto" width="100%" src="/images/icon.jpg"></a>
+<h5>6. ICONnect Email</h5><a class="isomer-image-wrapper" href="https://icon.moe.edu.sg"><img style="width: 25%;" height="auto" width="100%" src="/images/icon.jpg"></a>
 <p>Click on the MOE ICON email Logo.
 <br>For MOE Email.</p>
 </td>
