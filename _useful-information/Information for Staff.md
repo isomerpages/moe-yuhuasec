@@ -24,7 +24,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <h5>2. My Skills Future Portal.</h5><a class="isomer-image-wrapper" href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html"><img style="width: 25%;" height="auto" width="100%" src="/images/MySkillsFuture.jpg"></a>
-<h5>Click on the My Skills Future Logo </h5>
+<h5>Click on the My Skills Future Logo</h5>
 <p>For informed choices in education career guidance and life long learning
 through career-related tools and information.</p>
 </td>
