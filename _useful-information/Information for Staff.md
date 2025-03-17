@@ -10,12 +10,29 @@ variant: tiptap
 <br>2.&nbsp;<a href="https://sites.google.com/moe.edu.sg/yhss-staff-links/home" rel="noopener noreferrer nofollow" target="_blank">YHSS staff links</a>
 </p>
 <h3>Yuhua Learning Portals</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <h5>1. Singapore Student Learning Space</h5><a class="isomer-image-wrapper" href="https://www.learning.moe.edu.sg/"><img style="width: 25%;" height="auto" width="100%" src="/images/SLSlogo.jpg"></a>
 <p>Click on the Student Learning Space Logo to login.</p>
-<h5>2. My Skills Future Portal</h5><a class="isomer-image-wrapper" href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html"><img style="width: 25%;" height="auto" width="100%" src="/images/MySkillsFuture.jpg"></a>
-<p>Click on the My Skills Future Logo
-<br>For informed choices in education and career guidance and life long learning
-through the use of career-related tools and information.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>2. My Skills Future Portal.</h5><a class="isomer-image-wrapper" href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html"><img style="width: 25%;" height="auto" width="100%" src="/images/MySkillsFuture.jpg"></a>
+<h5>Click on the My Skills Future Logo <br>For informed choices in education career guidance and life long learning through career-related tools and information.</h5>
+</td>
+</tr>
+</tbody>
+</table>
+<h5></h5>
+<p></p>
+<h5></h5>
+<p></p>
 <h3>MOE HQ &amp; HR Portals</h3>
 <h5>1. SC Mobile</h5>
 <div class="isomer-image-wrapper">
