@@ -38,6 +38,7 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <h5>1. SC Mobile</h5>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" src="/images/SCMobile.jpg">
 </div>
