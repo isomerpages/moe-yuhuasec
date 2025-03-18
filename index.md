@@ -55,20 +55,10 @@ sections:
       button: Info for Students & Parents
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
   - infopic:
-      title: Outstanding Youth in Education Award
-      subtitle: OYEA
-      id: infopic
-      description: OYEA gives national recognition to young teachers who are role
-        models for the teaching profession.
-      button: NOMINATION IS NOW OPEN!
-      url: https://go.gov.sg/oyea2025
-      image: /images/Screenshot_2024_11_11_085110.png
-      alt: Image alt text
-  - infopic:
       title: Yearbook
       id: infopic
       description: Click on the link below to find out more about the events and
-        achievements of our school in 2023!
+        achievements of our school
       button: Link to YHSS YEARBOOK
       url: https://drive.google.com/file/d/1cSL9Ngm7nnIj6x8raOWHhbEcKl163s6Z/view?usp=drive_web
       alt: Image alt text
