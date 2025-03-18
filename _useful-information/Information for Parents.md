@@ -167,15 +167,6 @@ perform a simple one-time onboarding process.&nbsp;</p>
 </p>
 </li>
 </ul>
-<p>We look forward to your support. Thank you very much!</p>
-<p>____________________________________________________________________________________________</p>
-<h2>2024 PTM Resources:</h2>
-<h3>Sharing on Educational Technology with Parents on 6 April 2024</h3>
-<p>Dear Parents,
-<br>You may access the materials for the sharing on Educational Technology
-with Parents on 6 April 2024 below:</p>
-<p><a href="/files/EdTech_in_YHSS__sharing_with_parents___for_uploading_.pdf" rel="noopener noreferrer nofollow" target="_blank">Slides on EdTech in YHSS (for parents)</a>
-</p>
 <hr>
 <h3>2024: Sec 2 Parent-Teacher Meeting materials</h3>
 <p>Dear Parents,
