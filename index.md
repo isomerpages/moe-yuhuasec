@@ -22,6 +22,13 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infobar:
+      title: Term2 Timetables
+      subtitle: Yhss
+      id: infobar
+      description: You may access the Term 2 timetables on this page below.
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
+      button: Information for Parents
+  - infobar:
       title: 2025 Upper Secondary Parent-Teacher Meeting materials
       id: infobar
       description: Dear parents, you may find the slides for the Upper Secondary
@@ -40,12 +47,6 @@ sections:
       image: /images/WhatsApp_Image_2024_12_17_at_12_21_14_PM.jpg
       alt: Image alt text
   - infobar:
-      title: Term2 Timetables
-      subtitle: Timetable & term 1 letter
-      id: infobar
-      description: You may access the Term 2 timetables on this page below.
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
-  - infobar:
       title: Book List 2025
       subtitle: Secondary 2 to Secondary 5
       id: infobar
@@ -54,20 +55,10 @@ sections:
       button: Info for Students & Parents
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
   - infopic:
-      title: Outstanding Youth in Education Award
-      subtitle: OYEA
-      id: infopic
-      description: OYEA gives national recognition to young teachers who are role
-        models for the teaching profession.
-      button: NOMINATION IS NOW OPEN!
-      url: https://go.gov.sg/oyea2025
-      image: /images/Screenshot_2024_11_11_085110.png
-      alt: Image alt text
-  - infopic:
       title: Yearbook
       id: infopic
       description: Click on the link below to find out more about the events and
-        achievements of our school in 2023!
+        achievements of our school
       button: Link to YHSS YEARBOOK
       url: https://drive.google.com/file/d/1cSL9Ngm7nnIj6x8raOWHhbEcKl163s6Z/view?usp=drive_web
       alt: Image alt text
