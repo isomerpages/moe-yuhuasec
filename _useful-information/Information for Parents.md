@@ -6,7 +6,41 @@ variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
 <hr>
-<h3>2025: Upper Secondary Parent-Teacher Meeting slides</h3>
+<h3>2025: Term 2 Timetables</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Term_2_TT_Sec_1.pdf" rel="noopener nofollow" target="_blank">Secondary 1 (Term2-2025)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Term_2_TT_Sec_2.pdf" rel="noopener nofollow" target="_blank">Secondary 2 (Term2-2025)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Term_2_TT_Sec_3.pdf" rel="noopener nofollow" target="_blank">Secondary 3(Term2-2025)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Term_2_TT_Sec_4_and_5.pdf" rel="noopener nofollow" target="_blank">Secondary 4&amp;5 (Term2-2025)</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>______________________________________________________________________________</p>
+<p><strong>2025: Upper Secondary Parent-Teacher Meeting slides</strong>
+</p>
 <p>Dear Parents,
 <br>You may access the materials for the Upper Secondary Parent-Teacher Meeting
 below:</p>
@@ -49,38 +83,6 @@ below:</p>
 <br>You may access the Term 1 Letter to Parents below:</p>
 <p><a href="/files/YHSS_2025_Term_1_Letter_31_Dec.pdf" rel="noopener nofollow" target="_blank">Term1_Letter to Parents</a>
 </p>
-<h3>2025: Term 1 Timetables</h3>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sem_1_TT_Sec_1__caa_301224_.pdf" rel="noopener nofollow" target="_blank">Secondary 1 (Semester1-2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sem_1_TT_Sec_2__caa_301224_.pdf" rel="noopener nofollow" target="_blank">Secondary 2 (Semester1-2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sem_1_TT_Sec_3__caa_301224_.pdf" rel="noopener nofollow" target="_blank">Secondary 3(Semester1-2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sem_1_TT_Sec_4___5__caa_301224_.pdf" rel="noopener nofollow" target="_blank">Secondary 4&amp;5 (Semester1-2025)</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <hr>
 <h3>Student Handbook</h3>
 <p>Dear parents, you may access <a href="https://sites.google.com/moe.edu.sg/yhss-handbook-site/home?pli=1" rel="noopener noreferrer nofollow" target="_blank">YHSS Student Handbook</a> for
