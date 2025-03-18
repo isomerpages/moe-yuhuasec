@@ -27,6 +27,7 @@ sections:
       id: infobar
       description: You may access the Term 2 timetables on this page below.
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
+      button: Information for Parents
   - infobar:
       title: 2025 Upper Secondary Parent-Teacher Meeting materials
       id: infobar
