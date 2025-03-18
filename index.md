@@ -23,7 +23,7 @@ sections:
           url: /useful-information-and-links/school-calendar
   - infobar:
       title: Term2 Timetables
-      subtitle: Timetable & term 1 letter
+      subtitle: Yhss
       id: infobar
       description: You may access the Term 2 timetables on this page below.
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
