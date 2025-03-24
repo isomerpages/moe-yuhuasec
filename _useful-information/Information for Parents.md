@@ -49,39 +49,10 @@ below:</p>
 <p><a href="/files/2025_YHSS_Start_Of_Year_Slides_from_P__Upper_Sec_PTM_.pdf" rel="noopener nofollow" target="_blank">Principal's sharing slides for Upper Sec PTM (2025)</a>
 </p>
 <p></p>
-<h3>2025: Term 1 Weighted Assessment Parent Letters</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><a href="/files/Sec_1_WA1_Parent_Letter_2025__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="/files/Sec_3_WA1_Parent_Letter_2025__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sec_2_WA1_Parent_Letter_2025__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sec_4_and_5_WA1_Parent_Letter_2025__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4&amp;5</a></strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>2025: Term 1 Parent Letter</h3>
+<h3>2025: Term 2 Parent Letter</h3>
 <p>Dear Parents,
-<br>You may access the Term 1 Letter to Parents below:</p>
-<p><a href="/files/YHSS_2025_Term_1_Letter_31_Dec.pdf" rel="noopener nofollow" target="_blank">Term1_Letter to Parents</a>
+<br>You may access the Term 2 Letter to Parents below:</p>
+<p><a href="/files/YHSS_2025_Term_2_Letter.pdf" rel="noopener nofollow" target="_blank">Term2_Letter to parents</a>
 </p>
 <hr>
 <h3>Student Handbook</h3>
