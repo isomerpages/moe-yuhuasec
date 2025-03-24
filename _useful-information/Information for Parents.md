@@ -38,7 +38,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>______________________________________________________________________________</p>
+<h3>2025: Term 2 Parent Letter</h3>
+<p>Dear Parents,
+<br>You may access the Term 2 Letter to Parents below:</p>
+<p><a href="/files/YHSS_2025_Term_2_Letter.pdf" rel="noopener nofollow" target="_blank">Term2_Letter to parents</a>
+</p>
+<p>____________________________________________________________________________________________</p>
 <p><strong>2025: Upper Secondary Parent-Teacher Meeting slides</strong>
 </p>
 <p>Dear Parents,
@@ -47,12 +52,6 @@ below:</p>
 <p><a href="/files/Slides_for_Upper_Sec_PTM.pdf" rel="noopener nofollow" target="_blank">ECG and Academic Sharing slides for Upper Sec PTM (2025)</a>
 </p>
 <p><a href="/files/2025_YHSS_Start_Of_Year_Slides_from_P__Upper_Sec_PTM_.pdf" rel="noopener nofollow" target="_blank">Principal's sharing slides for Upper Sec PTM (2025)</a>
-</p>
-<p></p>
-<h3>2025: Term 2 Parent Letter</h3>
-<p>Dear Parents,
-<br>You may access the Term 2 Letter to Parents below:</p>
-<p><a href="/files/YHSS_2025_Term_2_Letter.pdf" rel="noopener nofollow" target="_blank">Term2_Letter to parents</a>
 </p>
 <hr>
 <h3>Student Handbook</h3>
