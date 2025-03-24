@@ -38,6 +38,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p>___________________________________________________________________________________________</p>
 <h3>2025: Term 2 Parent Letter</h3>
 <p>Dear Parents,
 <br>You may access the Term 2 Letter to Parents below:</p>
