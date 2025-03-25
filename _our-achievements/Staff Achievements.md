@@ -56,7 +56,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>SHHK Leap Award 2024 </strong>飞跃教师奖</p>
+<h4><strong>SHHK Leap Award 2024 </strong>飞跃教师奖</h4>
 <p>We Celebrate Mdm Irfana Begum Ikbal! The Listening Educator for Advancement
 and Progress (LEAP) Award, was launched by the late President S R Nathan
 in 2011 and awarded by Singapore Hock Kian Huay Kuan annually to recognise
