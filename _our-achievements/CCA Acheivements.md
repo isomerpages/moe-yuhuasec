@@ -196,8 +196,9 @@ Performing Arts groups have done the school proud in recent years.</p>
 this, our Yuhuans do their best to live up to the values of grit and resilience,
 demonstrating good sportsmanship through all competitions that they participate
 in.</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -221,6 +222,10 @@ in.</p>
 <p><strong>2024</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
@@ -235,6 +240,9 @@ in.</p>
 <td rowspan="1" colspan="1">
 <p>Mintonette Cup 4th (Under 16 Boys)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>4th Place in West Zone Championship</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -246,6 +254,9 @@ in.</p>
 <td rowspan="1" colspan="1">
 <p>West Zone B Division Volleyball Championships - 1st</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -256,6 +267,9 @@ in.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National Schools B Division (Boys) National School Games - Fourth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -271,6 +285,9 @@ in.</p>
 <td rowspan="1" colspan="1">
 <p>Participated in West Zone B Division (Girls) National School Games</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -282,10 +299,16 @@ in.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>West Zone B Division Volleyball Championships - top 8 (4th in group rounds)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -307,6 +330,9 @@ in.</p>
 <td rowspan="1" colspan="1">
 <p>Participated in B Div NSG (Boys)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -320,6 +346,9 @@ in.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National School Games B Division Football League Four</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -335,10 +364,16 @@ in.</p>
 <td rowspan="1" colspan="1">
 <p>Participated in B Div NSG (Boys)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Inter-School C Division Tchoukball Championships - top 8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -357,10 +392,16 @@ in.</p>
 <td rowspan="1" colspan="1">
 <p>Participated in B Div NSG (Girls)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Inter-School C Division Tchoukball Championships - top 7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -378,6 +419,9 @@ in.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participated in National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
