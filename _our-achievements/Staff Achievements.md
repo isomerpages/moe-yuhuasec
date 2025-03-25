@@ -67,8 +67,7 @@ This year, the Award received a total of 234 nominations from 154 schools.
 We are proud to share that our very own Mdm Irfana is one of the 15 teachers
 to be presented the prestigious award by Minister Chan Chun Sing! Congratulations
 Mdm Irfana! May you continue to touch lives and inspire them to Care, Connect
-and Contribute! Do click on this link to learn more about this award and
-Mdm Irfana!</p>
+and Contribute!</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
