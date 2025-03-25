@@ -5,7 +5,272 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Academic and Learning Achievements</strong></h1>
-<h3>Year of 2024</h3>
+<h2>2025</h2>
+<h4><strong>Visitors’ Favourite Art Installation for Chingay 2025 Joyous ART-Venture</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/54320815585_0a3e456d3a_c.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/54320635158_fe672971b0_h.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/54319505852_463aa6644e_h.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rizq Rifqi Bin Herman Filani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Leong Qi En Jowin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Curiosity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nabil Nasrulhaq Bin Zakky</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Curiosity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Joey Teh Liu Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Adaptability</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Irsalina Binte Mohamed Isham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Adaptability</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhammad Qayyum Bin Mohamad Yusoff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Adaptability</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Toh En Tong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yuvvika Therumaraj</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Respect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Arissa Hana Binte Mohammed Thamrin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Responsibility</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mavis Cham Le Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Responsibility</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tyra Sing Wan Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Responsibility</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Justin Singh S/O Kuldip Singh Ablog Khaira</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Responsibility</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gurneet Judge Bjarne Madas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kimberlie Lee Rui Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Umaira Maisara Binte Rahmat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sriyukta Krishna</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ryan Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Resilience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Advita C Raj</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Misha Insyirah Binte Mizli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Siti Maisarah Binte Ismail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yeo Wen Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chang De Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Siti Nur Maisarah Binte Muhammad Husairi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Connect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tay En Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Connect</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bunga Natasya Latisya Binte Mazlan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Contribute</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Law Xuan Le (Liu Xuanle)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Contribute</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nurfella Zara Binte Muhammad Faidzal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Contribute</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chai Xin Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Flourish</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>2024</h2>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
