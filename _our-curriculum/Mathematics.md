@@ -69,7 +69,21 @@ and builds confidence among students. By explaining concepts to others,
 peer coaches reinforce their own understanding, while learners benefit
 from personalized guidance and diverse perspectives, ultimately leading
 to improved academic performance and a stronger grasp of mathematical principles.</p>
-<h5><strong>ALL SECONDARY SINGAPORE MATHEMATICS COMPETITION 2023:</strong> <br></h5>
+<h4><strong>Singapore Mathematics Olympiad (SMO) 2024</strong></h4>
+<p><strong>Honorable Mention</strong>
+</p>
+<p>ARYA TALESARA 4 Contribute</p>
+<p></p>
+<p><strong>Certificate of Participation</strong>
+</p>
+<p>ONG JING KANG, DYLAN 4 Contribute</p>
+<p>ONG CHEN TECK BRAYDEN 4 Contribute</p>
+<p>GOVINDARAJU VAISHNAVA PRIYAN 4 Connect</p>
+<p>CHEW SHI AN RYAN 4 Contribute</p>
+<p>CHAN ZHI HNG 4 Contribute</p>
+<p>JOEL LI JUN HUI 4 Contribute</p>
+<p>TAN JUN HON 4 Contribute</p>
+<h5><strong>ALL SECONDARY SINGAPORE MATHEMATICS COMPETITION 2023:</strong> </h5>
 <p><strong>Certification of Participation</strong>
 <br>4NA: Ho Jun Jie – 4 Adaptability
 <br>Richard Chen Fu Hai – 4 Respect
