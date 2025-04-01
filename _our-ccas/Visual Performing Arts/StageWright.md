@@ -30,8 +30,8 @@ while showing their talents.</p>
 <br>Ms Rathiya
 <br>Mdm Rafilah</p>
 <h3>Student Leaders</h3>
-<p><strong>Chairperson:</strong> Lucas Nye (3 Contribute)
-<br><strong>Vice Chairperson:</strong> Regine Tan (3 Resilience)</p>
+<p><strong>President: </strong>KRISHNARAJAN JEEVA KARUNYA 3 Care</p>
+<p><strong>Vice President:</strong> NUR AISYAH BINTE NUR MUHAMED 3 Flourish</p>
 <h3>Key Events of the Year</h3>
 <ul data-tight="true" class="tight">
 <li>
