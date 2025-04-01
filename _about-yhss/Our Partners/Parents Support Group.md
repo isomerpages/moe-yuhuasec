@@ -56,15 +56,6 @@ plus the various school and PSG activities that you can participate in.</p>
 <p><strong>Vice Chairperson&nbsp;</strong>
 </p>
 <p>Mr Jason Lim</p>
-<p><strong>Secretary</strong>
-</p>
-<p>Ms Tina Sia</p>
-<p><strong>Events Coordinator</strong>
-</p>
-<p>Mr Gregory Poo</p>
-<p><strong>Advisor</strong>
-</p>
-<p>Dr Quah Saw Han</p>
 <p><strong>EXCO Members</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -92,6 +83,9 @@ plus the various school and PSG activities that you can participate in.</p>
 <p>Mr Gregory Poo</p>
 </li>
 </ul>
+<p><strong>Advisor</strong>
+</p>
+<p>Dr Quah Saw Han</p>
 <h4>Sign up for Parent Support Group</h4>
 <p>Fill in the form&nbsp;: <a href="https://form.gov.sg/61c8f7732efd780012552976" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
