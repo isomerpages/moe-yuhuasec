@@ -36,8 +36,9 @@ more productive.</p>
 <br>Students have a growth mindset and enjoy learning. The PERMA model for
 Positive Education is adopted to provide students with the necessary motivation
 to engage in mathematics learning.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Math%20Dept/math%20perma.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2___Voon_Rou_Chung.jpg">
 </div>
 <p><strong>MEMORY</strong>
 <br>Students learn, remember and recall math concepts correctly.&nbsp;</p>
@@ -46,20 +47,16 @@ to engage in mathematics learning.</p>
 <p><strong>MODELLING</strong>
 <br>Students frame the problem, identify the approach and apply values-skills-knowledge
 in solving problems creatively.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Math%20Dept/math%20memory-mastery-modelling.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide3___Voon_Rou_Chung.jpg">
 </div>
 <p><strong>DESIRED STUDENT OUTCOMES</strong>
-<br>ACTIVE:
-<br>Students can work effectively independently and collaboratively to identify
-problems and seek out possible solutions.</p>
-<p>ARTICULATE:
-<br>Students can present their solutions in a logical manner, stating reasons
-where necessary in written and verbal form.</p>
-<p>ACCURATE:
-<br>Students can derive correct and feasible solutions, checking their answer
-against problem requirements and using alternative methods to verify answers
-where possible.</p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide4___Voon_Rou_Chung.jpg">
+</div>
 <h3>PARTICIPATION AND ACHIEVEMENTS</h3>
 <p><strong>PEER COACH TRAINING</strong>
 <br>Math peer coaching is a collaborative learning approach where students
