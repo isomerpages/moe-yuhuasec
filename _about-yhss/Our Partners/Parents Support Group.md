@@ -52,10 +52,10 @@ plus the various school and PSG activities that you can participate in.</p>
 <h5><strong>2024 YHSS PSG EXCO Members</strong></h5>
 <p><strong>Chairperson</strong>
 </p>
-<p>Mdm Aarti Agarwal</p>
+<p>Mdm Zarine Khan Wong</p>
 <p><strong>Vice Chairperson&nbsp;</strong>
 </p>
-<p>Mdm Lim Hwei Ling</p>
+<p>Mr Jason Lim</p>
 <p><strong>Secretary</strong>
 </p>
 <p>Ms Tina Sia</p>
@@ -68,19 +68,28 @@ plus the various school and PSG activities that you can participate in.</p>
 <p><strong>EXCO Members</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Amy Ng</p>
+<p>Mdm Aarti Agarwal</p>
 </li>
 <li>
-<p>Mdm Thazin Aye</p>
+<p>Mdm Lim Hwei Ling</p>
 </li>
 <li>
 <p>Mdm Josephine Chow</p>
 </li>
 <li>
-<p>Mdm Zarine Khan Wong</p>
+<p>Mr Osman Abdullah</p>
 </li>
 <li>
-<p>Mr Osman Bin Abdulla</p>
+<p>Mdm Thazin Aye</p>
+</li>
+<li>
+<p>Ms Tina Sia</p>
+</li>
+<li>
+<p>Ms Amy Ng</p>
+</li>
+<li>
+<p>Mr Gregory Poo</p>
 </li>
 </ul>
 <h4>Sign up for Parent Support Group</h4>
