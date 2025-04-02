@@ -153,10 +153,10 @@ that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eTeenss.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot__290_.png">
+</div>
 <h4>INFORMATION FOR PARENTS</h4>
 <p></p>
 <p>10. Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or
