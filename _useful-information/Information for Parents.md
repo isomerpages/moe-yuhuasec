@@ -4,9 +4,8 @@ permalink: /useful-information-and-links/information-for-parents/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Information for Parents</strong></h1>
-<p>The following details are "SUBJECT COMBINATIONS FOR SEC 3 G1/G2/G3 COURSE
-IN 2026"</p>
+<h1><strong>Information for Parents </strong></h1>
+<h4><strong>Information on  "SUBJECT COMBINATIONS FOR SEC 3 G1/G2/G3 COURSE IN 2026"</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -16,13 +15,16 @@ IN 2026"</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>SEC 3 G3 SUBJECT SELECTION BRIEFING 2025</p>
+<p><a href="/files/3g1-2025_sec_2_ptm_subject_combination_for_2026_sec_3g1.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 3 G1 SUBJECT SELECTION BRIEFING 2025</a>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>SEC 3 G2 SUBJECT SELECTION BRIEFING 2025</p>
+<p><a href="/files/3g2-2025_sec_2_ptm_subject_combination_for_2026_sec_3g2__002_.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 3 G2 SUBJECT SELECTION BRIEFING 2025</a>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>SEC 3 G1 SUBJECT SELECTION BRIEFING 2025</p>
+<p><a href="/files/3g3-2025_sec_2_ptm_subject_combination_for_2026_sec_3g3.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 3 G3 SUBJECT SELECTION BRIEFING 2025</a>
+</p>
 </th>
 </tr>
 </tbody>
