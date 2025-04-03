@@ -16,7 +16,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><strong><a href="/files/Sec_2_Subject_Selection_Briefing_2_April_2025_ECG_VP.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Subject Selection Briefing</a></strong></h4>
+<h4><strong><a href="/files/Sec_2_Subject_Selection_Briefing_2_April_2025_ECG_VP.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2  Subject Selection Briefing</a></strong></h4>
 </th>
 </tr>
 </tbody>
