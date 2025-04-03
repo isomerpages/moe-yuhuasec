@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Students</strong></h1>
-<hr>
 <h3>Announcements:</h3>
 <p>Dear students,</p>
 <p>Nominate your favourite inspiring teacher for the following prestigious
