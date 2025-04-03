@@ -12,15 +12,22 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Sec 1 registration
-          description: For students posted to YHSS
-          url: https://sites.google.com/moe.edu.sg/yhsssec1reg2025?usp=sharing
         - title: YHSS Flickr page
           description: Access our school photos here!
           url: https://flickr.com/photos/197130688@N02/albums
         - title: Calendar of Events
           description: Click here!
           url: /useful-information-and-links/school-calendar
+  - infopic:
+      title: Mothertongue Teachers’ Award 2025
+      subtitle: Most inspiring
+      id: infopic
+      description: Do appreciate your Mother Tongue teachers in Yuhua Secondary School
+        by nominating.More details availble at student information page
+      button: Details
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
+      image: /images/Screenshot_2025_04_03_095317.png
+      alt: Image alt text
   - infobar:
       title: Term2 Timetables
       subtitle: Yhss

@@ -5,86 +5,33 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Students</strong></h1>
-<hr>
-<h3>2025-Term 1 Letter</h3>
-<p>Dear students,
-<br>You may access the Term 1 Letter below:</p>
-<p><a href="/files/YHSS_2025_Term_1_Letter_31_Dec.pdf" rel="noopener nofollow" target="_blank">Term1_Letter</a>
-</p>
-<h3>2025- Term 1 Timetables</h3>
+<h3>Announcements:</h3>
+<p>Dear students,</p>
+<p>Nominate your favourite inspiring teacher for the following prestigious
+awards by 4th April 2025 and 11th May 2025.Show your appreciation for your
+teachers through nomination. Thank you!</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sem_1_TT_Sec_1__caa_301224_.pdf" rel="noopener nofollow" target="_blank">Secondary 1 (Semester1-2025)</a>
-</p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://zb.sg/dclta2025"><img style="width: 100%" height="auto" width="100%" alt="Distinguished Chinese Language teacher Award" src="/images/Screenshot_2025_04_03_095317.png"></a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/agab2025"><img style="width: 100%" height="auto" width="100%" alt="Distinguished Malay Language teacher Award" src="/images/Screenshot_2025_04_03_095302.png"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sem_1_TT_Sec_2__caa_301224_.pdf" rel="noopener nofollow" target="_blank">Secondary 2 (Semester1-2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sem_1_TT_Sec_3__caa_301224_.pdf" rel="noopener nofollow" target="_blank">Secondary 3(Semester1-2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sem_1_TT_Sec_4___5__caa_301224_.pdf" rel="noopener nofollow" target="_blank">Secondary 4&amp;5 (Semester1-2file025)</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>______________________________________________________________________________________________________________</p>
-<h3>Announcements:</h3>
-<p>Dear students,</p>
-<p>Nominate your favourite inspiring teacher for the following prestigious
-awards by 10th January 2025.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/pat2025" rel="noopener nofollow" target="_blank">PAT Award</a>
-</p>
-<p><a href="https://go.gov.sg/pat2025" rel="noopener nofollow" target="_blank">Nomination Form</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/oyea2025" rel="noopener nofollow" target="_blank">Outstanding Youth Education Award</a>
-</p>
-<p><a href="https://go.gov.sg/oyea2025" rel="noopener nofollow" target="_blank">Nomination Form</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="President's Award" src="/images/Screenshot_2024_11_11_085049.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="OYEA" src="/images/Screenshot_2024_11_11_085110.png">
+<img style="width: 100%" height="auto" width="100%" alt="Tamil teachers" src="/images/Screenshot_2025_04_03_095242.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<hr>
 <h3>Student Handbook</h3>
 <p>Dear students, you may access the <a href="https://sites.google.com/moe.edu.sg/yhss-handbook-site/home?pli=1" rel="noopener noreferrer nofollow" target="_blank">YHSS Student Handbook</a> for
 information on the expectations for attire, academic matters and co-curricular
