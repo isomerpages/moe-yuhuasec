@@ -6,6 +6,33 @@ variant: tiptap
 ---
 <h1><strong>Information for Students</strong></h1>
 <h3>Announcements:</h3>
+<p>Dear Sec2 Students,</p>
+<p>Information on subject combination is available below:</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="/files/3g1-2025_sec_2_ptm_subject_combination_for_2026_sec_3g1.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 3 G1 SUBJECT SELECTION BRIEFING 2025</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/files/3g2-2025_sec_2_ptm_subject_combination_for_2026_sec_3g2__002_.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 3 G2 SUBJECT SELECTION BRIEFING 2025</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/files/3g3-2025_sec_2_ptm_subject_combination_for_2026_sec_3g3.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 3 G3 SUBJECT SELECTION BRIEFING 2025</a>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
+<h3>_____________________________________________________</h3>
 <p>Dear students,</p>
 <p>Nominate your favourite inspiring teacher for the following prestigious
 awards by 4th April 2025 and 11th May 2025.Show your appreciation for your
