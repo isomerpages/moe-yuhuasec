@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1><strong>Information for Students</strong></h1>
 <h3>Announcements:</h3>
-<p>Dear Sec2 Students,</p>
+<p>Dear Secondary2 Students,</p>
 <p>Information on subject combination is available below:</p>
 <p></p>
 <table style="minWidth: 75px">
