@@ -178,6 +178,4 @@ perform a simple one-time onboarding process.&nbsp;</p>
 </p>
 </li>
 </ul>
-<hr>
-<hr>
 <p></p>
