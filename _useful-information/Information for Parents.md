@@ -179,16 +179,5 @@ perform a simple one-time onboarding process.&nbsp;</p>
 </li>
 </ul>
 <hr>
-<h3>2024: Sec 2 Parent-Teacher Meeting materials</h3>
-<p>Dear Parents,
-<br>You may access the materials for the Sec 2 Parent-Teacher Meeting below:</p>
-<p><a href="/files/ECG_for_Sec_2_22_March_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 ECG Briefing slides</a>
-</p>
-<p><a href="/files/2024_Sec_2_PTM_Subject_Combination_for_2025_Sec_3E_22_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Combination slides for 2025 Secondary 3 Express/G3 students</a>
-</p>
-<p><a href="/files/2024_Sec_2_PTM_Subject_Combination_for_2025_Sec_3N_22_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Combination slides for 2025 Secondary 3 Normal (Academic)/G2 students</a>
-</p>
-<p><a href="/files/2024_Sec_2_PTM__Subject_Combination_for_2025_Sec_3T_22_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Combination slides for 2025 Secondary 3 Normal (Technical)/G1 students</a>
-</p>
 <hr>
 <p></p>
