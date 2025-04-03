@@ -19,6 +19,14 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infopic:
+      title: "2026: SEC 3 G1/G2/G3"
+      id: infopic
+      description: SUBJECT SELECTION BRIEFING for 2025 SECONDARY 2 STUDENTS
+      button: Info for Students & Parents
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
+      image: /images/Screenshot_2025_04_03_142812.png
+      alt: Image alt text
+  - infopic:
       title: Mothertongue Teachers’ Award 2025
       subtitle: Most inspiring
       id: infopic
@@ -79,13 +87,5 @@ sections:
       button: click here to read the article!
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
-      alt: Image alt text
-  - infopic:
-      title: "2026: SEC 3 G1/G2/G3"
-      id: infopic
-      description: SUBJECT SELECTION BRIEFING for 2025 SECONDARY 2 STUDENTS
-      button: Info for Students & Parents
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
-      image: /images/Screenshot_2025_04_03_142812.png
       alt: Image alt text
 ---
