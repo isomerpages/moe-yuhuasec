@@ -4,8 +4,10 @@ permalink: /useful-information-and-links/information-for-parents/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Information for Parents </strong></h1>
-<h4><strong>Information on  "SUBJECT COMBINATIONS FOR SEC 3 G1/G2/G3 COURSE IN 2026"</strong></h4>
+<h1><strong>Information for Parents</strong></h1>
+<p>Dear Secondary 2 students,</p>
+<p>Information on "SUBJECT COMBINATIONS FOR SEC 3 G1/G2/G3 COURSE IN 2026"
+is available.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
