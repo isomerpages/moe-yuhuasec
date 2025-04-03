@@ -32,7 +32,6 @@ teachers through nomination. Thank you!</p>
 </tr>
 </tbody>
 </table>
-<hr>
 <h3>Student Handbook</h3>
 <p>Dear students, you may access the <a href="https://sites.google.com/moe.edu.sg/yhss-handbook-site/home?pli=1" rel="noopener noreferrer nofollow" target="_blank">YHSS Student Handbook</a> for
 information on the expectations for attire, academic matters and co-curricular
