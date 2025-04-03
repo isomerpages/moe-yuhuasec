@@ -75,7 +75,7 @@ sections:
       subtitle: Most inspiring
       id: infopic
       description: Do appreciate your Mother Tongue teachers in Yuhua Secondary School
-        by nominating
+        by nominating.More details availble at student information page
       button: Details
       url: https://staging-lite.d3ev8pjcj3b9l4.amplifyapp.com/useful-information-and-links/information-for-students/
       image: /images/Screenshot_2025_04_03_095317.png
