@@ -7,8 +7,8 @@ variant: tiptap
 <h1><strong>Information for Parents</strong></h1>
 <p></p>
 <p>Dear Secondary 2 students,</p>
-<p>Below is information on "SUBJECT COMBINATIONS FOR SEC 3 G1/G2/G3 COURSE
-IN 2026."</p>
+<p>Below is information on "<strong>Sec 2 Subject Selection Briefing"  and "Subject combinations for SEC 3 G1/G2/G3 COURSE IN 2026."</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
