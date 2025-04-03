@@ -5,6 +5,28 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
+<p>The following details are "SUBJECT COMBINATIONS FOR SEC 3 G1/G2/G3 COURSE
+IN 2026"</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>SEC 3 G3 SUBJECT SELECTION BRIEFING 2025</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>SEC 3 G2 SUBJECT SELECTION BRIEFING 2025</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>SEC 3 G1 SUBJECT SELECTION BRIEFING 2025</p>
+</th>
+</tr>
+</tbody>
+</table>
 <hr>
 <h3>2025: Term 2 Timetables</h3>
 <table style="minWidth: 25px">
