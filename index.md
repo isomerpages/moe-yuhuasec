@@ -80,4 +80,11 @@ sections:
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
       alt: Image alt text
+  - infobar:
+      title: SEC 3 G1/G2/G3
+      subtitle: "2026"
+      id: infobar
+      description: SUBJECT SELECTION BRIEFING  for 2025 SECONDARY 2 STUDENTS
+      button: Info for Students & Parents
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
 ---
