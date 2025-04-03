@@ -18,6 +18,16 @@ sections:
         - title: Calendar of Events
           description: Click here!
           url: /useful-information-and-links/school-calendar
+  - infopic:
+      title: Mothertongue Teachers’ Award 2025
+      subtitle: Most inspiring
+      id: infopic
+      description: Do appreciate your Mother Tongue teachers in Yuhua Secondary School
+        by nominating.More details availble at student information page
+      button: Details
+      url: https://staging-lite.d3ev8pjcj3b9l4.amplifyapp.com/useful-information-and-links/information-for-students/
+      image: /images/Screenshot_2025_04_03_095317.png
+      alt: Image alt text
   - infobar:
       title: Term2 Timetables
       subtitle: Yhss
@@ -69,15 +79,5 @@ sections:
       button: click here to read the article!
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
-      alt: Image alt text
-  - infopic:
-      title: Mothertongue Teachers’ Award 2025
-      subtitle: Most inspiring
-      id: infopic
-      description: Do appreciate your Mother Tongue teachers in Yuhua Secondary School
-        by nominating.More details availble at student information page
-      button: Details
-      url: https://staging-lite.d3ev8pjcj3b9l4.amplifyapp.com/useful-information-and-links/information-for-students/
-      image: /images/Screenshot_2025_04_03_095317.png
       alt: Image alt text
 ---
