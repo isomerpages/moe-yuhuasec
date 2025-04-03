@@ -7,8 +7,21 @@ variant: tiptap
 <h1><strong>Information for Parents</strong></h1>
 <p></p>
 <p>Dear Secondary 2 students,</p>
-<p>Below is information on "<strong>Sec 2 Subject Selection Briefing"  and "Subject combinations for SEC 3 G1/G2/G3 COURSE IN 2026."</strong>
+<p>Below is information on "<strong>Sec 2 Subject Selection Briefing" and "Subject combinations for SEC 3 G1/G2/G3 COURSE IN 2026."</strong>
 </p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><a href="/files/Sec_2_Subject_Selection_Briefing_2_April_2025_ECG_VP.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Subject Selection Briefing</a></strong>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
