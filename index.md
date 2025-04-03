@@ -18,6 +18,13 @@ sections:
         - title: Calendar of Events
           description: Click here!
           url: /useful-information-and-links/school-calendar
+  - infobar:
+      title: SEC 3 G1/G2/G3
+      subtitle: "2026"
+      id: infobar
+      description: SUBJECT SELECTION BRIEFING  for 2025 SECONDARY 2 STUDENTS
+      button: Info for Students & Parents
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
   - infopic:
       title: Mothertongue Teachers’ Award 2025
       subtitle: Most inspiring
