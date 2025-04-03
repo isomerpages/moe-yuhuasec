@@ -12,9 +12,6 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Sec 1 registration
-          description: For students posted to YHSS
-          url: https://sites.google.com/moe.edu.sg/yhsssec1reg2025?usp=sharing
         - title: YHSS Flickr page
           description: Access our school photos here!
           url: https://flickr.com/photos/197130688@N02/albums
