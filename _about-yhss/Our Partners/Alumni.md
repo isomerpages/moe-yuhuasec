@@ -6,6 +6,9 @@ description: ""
 third_nav_title: Our Partners
 ---
 <h2>Our Alumni</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_11_at_10_36_54_AM.jpg">
+</div>
 <p>"Once a Yuhuan, always a Yuhuan." Our alumni remain an integral part of
 the Yuhua family, staying connected and giving back to the school in meaningful
 ways. They play a vital role in supporting and inspiring current students,
@@ -36,7 +39,7 @@ network ready to welcome you back.</p>
 community. We welcome all former students to join us in keeping the Yuhua
 legacy strong!</p>
 <p>To sign up, click on the following link:</p>
-<p><a href="https://forms.gle/ErmydYuLbBH7zTYMA" rel="noopener nofollow" target="_blank">https://forms.gle/ErmydYuLbBH7zTYMA </a>
+<p><a href="https://forms.gle/ErmydYuLbBH7zTYMA" rel="noopener nofollow" target="_blank">https://forms.gle/ErmydYuLbBH7zTYMA</a>
 </p>
 <p></p>
 <p></p>
