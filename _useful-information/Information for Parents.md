@@ -13,25 +13,25 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_Term_2_TT_Sec_1.pdf" rel="noopener nofollow" target="_blank">Secondary 1 WA2</a>
+<p><a href="/files/Sec_1_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 1 (2025)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_Term_2_TT_Sec_2.pdf" rel="noopener nofollow" target="_blank">Secondary 2 WA2</a>
+<p><a href="/files/Sec_2_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 2 (2025)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_Term_2_TT_Sec_3.pdf" rel="noopener nofollow" target="_blank">Secondary 3 WA2</a>
+<p><a href="/files/Sec_3_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 3 (2025)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_Term_2_TT_Sec_4_and_5.pdf" rel="noopener nofollow" target="_blank">Secondary 4&amp;5 WA2</a>
+<p><a href="/files/Sec_4_and_5_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 4 &amp; 5 (2025)</a>
 </p>
 </td>
 </tr>
