@@ -5,6 +5,39 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
+<h3>2025 WA2 Schedules and Topics</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Term_2_TT_Sec_1.pdf" rel="noopener nofollow" target="_blank">Secondary 1 WA2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Term_2_TT_Sec_2.pdf" rel="noopener nofollow" target="_blank">Secondary 2 WA2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Term_2_TT_Sec_3.pdf" rel="noopener nofollow" target="_blank">Secondary 3 WA2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Term_2_TT_Sec_4_and_5.pdf" rel="noopener nofollow" target="_blank">Secondary 4&amp;5 WA2</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>________________________________________________________________________________</p>
 <p></p>
 <p>Dear Secondary 2 students,</p>
 <p>Below is information on "<strong>Sec 2 Subject Selection Briefing" and "Subject combinations for SEC 3 G1/G2/G3 COURSE IN 2026."</strong>
