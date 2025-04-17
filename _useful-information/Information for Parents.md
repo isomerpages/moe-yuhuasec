@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
-<h3>2025 WA2 Schedules and Topics</h3>
+<h3><strong>2025 WA2 Schedules and Topics</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
