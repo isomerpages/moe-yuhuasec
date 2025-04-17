@@ -5,6 +5,39 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
+<h3><strong>2025 WA2 Schedules and Topics</strong></h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Sec_1_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 1 (2025)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Sec_2_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 2 (2025)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Sec_3_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 3 (2025)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Sec_4_and_5_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 4 &amp; 5 (2025)</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>________________________________________________________________________________</p>
 <p></p>
 <p>Dear Secondary 2 students,</p>
 <p>Below is information on "<strong>Sec 2 Subject Selection Briefing" and "Subject combinations for SEC 3 G1/G2/G3 COURSE IN 2026."</strong>
