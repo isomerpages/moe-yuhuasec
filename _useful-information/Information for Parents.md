@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_3_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 3 (2025)</a>
+<p><a href="/files/Sec_3_WA2_Parent_Letter_2025__updated_for_POA_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 3 (2025)</a>
 </p>
 </td>
 </tr>
