@@ -6,6 +6,11 @@ variant: tiptap
 ---
 <h1><strong>Information for Students</strong></h1>
 <h3>Announcements:</h3>
+<h3><strong>School operational updates due to General Election</strong></h3>
+<p>Dear students, please find information relevant to school operational
+updates due to the General Election <a href="/files/School_Operations_Updates_Due_To_General_Elections_2025.pdf" rel="noopener nofollow" target="_blank">here.</a>
+</p>
+<p></p>
 <h3><strong>2025 WA2 Schedules and Topics</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
