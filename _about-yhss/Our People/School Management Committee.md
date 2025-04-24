@@ -318,6 +318,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:irfana_begum_ikbal@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Irfana Begum</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (internal)</p>
+<p>Lower Secondary Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:cai_zhengyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Cai Zhengyu</a>
 </p>
 </td>
@@ -400,6 +410,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Senior Teacher
 <br>Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:alan_tam@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Alan Tam</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+<p>Educational Support</p>
 </td>
 </tr>
 </tbody>
