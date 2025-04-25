@@ -1,8 +1,9 @@
 ---
 title: School History
-permalink: /about-yhss/our-story/school-history
+permalink: /about-yhss/our-story/school-history/
 description: ""
 third_nav_title: Our Story
+variant: markdown
 ---
 # **School History**
 
@@ -10,9 +11,11 @@ third_nav_title: Our Story
 
 #### **Shuqun Secondary School**
 
-Shuqun Secondary School was established as Tuan Cheng Public School in 1925, with both primary and secondary levels. In 1933, the school was renamed as Seh Chuan School after moving to the site at Jalan Seh Chuan. In 1958, to cope with growing student intake, the school became a government-aided school and was renamed Seh Chuan High School. The Chinese name ‘Shuqun’ \[树群\] was retained. In 1982, it was converted into a government school in order to cope with the demands of increasing enrolment. In 1985, the school adopted the Hanyu Pinyin of its Chinese name, “Shuqun” to signify the transition in its status as a government school. In the same year, it relocated to the site at Jurong East Street 21.
+The school started with humble roots. It was established in 1925 as Tuan Cheng Public School within simple makeshift structures, serving the immediate community through Chinese-medium education. 
 
-  
+In 1933, the school was renamed Seh Chuan High School, operating in a new wooden building with zinc roof built on a site off Jurong Kechil at Jalan Seh Chuan. This 0.4-hectare site was generously gifted by the Cheong family, serving a population of around 60-70 students when first built up. 
+
+The population of the school grew over time, and from 1958, the school started to offer both primary and secondary classes. In April 1983, Seh Chuan High School transited from being an aided to a government school, thereafter, bearing the Hanyu Pinyin name of ‘Shuqun’. In 1985, Shuqun Secondary School relocated to a new site at Jurong East Street 21, while Shuqun Primary School shifted to its present site in 1986.
 
 Throughout its history, the school developed its programmes to cater to the needs of its students and the community. In 2009, it piloted Mobile Robotics as a subject in collaboration with the Institute of Technical Education. The Shuqun Personalised Asynchronous Curriculum for Collaborative and Self-directed Learning (SPARCs) introduced a blended model of teaching and learning enabled through the use of technology. The Applied Learning Programme (ALP) was called COding, DEsign Thinking and Robotics (CODER), introducing Scratch and Arduino programming to students. The school’s Volleyball team, Concert Band and National Police Cadet Corps also achieved top national awards over the years.
 
