@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Our Outstanding Alumni...</p>
+<p>Our Outstanding Alumni</p>
 </th>
 </tr>
 <tr>
