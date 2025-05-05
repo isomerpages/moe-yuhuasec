@@ -145,8 +145,8 @@ interview.</p>
 <p>Applicants should:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>have a strong passion in music and be able to play a relevantmusical instrument
-for the Concert Band or Harmonica Band.</p>
+<p>have a strong passion in music and be able to play a relevant musical
+instrument for the Concert Band or Harmonica Band.</p>
 </li>
 </ul>
 <p></p>
@@ -168,8 +168,8 @@ for the Concert Band or Harmonica Band.</p>
 <p>Applicants should:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>have a strong passion for volleyball and display positive</p>
-<p>attitude in learning and contributing.</p>
+<p>have a strong passion for volleyball and display positive attitude in
+learning and contributing.</p>
 </li>
 <li>
 <p>preferably have prior participation experience in the sport (e.g. NSG
