@@ -5,9 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Direct School Admissions (DSA)</strong></h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA%20achievements.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__49_.png">
 </div>
+<p></p>
 <p><strong>Direct School Admission (DSA) 2025</strong>
 </p>
 <p>Direct School Admission for secondary schools (DSA-Sec) allows students
@@ -143,8 +145,8 @@ interview.</p>
 <p>Applicants should:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>have a strong passion in music and be able to play a relevantmusical instrument
-for the Concert Band or Harmonica Band.</p>
+<p>have a strong passion in music and be able to play a relevant musical
+instrument for the Concert Band or Harmonica Band.</p>
 </li>
 </ul>
 <p></p>
@@ -166,8 +168,8 @@ for the Concert Band or Harmonica Band.</p>
 <p>Applicants should:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>have a strong passion for volleyball and display positive</p>
-<p>attitude in learning and contributing.</p>
+<p>have a strong passion for volleyball and display positive attitude in
+learning and contributing.</p>
 </li>
 <li>
 <p>preferably have prior participation experience in the sport (e.g. NSG
