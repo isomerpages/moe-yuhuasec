@@ -223,7 +223,7 @@ the in-person selection trials/audition and interview.</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Start of DSA – Sec Application through the DSA Portal.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
+<p><a href="https://go.gov.sg/apply-dsa-sec" rel="noopener nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
 </p>
 </td>
 </tr>
