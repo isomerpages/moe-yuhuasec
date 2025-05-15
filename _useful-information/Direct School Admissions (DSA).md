@@ -258,7 +258,7 @@ the in-person selection trials/audition and interview.</p>
 <p>25 August to 4 September&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Notification of &nbsp;results of successful applicants&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Notification of results of successful applicants&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 <p>All applicants should be informed of their application outcome</p>
 </td>
