@@ -18,15 +18,6 @@ sections:
         - title: Calendar of Events
           description: Click here!
           url: /useful-information-and-links/school-calendar
-  - infobar:
-      title: Canteen Operations Update due to GE2025
-      subtitle: YHSS
-      id: infobar
-      description: Dear parents, all canteen stalls will be closed on 2 May to
-        facilitate polling station setup. Please see attached letter for more
-        details.
-      button: Parent Letter for Canteen Operations Update
-      url: https://www.yuhuasec.moe.edu.sg/files/School_Operations_Updates_Due_To_General_Elections_2025.pdf
   - infopic:
       title: SUBJECT SELECTION BRIEFING FOR SECONDARY 2 STUDENTS
       id: infopic
