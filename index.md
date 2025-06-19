@@ -26,16 +26,6 @@ sections:
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
       image: /images/Screenshot_2025_04_03_142812.png
       alt: Image alt text
-  - infopic:
-      title: Mothertongue Teachers’ Award 2025
-      subtitle: Most inspiring
-      id: infopic
-      description: Do appreciate your Mother Tongue teachers in Yuhua Secondary School
-        by nominating.More details availble at student information page
-      button: Details
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
-      image: /images/Screenshot_2025_04_03_095317.png
-      alt: Image alt text
   - infobar:
       title: 2025 Upper Secondary Parent-Teacher Meeting materials
       id: infobar
