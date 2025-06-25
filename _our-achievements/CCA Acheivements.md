@@ -26,8 +26,9 @@ values and worked as a team to make it possible.</p>
 review and are benchmarked with other schools by their respective headquarters.
 We are glad to share that our Uniformed Groups grow from strength to strength
 and were recognized for their efforts over the years.</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -47,6 +48,9 @@ and were recognized for their efforts over the years.</p>
 <th rowspan="1" colspan="1">
 <p>2023(Awarded in 2024)</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>2024 (Awarded in 2025)</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -60,6 +64,9 @@ and were recognized for their efforts over the years.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>UOPA - Distinction (Gold)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -75,6 +82,9 @@ and were recognized for their efforts over the years.</p>
 <td rowspan="1" colspan="1">
 <p>Unit Recognition Award - Certificate of Accomplishment</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -88,6 +98,9 @@ and were recognized for their efforts over the years.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>UOPA - Distinction (Gold)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -103,6 +116,9 @@ and were recognized for their efforts over the years.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p>JM Fraser Award (Excellence with Distinction) 2024</p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -114,8 +130,9 @@ and the bi-annual Singapore Youth Festival (SYF) organized by the Arts
 Education Branch. The SYF provides an opportunity for our Yuhuans to demonstrate
 their talents and be benchmarked against other schools. Our Visual and
 Performing Arts groups have done the school proud in recent years.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -131,6 +148,9 @@ Performing Arts groups have done the school proud in recent years.</p>
 <th rowspan="1" colspan="1">
 <p>2023</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>2025</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -138,6 +158,9 @@ Performing Arts groups have done the school proud in recent years.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -153,6 +176,10 @@ Performing Arts groups have done the school proud in recent years.</p>
 <td rowspan="1" colspan="1">
 <p>Certificates of Distinction</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Participated in Singapore Youth Festival - Certificate of Distinction</p>
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -165,6 +192,13 @@ Performing Arts groups have done the school proud in recent years.</p>
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>International Science Drama Competition 2025 (2nd)</p>
+<p></p>
+<p>T.H.R.I.V.E Day 2025: Exploring AI Drama Competition (2nd)</p>
+<p></p>
+<p>Participated in Singapore Youth Festival - Certificate of Accomplishment</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -176,6 +210,9 @@ Performing Arts groups have done the school proud in recent years.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Participated in Singapore Youth Festival - Certificate of Accomplishment</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -186,6 +223,10 @@ Performing Arts groups have done the school proud in recent years.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participated in Singapore Youth Festival - Certificate of Accomplishment</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -255,6 +296,7 @@ in.</p>
 <p>West Zone B Division Volleyball Championships - 1st</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Participated in B Division NSG (Boys) - National Round</p>
 <p></p>
 </td>
 </tr>
@@ -283,9 +325,11 @@ in.</p>
 <p>West Zone B Division National School Games - top 6 in group rounds</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participated in West Zone B Division (Girls) National School Games</p>
+<p>Participated in West Zone B Div NSG (Girls)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Participated in West Zone B Div NSG (Girls)</p>
 <p></p>
 </td>
 </tr>
@@ -325,13 +369,14 @@ in.</p>
 <p>3rd in Group Rounds (NSG)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participated in B Div NSG</p>
+<p>Participated in B Div NSG (Boys)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participated in B Div NSG (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Participated in B Div NSG (Boys)</p>
 </td>
 </tr>
 <tr>
@@ -348,6 +393,7 @@ in.</p>
 <p>National School Games B Division Football League Four</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>National School Games B Division Football League Four</p>
 <p></p>
 </td>
 </tr>
@@ -365,6 +411,7 @@ in.</p>
 <p>Participated in B Div NSG (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Participated in B Div NSG (Boys)</p>
 <p></p>
 </td>
 </tr>
@@ -393,7 +440,7 @@ in.</p>
 <p>Participated in B Div NSG (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Participated in B Div NSG (Girls)</p>
 </td>
 </tr>
 <tr>
@@ -415,13 +462,13 @@ in.</p>
 <p>Singapore National Wushu Competition 2022 (Group event)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participated in B Div NSG</p>
+<p>Participated in NSG (Boys &amp; Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participated in National School Games</p>
+<p>Participated in NSG (Boys &amp; Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Participated in NSG (Boys &amp; Girls)</p>
 </td>
 </tr>
 </tbody>
