@@ -561,6 +561,38 @@ to excel in their areas of passion and interest.</p>
 <p>NCC</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Gregg Siah</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC outstanding Cadet Award</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raghuram Senthil</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC outstanding Cadet Award</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mark Jachin Gumban</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -596,6 +628,54 @@ to excel in their areas of passion and interest.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2022</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCDCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rosetiaralina Binte Rosli</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC Unit Best Cadet Award</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCDCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bardelosa Andrey Arshavin Luczon</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCDF-NCDCC Pinnacle Award</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCDCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rosetiaralina Binte Rosli</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCDF-NCDCC Pinnacle Award</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
 </td>
 </tr>
 <tr>
@@ -722,6 +802,64 @@ to excel in their areas of passion and interest.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2022</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Candy Koh Tian Tian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best Unit Cadet (Female)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wong Jing Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best Unit Cadet (Female)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Cheng Xin</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vengatesan Sadhvini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
 </td>
 </tr>
 <tr>
