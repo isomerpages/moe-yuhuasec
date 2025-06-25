@@ -566,7 +566,6 @@ to excel in their areas of passion and interest.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NCC outstanding Cadet Award</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2025</p>
@@ -582,7 +581,6 @@ to excel in their areas of passion and interest.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NCC outstanding Cadet Award</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2025</p>
