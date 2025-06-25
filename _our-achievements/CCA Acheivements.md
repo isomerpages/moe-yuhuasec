@@ -157,7 +157,7 @@ Performing Arts groups have done the school proud in recent years.</p>
 <p>Concert Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
+<p>Participated in Singapore Youth Festival - Certificate of Accomplishment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -171,10 +171,11 @@ Performing Arts groups have done the school proud in recent years.</p>
 <p>Harmonica Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Distinction &amp; Accomplishment</p>
+<p>Participated in Singapore Youth Festival - Certificate of Distinction
+&amp; Accomplishment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificates of Distinction</p>
+<p>Participated in Singapore Youth Festival - Certificate of Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participated in Singapore Youth Festival - Certificate of Distinction</p>
@@ -187,7 +188,8 @@ Performing Arts groups have done the school proud in recent years.</p>
 <br>(English Drama)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificates of Distinction &amp; Accomplishment</p>
+<p>Participated in Singapore Youth Festival - Certificate of Distinction
+&amp; Accomplishment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
@@ -205,7 +207,7 @@ Performing Arts groups have done the school proud in recent years.</p>
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participated in SYF 2021 through recording (no benchmarking)</p>
+<p>Participated in Singapore Youth Festival through recording (no benchmarking)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -219,10 +221,10 @@ Performing Arts groups have done the school proud in recent years.</p>
 <p>Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
+<p>Participated in Singapore Youth Festival - Certificate of Accomplishment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
+<p>Participated in Singapore Youth Festival - Certificate of Accomplishment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participated in Singapore Youth Festival - Certificate of Accomplishment</p>
