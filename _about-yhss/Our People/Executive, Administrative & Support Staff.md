@@ -145,6 +145,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Neo Yi Fang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer (SENO)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Linda Lee</p>
 </td>
 <td rowspan="1" colspan="1">
