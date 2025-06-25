@@ -274,95 +274,57 @@ in.</p>
 <td rowspan="3" colspan="1">
 <p>Volleyball Boys</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>West Zone C Division Volleyball Championships - 3rd</p>
+<p></p>
+<p>National C Division Volleyball Championships - Top 8</p>
+<p></p>
+<p>West Zone B Division Volleyball Championships - 5th</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>West Zone B Division National School Games - 5th in group rounds</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Mintonette Cup 4th (Under 16 Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4th Place in West Zone Championship</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National C Division Volleyball Championships - Top 8</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>West Zone B Division Volleyball Championships - 1st</p>
+<p></p>
+<p>National Schools B Division (Boys) National School Games - Fourth</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
+<p>4th Place in West Zone Championship</p>
+<p></p>
 <p>Participated in B Division NSG (Boys) - National Round</p>
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>West Zone B Division Volleyball Championships - 5th</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Schools B Division (Boys) National School Games - Fourth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
+<tr></tr>
+<tr></tr>
 <tr>
 <td rowspan="3" colspan="1">
 <p>Volleyball Girls</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>West Zone C Division Volleyball Championships - 4th</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>West Zone B Division National School Games - top 6 in group rounds</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participated in West Zone B Div NSG (Girls)</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participated in West Zone B Div NSG (Girls)</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>National C Division Volleyball Championships - Top 8</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>West Zone B Division Volleyball Championships - top 8 (4th in group rounds)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
+<p>West Zone B Division National School Games - top 6 in group rounds</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>Participated in West Zone B Div NSG (Girls)</p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
+<p>Participated in West Zone B Div NSG (Girls)</p>
 <p></p>
 </td>
 </tr>
+<tr></tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Floorball Boys</p>
@@ -403,59 +365,43 @@ in.</p>
 <td rowspan="2" colspan="1">
 <p>Tchoukball Boys</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Inter-School B Division Tchoukball Championships - top 5</p>
+<p></p>
+<p>Inter-School C Division Tchoukball Championships - top 8</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Participated in B Div NSG (Boys)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Participated in B Div NSG (Boys)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Participated in B Div NSG (Boys)</p>
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Inter-School C Division Tchoukball Championships - top 8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p>Tchoukball Girls</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Inter-School B Division Tchoukball Championships - top 5</p>
+<p></p>
+<p>Inter-School C Division Tchoukball Championships - top 7</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Participated in B Div NSG (Girls)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Participated in B Div NSG (Girls)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Participated in B Div NSG (Girls)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Inter-School C Division Tchoukball Championships - top 7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Wushu</p>
