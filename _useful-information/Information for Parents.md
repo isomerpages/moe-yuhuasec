@@ -116,10 +116,10 @@ due to the General Election <a href="/files/School_Operations_Updates_Due_To_Gen
 </tbody>
 </table>
 <p>___________________________________________________________________________________________</p>
-<h3>2025: Term 2 Parent Letter</h3>
+<h3>2025: Term 3 Parent Letter</h3>
 <p>Dear Parents,
-<br>You may access the Term 2 Letter to Parents below:</p>
-<p><a href="/files/YHSS_2025_Term_2_Letter.pdf" rel="noopener nofollow" target="_blank">Term2_Letter to parents</a>
+<br>You may access the Term 3 Letter to Parents below:</p>
+<p><a href="/files/Term_3_Letter.pdf" rel="noopener nofollow" target="_blank">Term 3 Letter</a>
 </p>
 <p>____________________________________________________________________________________________</p>
 <p><strong>2025: Upper Secondary Parent-Teacher Meeting slides</strong>
