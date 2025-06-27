@@ -289,12 +289,12 @@ in.</p>
 <p></p>
 <p>West Zone B Division Volleyball Championships - 1st</p>
 <p></p>
-<p>National Schools B Division (Boys) National School Games - Fourth</p>
+<p>National Schools B Division National School Games - Fourth</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>4th Place in West Zone Championship</p>
 <p></p>
-<p>Participated in B Division NSG (Boys) - National Round</p>
+<p>Participated in B Division National School Games - National Round</p>
 <p></p>
 </td>
 </tr>
@@ -315,12 +315,12 @@ in.</p>
 <p>West Zone B Division National School Games - top 6 in group rounds</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Participated in West Zone B Division NSG (Girls)</p>
+<p>Participated in West Zone B Division National School Games</p>
 <p></p>
 <p>West Zone C Division National School Games - League 2 Champions</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Participated in West Zone B Division NSG (Girls)</p>
+<p>Participated in West Zone B Division National School Games</p>
 <p></p>
 </td>
 </tr>
@@ -331,17 +331,17 @@ in.</p>
 <p>Floorball Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd in Group Rounds (NSG)</p>
+<p>3rd in Group Rounds National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participated in B Division NSG (Boys)</p>
+<p>Participated in B Division National School Games</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participated in B Division NSG (Boys)</p>
+<p>Participated in B Division National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participated in B Division NSG (Boys)</p>
+<p>Participated in B Division National School Games</p>
 </td>
 </tr>
 <tr>
@@ -374,13 +374,13 @@ in.</p>
 <p>Inter-School C Division Tchoukball Championships - top 8</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Participated in B Division NSG (Boys)</p>
+<p>Participated in B Division National School Games</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Participated in B Division NSG (Boys)</p>
+<p>Participated in B Division National School Games</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Participated in B Division NSG (Boys)</p>
+<p>Participated in B Division National School Games</p>
 <p></p>
 </td>
 </tr>
@@ -395,13 +395,13 @@ in.</p>
 <p>Inter-School C Division Tchoukball Championships - top 7</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Participated in B Division NSG (Girls)</p>
+<p>Participated in B Division National School Games</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Participated in B Division NSG (Girls)</p>
+<p>Participated in B Division National School Games</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Participated in B Division NSG (Girls)</p>
+<p>Participated in B Division National School Games</p>
 </td>
 </tr>
 <tr></tr>
@@ -413,13 +413,13 @@ in.</p>
 <p>Singapore National Wushu Competition 2022 (Group event)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participated in NSG (Boys &amp; Girls)</p>
+<p>Participated in National School Games (Boys &amp; Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participated in NSG (Boys &amp; Girls)</p>
+<p>Participated in National School Games (Boys &amp; Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participated in NSG (Boys &amp; Girls)</p>
+<p>Participated in National School Games (Boys &amp; Girls)</p>
 </td>
 </tr>
 </tbody>
