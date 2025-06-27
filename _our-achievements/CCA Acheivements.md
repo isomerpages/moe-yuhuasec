@@ -315,12 +315,12 @@ in.</p>
 <p>West Zone B Division National School Games - top 6 in group rounds</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Participated in West Zone B Div NSG (Girls)</p>
+<p>Participated in West Zone B Division NSG (Girls)</p>
 <p></p>
 <p>West Zone C Division National School Games - League 2 Champions</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Participated in West Zone B Div NSG (Girls)</p>
+<p>Participated in West Zone B Division NSG (Girls)</p>
 <p></p>
 </td>
 </tr>
