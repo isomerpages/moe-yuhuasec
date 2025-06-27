@@ -317,7 +317,7 @@ in.</p>
 <td rowspan="3" colspan="1">
 <p>Participated in West Zone B Division NSG (Girls)</p>
 <p></p>
-<p>West Zone C Division National School Games - League 2 Champions</p>
+<p>West Zone C Division NSG (Girls) - League 2 Champions</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Participated in West Zone B Division NSG (Girls)</p>
