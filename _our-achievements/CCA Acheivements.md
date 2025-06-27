@@ -357,7 +357,7 @@ in.</p>
 <td rowspan="1" colspan="1">
 <p>National School Games B Division Football -League Four</p>
 <p></p>
-<p>National School Games C Division Football -League Four Champions</p>
+<p>National School Games C Division -League Four Champions</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National School Games B Division Football League Four</p>
