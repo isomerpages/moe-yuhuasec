@@ -317,6 +317,7 @@ in.</p>
 <td rowspan="3" colspan="1">
 <p>Participated in West Zone B Div NSG (Girls)</p>
 <p></p>
+<p>West Zone C Division National School Games - League 2 Champions</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Participated in West Zone B Div NSG (Girls)</p>
@@ -354,7 +355,9 @@ in.</p>
 <p>National School Games B Division Football League Four (top 8)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games B Division Football League Four</p>
+<p>National School Games B Division Football -League Four</p>
+<p></p>
+<p>National School Games C Division Football -League Four Champions</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National School Games B Division Football League Four</p>
