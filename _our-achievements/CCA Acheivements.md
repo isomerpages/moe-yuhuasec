@@ -334,14 +334,14 @@ in.</p>
 <p>3rd in Group Rounds (NSG)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participated in B Div NSG (Boys)</p>
+<p>Participated in B Division NSG (Boys)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participated in B Div NSG (Boys)</p>
+<p>Participated in B Division NSG (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participated in B Div NSG (Boys)</p>
+<p>Participated in B Division NSG (Boys)</p>
 </td>
 </tr>
 <tr>
@@ -374,13 +374,13 @@ in.</p>
 <p>Inter-School C Division Tchoukball Championships - top 8</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Participated in B Div NSG (Boys)</p>
+<p>Participated in B Division NSG (Boys)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Participated in B Div NSG (Boys)</p>
+<p>Participated in B Division NSG (Boys)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Participated in B Div NSG (Boys)</p>
+<p>Participated in B Division NSG (Boys)</p>
 <p></p>
 </td>
 </tr>
@@ -395,13 +395,13 @@ in.</p>
 <p>Inter-School C Division Tchoukball Championships - top 7</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Participated in B Div NSG (Girls)</p>
+<p>Participated in B Division NSG (Girls)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Participated in B Div NSG (Girls)</p>
+<p>Participated in B Division NSG (Girls)</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Participated in B Div NSG (Girls)</p>
+<p>Participated in B Division NSG (Girls)</p>
 </td>
 </tr>
 <tr></tr>
