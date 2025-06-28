@@ -18,6 +18,14 @@ sections:
         - title: Calendar of Events
           description: Click here!
           url: /useful-information-and-links/school-calendar
+  - infobar:
+      title: Semester 2 Class Timetables
+      subtitle: Semester 2 timetables
+      id: infobar
+      description: You may find the Semester 2 timetables for each class under
+        Information for Students using the link below.
+      button: Information for students
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
   - infopic:
       title: SUBJECT SELECTION BRIEFING FOR SECONDARY 2 STUDENTS
       id: infopic
