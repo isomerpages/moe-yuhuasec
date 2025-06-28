@@ -6,6 +6,40 @@ variant: tiptap
 ---
 <h1><strong>Information for Students</strong></h1>
 <h3>Announcements:</h3>
+<h3><strong>2025 Semester 2 Timetable</strong></h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Sem_2_TT_25_Jun_Sec_1.pdf" rel="noopener nofollow" target="_blank">Semester 2 Timetable for Sec 1</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Sem_2_TT_25_Jun_Sec_2.pdf" rel="noopener nofollow" target="_blank">Semester 2 Timetable for Sec 2</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Sem_2_TT_25_Jun_Sec_3.pdf" rel="noopener nofollow" target="_blank">Semester 2 Timetable for Sec 3</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Sem_2_TT_25_Jun_Sec_4___5.pdf" rel="noopener nofollow" target="_blank">Semester 2 Timetable for Sec 4 &amp; 5</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <h3><strong>School operational updates due to General Election</strong></h3>
 <p>Dear students, please find information relevant to school operational
 updates due to the General Election <a href="/files/School_Operations_Updates_Due_To_General_Elections_2025.pdf" rel="noopener nofollow" target="_blank">here.</a>

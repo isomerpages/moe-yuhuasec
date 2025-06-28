@@ -18,6 +18,14 @@ sections:
         - title: Calendar of Events
           description: Click here!
           url: /useful-information-and-links/school-calendar
+  - infobar:
+      title: Semester 2 Class Timetables
+      subtitle: Semester 2 timetables
+      id: infobar
+      description: You may find the Semester 2 timetables for each class under
+        Information for Students using the link below.
+      button: Information for students
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
   - infopic:
       title: SUBJECT SELECTION BRIEFING FOR SECONDARY 2 STUDENTS
       id: infopic
@@ -33,32 +41,6 @@ sections:
         Parent-Teacher Meeting for 2025 under Information for Parents.
       button: Information for Parents
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
-  - infobar:
-      title: Term2 Timetables
-      subtitle: Yhss
-      id: infobar
-      description: You may access the Term 2 timetables on this page below.
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
-      button: Information for Parents
-  - infobar:
-      title: Book List 2025
-      subtitle: Secondary 2 to Secondary 5
-      id: infobar
-      description: You may access the Sec 2-5 Booklist on the Information for Parents
-        page below.
-      button: Info for Students & Parents
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
-  - infopic:
-      title: Secondary 1 Information
-      subtitle: sec 1 - 2025
-      id: infopic
-      description: To students joining us, we are thrilled to welcome you! You can
-        find more information on the first day of school and booklists on the
-        page below.
-      button: Sec 1 information page
-      url: https://sites.google.com/moe.edu.sg/yhsssec1reg2025?usp=sharing
-      image: /images/WhatsApp_Image_2024_12_17_at_12_21_14_PM.jpg
-      alt: Image alt text
   - infopic:
       title: Yearbook
       id: infopic
