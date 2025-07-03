@@ -6,6 +6,12 @@ variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
 <p></p>
+<h2><strong><u>Semester 2</u></strong></h2>
+<h3><strong>2025: Term 3 Parent Letter</strong></h3>
+<p>Dear Parents,
+<br>You may access the Term 3 Letter to Parents below:</p>
+<p><a href="/files/Term_3_Letter.pdf" rel="noopener nofollow" target="_blank">Term 3 Letter</a>
+</p>
 <h3><strong>2025 Semester 2 Timetable</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
@@ -38,46 +44,14 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<h3><strong>School operational updates due to General Election</strong></h3>
-<p>Dear parents, please find information relevant to school operational updates
-due to the General Election <a href="/files/School_Operations_Updates_Due_To_General_Elections_2025.pdf" rel="noopener nofollow" target="_blank">here.</a>
-</p>
-<h3><strong>2025 WA2 Schedules and Topics</strong></h3>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sec_1_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 1 (2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sec_2_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 2 (2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sec_3_WA2_Parent_Letter_2025__updated_for_POA_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 3 (2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sec_4_and_5_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 4 &amp; 5 (2025)</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>________________________________________________________________________________</p>
-<p></p>
+<h3></h3>
+<hr>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Semester 1</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h3><strong>Secondary 2 Subject Selection</strong></h3>
 <p>Dear Secondary 2 students,</p>
 <p>Below is information on "<strong>Sec 2 Subject Selection Briefing" and "Subject combinations for SEC 3 G1/G2/G3 COURSE IN 2026."</strong>
 </p>
@@ -117,6 +91,39 @@ due to the General Election <a href="/files/School_Operations_Updates_Due_To_Gen
 </tbody>
 </table>
 <hr>
+<h3><strong>2025 WA2 Schedules and Topics</strong></h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Sec_1_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 1 (2025)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Sec_2_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 2 (2025)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Sec_3_WA2_Parent_Letter_2025__updated_for_POA_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 3 (2025)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Sec_4_and_5_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 4 &amp; 5 (2025)</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <h3>2025: Term 2 Timetables</h3>
 <table style="minWidth: 25px">
 <colgroup>
@@ -149,13 +156,7 @@ due to the General Election <a href="/files/School_Operations_Updates_Due_To_Gen
 </tr>
 </tbody>
 </table>
-<p>___________________________________________________________________________________________</p>
-<h3>2025: Term 3 Parent Letter</h3>
-<p>Dear Parents,
-<br>You may access the Term 3 Letter to Parents below:</p>
-<p><a href="/files/Term_3_Letter.pdf" rel="noopener nofollow" target="_blank">Term 3 Letter</a>
-</p>
-<p>____________________________________________________________________________________________</p>
+<hr>
 <p><strong>2025: Upper Secondary Parent-Teacher Meeting slides</strong>
 </p>
 <p>Dear Parents,
@@ -165,11 +166,6 @@ below:</p>
 </p>
 <p><a href="/files/2025_YHSS_Start_Of_Year_Slides_from_P__Upper_Sec_PTM_.pdf" rel="noopener nofollow" target="_blank">Principal's sharing slides for Upper Sec PTM (2025)</a>
 </p>
-<hr>
-<h3>Student Handbook</h3>
-<p>Dear parents, you may access <a href="https://sites.google.com/moe.edu.sg/yhss-handbook-site/home?pli=1" rel="noopener noreferrer nofollow" target="_blank">YHSS Student Handbook</a> for
-more information on the expectations for students, academic matters and
-co-curricular matters.</p>
 <hr>
 <h3>2025 Booklists</h3>
 <p>Secondary 2 (2025)</p>
@@ -196,6 +192,14 @@ co-curricular matters.</p>
 <p>Secondary 5 (2025)</p>
 <p><a href="/files/2025_Sec_5__NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 Normal (Academic)</a>
 </p>
+</div>
+</details>
+</div>
+<hr>
+<h3>Student Handbook</h3>
+<p>Dear parents, you may access <a href="https://sites.google.com/moe.edu.sg/yhss-handbook-site/home?pli=1" rel="noopener noreferrer nofollow" target="_blank">YHSS Student Handbook</a> for
+more information on the expectations for students, academic matters and
+co-curricular matters.</p>
 <hr>
 <h3>Financial Assistance Scheme (FAS)</h3>
 <p>Please click&nbsp;<a href="/files/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
