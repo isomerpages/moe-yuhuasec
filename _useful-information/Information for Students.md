@@ -38,46 +38,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<h3><strong>School operational updates due to General Election</strong></h3>
-<p>Dear students, please find information relevant to school operational
-updates due to the General Election <a href="/files/School_Operations_Updates_Due_To_General_Elections_2025.pdf" rel="noopener nofollow" target="_blank">here.</a>
-</p>
-<p></p>
-<h3><strong>2025 WA2 Schedules and Topics</strong></h3>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sec_1_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 1 (2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sec_2_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 2 (2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sec_3_WA2_Parent_Letter_2025__updated_for_POA_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 3 (2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sec_4_and_5_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 4 &amp; 5 (2025)</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>________________________________________________________________________________</p>
 <h3><strong>Secondary 2 Subject Selection and ECG briefing</strong></h3>
 <p></p>
 <p>Dear Secondary 2 students,</p>
@@ -119,32 +79,59 @@ updates due to the General Election <a href="/files/School_Operations_Updates_Du
 </tbody>
 </table>
 <h3>_____________________________________________________</h3>
-<p>Dear students,</p>
-<p>Nominate your favourite inspiring teacher for the following prestigious
-awards by 4th April 2025 and 11th May 2025.Show your appreciation for your
-teachers through nomination. Thank you!</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Semester 1</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h3><strong>2025 WA2 Schedules and Topics</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://zb.sg/dclta2025"><img style="width: 100%" height="auto" width="100%" alt="Distinguished Chinese Language teacher Award" src="/images/Screenshot_2025_04_03_095317.png"></a>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/agab2025"><img style="width: 100%" height="auto" width="100%" alt="Distinguished Malay Language teacher Award" src="/images/Screenshot_2025_04_03_095302.png"></a>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Sec_1_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 1 (2025)</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tamil teachers" src="/images/Screenshot_2025_04_03_095242.png">
-</div>
+<p><a href="/files/Sec_2_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 2 (2025)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Sec_3_WA2_Parent_Letter_2025__updated_for_POA_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 3 (2025)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Sec_4_and_5_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 4 &amp; 5 (2025)</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>_______________________________________________________________________________</p>
+<p></p>
+<p>Dear students,</p>
+<p>Nominate your favourite inspiring teacher for the following prestigious
+awards by 4th April 2025 and 11th May 2025.Show your appreciation for your
+teachers through nomination. Thank you!</p>
+<p></p><a class="isomer-image-wrapper" href="https://zb.sg/dclta2025"><img style="width: 100%" height="auto" width="100%" alt="Distinguished Chinese Language teacher Award" src="/images/Screenshot_2025_04_03_095317.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/agab2025"><img style="width: 100%" height="auto" width="100%" alt="Distinguished Malay Language teacher Award" src="/images/Screenshot_2025_04_03_095302.png"></a>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tamil teachers" src="/images/Screenshot_2025_04_03_095242.png">
+</div>
+<p></p>
+</div>
+</details>
+</div>
 <h3>Student Handbook</h3>
 <p>Dear students, you may access the <a href="https://sites.google.com/moe.edu.sg/yhss-handbook-site/home?pli=1" rel="noopener noreferrer nofollow" target="_blank">YHSS Student Handbook</a> for
 information on the expectations for attire, academic matters and co-curricular
