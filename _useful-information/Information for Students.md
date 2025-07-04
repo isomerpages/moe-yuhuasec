@@ -78,7 +78,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>_____________________________________________________</h3>
+<hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Semester 1</summary>
