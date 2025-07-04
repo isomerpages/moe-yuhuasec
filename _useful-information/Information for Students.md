@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Students</strong></h1>
-<h3>Announcements:</h3>
+<h3></h3>
 <h3><strong>2025 Semester 2 Timetable</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
