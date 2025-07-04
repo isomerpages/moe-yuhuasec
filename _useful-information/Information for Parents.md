@@ -43,7 +43,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <h3><strong>Secondary 2 Subject Selection</strong></h3>
 <p>Dear Secondary 2 students,</p>
 <p>Below is information on "<strong>Sec 2 Subject Selection Briefing" and "Subject combinations for SEC 3 G1/G2/G3 COURSE IN 2026."</strong>
@@ -85,7 +84,6 @@ variant: tiptap
 </tbody>
 </table>
 <hr>
-<p></p>
 <h3><strong>2025: Upper Secondary Parent-Teacher Meeting slides</strong></h3>
 <p>Dear Parents,
 <br>You may access the materials for the Upper Secondary Parent-Teacher Meeting
@@ -100,8 +98,6 @@ below:</p>
 <summary><strong>Semester 1</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h3></h3>
-<hr>
 <h3><strong>2025 WA2 Schedules and Topics</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
@@ -167,16 +163,6 @@ below:</p>
 </tr>
 </tbody>
 </table>
-<hr>
-<p><strong>2025: Upper Secondary Parent-Teacher Meeting slides</strong>
-</p>
-<p>Dear Parents,
-<br>You may access the materials for the Upper Secondary Parent-Teacher Meeting
-below:</p>
-<p><a href="/files/Slides_for_Upper_Sec_PTM.pdf" rel="noopener nofollow" target="_blank">ECG and Academic Sharing slides for Upper Sec PTM (2025)</a>
-</p>
-<p><a href="/files/2025_YHSS_Start_Of_Year_Slides_from_P__Upper_Sec_PTM_.pdf" rel="noopener nofollow" target="_blank">Principal's sharing slides for Upper Sec PTM (2025)</a>
-</p>
 <hr>
 <h3>2025 Booklists</h3>
 <p>Secondary 2 (2025)</p>
