@@ -26,21 +26,39 @@ sections:
         Information for Students using the link below.
       button: Information for students
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
-  - infopic:
-      title: SUBJECT SELECTION BRIEFING FOR SECONDARY 2 STUDENTS
-      id: infopic
-      description: "2026: SEC 3 G1/G2/G3"
-      button: Info for Students & Parents
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
-      image: /images/Screenshot_2025_04_03_142812.png
-      alt: Image alt text
-  - infobar:
-      title: 2025 Upper Secondary Parent-Teacher Meeting materials
-      id: infobar
-      description: Dear parents, you may find the slides for the Upper Secondary
-        Parent-Teacher Meeting for 2025 under Information for Parents.
-      button: Information for Parents
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
+  - textcards:
+      title: SEC 2 SUBJECT SELECTION BRIEFING
+      id: textcards
+      cards:
+        - title: Sec 2 Subject Selection Briefing
+          description: ""
+          linktext: Learn More
+          url: https://www.yuhuasec.moe.edu.sg/files/Sec_2_Subject_Selection_Briefing_2_April_2025_ECG_VP.pdf
+        - title: SEC 3 G1 SUBJECT SELECTION BRIEFING 2025
+          description: ""
+          linktext: Learn more
+          url: https://www.yuhuasec.moe.edu.sg/files/3g1-2025_sec_2_ptm_subject_combination_for_2026_sec_3g1.pdf
+        - title: SEC 3 G2 SUBJECT SELECTION BRIEFING 2025
+          description: ""
+          linktext: Learn more
+          url: https://www.yuhuasec.moe.edu.sg/files/3g2-2025_sec_2_ptm_subject_combination_for_2026_sec_3g2__002_.pdf
+        - title: SEC 3 G3 SUBJECT SELECTION BRIEFING 2025
+          description: ""
+          linktext: Learn more
+          url: https://www.yuhuasec.moe.edu.sg/files/3g3-2025_sec_2_ptm_subject_combination_for_2026_sec_3g3.pdf
+  - textcards:
+      title: 2025 Upper Secondary PTM materials
+      id: textcards
+      description: Text card description
+      cards:
+        - title: ECG and Academic Sharing slides
+          description: ""
+          linktext: Learn more
+          url: https://www.yuhuasec.moe.edu.sg/files/Slides_for_Upper_Sec_PTM.pdf
+        - title: Principal's sharing slides for Upper Sec PTM
+          description: ""
+          linktext: Learn more
+          url: https://www.yuhuasec.moe.edu.sg/files/2025_YHSS_Start_Of_Year_Slides_from_P__Upper_Sec_PTM_.pdf
   - infopic:
       title: Yearbook
       id: infopic
