@@ -6,6 +6,11 @@ variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
 <h2><strong><u>Semester 2</u></strong></h2>
+<h3><strong>2025 N and O Level Preliminary Examination Schedule</strong></h3>
+<p><a href="/files/2025_N_Level_Prelim_Schedule_v1.pdf" rel="noopener nofollow" target="_blank">N Level Prelim</a>
+</p>
+<p><a href="/files/2025_O_Level_Prelim_Schedule_v1.pdf" rel="noopener nofollow" target="_blank">O Level Prelim</a>
+</p>
 <h3><strong>2025: Term 3 Parent Letter</strong></h3>
 <p>Dear Parents,
 <br>You may access the Term 3 Letter to Parents below:</p>
