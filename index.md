@@ -19,6 +19,14 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infobar:
+      title: HBL from 15 to 17 July
+      subtitle: Home Based Learning
+      id: infobar
+      description: Dear students and parents/guardians, you can find the HBL subject
+        plans for your class summarised in the link below.
+      button: HBL subject plans
+      url: https://sites.google.com/moe.edu.sg/yhss-hbl/blended-learning/hbl-subject-plans-2025
+  - infobar:
       title: Semester 2 Class Timetables
       subtitle: Semester 2 timetables
       id: infobar
