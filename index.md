@@ -19,13 +19,13 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infobar:
-      title: HBL from 15 to 17 July
-      subtitle: Home Based Learning
+      title: Term 3 Weighted Assessment Schedule and Topics
+      subtitle: WA3
       id: infobar
-      description: Dear students and parents/guardians, you can find the HBL subject
-        plans for your class summarised in the link below.
-      button: HBL subject plans
-      url: https://sites.google.com/moe.edu.sg/yhss-hbl/blended-learning/hbl-subject-plans-2025
+      description: Dear students, you can find the Term 3 WA3 schedule and topics
+        tested for your level under Information for Students.
+      button: Information for students
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
   - infobar:
       title: Semester 2 Class Timetables
       subtitle: Semester 2 timetables

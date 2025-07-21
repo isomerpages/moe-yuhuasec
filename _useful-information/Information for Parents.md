@@ -6,6 +6,33 @@ variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
 <h2><strong><u>Semester 2</u></strong></h2>
+<h3><strong>Weighted Assessment 3 Schedule</strong></h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="/files/Sec_1_WA3_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">Secondary 1 WA3 Schedule and Topics</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Sec_2_WA3_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">Secondary 2 WA3 Schedule and Topics</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Sec_3_WA3_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">Secondary 3 WA3 Schedule and Topics</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3><strong>2025 N and O Level Preliminary Examination Schedule</strong></h3>
 <p><a href="/files/2025_N_Level_Prelim_Schedule_v1.pdf" rel="noopener nofollow" target="_blank">N Level Prelim</a>
 </p>

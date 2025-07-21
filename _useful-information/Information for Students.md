@@ -6,6 +6,32 @@ variant: tiptap
 ---
 <h1><strong>Information for Students</strong></h1>
 <h3></h3>
+<h3><strong>Weighted Assessment 3 Schedule</strong></h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><a href="/files/Sec_1_WA3_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">Secondary 1 WA3 Schedule and Topics</a></strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Sec_2_WA3_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">Secondary 2 WA3 Schedule and Topics</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Sec_3_WA3_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">Secondary 3 WA3 Schedule and Topics</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>2025 Semester 2 Timetable</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
