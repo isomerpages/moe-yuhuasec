@@ -40,10 +40,10 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p>Vice-Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hong Choi Siong</p>
+<p>Mr Paul Kok Kuan Pow, PBM</p>
 </td>
 </tr>
 <tr>
@@ -51,10 +51,10 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p>Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Doreen Lum, PBM</p>
+<p>Mdm Hong Choi Siong</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Quah Saw Han</p>
+<p>Mdm Doreen Lum, PBM</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Bernard Lim Boon Kiong</p>
+<p>Mdm Quah Saw Han</p>
 </td>
 </tr>
 <tr>
@@ -87,7 +87,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tong Yen Sng</p>
+<p>Mr Bernard Lim Boon Kiong</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +98,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Kah Hoon, Doreen</p>
+<p>Mr Tong Yen Sng</p>
 </td>
 </tr>
 <tr>
@@ -109,7 +109,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Paul Kok Kuan Pow, PBM</p>
+<p>Mdm Chua Kah Hoon, Doreen</p>
 </td>
 </tr>
 <tr>
