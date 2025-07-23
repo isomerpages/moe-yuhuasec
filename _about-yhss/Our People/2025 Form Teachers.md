@@ -200,7 +200,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>2 Adaptability</strong>
 </p>
 </td>
@@ -211,6 +211,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:KAVITHA_KARUNANITHI_KAVITHA@moe.edu.sg" rel="noopener noreferrer" target="_blank">MDM KARUNANITHI KAVITHA</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="lau_fang_qing@schools.gov.sg" rel="noopener nofollow" target="_blank">MS LAU FANG QING</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -338,7 +347,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>3 Adaptability</strong>
 </p>
 </td>
@@ -349,6 +358,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:" rel="noopener noreferrer" target="_blank">MR LOW CHEE WAH</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="teng_mei_juan_eileen_a@schools.gov.sg" rel="noopener nofollow" target="_blank">MS EILEEN TENG</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
