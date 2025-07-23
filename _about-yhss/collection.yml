@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - Our Partners/Alumni.md
+      - Our Partners/.keep
       - Our Partners/School Advisory Committee.md
       - Our Partners/Parents Support Group.md
-      - Our Partners/.keep
+      - Our Partners/Alumni.md
       - Our People/School Management Committee.md
       - Our People/2025 Form Teachers.md
       - Our People/Executive, Administrative & Support Staff.md
