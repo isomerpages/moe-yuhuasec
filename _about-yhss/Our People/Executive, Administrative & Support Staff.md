@@ -1,266 +1,238 @@
 ---
 title: Executive, Administrative & Support Staff
-permalink: /about-yhss/our-people/executive-administrative-n-support-staff/
+permalink: /about-yhss/our-people/non-teaching-support-staff/
 description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
 <h1><strong>Executive, Administrative &amp; Support Staff</strong></h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EAS.jpg">
-</div>
-<table style="minWidth: 50px">
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Mr Cai Zhengyu</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
+<p><strong>DESIGNATION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>NAME</strong>
+</p>
 </td>
 </tr>
 <tr>
+<td rowspan="4" colspan="1">
+<p><strong>ICT SUPPORT TEAM</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
-<p>Mr Sim Hock Guan</p>
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM PAPPU LALITHA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR ZULHAQIL BIN JUMAIL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Desk Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR ASYMAWI BIN MD NOR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Desk Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR SYED IBRAHIM HAJA ABDUL WADOOD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p><strong>STEM SUPPORT TEAM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR NOOR HAZEMI B RIBOT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR MOHD AYUB BIN ANANG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM BALAJI RANITHAYALU</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS ESTHER CHEONG SZE WOON</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM SAMINATHAN PUNITHA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p><strong>ADMINSTRATIVE SUPPORT TEAM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administrative Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR CAI ZHENGYU</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS RACHEL JOAN TAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS LIM SEOK HAR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM NORAINI BINTE KADIR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM SARAH BTE MOHAMED</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Printing Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM GWEE SOK TIEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Librarian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS INDIRA SHITA SIAGIAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="8" colspan="1">
+<p><strong>OPERATIONS SUPPORT TEAM</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kua Kok Leong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Adjunct Operations Manager</p>
+<p>SIM HOCK GUAN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Joan Tan</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
+<p>KUA KOK LEONG</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Noraini Bte Kadir</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Sarah Bte Mohamed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Seok Har</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Balaji Rani</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>STEM Instructor (Laboratory)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Saminathan Punitha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Adjunct STEM Instructor (Laboratory)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Cheong Sze Woon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Adjunct STEM Instructor (Laboratory)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Noor Hazemi B Ribot</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>STEM Instructor (Workshop)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohd Ayub Bin Anang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>STEM Instructor (Workshop)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Hazfarisha Halim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Student Welfare Officer (SWO)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Joel Shashikumar S/O Premkumar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Student Welfare Officer (SWO)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Myra Severino Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer (SENO)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Neo Yi Fang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer (SENO)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Linda Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior School Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Grace Khoo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Part Time Adjunct School Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Anna Choo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Part Time Adjunct School Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Toh Su Qi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Education and Career Guidance Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Gwee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Printing Executive</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ya'akob B Mohd Yasin</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>MDM ONG HOON GEOK</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Toh Lay Hwa</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>MDM TAN SWE KIM</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Swe Kim</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>MDM TOH LAY HWA</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mr Zamran Bin Sa'at</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Vimiala d/o Suppiah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Adjunct Operations Support Officer</p>
+<p>MR YA'AKOB BIN MOHD YASIN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Zulhaqil Bin Jumail</p>
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Manager 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lalitha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Manager 2</p>
+<p>MR ZAMRAN BIN SA'AT</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Asymawi Bin Mohd Nor</p>
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Syed Ibrahim Haja Abdul Wadood</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
+<p>MDM VIMIALA D/O SUPPIAH</p>
 </td>
 </tr>
 </tbody>
