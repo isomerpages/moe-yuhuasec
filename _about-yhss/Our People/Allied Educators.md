@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Our People
 ---
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -15,12 +14,7 @@ third_nav_title: Our People
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>S/N</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>CATEGORY</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>DESIGNATION</strong>
@@ -32,13 +26,9 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
 <td rowspan="11" colspan="1">
-<p>STUDENT SUPPORT SERVICES
-<br>
-<br>&nbsp;</p>
+<p><strong>STUDENT SUPPORT SERVICES <br><br>&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior School Counsellor</p>
@@ -49,9 +39,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,9 +46,6 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
 </td>
@@ -71,9 +55,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,9 +62,6 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
 </td>
@@ -93,9 +71,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,9 +78,6 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Student Welfare Officer</p>
 </td>
@@ -115,9 +87,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Senior ECG Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -125,9 +94,6 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>9</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Pastoral Care Officers</p>
 </td>
@@ -137,9 +103,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Pastoral Care Officers</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -147,9 +110,6 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>11</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Pastoral Care Officers</p>
 </td>
