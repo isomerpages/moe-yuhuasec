@@ -133,7 +133,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>1 Contribute</strong>
 </p>
 </td>
@@ -147,9 +147,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p><a href="glenda_ng_a@schools.gov.sg" rel="noopener nofollow" target="_blank">MS GLENDA NG</a>
 </p>
