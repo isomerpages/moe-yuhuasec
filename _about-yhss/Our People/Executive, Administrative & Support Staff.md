@@ -7,19 +7,14 @@ variant: tiptap
 ---
 <h1><strong>Executive, Administrative &amp; Support Staff</strong></h1>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>S/N</strong>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>CATEGORY</strong>
 </p>
@@ -34,135 +29,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="11" colspan="1">
-<p><strong>STUDENT SUPPORT SERVICES</strong>
-<br>
-<br>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS LEE SOO LANG LINDA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHAN YIM PENG GRACE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHOO MUI HONG ANNA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS MYRA SEVERINO LEE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS NEO YI FANG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Student Welfare Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS HAZFARISHA BINTE AB HALIM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Student Welfare Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR JOEL SHASHIKUMAR S/O PREMKUMAR</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior ECG Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS TOH SU QI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pastoral Care Officers</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR S N CHELVA RAJAH</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pastoral Care Officers</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS JENNIFER CHEE LAI LENG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pastoral Care Officers</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR CHUNG WEE SENG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12</p>
-</td>
 <td rowspan="4" colspan="1">
 <p><strong>ICT SUPPORT TEAM</strong>
 </p>
@@ -176,9 +42,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -186,9 +49,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>14</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Desk Engineer</p>
 </td>
@@ -198,9 +58,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Desk Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -208,9 +65,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>16</p>
-</td>
 <td rowspan="5" colspan="1">
 <p><strong>STEM SUPPORT TEAM</strong>
 </p>
@@ -224,9 +78,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>STEM Instructor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -234,9 +85,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>18</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>STEM Instructor</p>
 </td>
@@ -246,9 +94,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>STEM Instructor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -257,9 +102,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>STEM Instructor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,9 +109,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>21</p>
-</td>
 <td rowspan="7" colspan="1">
 <p><strong>ADMINSTRATIVE SUPPORT TEAM</strong>
 </p>
@@ -283,9 +122,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -293,9 +129,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>23</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
 </td>
@@ -305,9 +138,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -315,9 +145,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>25</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
 </td>
@@ -327,9 +154,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Printing Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -338,9 +162,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -348,9 +169,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>29</p>
-</td>
 <td rowspan="8" colspan="1">
 <p><strong>OPERATIONS SUPPORT TEAM</strong>
 </p>
@@ -364,9 +182,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -374,9 +189,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>31</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
 </td>
@@ -386,9 +198,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>32</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -396,9 +205,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>33</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
 </td>
@@ -408,9 +214,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>34</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -419,9 +222,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>35</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -429,9 +229,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>36</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
 </td>
