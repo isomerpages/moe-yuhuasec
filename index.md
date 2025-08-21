@@ -18,14 +18,14 @@ sections:
         - title: Calendar of Events
           description: Click here!
           url: /useful-information-and-links/school-calendar
-  - infobar:
-      title: Term 3 Weighted Assessment Schedule and Topics
-      subtitle: WA3
-      id: infobar
-      description: Dear students, you can find the Term 3 WA3 schedule and topics
-        tested for your level under Information for Students.
-      button: Information for students
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
+  - infopic:
+      id: infopic
+      description: As we approach Teachers' Day 2025, the school invites you to share
+        your compliments for our staff who have made a positive difference.
+      button: Click on the link
+      url: https://go.gov.sg/compliments-staff-yhss
+      image: /images/add.jpg
+      alt: Image alt text
   - infobar:
       title: Semester 2 Class Timetables
       subtitle: Semester 2 timetables
