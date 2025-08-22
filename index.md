@@ -26,6 +26,26 @@ sections:
       url: https://go.gov.sg/compliments-staff-yhss
       image: /images/add.jpg
       alt: Image alt text
+  - textcards:
+      title: EYE_Schedule_2025
+      id: textcards
+      cards:
+        - title: Secondary1
+          description: ""
+          linktext: EYE-Schedule
+          url: https://cms.isomer.gov.sg/sites/moe-yuhuasec/media/files/mediaDirectory/files/editMediaSettings/Sec_1_EYE_Schedule_2025.pdf
+        - title: Secondary2
+          description: ""
+          linktext: EYE_Schedule
+          url: https://cms.isomer.gov.sg/files/Sec_2_EYE_Schedule_2025.pdf
+        - title: Secondary3
+          description: ""
+          linktext: EYE_Schedule
+          url: https://cms.isomer.gov.sg/files/Sec_3_EYE_Schedule_2025.pdf
+        - title: Parent Letter
+          description: ""
+          linktext: Exam matters
+          url: https://cms.isomer.gov.sg/files/2025_Letter_to_Parents_for_EYE_final.pdf
   - infobar:
       title: Semester 2 Class Timetables
       subtitle: Semester 2 timetables
@@ -38,7 +58,7 @@ sections:
       title: SEC 2 SUBJECT SELECTION BRIEFING
       id: textcards
       cards:
-        - title: Sec 2 Subject Selection Briefing
+        - title: SEC 2 Subject Selection Briefing
           description: ""
           linktext: Learn More
           url: https://www.yuhuasec.moe.edu.sg/files/Sec_2_Subject_Selection_Briefing_2_April_2025_ECG_VP.pdf
