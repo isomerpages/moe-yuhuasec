@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
-<h2><strong><u>Semester 2</u></strong></h2>
-<h3><strong>Weighted Assessment 3 Schedule</strong></h3>
+<h3><strong>EYE_Schedule_2025</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -14,25 +13,24 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Sec_1_WA3_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">Secondary 1 WA3 Schedule and Topics</a>
+<p><a href="/files/Sec_1_EYE_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1 EYE Schedule </a>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sec_2_WA3_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">Secondary 2 WA3 Schedule and Topics</a></strong>
+<p><strong><a href="/files/Sec_2_EYE_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2 EYE Schedule </a></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sec_3_WA3_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">Secondary 3 WA3 Schedule and Topics</a></strong>
+<p><strong><a href="/files/Sec_3_EYE_Schedule_2025_v2.pdf" rel="noopener nofollow" target="_blank">Secondary 3 EYE Schedule </a></strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h3><strong>2025 N and O Level Preliminary Examination Schedule</strong></h3>
 <p><a href="/files/2025_N_Level_Prelim_Schedule_v1.pdf" rel="noopener nofollow" target="_blank">N Level Prelim</a>
 </p>
