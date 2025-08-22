@@ -13,19 +13,19 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Sec_1_EYE_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1 EYE Schedule </a>
+<p><a href="/files/Sec_1_EYE_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1 EYE Schedule</a>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sec_2_EYE_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2 EYE Schedule </a></strong>
+<p><strong><a href="/files/Sec_2_EYE_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2 EYE Schedule</a></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sec_3_EYE_Schedule_2025_v2.pdf" rel="noopener nofollow" target="_blank">Secondary 3 EYE Schedule </a></strong>
+<p><strong><a href="/files/Sec_3_EYE_Schedule_2025_v2.pdf" rel="noopener nofollow" target="_blank">Secondary 3 EYE Schedule</a></strong>
 </p>
 </td>
 </tr>
