@@ -38,7 +38,7 @@ sections:
       title: SEC 2 SUBJECT SELECTION BRIEFING
       id: textcards
       cards:
-        - title: Sec 2 Subject Selection Briefing
+        - title: SEC 2 Subject Selection Briefing
           description: ""
           linktext: Learn More
           url: https://www.yuhuasec.moe.edu.sg/files/Sec_2_Subject_Selection_Briefing_2_April_2025_ECG_VP.pdf
@@ -86,4 +86,24 @@ sections:
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
       alt: Image alt text
+  - textcards:
+      title: EYE_Schedule_2025
+      id: textcards
+      cards:
+        - title: Secondary1
+          description: ""
+          linktext: EYE-Schedule
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
