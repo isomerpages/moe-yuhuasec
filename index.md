@@ -26,6 +26,26 @@ sections:
       url: https://go.gov.sg/compliments-staff-yhss
       image: /images/add.jpg
       alt: Image alt text
+  - textcards:
+      title: EYE_Schedule_2025
+      id: textcards
+      cards:
+        - title: Secondary1
+          description: ""
+          linktext: EYE-Schedule
+          url: ""
+        - title: Secondary2
+          description: ""
+          linktext: EYE_Schedule
+          url: ""
+        - title: Secondary3
+          description: ""
+          linktext: EYE_Schedule
+          url: ""
+        - title: Parent Letter
+          description: ""
+          linktext: Exam matters
+          url: ""
   - infobar:
       title: Semester 2 Class Timetables
       subtitle: Semester 2 timetables
@@ -86,24 +106,4 @@ sections:
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
       alt: Image alt text
-  - textcards:
-      title: EYE_Schedule_2025
-      id: textcards
-      cards:
-        - title: Secondary1
-          description: ""
-          linktext: EYE-Schedule
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
 ---
