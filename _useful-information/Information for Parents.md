@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_Letter_to_Parents_for_EYE_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Letter</a>
+<p><strong><a href="/files/2025_Letter_to_Parents_for_EYE_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Letter</a></strong>
 </p>
 </td>
 </tr>
