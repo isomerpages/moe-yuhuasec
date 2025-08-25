@@ -33,19 +33,19 @@ sections:
         - title: Secondary1
           description: ""
           linktext: EYE-Schedule
-          url: https://cms.isomer.gov.sg/sites/moe-yuhuasec/media/files/mediaDirectory/files/editMediaSettings/Sec_1_EYE_Schedule_2025.pdf
+          url: https://www.yuhuasec.moe.edu.sg/files/Sec_1_EYE_Schedule_2025.pdf
         - title: Secondary2
           description: ""
           linktext: EYE_Schedule
-          url: https://cms.isomer.gov.sg/files/Sec_2_EYE_Schedule_2025.pdf
+          url: https://www.yuhuasec.moe.edu.sg/files/Sec_2_EYE_Schedule_2025.pdf
         - title: Secondary3
           description: ""
           linktext: EYE_Schedule
-          url: https://cms.isomer.gov.sg/files/Sec_3_EYE_Schedule_2025.pdf
+          url: https://www.yuhuasec.moe.edu.sg/files/Sec_3_EYE_Schedule_2025_v2.pdf
         - title: Parent Letter
           description: ""
           linktext: Exam matters
-          url: https://cms.isomer.gov.sg/files/2025_Letter_to_Parents_for_EYE_final.pdf
+          url: https://www.yuhuasec.moe.edu.sg/files/Parent_letter.pdf
   - infobar:
       title: Semester 2 Class Timetables
       subtitle: Semester 2 timetables
