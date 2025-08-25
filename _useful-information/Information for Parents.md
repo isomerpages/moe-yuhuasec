@@ -29,6 +29,12 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Letter_to_Parents_for_EYE_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Letter</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3><strong>2025 N and O Level Preliminary Examination Schedule</strong></h3>
