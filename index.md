@@ -33,7 +33,7 @@ sections:
         - title: Secondary1
           description: ""
           linktext: EYE-Schedule
-          url: https://cms.isomer.gov.sg/sites/moe-yuhuasec/media/files/mediaDirectory/files/editMediaSettings/Sec_1_EYE_Schedule_2025.pdf
+          url: https://www.yuhuasec.moe.edu.sg/files/Sec_1_EYE_Schedule_2025.pdf
         - title: Secondary2
           description: ""
           linktext: EYE_Schedule
