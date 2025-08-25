@@ -41,7 +41,7 @@ sections:
         - title: Secondary3
           description: ""
           linktext: EYE_Schedule
-          url: https://cms.isomer.gov.sg/files/Sec_3_EYE_Schedule_2025.pdf
+          url: https://www.yuhuasec.moe.edu.sg/files/Sec_3_EYE_Schedule_2025_v2.pdf
         - title: Parent Letter
           description: ""
           linktext: Exam matters
