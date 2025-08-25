@@ -45,7 +45,7 @@ sections:
         - title: Parent Letter
           description: ""
           linktext: Exam matters
-          url: https://www.yuhuasec.moe.edu.sg/files/Parent_letter.pdf
+          url: https://www.yuhuasec.moe.edu.sg/files/2025_Letter_to_Parents_for_EYE_final.pdf
   - infobar:
       title: Semester 2 Class Timetables
       subtitle: Semester 2 timetables
