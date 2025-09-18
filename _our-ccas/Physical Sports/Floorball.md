@@ -6,8 +6,9 @@ third_nav_title: Physical Sports
 variant: tiptap
 ---
 <h1><strong>Floorball</strong></h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3371.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/54749974023_3f22ce573b_k.jpg">
 </div>
 <h3>Background</h3>
 <p>The Yuhua Floorball Team was formed at the beginning of 2019 with the
@@ -26,13 +27,16 @@ on a yearly basis.</p>
 <br>Mdm Noorlinda
 <br>Mrs Jenny Ong</p>
 <p><strong>Student Leaders:</strong>
-<br><em>B Division Co-Captains:</em>
-<br>Eddy Firihin Bin Muhammad Shawal (3 Contribute)
-<br>Muhammad Rayyan Bin Muhammad Rizman (3 Curiosity)
-<br>Muhhammad ‘Aakif Iimaan Bin Mohamad Azzan (3 Connect)</p>
-<p><em>C Division Co-Captains:</em>
-<br>Fawwaz Bin Mohamed Asik (2 Resilience)
-<br>Au Jin Yun, Aiken (2 Contribute)</p>
+<br><em>B Division:</em>
+<br><strong>Captain</strong>: FAWWAZ BIN MOHAMED ASIK (3 CONTRIBUTE)</p>
+<p><strong>Vice-captain</strong>: RISHI GABRIEL S/O SELVA RAJA (3 RESILIENCE)</p>
+<p><strong>Vice-captain</strong>: RYAN RIFQI DARWISH BIN MOHAMAD LATIFF (3
+RESILIENCE)</p>
+<p></p>
+<p><em>C Division:</em>
+<br><strong>Captain</strong>: AYDEN ANG (2 CONTRIBUTE)</p>
+<p><strong>Vice-captain</strong>: LIM JIA AN ZACHARY (2 CONNECT)</p>
+<p><strong>Vice-captain</strong>: KHOO ER QUAN (2 RESILIENCE)</p>
 <h3>Key Events of the Year</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -49,9 +53,13 @@ on a yearly basis.</p>
 </li>
 </ul>
 <h3>Achievements</h3>
+<p><strong>2025</strong>
+</p>
+<p>'C' Division National School Games - League 3 Runners-up</p>
+<p>Participated in ‘B’ Division National School Games</p>
 <p><strong>2024</strong>
-<br>Participated in ‘B’ Division National School Games Participated in ‘C’
-Division National School Games</p>
+<br>Participated in ‘B’ Division National School Games</p>
+<p>Participated in ‘C’ Division National School Games</p>
 <p><strong>2023</strong>
 <br>Participated in B Div National School Games Participated in C Div National
 School Games</p>
