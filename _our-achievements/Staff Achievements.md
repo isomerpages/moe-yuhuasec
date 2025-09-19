@@ -6,6 +6,22 @@ variant: tiptap
 ---
 <h1><strong>Staff Achievements</strong></h1>
 <h3>Congratulations to Our Officers!</h3>
+<h4><strong>SHHK Leap Award 2025 </strong>飞跃教师奖</h4>
+<p>The annual Listening Educator for Advancement and Progress (Leap) Award
+recognises exceptional educators who believe that their students have the
+potential to excel beyond their capabilities.</p>
+<p>This year, the Award received a total of 329 nominations from 198 schools,
+with each school limited to two nominations. Of the 329 nominations, 20
+teachers were recognised with the award.</p>
+<p>We are proud to share that our HOD ICT Mr Soh Ming Quan is one the 20
+awardees! And this is the second consecutive year our teachers have been
+recognised in this award! Congratulations!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/548268746_1315825250553265_7727970797045775109_n.jpg">
+</div>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
