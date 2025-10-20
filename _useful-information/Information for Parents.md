@@ -5,6 +5,57 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
+<p></p>
+<h4><strong>Subject Selection for Sec 2</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>G3 subject combinations</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>G2 subject combinations</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>G1 subject combinations</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Sec_2_Subject_Combination_for_2026_Sec_3G3_year_end__for_upload_.pdf" rel="noopener nofollow" target="_blank">Slides for G3 subject combinations</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Sec_2_Subject_Combination_for_2026_Sec_3G2_year_end__for_upload_.pdf" rel="noopener nofollow" target="_blank">Slides for G2 subject combinations</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Sec_2_Subject_Combination_for_2026_Sec_3G1_year_end__for_upload_.pdf" rel="noopener nofollow" target="_blank">Slides for G1 subject combinations</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/FAQs_for_G3__2025_.pdf" rel="noopener nofollow" target="_blank">FAQs for G3 subject combinations</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/FAQs_for_G2__2025_.pdf" rel="noopener nofollow" target="_blank">FAQs for G2 subject combinations</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/FAQs_for_G1__2025_.pdf" rel="noopener nofollow" target="_blank">FAQs for G1 subject combinations</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3><strong>EYE_Schedule_2025</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
@@ -74,46 +125,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2025_Sem_2_TT_25_Jun_Sec_4___5.pdf" rel="noopener nofollow" target="_blank">Semester 2 Timetable for Sec 4 &amp; 5</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3><strong>Secondary 2 Subject Selection</strong></h3>
-<p>Dear Secondary 2 students,</p>
-<p>Below is information on "<strong>Sec 2 Subject Selection Briefing" and "Subject combinations for SEC 3 G1/G2/G3 COURSE IN 2026."</strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sec_2_Subject_Selection_Briefing_2_April_2025_ECG_VP.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Subject Selection Briefing</a></strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/3g1-2025_sec_2_ptm_subject_combination_for_2026_sec_3g1.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 3 G1 SUBJECT SELECTION BRIEFING 2025</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/3g2-2025_sec_2_ptm_subject_combination_for_2026_sec_3g2__002_.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 3 G2 SUBJECT SELECTION BRIEFING 2025</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/3g3-2025_sec_2_ptm_subject_combination_for_2026_sec_3g3.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 3 G3 SUBJECT SELECTION BRIEFING 2025</a></strong>
 </p>
 </td>
 </tr>
