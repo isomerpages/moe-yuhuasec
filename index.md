@@ -18,14 +18,14 @@ sections:
         - title: Calendar of Events
           description: Click here!
           url: /useful-information-and-links/school-calendar
-  - infopic:
-      id: infopic
-      description: As we approach Teachers' Day 2025, the school invites you to share
-        your compliments for our staff who have made a positive difference.
-      button: Click on the link
-      url: https://go.gov.sg/compliments-staff-yhss
-      image: /images/add.jpg
-      alt: Image alt text
+  - infobar:
+      title: Secondary 2 Subject Selection
+      subtitle: Sec 2 Subject Selection 2025
+      id: infobar
+      description: You may find the slides for the subject selection exercise for Sec
+        2 and FAQs under Information for Parents.
+      button: Information for Parents
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
   - textcards:
       title: EYE_Schedule_2025
       id: textcards
@@ -54,26 +54,6 @@ sections:
         Information for Students using the link below.
       button: Information for students
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
-  - textcards:
-      title: SEC 2 SUBJECT SELECTION BRIEFING
-      id: textcards
-      cards:
-        - title: SEC 2 Subject Selection Briefing
-          description: ""
-          linktext: Learn More
-          url: https://www.yuhuasec.moe.edu.sg/files/Sec_2_Subject_Selection_Briefing_2_April_2025_ECG_VP.pdf
-        - title: SEC 3 G1 SUBJECT SELECTION BRIEFING 2025
-          description: ""
-          linktext: Learn more
-          url: https://www.yuhuasec.moe.edu.sg/files/3g1-2025_sec_2_ptm_subject_combination_for_2026_sec_3g1.pdf
-        - title: SEC 3 G2 SUBJECT SELECTION BRIEFING 2025
-          description: ""
-          linktext: Learn more
-          url: https://www.yuhuasec.moe.edu.sg/files/3g2-2025_sec_2_ptm_subject_combination_for_2026_sec_3g2__002_.pdf
-        - title: SEC 3 G3 SUBJECT SELECTION BRIEFING 2025
-          description: ""
-          linktext: Learn more
-          url: https://www.yuhuasec.moe.edu.sg/files/3g3-2025_sec_2_ptm_subject_combination_for_2026_sec_3g3.pdf
   - textcards:
       title: 2025 Upper Secondary PTM materials
       id: textcards
