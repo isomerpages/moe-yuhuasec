@@ -112,46 +112,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><strong>Secondary 2 Subject Selection and ECG briefing</strong></h3>
-<p></p>
-<p>Dear Secondary 2 students,</p>
-<p>Below is information on "<strong>Sec 2 Subject Selection Briefing" and "Subject combinations for SEC 3 G1/G2/G3 COURSE IN 2026."</strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h4><strong><a href="/files/Sec_2_Subject_Selection_Briefing_2_April_2025_ECG_VP.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Subject Selection Briefing</a></strong></h4>
-</th>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><a href="/files/3g1-2025_sec_2_ptm_subject_combination_for_2026_sec_3g1.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 3 G1 SUBJECT SELECTION BRIEFING 2025</a>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="/files/3g2-2025_sec_2_ptm_subject_combination_for_2026_sec_3g2__002_.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 3 G2 SUBJECT SELECTION BRIEFING 2025</a>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="/files/3g3-2025_sec_2_ptm_subject_combination_for_2026_sec_3g3.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 3 G3 SUBJECT SELECTION BRIEFING 2025</a>
-</p>
-</th>
-</tr>
-</tbody>
-</table>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
