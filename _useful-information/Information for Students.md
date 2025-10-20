@@ -5,7 +5,55 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Students</strong></h1>
-<h3></h3>
+<h4><strong>Subject Selection for Sec 2</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>G3 subject combinations</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>G2 subject combinations</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>G1 subject combinations</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Sec_2_Subject_Combination_for_2026_Sec_3G3_year_end__for_upload_.pdf" rel="noopener nofollow" target="_blank">Slides for G3 subject combinations</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Sec_2_Subject_Combination_for_2026_Sec_3G2_year_end__for_upload_.pdf" rel="noopener nofollow" target="_blank">Slides for G2 subject combinations</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_Sec_2_Subject_Combination_for_2026_Sec_3G1_year_end__for_upload_.pdf" rel="noopener nofollow" target="_blank">Slides for G1 subject combinations</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/FAQs_for_G3__2025_.pdf" rel="noopener nofollow" target="_blank">FAQs for G3 subject combinations</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/FAQs_for_G2__2025_.pdf" rel="noopener nofollow" target="_blank">FAQs for G2 subject combinations</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/FAQs_for_G1__2025_.pdf" rel="noopener nofollow" target="_blank">FAQs for G1 subject combinations</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>Weighted Assessment 3 Schedule</strong></h3>
 <table style="minWidth: 25px">
 <colgroup>
