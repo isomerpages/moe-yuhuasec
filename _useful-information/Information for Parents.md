@@ -94,38 +94,7 @@ below:</p>
 <summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <hr>
-<h3>2025: Term 2 Timetables</h3>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Term_2_TT_Sec_1.pdf" rel="noopener nofollow" target="_blank">Secondary 1 (Term2-2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Term_2_TT_Sec_2.pdf" rel="noopener nofollow" target="_blank">Secondary 2 (Term2-2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Term_2_TT_Sec_3.pdf" rel="noopener nofollow" target="_blank">Secondary 3(Term2-2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Term_2_TT_Sec_4_and_5.pdf" rel="noopener nofollow" target="_blank">Secondary 4&amp;5 (Term2-2025)</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h3></h3>
 <hr>
 <h3></h3>
 </div>
