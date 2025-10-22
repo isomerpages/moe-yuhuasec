@@ -269,8 +269,6 @@ below:</p>
 more information on the expectations for students, academic matters and
 co-curricular matters.</p>
 <hr>
-<h3></h3>
-<hr>
 <h3>Parents Gateway</h3>
 <p>Dear Parents,&nbsp;</p>
 <p>We are pleased to inform you that our school is now onboard Parents Gateway.
