@@ -30,6 +30,7 @@ form to&nbsp; <a href="mailto:yuhua_ss@moe.edu.sg" rel="noopener noreferrer nofo
 to Mdm Lim Seok Har &amp; Mdm Noraini.&nbsp;&nbsp;Alternatively, the form
 and documents can be submitted/mailed to the school’s General Office.</p>
 <hr>
+<p></p>
 <h4><strong>Subject Selection for Sec 2 (2025)</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
