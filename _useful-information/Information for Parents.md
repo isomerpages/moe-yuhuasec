@@ -235,29 +235,29 @@ below:</p>
 </tbody>
 </table>
 <hr>
-<h3>2025 Booklists</h3>
-<p>Secondary 2 (2025)</p>
+<h3>2026 Booklists</h3>
+<p>Secondary 2 (2026)</p>
 <p><a href="/files/2025_Sec_2_G1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G1</a>
 </p>
 <p><a href="/files/2025_Sec_2_G2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G2</a>
 </p>
 <p><a href="/files/2025_Sec_2_G3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G3</a>
 </p>
-<p>Secondary 3 (2025)</p>
+<p>Secondary 3 (2026)</p>
 <p><a href="/files/2025_Sec_3_NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Normal (Technical)</a>
 </p>
 <p><a href="/files/2025_Sec_3_NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Normal (Academic)</a>
 </p>
 <p><a href="/files/2025_Sec_3_Exp.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Express</a>
 </p>
-<p>Secondary 4 (2025)</p>
+<p>Secondary 4 (2026)</p>
 <p><a href="/files/2025_Sec_4_NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal (Technical)</a>
 </p>
 <p><a href="/files/2025_Sec_4_NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal (Academic)</a>
 </p>
 <p><a href="/files/2025_Sec_4_Exp.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Express</a>
 </p>
-<p>Secondary 5 (2025)</p>
+<p>Secondary 5 (2026)</p>
 <p><a href="/files/2025_Sec_5__NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 Normal (Academic)</a>
 </p>
 </div>
