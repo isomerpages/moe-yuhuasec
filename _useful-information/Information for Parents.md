@@ -80,12 +80,6 @@ and documents can be submitted/mailed to the school’s General Office.</p>
 </tbody>
 </table>
 <hr>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<h3></h3>
-</div>
-</details>
 <h3><strong>2025: Upper Secondary Parent-Teacher Meeting slides</strong></h3>
 <p>Dear Parents,
 <br>You may access the materials for the Upper Secondary Parent-Teacher Meeting
