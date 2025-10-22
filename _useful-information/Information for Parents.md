@@ -89,16 +89,6 @@ below:</p>
 <p><a href="/files/2025_YHSS_Start_Of_Year_Slides_from_P__Upper_Sec_PTM_.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's sharing slides for Upper Sec PTM (2025)</a>
 </p>
 <hr>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<h3></h3>
-<hr>
-</div>
-</details>
-</div>
-<hr>
 <h3>Student Handbook</h3>
 <p>Dear parents, you may access <a href="https://sites.google.com/moe.edu.sg/yhss-handbook-site/home?pli=1" rel="noopener noreferrer nofollow" target="_blank">YHSS Student Handbook</a> for
 more information on the expectations for students, academic matters and
