@@ -23,10 +23,10 @@ by scanning the QR code below.&nbsp;Singpass login is required.</p>
 <img style="width:40%" height="auto" width="100%" src="/images/122222222.jpg">
 </div>
 <p>Option 2: Via hardcopy/ softcopy application form</p>
-<p>Download the MOE FAS application form&nbsp;<a href="/files/MOE_FAS_Application_Form_2026_final.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;or
-collect the hardcopy form from the school’s General Office. &nbsp;Please
-scan and email the required documents together with the completed form
-to&nbsp; <a href="mailto:yuhua_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yuhua_ss@moe.edu.sg</a>,&nbsp;attention
+<p>Download the MOE FAS application form&nbsp;<a href="/files/MOE_FAS_Application_Form_2026_final.pdf" rel="noopener noreferrer nofollow" target="_blank">he</a><a href="/files/MOE_FAS_Application_Form_2026_final.pdf" rel="noopener nofollow" target="_blank">file</a>
+<a href="/files/MOE_FAS_Application_Form_2026_final.pdf" rel="noopener noreferrer nofollow" target="_blank">re</a>&nbsp;or collect the hardcopy form from the school’s General Office.
+&nbsp;Please scan and email the required documents together with the completed
+form to&nbsp; <a href="mailto:yuhua_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yuhua_ss@moe.edu.sg</a>,&nbsp;attention
 to Mdm Lim Seok Har &amp; Mdm Noraini.&nbsp;&nbsp;Alternatively, the form
 and documents can be submitted/mailed to the school’s General Office.</p>
 <p>_______________________________________________________________</p>
