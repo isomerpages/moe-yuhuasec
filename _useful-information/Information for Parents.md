@@ -91,41 +91,8 @@ below:</p>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Semester 1</strong>
-</summary>
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h3><strong>2025 WA2 Schedules and Topics</strong></h3>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sec_1_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 1 (2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sec_2_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 2 (2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sec_3_WA2_Parent_Letter_2025__updated_for_POA_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 3 (2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sec_4_and_5_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 4 &amp; 5 (2025)</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <hr>
 <h3>2025: Term 2 Timetables</h3>
 <table style="minWidth: 25px">
