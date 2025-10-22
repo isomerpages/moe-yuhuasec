@@ -6,8 +6,8 @@ variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
 <h3>Financial Assistance Scheme (FAS) 2026</h3>
-<p>Please click&nbsp;<a href="/files/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
-information on FAS or refer to the&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>&nbsp;for
+<p>Please click&nbsp;<a href="/files/MOE_FAS_Application_Form_2026_final.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+more information on FAS or refer to the&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>&nbsp;for
 further information.</p>
 <p><strong>Application Process</strong>
 </p>
