@@ -93,10 +93,32 @@ below:</p>
 <details class="isomer-details">
 <summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<h3>2026 Booklists</h3>
+<p>Secondary 2 (2026)</p>
+<p><a href="/files/YHSS_2026_S2_G1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G1</a>
+</p>
+<p><a href="/files/YHSS_2026_S2_G2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G2</a>
+</p>
+<p><a href="/files/YHSS_2026_S2_G3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G3</a>
+</p>
+<p>Secondary 3 (2026)</p>
+<p><a href="/files/YHSS_2026_S3_G1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 G1</a>
+</p>
+<p><a href="/files/YHSS_2026_S3_G2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 G2</a>
+</p>
+<p><a href="/files/YHSS_2026_S3_G3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 G3</a>
+</p>
+<p>Secondary 4 (2026)</p>
+<p><a href="/files/YHSS_2026_S4_NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal (Technical)</a>
+</p>
+<p><a href="/files/YHSS_2026_S4_NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal (Academic)</a>
+</p>
+<p><a href="/files/YHSS_2026_S4_EXP.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Express</a>
+</p>
+<p>Secondary 5 (2026)</p>
+<p><a href="/files/YHSS_2026_S5_NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 Normal (Academic)</a>
+</p>
 <hr>
-<h3></h3>
-<hr>
-<h3></h3>
 </div>
 </details>
 </div>
