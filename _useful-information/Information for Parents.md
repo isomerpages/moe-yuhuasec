@@ -5,7 +5,31 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
-<p></p>
+<h3>Financial Assistance Scheme (FAS) 2026</h3>
+<p>Please click&nbsp;<a href="/files/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
+information on FAS or refer to the&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>&nbsp;for
+further information.</p>
+<p><strong>Application Process</strong>
+</p>
+<p>Option 1: Online application</p>
+<p>Option 1a.</p>
+<p>Complete the online application via this link&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank"> https://go.gov.sg/moe-efas</a>&nbsp;or
+by scanning the QR code below.&nbsp;Singpass login is required.</p>
+<div class="isomer-image-wrapper">
+<img style="width:30%" height="auto" width="100%" src="/images/11111111.jpg">
+</div>
+<p>Option 1b. eFAS link in PG’s services section.</p>
+<div class="isomer-image-wrapper">
+<img style="width:40%" height="auto" width="100%" src="/images/122222222.jpg">
+</div>
+<p>Option 2: Via hardcopy/ softcopy application form</p>
+<p>Download the MOE FAS application form&nbsp;<a href="/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;or collect
+the hardcopy form from the school’s General Office. &nbsp;Please scan and
+email the required documents together with the completed form to&nbsp;
+<a href="mailto:yuhua_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yuhua_ss@moe.edu.sg</a>,&nbsp;attention to Mdm Lim Seok Har &amp; Mdm
+Noraini.&nbsp;&nbsp;Alternatively, the form and documents can be submitted/mailed
+to the school’s General Office.</p>
+<p>_______________________________________________________________</p>
 <h4><strong>Subject Selection for Sec 2</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -245,30 +269,7 @@ below:</p>
 more information on the expectations for students, academic matters and
 co-curricular matters.</p>
 <hr>
-<h3>Financial Assistance Scheme (FAS)</h3>
-<p>Please click&nbsp;<a href="/files/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
-information on FAS or refer to the&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>&nbsp;for
-further information.</p>
-<p><strong>Application Process</strong>
-</p>
-<p>Option 1: Online application</p>
-<p>Option 1a.</p>
-<p>Complete the online application via this link&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank"> https://go.gov.sg/moe-efas</a>&nbsp;or
-by scanning the QR code below.&nbsp;Singpass login is required.</p>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/11111111.jpg">
-</div>
-<p>Option 1b. eFAS link in PG’s services section.</p>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/122222222.jpg">
-</div>
-<p>Option 2: Via hardcopy/ softcopy application form</p>
-<p>Download the MOE FAS application form&nbsp;<a href="/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;or collect
-the hardcopy form from the school’s General Office. &nbsp;Please scan and
-email the required documents together with the completed form to&nbsp;
-<a href="mailto:yuhua_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yuhua_ss@moe.edu.sg</a>,&nbsp;attention to Mdm Lim Seok Har &amp; Mdm
-Noraini.&nbsp;&nbsp;Alternatively, the form and documents can be submitted/mailed
-to the school’s General Office.</p>
+<h3></h3>
 <hr>
 <h3>Parents Gateway</h3>
 <p>Dear Parents,&nbsp;</p>
