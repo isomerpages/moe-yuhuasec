@@ -4,7 +4,7 @@ permalink: /useful-information-and-links/information-for-students/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Information for Students</strong></h1>
+<h1><strong>Information for Students 2025</strong></h1>
 <h4><strong>Subject Selection for Sec 2</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -54,118 +54,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><strong>Weighted Assessment 3 Schedule</strong></h3>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong><a href="/files/Sec_1_WA3_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">Secondary 1 WA3 Schedule and Topics</a></strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sec_2_WA3_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">Secondary 2 WA3 Schedule and Topics</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sec_3_WA3_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">Secondary 3 WA3 Schedule and Topics</a></strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3><strong>2025 Semester 2 Timetable</strong></h3>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sem_2_TT_25_Jun_Sec_1.pdf" rel="noopener nofollow" target="_blank">Semester 2 Timetable for Sec 1</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sem_2_TT_25_Jun_Sec_2.pdf" rel="noopener nofollow" target="_blank">Semester 2 Timetable for Sec 2</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sem_2_TT_25_Jun_Sec_3.pdf" rel="noopener nofollow" target="_blank">Semester 2 Timetable for Sec 3</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sem_2_TT_25_Jun_Sec_4___5.pdf" rel="noopener nofollow" target="_blank">Semester 2 Timetable for Sec 4 &amp; 5</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <hr>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Semester 1</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<h3><strong>2025 WA2 Schedules and Topics</strong></h3>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sec_1_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 1 (2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sec_2_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 2 (2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sec_3_WA2_Parent_Letter_2025__updated_for_POA_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 3 (2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sec_4_and_5_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 4 &amp; 5 (2025)</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>_______________________________________________________________________________</p>
-<p></p>
-<p>Dear students,</p>
-<p>Nominate your favourite inspiring teacher for the following prestigious
-awards by 4th April 2025 and 11th May 2025.Show your appreciation for your
-teachers through nomination. Thank you!</p>
-<p></p><a class="isomer-image-wrapper" href="https://zb.sg/dclta2025"><img style="width: 100%" height="auto" width="100%" alt="Distinguished Chinese Language teacher Award" src="/images/Screenshot_2025_04_03_095317.png"></a>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/agab2025"><img style="width: 100%" height="auto" width="100%" alt="Distinguished Malay Language teacher Award" src="/images/Screenshot_2025_04_03_095302.png"></a>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tamil teachers" src="/images/Screenshot_2025_04_03_095242.png">
-</div>
-<p></p>
-</div>
-</details>
-</div>
 <h3>Student Handbook</h3>
 <p>Dear students, you may access the <a href="https://sites.google.com/moe.edu.sg/yhss-handbook-site/home?pli=1" rel="noopener noreferrer nofollow" target="_blank">YHSS Student Handbook</a> for
 information on the expectations for attire, academic matters and co-curricular
