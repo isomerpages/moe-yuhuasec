@@ -5,8 +5,60 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
-<p></p>
-<h4><strong>Subject Selection for Sec 2</strong></h4>
+<hr>
+<h3>Financial Assistance Scheme (FAS) 2026</h3>
+<p>Please click&nbsp;<a href="/files/MOE_FAS_Application_Form_2026_final.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+more information on FAS or refer to the&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>&nbsp;for
+further information.</p>
+<p><strong>Application Process</strong>
+</p>
+<p>Option 1: Online application</p>
+<p>Option 1a.</p>
+<p>Complete the online application via this link&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank"> https://go.gov.sg/moe-efas</a>&nbsp;or
+by scanning the QR code below.&nbsp;Singpass login is required.</p>
+<div class="isomer-image-wrapper">
+<img style="width:30%" height="auto" width="100%" src="/images/11111111.jpg">
+</div>
+<p>Option 1b. eFAS link in PG’s services section.</p>
+<div class="isomer-image-wrapper">
+<img style="width:40%" height="auto" width="100%" src="/images/122222222.jpg">
+</div>
+<p>Option 2: Via hardcopy/ softcopy application form</p>
+<p>Download the MOE FAS application form&nbsp;<a href="/files/MOE_FAS_Application_Form_2026_final.pdf" rel="noopener nofollow" target="_blank">here</a> or collect
+the hardcopy form from the school’s General Office. &nbsp;Please scan and
+email the required documents together with the completed form to&nbsp;
+<a href="mailto:yuhua_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yuhua_ss@moe.edu.sg</a>,&nbsp;attention to Mdm Lim Seok Har &amp; Mdm
+Noraini.&nbsp;&nbsp;Alternatively, the form and documents can be submitted/mailed
+to the school’s General Office.</p>
+<hr>
+<p><strong>2026 Booklists</strong>
+</p>
+<p>Secondary 2 (2026)</p>
+<p><a href="/files/YHSS_2026_S2_G1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G1</a>
+</p>
+<p><a href="/files/YHSS_2026_S2_G2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G2</a>
+</p>
+<p><a href="/files/YHSS_2026_S2_G3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G3</a>
+</p>
+<p>Secondary 3 (2026)</p>
+<p><a href="/files/YHSS_2026_S3_G1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 G1</a>
+</p>
+<p><a href="/files/YHSS_2026_S3_G2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 G2</a>
+</p>
+<p><a href="/files/YHSS_2026_S3_G3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 G3</a>
+</p>
+<p>Secondary 4 (2026)</p>
+<p><a href="/files/YHSS_2026_S4_NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal (Technical)</a>
+</p>
+<p><a href="/files/YHSS_2026_S4_NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal (Academic)</a>
+</p>
+<p><a href="/files/YHSS_2026_S4_EXP.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Express</a>
+</p>
+<p>Secondary 5 (2026)</p>
+<p><a href="/files/YHSS_2026_S5_NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 Normal (Academic)</a>
+</p>
+<hr>
+<h4><strong>Subject Selection for Sec 2 (2025)</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -55,81 +107,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<h3><strong>EYE_Schedule_2025</strong></h3>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><a href="/files/Sec_1_EYE_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1 EYE Schedule</a>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sec_2_EYE_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2 EYE Schedule</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sec_3_EYE_Schedule_2025_v2.pdf" rel="noopener nofollow" target="_blank">Secondary 3 EYE Schedule</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/2025_Letter_to_Parents_for_EYE_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Letter</a></strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3><strong>2025 N and O Level Preliminary Examination Schedule</strong></h3>
-<p><a href="/files/2025_N_Level_Prelim_Schedule_v1.pdf" rel="noopener nofollow" target="_blank">N Level Prelim</a>
-</p>
-<p><a href="/files/2025_O_Level_Prelim_Schedule_v1.pdf" rel="noopener nofollow" target="_blank">O Level Prelim</a>
-</p>
-<h3><strong>2025: Term 3 Parent Letter</strong></h3>
-<p>Dear Parents,
-<br>You may access the Term 3 Letter to Parents below:</p>
-<p><a href="/files/Term_3_Letter.pdf" rel="noopener nofollow" target="_blank">Term 3 Letter</a>
-</p>
-<h3><strong>2025 Semester 2 Timetable</strong></h3>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sem_2_TT_25_Jun_Sec_1.pdf" rel="noopener nofollow" target="_blank">Semester 2 Timetable for Sec 1</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sem_2_TT_25_Jun_Sec_2.pdf" rel="noopener nofollow" target="_blank">Semester 2 Timetable for Sec 2</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sem_2_TT_25_Jun_Sec_3.pdf" rel="noopener nofollow" target="_blank">Semester 2 Timetable for Sec 3</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sem_2_TT_25_Jun_Sec_4___5.pdf" rel="noopener nofollow" target="_blank">Semester 2 Timetable for Sec 4 &amp; 5</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <hr>
 <h3><strong>2025: Upper Secondary Parent-Teacher Meeting slides</strong></h3>
 <p>Dear Parents,
@@ -140,135 +117,10 @@ below:</p>
 <p><a href="/files/2025_YHSS_Start_Of_Year_Slides_from_P__Upper_Sec_PTM_.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's sharing slides for Upper Sec PTM (2025)</a>
 </p>
 <hr>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Semester 1</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<h3><strong>2025 WA2 Schedules and Topics</strong></h3>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sec_1_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 1 (2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sec_2_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 2 (2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sec_3_WA2_Parent_Letter_2025__updated_for_POA_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 3 (2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Sec_4_and_5_WA2_Parent_Letter_2025__final_.pdf" rel="noopener nofollow" target="_blank">WA2 for Secondary 4 &amp; 5 (2025)</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h3>2025: Term 2 Timetables</h3>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Term_2_TT_Sec_1.pdf" rel="noopener nofollow" target="_blank">Secondary 1 (Term2-2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Term_2_TT_Sec_2.pdf" rel="noopener nofollow" target="_blank">Secondary 2 (Term2-2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Term_2_TT_Sec_3.pdf" rel="noopener nofollow" target="_blank">Secondary 3(Term2-2025)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Term_2_TT_Sec_4_and_5.pdf" rel="noopener nofollow" target="_blank">Secondary 4&amp;5 (Term2-2025)</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h3>2025 Booklists</h3>
-<p>Secondary 2 (2025)</p>
-<p><a href="/files/2025_Sec_2_G1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G1</a>
-</p>
-<p><a href="/files/2025_Sec_2_G2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G2</a>
-</p>
-<p><a href="/files/2025_Sec_2_G3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G3</a>
-</p>
-<p>Secondary 3 (2025)</p>
-<p><a href="/files/2025_Sec_3_NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Normal (Technical)</a>
-</p>
-<p><a href="/files/2025_Sec_3_NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Normal (Academic)</a>
-</p>
-<p><a href="/files/2025_Sec_3_Exp.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Express</a>
-</p>
-<p>Secondary 4 (2025)</p>
-<p><a href="/files/2025_Sec_4_NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal (Technical)</a>
-</p>
-<p><a href="/files/2025_Sec_4_NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Normal (Academic)</a>
-</p>
-<p><a href="/files/2025_Sec_4_Exp.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Express</a>
-</p>
-<p>Secondary 5 (2025)</p>
-<p><a href="/files/2025_Sec_5__NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 Normal (Academic)</a>
-</p>
-</div>
-</details>
-</div>
-<hr>
 <h3>Student Handbook</h3>
 <p>Dear parents, you may access <a href="https://sites.google.com/moe.edu.sg/yhss-handbook-site/home?pli=1" rel="noopener noreferrer nofollow" target="_blank">YHSS Student Handbook</a> for
 more information on the expectations for students, academic matters and
 co-curricular matters.</p>
-<hr>
-<h3>Financial Assistance Scheme (FAS)</h3>
-<p>Please click&nbsp;<a href="/files/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
-information on FAS or refer to the&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>&nbsp;for
-further information.</p>
-<p><strong>Application Process</strong>
-</p>
-<p>Option 1: Online application</p>
-<p>Option 1a.</p>
-<p>Complete the online application via this link&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank"> https://go.gov.sg/moe-efas</a>&nbsp;or
-by scanning the QR code below.&nbsp;Singpass login is required.</p>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/11111111.jpg">
-</div>
-<p>Option 1b. eFAS link in PG’s services section.</p>
-<div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/122222222.jpg">
-</div>
-<p>Option 2: Via hardcopy/ softcopy application form</p>
-<p>Download the MOE FAS application form&nbsp;<a href="/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;or collect
-the hardcopy form from the school’s General Office. &nbsp;Please scan and
-email the required documents together with the completed form to&nbsp;
-<a href="mailto:yuhua_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yuhua_ss@moe.edu.sg</a>,&nbsp;attention to Mdm Lim Seok Har &amp; Mdm
-Noraini.&nbsp;&nbsp;Alternatively, the form and documents can be submitted/mailed
-to the school’s General Office.</p>
 <hr>
 <h3>Parents Gateway</h3>
 <p>Dear Parents,&nbsp;</p>
