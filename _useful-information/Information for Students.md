@@ -5,7 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Students 2025</strong></h1>
-<h4><strong>Subject Selection for Sec 2</strong></h4>
+<h4><strong>Subject Selection for Sec 2 </strong></h4>
+<h4><strong>for Sec 3(2026)</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
