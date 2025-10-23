@@ -58,7 +58,7 @@ to the school’s General Office.</p>
 <p><a href="/files/YHSS_2026_S5_NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 Normal (Academic)</a>
 </p>
 <hr>
-<h4><strong>Subject Selection for Sec 2 (2025)</strong></h4>
+<h4><strong>Subject Selection for Sec 2 (2025) for Sec 3(2026)</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
