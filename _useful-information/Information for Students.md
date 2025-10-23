@@ -5,33 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Students 2025</strong></h1>
-<p><strong>2026 Booklists</strong>
-</p>
-<p>Secondary 2 (2026)</p>
-<p><a href="https://cms.isomer.gov.sg/files/YHSS_2026_S2_G1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 2 G1</u></a>
-</p>
-<p><a href="https://cms.isomer.gov.sg/files/YHSS_2026_S2_G2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 2 G2</u></a>
-</p>
-<p><a href="https://cms.isomer.gov.sg/files/YHSS_2026_S2_G3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 2 G3</u></a>
-</p>
-<p>Secondary 3 (2026)</p>
-<p><a href="https://cms.isomer.gov.sg/files/YHSS_2026_S3_G1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 3 G1</u></a>
-</p>
-<p><a href="https://cms.isomer.gov.sg/files/YHSS_2026_S3_G2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 3 G2</u></a>
-</p>
-<p><a href="https://cms.isomer.gov.sg/files/YHSS_2026_S3_G3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 3 G3</u></a>
-</p>
-<p>Secondary 4 (2026)</p>
-<p><a href="https://cms.isomer.gov.sg/files/YHSS_2026_S4_NT.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 4 Normal (Technical)</u></a>
-</p>
-<p><a href="https://cms.isomer.gov.sg/files/YHSS_2026_S4_NA.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 4 Normal (Academic)</u></a>
-</p>
-<p><a href="https://cms.isomer.gov.sg/files/YHSS_2026_S4_EXP.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 4 Express</u></a>
-</p>
-<p>Secondary 5 (2026)</p>
-<p><a href="https://cms.isomer.gov.sg/files/YHSS_2026_S5_NA.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Secondary 5 Normal (Academic)</u></a>
-</p>
-<hr>
 <h4><strong>Subject Selection for Sec 2 (2025) for Sec 3(2026)</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -84,6 +57,33 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
+<p><strong>2026 Booklists</strong>
+</p>
+<p>Secondary 2 (2026)</p>
+<p><a href="https://cms.isomer.gov.sg/files/YHSS_2026_S2_G1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 2 G1</u></a>
+</p>
+<p><a href="https://cms.isomer.gov.sg/files/YHSS_2026_S2_G2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 2 G2</u></a>
+</p>
+<p><a href="https://cms.isomer.gov.sg/files/YHSS_2026_S2_G3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 2 G3</u></a>
+</p>
+<p>Secondary 3 (2026)</p>
+<p><a href="https://cms.isomer.gov.sg/files/YHSS_2026_S3_G1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 3 G1</u></a>
+</p>
+<p><a href="https://cms.isomer.gov.sg/files/YHSS_2026_S3_G2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 3 G2</u></a>
+</p>
+<p><a href="https://cms.isomer.gov.sg/files/YHSS_2026_S3_G3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 3 G3</u></a>
+</p>
+<p>Secondary 4 (2026)</p>
+<p><a href="https://cms.isomer.gov.sg/files/YHSS_2026_S4_NT.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 4 Normal (Technical)</u></a>
+</p>
+<p><a href="https://cms.isomer.gov.sg/files/YHSS_2026_S4_NA.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 4 Normal (Academic)</u></a>
+</p>
+<p><a href="https://cms.isomer.gov.sg/files/YHSS_2026_S4_EXP.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 4 Express</u></a>
+</p>
+<p>Secondary 5 (2026)</p>
+<p><a href="https://cms.isomer.gov.sg/files/YHSS_2026_S5_NA.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Secondary 5 Normal (Academic)</u></a>
+</p>
 <hr>
 <h3>Student Handbook</h3>
 <p>Dear students, you may access the <a href="https://sites.google.com/moe.edu.sg/yhss-handbook-site/home?pli=1" rel="noopener noreferrer nofollow" target="_blank">YHSS Student Handbook</a> for
