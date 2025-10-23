@@ -87,7 +87,7 @@ to the school’s General Office.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sec_2_Subject_Combination_for_2026_Sec_3G1_year_end__for_upload_.pdf" rel="noopener nofollow" target="_blank">Slides for G1 subject combinations</a>
+<p><a href="/files/2025_Sec_2_Subject_Combination_for_2026_Sec_3G1_V1.pdf" rel="noopener nofollow" target="_blank">Slides for G1 subject combinations</a>
 </p>
 </td>
 </tr>
