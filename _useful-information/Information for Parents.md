@@ -17,7 +17,7 @@ further information.</p>
 <p>Complete the online application via this link&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank"> https://go.gov.sg/moe-efas</a>&nbsp;or
 by scanning the QR code below.&nbsp;Singpass login is required.</p>
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/11111111.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAS_option1.png">
 </div>
 <p>Option 1b. eFAS link in PG’s services section.</p>
 <div class="isomer-image-wrapper">
