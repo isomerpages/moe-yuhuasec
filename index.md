@@ -59,7 +59,7 @@ sections:
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
       alt: Image alt text
   - infopic:
-      title: The NIE Caring Teacher Awards
+      title: NIE Caring Teacher Awards
       subtitle: "#NIECTA2026"
       id: infopic
       description: "Nominate caring teachers for The NIE Caring Teacher Awards
