@@ -65,7 +65,6 @@ sections:
       description: "Nominate caring teachers for The NIE Caring Teacher Awards
         #NIECTA2026!  Closing Date: 31 Dec 2025."
       button: Visit here!
-      alt: Image alt text
       url: www.cta.nie.edu.sg
       image: /images/NIE2.png
 ---
