@@ -59,10 +59,13 @@ sections:
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: The NIE Caring Teacher Awards
+      subtitle: "#NIECTA2026"
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: "Nominate caring teachers for The NIE Caring Teacher Awards
+        #NIECTA2026!  Closing Date: 31 Dec 2025."
+      button: Visit here!
       alt: Image alt text
+      url: www.cta.nie.edu.sg
+      image: /images/NIE2.png
 ---
