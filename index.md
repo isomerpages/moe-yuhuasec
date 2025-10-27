@@ -27,34 +27,6 @@ sections:
       button: Information for Parents
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
   - textcards:
-      title: EYE_Schedule_2025
-      id: textcards
-      cards:
-        - title: Secondary1
-          description: ""
-          linktext: EYE-Schedule
-          url: https://www.yuhuasec.moe.edu.sg/files/Sec_1_EYE_Schedule_2025.pdf
-        - title: Secondary2
-          description: ""
-          linktext: EYE_Schedule
-          url: https://www.yuhuasec.moe.edu.sg/files/Sec_2_EYE_Schedule_2025.pdf
-        - title: Secondary3
-          description: ""
-          linktext: EYE_Schedule
-          url: https://www.yuhuasec.moe.edu.sg/files/Sec_3_EYE_Schedule_2025_v2.pdf
-        - title: Parent Letter
-          description: ""
-          linktext: Exam matters
-          url: https://www.yuhuasec.moe.edu.sg/files/2025_Letter_to_Parents_for_EYE_final.pdf
-  - infobar:
-      title: Semester 2 Class Timetables
-      subtitle: Semester 2 timetables
-      id: infobar
-      description: You may find the Semester 2 timetables for each class under
-        Information for Students using the link below.
-      button: Information for students
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
-  - textcards:
       title: 2025 Upper Secondary PTM materials
       id: textcards
       description: Text card description
