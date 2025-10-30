@@ -20,7 +20,7 @@ sections:
           url: /useful-information-and-links/school-calendar
         - title: Yuhua Open House
           description: Click here!
-          url: ""
+          url: https://sites.google.com/moe.edu.sg/yhss-e-openhouse?usp=sharing
   - infopic:
       title: Open House
       subtitle: The Yuhua Heartbeat
