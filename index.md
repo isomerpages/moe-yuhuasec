@@ -38,6 +38,15 @@ sections:
         2 and FAQs under Information for Parents.
       button: Information for Parents
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
+  - infopic:
+      title: NIE Caring Teacher Awards
+      subtitle: "#NIECTA2026"
+      id: infopic
+      description: 'Nominate caring teachers for "The NIE Caring Teacher
+        Awards"  #NIECTA2026!  Closing Date: 31 Dec 2025.'
+      button: Visit here!
+      url: www.cta.nie.edu.sg
+      image: /images/NIE2.png
   - textcards:
       title: 2025 Upper Secondary PTM materials
       id: textcards
@@ -70,13 +79,4 @@ sections:
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
       alt: Image alt text
-  - infopic:
-      title: NIE Caring Teacher Awards
-      subtitle: "#NIECTA2026"
-      id: infopic
-      description: 'Nominate caring teachers for "The NIE Caring Teacher
-        Awards"  #NIECTA2026!  Closing Date: 31 Dec 2025.'
-      button: Visit here!
-      url: www.cta.nie.edu.sg
-      image: /images/NIE2.png
 ---
