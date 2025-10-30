@@ -67,4 +67,13 @@ sections:
       button: Visit here!
       url: www.cta.nie.edu.sg
       image: /images/NIE2.png
+  - infopic:
+      title: Open House
+      subtitle: The Yuhua Heartbeat
+      id: infopic
+      description: "29th Nov (Sat): 8AM-1PM"
+      button: More info Click Here
+      url: https://sites.google.com/moe.edu.sg/yhss-e-openhouse?usp=sharing
+      image: /images/WhatsApp_Image_2025_10_30_at_11_30_36_AM.jpg
+      alt: Image alt text
 ---
