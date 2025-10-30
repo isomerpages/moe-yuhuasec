@@ -30,6 +30,16 @@ sections:
       url: https://sites.google.com/moe.edu.sg/yhss-e-openhouse?usp=sharing
       image: /images/WhatsApp_Image_2025_10_30_at_11_30_36_AM.jpg
       alt: Image alt text
+  - infopic:
+      title: YH Café
+      subtitle: Yuhua in the news
+      description: Our canteen was featured in Lianhe Zaobao recently. An inviting
+        space for students to dine and play amidst lush greenery, it's
+        definitely been a big hit!
+      button: click here to read the article!
+      url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
+      image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
+      alt: Image alt text
   - infobar:
       title: Secondary 2 Subject Selection
       subtitle: Sec 2 Subject Selection 2025
@@ -47,6 +57,15 @@ sections:
       button: Visit here!
       url: www.cta.nie.edu.sg
       image: /images/NIE2.png
+  - infopic:
+      title: Yearbook
+      id: infopic
+      description: Click on the link below to find out more about the events and
+        achievements of our school
+      button: Link to YHSS YEARBOOK
+      url: https://drive.google.com/file/d/1cSL9Ngm7nnIj6x8raOWHhbEcKl163s6Z/view?usp=drive_web
+      alt: Image alt text
+      image: /images/yhssllp4.png
   - textcards:
       title: 2025 Upper Secondary PTM materials
       id: textcards
@@ -60,23 +79,4 @@ sections:
           description: ""
           linktext: Learn more
           url: https://www.yuhuasec.moe.edu.sg/files/2025_YHSS_Start_Of_Year_Slides_from_P__Upper_Sec_PTM_.pdf
-  - infopic:
-      title: Yearbook
-      id: infopic
-      description: Click on the link below to find out more about the events and
-        achievements of our school
-      button: Link to YHSS YEARBOOK
-      url: https://drive.google.com/file/d/1cSL9Ngm7nnIj6x8raOWHhbEcKl163s6Z/view?usp=drive_web
-      alt: Image alt text
-      image: /images/yhssllp4.png
-  - infopic:
-      title: YH Café
-      subtitle: Yuhua in the news
-      description: Our canteen was featured in Lianhe Zaobao recently. An inviting
-        space for students to dine and play amidst lush greenery, it's
-        definitely been a big hit!
-      button: click here to read the article!
-      url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
-      image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
-      alt: Image alt text
 ---
