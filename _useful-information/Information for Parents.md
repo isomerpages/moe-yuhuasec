@@ -17,7 +17,7 @@ further information.</p>
 <p>Complete the online application via this link&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank"> https://go.gov.sg/moe-efas</a>&nbsp;or
 by scanning the QR code below.&nbsp;Singpass login is required.</p>
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/11111111.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/FAS_option1.png">
 </div>
 <p>Option 1b. eFAS link in PG’s services section.</p>
 <div class="isomer-image-wrapper">
@@ -58,7 +58,7 @@ to the school’s General Office.</p>
 <p><a href="/files/YHSS_2026_S5_NA.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 Normal (Academic)</a>
 </p>
 <hr>
-<h4><strong>Subject Selection for Sec 2 (2025)</strong></h4>
+<h4><strong>Subject Selection for Sec 2 (2025) for Sec 3(2026)</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -87,7 +87,7 @@ to the school’s General Office.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sec_2_Subject_Combination_for_2026_Sec_3G1_year_end__for_upload_.pdf" rel="noopener nofollow" target="_blank">Slides for G1 subject combinations</a>
+<p><a href="/files/2025_Sec_2_Subject_Combination_for_2026_Sec_3G1_V1.pdf" rel="noopener nofollow" target="_blank">Slides for G1 subject combinations</a>
 </p>
 </td>
 </tr>

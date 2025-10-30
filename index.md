@@ -15,9 +15,21 @@ sections:
         - title: YHSS Flickr page
           description: Access our school photos here!
           url: https://flickr.com/photos/197130688@N02/albums
+        - title: Yuhua Open House
+          description: Click here!
+          url: https://sites.google.com/moe.edu.sg/yhss-e-openhouse?usp=sharing
         - title: Calendar of Events
           description: Click here!
           url: /useful-information-and-links/school-calendar
+  - infopic:
+      title: Open House
+      subtitle: The Yuhua Heartbeat
+      id: infopic
+      description: "29th Nov (Sat): 8AM-1PM"
+      button: Click here!
+      url: https://sites.google.com/moe.edu.sg/yhss-e-openhouse?usp=sharing
+      image: /images/WhatsApp_Image_2025_10_30_at_11_30_36_AM.jpg
+      alt: Image alt text
   - infobar:
       title: Secondary 2 Subject Selection
       subtitle: Sec 2 Subject Selection 2025
@@ -26,34 +38,6 @@ sections:
         2 and FAQs under Information for Parents.
       button: Information for Parents
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
-  - textcards:
-      title: EYE_Schedule_2025
-      id: textcards
-      cards:
-        - title: Secondary1
-          description: ""
-          linktext: EYE-Schedule
-          url: https://www.yuhuasec.moe.edu.sg/files/Sec_1_EYE_Schedule_2025.pdf
-        - title: Secondary2
-          description: ""
-          linktext: EYE_Schedule
-          url: https://www.yuhuasec.moe.edu.sg/files/Sec_2_EYE_Schedule_2025.pdf
-        - title: Secondary3
-          description: ""
-          linktext: EYE_Schedule
-          url: https://www.yuhuasec.moe.edu.sg/files/Sec_3_EYE_Schedule_2025_v2.pdf
-        - title: Parent Letter
-          description: ""
-          linktext: Exam matters
-          url: https://www.yuhuasec.moe.edu.sg/files/2025_Letter_to_Parents_for_EYE_final.pdf
-  - infobar:
-      title: Semester 2 Class Timetables
-      subtitle: Semester 2 timetables
-      id: infobar
-      description: You may find the Semester 2 timetables for each class under
-        Information for Students using the link below.
-      button: Information for students
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
   - textcards:
       title: 2025 Upper Secondary PTM materials
       id: textcards
@@ -86,4 +70,13 @@ sections:
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
       alt: Image alt text
+  - infopic:
+      title: NIE Caring Teacher Awards
+      subtitle: "#NIECTA2026"
+      id: infopic
+      description: 'Nominate caring teachers for "The NIE Caring Teacher
+        Awards"  #NIECTA2026!  Closing Date: 31 Dec 2025.'
+      button: Visit here!
+      url: www.cta.nie.edu.sg
+      image: /images/NIE2.png
 ---
