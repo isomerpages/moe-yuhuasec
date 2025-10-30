@@ -18,6 +18,9 @@ sections:
         - title: Calendar of Events
           description: Click here!
           url: /useful-information-and-links/school-calendar
+        - title: Yuhua Open House
+          description: Click here!
+          url: ""
   - infopic:
       title: Open House
       subtitle: The Yuhua Heartbeat
