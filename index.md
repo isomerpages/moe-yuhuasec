@@ -15,12 +15,12 @@ sections:
         - title: YHSS Flickr page
           description: Access our school photos here!
           url: https://flickr.com/photos/197130688@N02/albums
-        - title: Calendar of Events
-          description: Click here!
-          url: /useful-information-and-links/school-calendar
         - title: Yuhua Open House
           description: Click here!
           url: https://sites.google.com/moe.edu.sg/yhss-e-openhouse?usp=sharing
+        - title: Calendar of Events
+          description: Click here!
+          url: /useful-information-and-links/school-calendar
   - infopic:
       title: Open House
       subtitle: The Yuhua Heartbeat
