@@ -62,7 +62,7 @@ and dedication will allow us to build on the Yuhua Concert Band’s legacy.</p>
 </tbody>
 </table>
 <h3>Our Team</h3>
-<p><strong>Teachers:</strong> 
+<p><strong>Teachers:</strong>
 </p>
 <p>Ms Koh Li Yun Jamie (OIC)</p>
 <p>Mr Kenneth Yeo (2IC)</p>
