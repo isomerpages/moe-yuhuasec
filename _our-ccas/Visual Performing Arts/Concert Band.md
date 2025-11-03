@@ -6,8 +6,9 @@ third_nav_title: Visual Performing Arts
 variant: tiptap
 ---
 <h1><strong>Concert Band</strong></h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_04_22_at_9_43_09_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_31_at_4_01_54_PM__3_.jpg">
 </div><pre><code>       Our Motto: "Dedication Leads to Excellence"</code></pre>
 <h3>Background</h3>
 <p>The school merger in 2019 resulted in the merger of the Concert Bands
@@ -37,25 +38,29 @@ and dedication will allow us to build on the Yuhua Concert Band’s legacy.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_04_22_at_9_43_08_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_31_at_4_01_48_PM.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_04_22_at_9_43_08_AM__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_31_at_4_01_54_PM__4_.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_04_22_at_9_43_05_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_31_at_4_01_54_PM.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_04_22_at_9_43_04_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_31_at_4_01_54_PM__1_.jpg">
 </div>
 </td>
 </tr>
