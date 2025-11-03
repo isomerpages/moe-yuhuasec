@@ -6,8 +6,9 @@ third_nav_title: Visual Performing Arts
 variant: tiptap
 ---
 <h1><strong>Concert Band</strong></h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_04_22_at_9_43_09_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_31_at_4_01_54_PM__3_.jpg">
 </div><pre><code>       Our Motto: "Dedication Leads to Excellence"</code></pre>
 <h3>Background</h3>
 <p>The school merger in 2019 resulted in the merger of the Concert Bands
@@ -37,41 +38,48 @@ and dedication will allow us to build on the Yuhua Concert Band’s legacy.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_04_22_at_9_43_08_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_31_at_4_01_48_PM.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_04_22_at_9_43_08_AM__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_31_at_4_01_54_PM__4_.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_04_22_at_9_43_05_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_31_at_4_01_54_PM.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_04_22_at_9_43_04_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_31_at_4_01_54_PM__1_.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>Our Team</h3>
-<p><strong>Teachers:</strong> 
-<br>Ms Koh Li Yun Jamie (OIC)
-<br>Mr Kenneth Yeo (2IC)
-<br>Ms Sunarti Bte Abdul Wahab
-<br>Mr Arfah Lubis
-<br>Ms Wu Xiaoying</p>
+<p><strong>Teachers:</strong>
+</p>
+<p>Ms Koh Li Yun Jamie (OIC)</p>
+<p>Mr Kenneth Yeo (2IC)</p>
+<p>Ms Sunarti Bte Abdul Wahab</p>
+<p>Mr Arfah Lubis</p>
+<p>Mr Tommy Wong</p>
+<p>Ms Wu Xiaoying</p>
+<p></p>
 <p><strong>Student Leaders:</strong> 
-<br><strong>Band Leader</strong>: Ang Hui Juan(3 Flourish)&nbsp;
-<br><strong>Band Leader</strong>: Aponesto Franz Graeden(3 Connect)
-<br><strong>Band Leader</strong>: Yuvvika Therumaraj(3 Respect)&nbsp;</p>
+<br><strong>Band Leader</strong>: NORFASANAZ BINTE MUHAMMAD NORASIF (3 Respect)
+<br><strong>Band Leader</strong>: AMBER LEE ZHI YAO (3 Connect))
+<br><strong>Band Leader</strong>: DANICK THAW TAR MIN (3 Connect)&nbsp;</p>
 <h4><strong>Key events/Achievements:</strong></h4>
 <p>-Concert Band Mini Concert 2024
 <br>- Singapore Youth Festival Arts Presentation (2023, 2021, 2019)

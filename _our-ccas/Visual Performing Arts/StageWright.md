@@ -6,8 +6,9 @@ third_nav_title: Visual Performing Arts
 variant: tiptap
 ---
 <h1><strong>StageWright</strong></h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/sw.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_2025.jpg">
 </div>
 <h3>Background</h3>
 <p>The Yuhua Stagewright Society was started in 2013, in an attempt to offer
@@ -38,31 +39,63 @@ while showing their talents.</p>
 <p>CCA Training sessions</p>
 </li>
 <li>
-<p>Performances for school events (eg: Teachers’ Day Performance (video)
-2023; CNY Concert 2024)</p>
+<p>Performances for school events - Teachers’ Day Performance (video) 2023;
+CNY Concert 2024, Aesthetics Day 2024</p>
 </li>
 <li>
 <p>Mini drama festival: students conceptualise and write their own scripts</p>
 </li>
 <li>
-<p>Singapore Youth Festival Arts Presentation 2023 &nbsp;</p>
+<p>Singapore Youth Festival Arts Presentation 2025</p>
 </li>
 </ul>
 <h3>Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>SYF AP 2023 (Certificate of Accomplishment)</p>
+<p>International Science Drama Competition 2025 (2nd)</p>
+</li>
+<li>
+<p>T.H.R.I.V.E Day 2025: Exploring AI Drama Competition (2nd)</p>
+</li>
+<li>
+<p>SYF AP 2023, 2025 (Certificate of Accomplishment)</p>
 </li>
 </ul>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sw2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/syf1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sw3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/syf2.jpg">
 </div>
-<p>|</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sw%205.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/syf3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/syf4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aes_day.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aesthetics_day.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cny.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prop.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/props.png">
 </div>
 <p></p>

@@ -6,8 +6,9 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h1><strong>National Civil Defence Cadet Corps</strong></h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC_Photo_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC_2025_Background___Alvin_Ng.png">
 </div>
 <h3>Background</h3>
 <p>Yuhua NCDCC aims to equip our cadets with the Triangle of Life skills,
@@ -25,9 +26,6 @@ and emergencies.</p>
 <p>Mr Alvin Ng Kiat Hou (OIC)</p>
 </li>
 <li>
-<p>Mr Kamaroazmir Kamaruddin(2IC)</p>
-</li>
-<li>
 <p>Ms Ellavarasi D/O Kulasajagaran</p>
 </li>
 <li>
@@ -38,16 +36,20 @@ and emergencies.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Unit Sergeant Major (USM): SSG Bardelosa Andrey Arshavin Luczon</p>
+<p>Unit Sergeant Major (USM): SGT Raihanah Binte Abdul Rahman</p>
 </li>
 <li>
-<p>Assistant Sergeant Major (ASM): SSG Rosetiaralina Binte Rosli</p>
+<p>Assistant Sergeant Major (ASM): SGT Soo Kai Ting</p>
 </li>
 <li>
-<p>Regiment Sergeant Major (RSM): SGT Rizq Rifqi Bin Herman Filani</p>
+<p>Regiment Sergeant Major (RSM): SGT Harshni D/O Teena Thayalan</p>
 </li>
 </ul>
 <h3>Key Events of the Year</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC_2025_Training_Programme___Alvin_Ng.jpg">
+</div>
 <p><strong>Training Programme</strong>&nbsp;</p>
 <p>Yuhua NCDCC provides opportunities for our cadets to hone their leadership
 and communication skills while serving the school through the administering
@@ -60,6 +62,10 @@ Civil Defence knowledge through visits to notable sites like the Civil
 Defence Heritage Gallery and Civil Defence shelters. The cadets put their
 skills to the test by participating in events organised by the Home Team
 Academy, including the Urban Adventure Challenge and Precision Drill Competition.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC_2025_Key_Events___Alvin_Ng.jpg">
+</div>
 <p><strong>Key events of the year</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -88,13 +94,11 @@ Civil Defence knowledge</p>
 <p>Precision Drill Competition</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/ncdcc1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/ncdcc2.png">
-</div>
 <h3>Achievements</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC_2025_Achievements___Alvin_Ng.png">
+</div>
 <p><strong>SSCDF - NCDCC Pinnacle Award</strong>
 </p>
 <ul data-tight="true" class="tight">
