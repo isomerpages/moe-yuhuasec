@@ -25,9 +25,6 @@ and emergencies.</p>
 <p>Mr Alvin Ng Kiat Hou (OIC)</p>
 </li>
 <li>
-<p>Mr Kamaroazmir Kamaruddin(2IC)</p>
-</li>
-<li>
 <p>Ms Ellavarasi D/O Kulasajagaran</p>
 </li>
 <li>
@@ -38,13 +35,13 @@ and emergencies.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Unit Sergeant Major (USM): SSG Bardelosa Andrey Arshavin Luczon</p>
+<p>Unit Sergeant Major (USM): SGT Raihanah Binte Abdul Rahman</p>
 </li>
 <li>
-<p>Assistant Sergeant Major (ASM): SSG Rosetiaralina Binte Rosli</p>
+<p>Assistant Sergeant Major (ASM): SGT Soo Kai Ting</p>
 </li>
 <li>
-<p>Regiment Sergeant Major (RSM): SGT Rizq Rifqi Bin Herman Filani</p>
+<p>Regiment Sergeant Major (RSM): SGT Harshni D/O Teena Thayalan</p>
 </li>
 </ul>
 <h3>Key Events of the Year</h3>
