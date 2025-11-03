@@ -38,20 +38,26 @@ while showing their talents.</p>
 <p>CCA Training sessions</p>
 </li>
 <li>
-<p>Performances for school events (eg: Teachers’ Day Performance (video)
-2023; CNY Concert 2024)</p>
+<p>Performances for school events - Teachers’ Day Performance (video) 2023;
+CNY Concert 2024, Aesthetics Day 2024</p>
 </li>
 <li>
 <p>Mini drama festival: students conceptualise and write their own scripts</p>
 </li>
 <li>
-<p>Singapore Youth Festival Arts Presentation 2023 &nbsp;</p>
+<p>Singapore Youth Festival Arts Presentation 2025</p>
 </li>
 </ul>
 <h3>Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>SYF AP 2023 (Certificate of Accomplishment)</p>
+<p>International Science Drama Competition 2025 (2nd)</p>
+</li>
+<li>
+<p>T.H.R.I.V.E Day 2025: Exploring AI Drama Competition (2nd)</p>
+</li>
+<li>
+<p>SYF AP 2023, 2025 (Certificate of Accomplishment)</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
