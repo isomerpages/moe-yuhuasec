@@ -6,8 +6,9 @@ third_nav_title: Visual Performing Arts
 variant: tiptap
 ---
 <h1><strong>Choir</strong></h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/choir7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_SYF_2025___Pamela_He_Hui_Mei.jpg">
 </div>
 <h3>Background</h3>
 <p>Formed in 2016, the Yuhua Secondary School Choir is an energetic CCA that
@@ -40,7 +41,7 @@ even to the wider society in meaningful ways.</p>
 <p>Ms Lek Mei Xuan</p>
 </li>
 </ul>
-<p><strong>Conductors:</strong> 
+<p><strong>Conductors:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -119,77 +120,24 @@ Panelists (Nationwide approach due to Covid-19)</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YHSS_CNY_Concert_2025___Pamela_He_Hui_Mei.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Masterclass_2025___Pamela_He_Hui_Mei.jpg">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Choral Masterclass with Ms Sonia Nadya Simanjuntak (Indonesia)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Concert Attendance: ONE with André van der Merwe Chamber Choir Concert</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Concert_Attendance__YST___Pamela_He_Hui_Mei.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics_Day_Collab_with_Dance___Pamela_He_Hui_Mei.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Choir Exchange at St Andrew’s Secondary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Performance in the school hall</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_girls___Pamela_He_Hui_Mei.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir6.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>The YHSS Choir with the teachers, conductor Ms Wynne Lee and pianist Ms
-Khew Yun Zhen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF Day: Taking a short break during our SYF preparations</p>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/choir8.png">
-</div>
-<p>Photo @sota after SYF AP performance 2023</p>
 <p></p>
