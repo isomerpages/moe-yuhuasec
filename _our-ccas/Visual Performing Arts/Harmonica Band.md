@@ -36,8 +36,11 @@ inspire and guide the Band towards new musical heights — true to our motto:
 <br>Ms Eileen Teng
 <br>Mr Chew Kechang</p>
 <h3>Student Leaders</h3>
-<p><strong>Chairperson:</strong> Toh Zixun (3 Flourish)
-<br><strong>Vice Chairperson:</strong> Sim Shu Qi Yvonne (3 Resilience)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_10_at_11_43_16_AM.jpg">
+</div>
+<p><strong>Chairperson:</strong> Toh Zixun (3 Flourish)</p>
 <p><strong>Sectional Leaders</strong>: Esther Poon Qi Hua (3 Responsibility)</p>
 <p>Emerald Win (3 Resilience)</p>
 <p>Callie Eng Yan Ying (3 Flourish)</p>
@@ -149,7 +152,7 @@ at Singapore Raffles Music College</p>
 </tr>
 </tbody>
 </table>
-<p><a href="https://drive.google.com/open?id=1D2KXQCWkexUutAGEB0sJh0Ps9Nw81VrO&amp;usp=drive_copy" rel="noopener nofollow" target="_blank">Click to watch us in action! </a>
+<p><a href="https://drive.google.com/open?id=1D2KXQCWkexUutAGEB0sJh0Ps9Nw81VrO&amp;usp=drive_copy" rel="noopener nofollow" target="_blank">Click to watch us in action!</a>
 </p>
 <h3>Social Media</h3>
 <p>Follow our Harmonica Band on Instagram: @yhhbfamily</p>
