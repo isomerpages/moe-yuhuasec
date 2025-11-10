@@ -28,9 +28,8 @@ have multiple opportunities to explore the arts, ignite their interests,
 pursue their passion, and grow their talents. In school, students also
 have access to various performing arts spaces to enjoy a leisurely jam
 session, or perform for an audience.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -39,12 +38,6 @@ session, or perform for an audience.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.jpg">
-</div>
-</th>
-<th rowspan="3" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/download.png">
 </div>
 </th>
 </tr>
