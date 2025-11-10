@@ -40,12 +40,21 @@ even to the wider society in meaningful ways.</p>
 <p>Ms Lek Mei Xuan</p>
 </li>
 </ul>
-<p><strong>Conductors:</strong> Ms Wynne Lee
-<br>Mr Jonathan MacPherson</p>
-<p><strong>2023 - 2024 Student Leaders</strong>
+<p><strong>Conductors:</strong> 
 </p>
-<p>President: Manisha D/o Supaiah (3 Care)
-<br>Vice-President: Razanah Binte Hirwan (3 Contribute)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Wynne Lee</p>
+</li>
+<li>
+<p>Mr Jonathan MacPherson</p>
+</li>
+</ul>
+<p><strong>2025 - 2026 Student Leaders</strong>
+</p>
+<p><strong>President</strong>: Eva Tan Yi En (3 Connect)</p>
+<p><strong>Vice-President</strong>: Lam Hui Xin Gloria (3 Flourish)</p>
+<p><strong>Secretary</strong>: Villanueva Aivelle Leighanne Abanes (3 Flourish)</p>
 <h4>Key Events/Achievements:</h4>
 <table style="minWidth: 25px">
 <colgroup>
@@ -56,14 +65,17 @@ even to the wider society in meaningful ways.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>SYF AP 2023 Certificate of Accomplishment</p>
+<p>SYF AP 2025: Certificate of Accomplishment</p>
 </li>
 <li>
-<p>SYF AP 2021 Participation via audio recording submission; Feedback by
+<p>SYF AP 2023: Certificate of Accomplishment</p>
+</li>
+<li>
+<p>SYF AP 2021: Participation via audio recording submission; Feedback by
 Panelists (Nationwide approach due to Covid-19)</p>
 </li>
 <li>
-<p>SYF AP 2019 Certificate of Accomplishment</p>
+<p>SYF AP 2019: Certificate of Accomplishment</p>
 </li>
 </ul>
 </td>
@@ -72,34 +84,35 @@ Panelists (Nationwide approach due to Covid-19)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Choral Masterclass with Ms Sonia Nadya Simanjuntak (Indonesia)</p>
+<p>Chinese New Year Performance at the Singapore Chinese Cultural Centre
+(Jan 2025)</p>
 </li>
 <li>
-<p>Concert Attendance: ONE with André van der Merwe Chamber Choir Concert&nbsp;</p>
+<p>Choral Masterclasses with Mr Mak Chi Hoe (Mar 2025)</p>
 </li>
 <li>
-<p>Choir Exchange at St Andrew’s Secondary School</p>
+<p>Choir Exchange at Dunman High School (Mar 2025)</p>
 </li>
 <li>
-<p>Biannual Singapore Youth Festival (SYF) Arts Presentation</p>
+<p>Singapore Youth Festival (SYF) Arts Presentation (Apr 2025)</p>
 </li>
 <li>
-<p>Performances in school and at external events, such as the National Day
-Heartland celebrations with SportSG</p>
+<p>Concert Attendance: Echoes Across Continents @ YST (Jun 2025)</p>
 </li>
 <li>
-<p>Performance for the school’s World Book Day in March 2024</p>
+<p>Annual Choir Bonding Day (Sep 2025)</p>
 </li>
 <li>
-<p>Choral Masterclass with Ms Chen Anyu (Kaohsiung) in March 2024</p>
+<p>Aesthetics Day Performance Collaboration with Dance (Oct 2025)</p>
 </li>
 <li>
-<p>Performance for KAM Festival @ 10: A Choral Celebration II at School of
-the Arts (SOTA) on 5th May 2024, together with 4 other choirs (including
-a Thai choir)</p>
+<p>Choir VIA Day (Oct 2025)</p>
 </li>
 <li>
-<p>National Day Performance at Jurong Spring CC in August 2024</p>
+<p>National Day Heartland Celebrations (2023, 2024)</p>
+</li>
+<li>
+<p>Other Performances in school and at external venues</p>
 </li>
 </ul>
 </td>
