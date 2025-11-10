@@ -75,8 +75,8 @@ note the following:</p>
 National Youth Chinese Orchestra / Singapore Symphony Children’s Choir</p>
 </li>
 <li>
-<p>Indicate interest to study O-Level Music to music teacher(s) at Yuhua
-Secondary School</p>
+<p>Indicate interest to study G3 Music to music teacher(s) at Yuhua Secondary
+School</p>
 </li>
 </ul>
 <p><strong>At Secondary Two:</strong>
