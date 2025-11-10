@@ -6,10 +6,6 @@ third_nav_title: Clubs and Societies
 variant: tiptap
 ---
 <h1><strong>Media Resource Library</strong></h1>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Library" src="/images/Screenshot_2024_11_14_152820.png">
-</div>
 <h3>Background</h3>
 <p><strong>Our Vision</strong>
 <br>A vibrant library that empowers learning</p>
@@ -64,11 +60,9 @@ student librarians empower fellow Yuhuans to become responsible readers
 and conscientious citizens of the 21st century.</p>
 <p><strong>Thematic displays:</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture10t.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/library%201.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_05_at_11_57_38_PM__1_.jpg">
 </div>
 <p>The student librarians create thematic displays based on both local and
 international writers. These displays showcase a wide range of genres and
@@ -97,7 +91,7 @@ student librarians and teachers inspire a love for reading and storytelling
 among their peers.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture11t.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_05_at_11_57_38_PM.jpg">
 </div>
 <p><strong>Storytelling Workshop:</strong>
 </p>
@@ -114,7 +108,7 @@ librarians with essential communication skills, fostering greater confidence
 and poise when addressing an audience.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture15t.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_05_at_11_52_09_PM__2_.jpg">
 </div>
 <h3><strong>Achievements:</strong></h3>
 <ol data-tight="true" class="tight">
@@ -126,11 +120,11 @@ and poise when addressing an audience.</p>
 </ol>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture12t.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_04_at_5_46_05_PM.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture13t.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_05_at_11_52_09_PM__1_.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -192,8 +186,9 @@ and poise when addressing an audience.</p>
 <p>Read.Create.SG60 Competition</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture14t.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_05_at_11_52_09_PM.jpg">
 </div>
+<p></p>
 </li>
 </ol>
 <table style="minWidth: 50px">
