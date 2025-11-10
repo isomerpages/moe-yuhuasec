@@ -6,28 +6,29 @@ third_nav_title: Visual Performing Arts
 variant: tiptap
 ---
 <h1><strong>Harmonica Band</strong></h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250326_WA0005___Shamim_Nisa_Yassin.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
 </div>
 <h3>Background</h3>
-<p>The Yuhua Harmonica Band was formed in 1986 and it has become a close-knit
-family whose main interest is in promoting musical diversity through the
-use of harmonica music among the students in the school. Besides cultivating
-members’ musical talents and providing opportunities for members to explore
-a wide range of genres, especially using the harmonica to play current
-hit songs, the Band also hones the leadership and team-playing abilities
-of the members. Students with little or no musical background have been
-trained to enjoy, appreciate and have an intrinsic love for music. Today,
-the Yuhua Harmonica Band is under the baton of our very own alumnus, Ms
-He Hui Teng, who grew her passion for harmonica music while she was in
-the school Band. She, together with all the teachers-in-charge, are dedicated
-to bringing Yuhua Harmonica Band to greater heights, just as our motto
-goes “Unite as One, to Achieve and Excel”.
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250327_WA0001___Shamim_Nisa_Yassin.jpg">
-</div>
+<p>Formed in 1986, the Yuhua Harmonica Band has grown into a close-knit family
+united by a shared passion for music. The Band’s mission is to promote
+musical diversity and appreciation through the expressive and versatile
+sounds of the harmonica.</p>
+<p>Beyond nurturing members’ musical talents, the Band provides a platform
+for students to explore a wide range of genres — from classical and traditional
+pieces to contemporary pop hits — demonstrating the harmonica’s unique
+ability to bridge generations and styles.</p>
+<p>The Band also plays a vital role in developing leadership, teamwork, and
+confidence among its members. Many students join with little or no prior
+musical background, yet through patient guidance and dedicated practice,
+they discover the joy of performing and a lifelong appreciation for music.</p>
+<p>Today, the Band is proud to be led by Ms. He Hui Teng, a passionate alumnus
+who first discovered her love for harmonica music right here in Yuhua.
+Together with a team of committed teachers-in-charge, she continues to
+inspire and guide the Band towards new musical heights — true to our motto:
+“Unite as One, to Achieve and Excel."</p>
+<p></p>
 <h3>Our Team</h3>
 <p><strong>Teachers</strong>
 <br>Ms Shamim Nisa Binte Yassin (OIC)
@@ -35,48 +36,127 @@ goes “Unite as One, to Achieve and Excel”.
 <br>Ms Eileen Teng
 <br>Mr Chew Kechang</p>
 <h3>Student Leaders</h3>
-<p><strong>Chairperson:</strong> Toh Zixun (3 Flourish)
-<br><strong>Vice Chairperson:</strong> Sim Shu Qi Yvonne (3 Resilience)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20250329_WA0009___Shamim_Nisa_Yassin.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_10_at_11_43_16_AM.jpg">
 </div>
-<h3>Key Programmes</h3>
+<p><strong>Chairperson:</strong> Toh Zixun (3 Flourish)</p>
+<p><strong>Sectional Leaders</strong>: Esther Poon Qi Hua (3 Responsibility)</p>
+<p>Emerald Win (3 Resilience)</p>
+<p>Callie Eng Yan Ying (3 Flourish)</p>
+<p>Lim Ming Ze (3 Flourish)</p>
+<p><strong>Quarter Masters</strong>: Toh Shi An (3 Connect)</p>
+<p>Ethan Lim Zen Feng (3 Flourish)</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2gg.png">
+</div>
+<h3>Key Events</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Youth Festival 2024 (SYF2024) Celebrations</p>
+<p>Aesthetics Day 2022 Performance Collaboration with Dance CCA</p>
 </li>
 <li>
-<p>Singapore Youth Festival Arts Presentation (2023)</p>
-</li>
-<li>
-<p>PAssion Arts Festival (2023, 2024)</p>
-</li>
-<li>
-<p>GetActive! Singapore Heartlands Festival 2023 with SportsSg</p>
-</li>
-<li>
-<p>Performances for school events (Chinese New Year concert, JOY of Yuhua)</p>
-</li>
-<li>
-<p>Aesthetic Day performance collaboration with other CCA groups</p>
+<p>Performances for School Events (Chinese New Year Concert, JOY of Yuhua)</p>
 </li>
 <li>
 <p>M.A.D. For Recycling (Make A Difference) Values-In-Action (VIA) Project
-organised by the Kreta Ayer - Kim Seng Youth Network branch of the People’s
+organised by the Kreta Ayer - Kim Seng Youth Network Branch of the People’s
 Association</p>
 </li>
+<li>
+<p>Singapore Youth Festival Arts Presentation 2023</p>
+</li>
+<li>
+<p>GetActive! Singapore Heartlands Festival 2023 with SportsSG</p>
+</li>
+<li>
+<p>PAssion Arts Festival 2023, 2024</p>
+</li>
+<li>
+<p>Singapore Youth Festival 2024 Celebrations</p>
+</li>
+<li>
+<p>Singapore Youth Festival Arts Presentation 2025</p>
+</li>
+<li>
+<p>VIA Project 2025 with TASEK at NTUC Health Active Ageing Centre (Jurong
+Central)</p>
+</li>
+<li>
+<p>Mini Concert and Exchange with Edgefield Secondary School and Spresso
+at Singapore Raffles Music College</p>
+</li>
+<li>
+<p>Performance at National Library Building</p>
+<p></p>
+</li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/hb.jpg">
-</div>
 <h3>Achievements</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>SYF AP 2023 (Certificate of Distinction)</p>
 </li>
+<li>
+<p>SYF AP 2025 (Certificate of Distinction)</p>
+</li>
 </ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__12_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3u.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4u.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5u.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6u.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7u.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8u.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://drive.google.com/open?id=1D2KXQCWkexUutAGEB0sJh0Ps9Nw81VrO&amp;usp=drive_copy" rel="noopener nofollow" target="_blank">Click to watch us in action!</a>
+</p>
+<h3>Social Media</h3>
+<p>Follow our Harmonica Band on Instagram: @yhhbfamily</p>
+<p><a href="https://www.instagram.com/yhhbfamily/" rel="noopener nofollow" target="_blank">https://www.instagram.com/yhhbfamily/</a>
+</p>
+<p></p>
 <p></p>
