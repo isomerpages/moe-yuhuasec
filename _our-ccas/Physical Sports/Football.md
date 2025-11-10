@@ -51,12 +51,6 @@ Sufian
 </p>
 <p><strong>2023 C Division National School Games (League 5) - 3rd Placing</strong>
 </p>
-<p><strong>2024 C Division National School Games (League 4) - Champion </strong>
+<p><strong>2024 C Division National School Games (League 4) - Champion</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website_Refresh_2024_Football_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website_Refresh_2024_Football_3.jpg">
-</div>
 <p></p>
