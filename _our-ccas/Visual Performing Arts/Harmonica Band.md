@@ -149,9 +149,11 @@ at Singapore Raffles Music College</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="https://drive.google.com/open?id=1D2KXQCWkexUutAGEB0sJh0Ps9Nw81VrO&amp;usp=drive_copy" rel="noopener nofollow" target="_blank">Click to watch us in action! </a>
+</p>
 <h3>Social Media</h3>
 <p>Follow our Harmonica Band on Instagram: @yhhbfamily</p>
 <p><a href="https://www.instagram.com/yhhbfamily/" rel="noopener nofollow" target="_blank">https://www.instagram.com/yhhbfamily/</a>
 </p>
+<p></p>
 <p></p>
