@@ -48,7 +48,7 @@ competitions, and providing audio-visual support for school events.</p>
 <p><strong>Vice-President</strong>:</p>
 </li>
 <li>
-<p></p>
+<p><strong>Committee member: </strong>Chan Zhen Yi Tuyet Nhi</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
