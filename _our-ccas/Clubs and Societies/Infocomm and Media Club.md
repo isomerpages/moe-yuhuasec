@@ -37,9 +37,6 @@ competitions, and providing audio-visual support for school events.</p>
 </li>
 </ul>
 <h3>Student Leaders</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -49,7 +46,8 @@ competitions, and providing audio-visual support for school events.</p>
 <th rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>President:</strong>&nbsp;Nur Aleesyia Bilqis Binte Mohamed Saiful</p>
+<p><strong>President:</strong>&nbsp;<strong>Nur Aleesyia Bilqis Binte Mohamed Saiful</strong>
+</p>
 </li>
 </ul>
 </th>
@@ -92,8 +90,6 @@ competitions, and providing audio-visual support for school events.</p>
 </tr>
 </tbody>
 </table>
-</li>
-</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_members.jpg">
 </div>
