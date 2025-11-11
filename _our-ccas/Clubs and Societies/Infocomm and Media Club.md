@@ -69,6 +69,29 @@ competitions, and providing audio-visual support for school events.</p>
 </div>
 <p><strong>Students’ learning outcome:</strong>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/media_club.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/media_club_2.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><u>Perspective Drawings:</u>
 </p>
 <div class="isomer-image-wrapper">
