@@ -39,13 +39,19 @@ competitions, and providing audio-visual support for school events.</p>
 <h3>Student Leaders</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>President:</strong>&nbsp;Lim Kun Wei Alexander Granville</p>
+<p><strong>President:</strong>&nbsp;Nur Aleesyia Bilqis Binte Mohamed Saiful</p>
 </li>
 <li>
-<p><strong>Vice-President</strong>: Muhammad Shahrul Nizam Bin Mohamed Mazlan</p>
+<p><strong>Vice-President</strong>: Koh Jian Hao Raiden</p>
 </li>
 <li>
-<p><strong>Vice-President</strong>: Ong Jun Hong Frederick</p>
+<p><strong>Vice-President</strong>: Dhia Syarafana Binte Mohammad Azhar</p>
+</li>
+<li>
+<p><strong>Committee Leader: </strong>Chan Zhen Yi Tuyet Nhi</p>
+</li>
+<li>
+<p><strong>Committee Leader:</strong> Hesshnavi Sivashankar</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -57,14 +63,36 @@ competitions, and providing audio-visual support for school events.</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/2abc.png">
 </div>
-<p><strong>External Programmes / Achievements</strong>:
-<br>
-</p>
+<p><strong>External Programmes / Achievements</strong>:</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/infocom1.png">
 </div>
 <p><strong>Students’ learning outcome:</strong>
 </p>
+<p><u>VR &amp; AR Immersive experience:</u>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/media_club.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/media_club_2.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><u>Perspective Drawings:</u>
 </p>
 <div class="isomer-image-wrapper">
