@@ -6,6 +6,11 @@ variant: tiptap
 ---
 <h1><strong>Information for Students 2025</strong></h1>
 <h4><strong>Subject Selection for Sec 2 (2025) for Sec 3(2026)</strong></h4>
+<p>The instructions for checking the Sec 3 subject and form class allocation
+are appended below.</p>
+<p><a href="/files/Instructions_on_how_to_check_Sec_3_subject_allocation.pdf" rel="noopener nofollow" target="_blank">Instructions on how to check Sec 3 subject allocation</a>
+</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
