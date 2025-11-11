@@ -63,9 +63,7 @@ competitions, and providing audio-visual support for school events.</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/2abc.png">
 </div>
-<p><strong>External Programmes / Achievements</strong>:
-<br>
-</p>
+<p><strong>External Programmes / Achievements</strong>:</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/infocom1.png">
 </div>
