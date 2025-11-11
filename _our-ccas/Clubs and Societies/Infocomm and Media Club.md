@@ -42,9 +42,7 @@ competitions, and providing audio-visual support for school events.</p>
 <p><strong>President:</strong>&nbsp;Nur Aleesyia Bilqis Binte Mohamed Saiful</p>
 </li>
 <li>
-<p><strong>Vice-President</strong>:</p>
-</li>
-<li>
+<p><strong>Vice-President</strong>: Koh Jian Hao Raiden</p>
 <p><strong>Vice-President</strong>:</p>
 </li>
 <li>
