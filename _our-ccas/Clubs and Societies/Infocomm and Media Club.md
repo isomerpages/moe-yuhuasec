@@ -39,19 +39,59 @@ competitions, and providing audio-visual support for school events.</p>
 <h3>Student Leaders</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>President:</strong>&nbsp;Nur Aleesyia Bilqis Binte Mohamed Saiful</p>
 </li>
+</ul>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Vice-President</strong>: Koh Jian Hao Raiden</p>
 </li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Vice-President</strong>: Dhia Syarafana Binte Mohammad Azhar</p>
 </li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Committee Leader: </strong>Chan Zhen Yi Tuyet Nhi</p>
 </li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Committee Leader:</strong> Hesshnavi Sivashankar</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
