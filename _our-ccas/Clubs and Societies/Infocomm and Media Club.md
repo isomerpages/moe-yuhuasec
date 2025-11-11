@@ -69,7 +69,8 @@ competitions, and providing audio-visual support for school events.</p>
 </div>
 <p><strong>Students’ learning outcome:</strong>
 </p>
-<p></p>
+<p><u>VR &amp; AR Immersive experience:</u>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
