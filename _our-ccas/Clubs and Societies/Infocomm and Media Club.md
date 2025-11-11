@@ -39,13 +39,16 @@ competitions, and providing audio-visual support for school events.</p>
 <h3>Student Leaders</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>President:</strong>&nbsp;Lim Kun Wei Alexander Granville</p>
+<p><strong>President:</strong>&nbsp;Nur Aleesyia Bilqis Binte Mohamed Saiful</p>
 </li>
 <li>
-<p><strong>Vice-President</strong>: Muhammad Shahrul Nizam Bin Mohamed Mazlan</p>
+<p><strong>Vice-President</strong>:</p>
 </li>
 <li>
-<p><strong>Vice-President</strong>: Ong Jun Hong Frederick</p>
+<p><strong>Vice-President</strong>:</p>
+</li>
+<li>
+<p></p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
