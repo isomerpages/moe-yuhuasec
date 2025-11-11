@@ -43,10 +43,13 @@ competitions, and providing audio-visual support for school events.</p>
 </li>
 <li>
 <p><strong>Vice-President</strong>: Koh Jian Hao Raiden</p>
-<p><strong>Vice-President</strong>:</p>
+<p><strong>Vice-President</strong>:Dhia Syarafana Binte Mohammad Azhar</p>
 </li>
 <li>
-<p><strong>Committee member: </strong>Chan Zhen Yi Tuyet Nhi</p>
+<p><strong>Committee Leader: </strong>Chan Zhen Yi Tuyet Nhi</p>
+</li>
+<li>
+<p><strong>Committee Leader:</strong> Hesshnavi Sivashankar</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
