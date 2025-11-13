@@ -44,7 +44,8 @@ embody teamwork, discipline and resilience.</p>
 <p><strong>Vice-captain</strong>: Javier Lee Jun Hong (3 Connect)</p>
 </li>
 <li>
-<p>Vice-captain: Mohamed Raquib Rayn bin Mohamed Reduwan (3 Contribute)</p>
+<p><strong>Vice-captain</strong>: Mohamed Raquib Rayn bin Mohamed Reduwan
+(3 Contribute)</p>
 <p></p>
 </li>
 </ul>
