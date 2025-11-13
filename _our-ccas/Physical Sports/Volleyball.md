@@ -34,23 +34,26 @@ embody teamwork, discipline and resilience.</p>
 <p>Boys</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain</strong>: Fabian Lim Kai Feng(3 Responsibilty)</p>
+<p><strong>Captain</strong>: Kuan Yan Rui (3 Connect)</p>
 </li>
 <li>
-<p><strong>Vice-captain</strong>: Mak Jun Rong Deon(3 Resilience)</p>
+<p><strong>Vice-captain</strong>: Javier Lee Jun Hong (3 Connect)</p>
+</li>
+<li>
+<p>Vice-captain: Mohamed Raquib Rayn bin Mohamed Reduwan (3 Contribute)</p>
 <p></p>
 </li>
 </ul>
 <p>Girls</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain</strong>: Goh Zi Xuan (3 Flourish)</p>
+<p><strong>Captain</strong>: Nurul Amelyana binte Zaini (3 Care)</p>
 </li>
 <li>
-<p><strong>Vice-captain</strong>: Joey Teh Liu xuan(3 Adaptability)</p>
+<p><strong>Vice-captain</strong>: Nurbaqirah binte M Zahaid (3 Care)</p>
 </li>
 <li>
-<p><strong>Vice-captain</strong>: Darlyn bong yee fang(3 Responsibilty)</p>
+<p><strong>Vice-captain</strong>: Ayris Sophia binte Asri (3 Care)</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
