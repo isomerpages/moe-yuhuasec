@@ -122,5 +122,11 @@ Promotion Committee (MLLPC))</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Talent Development/ML_scrabble.png">
 </div>
+<h4><strong>Art and Music Talent Development Programme</strong></h4>
+<p>
+<br>Students participate in external competitions like SYF Youth Festival
+and Chingay for additional exposure to the local arts scene.</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
