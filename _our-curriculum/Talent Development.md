@@ -79,4 +79,48 @@ Action’, the programme provides opportunities for students to deepen their
 understanding of Humanities-related issues while developing essential skills
 and dispositions to contribute meaningfully to school and society.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Talent Development/Screenshot_2025_11_13_114618.png">
+</div>
+<p></p>
+<h4><strong>Mother Tongue Languages Programme</strong></h4>
+<p>The Mother Tongue Department’s Talent Development Plan aims to help students
+deepen their connection to their culture, use their mother tongue confidently
+in authentic situations, and develop effective communication skills to
+thrive in today’s world.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Selected students from Sec 1-4 with stronger foundation and results in
+CL, based on PSLE and overall CL result, as well as student interest</p>
+</li>
+<li>
+<p>Competitions (National Text Recital Competition, Poetry Recitation Competition,
+Crosstalk, Xinyao Festival Competition, ML scrabble competition, TL Essay
+writing, Oratorical competition)</p>
+</li>
+<li>
+<p>Exposure to use of language in authentic contexts (Student Guide Festival
+Display for Dragon Boat Festival, training by Sun Yat Sen Memorial Hall,
+Rakan Bahasa untuk Bulan Bahasa Melayu (Malay Language Ambassadors throughout
+the Malay Language Month) organised by the Malay Language Learning and
+Promotion Committee (MLLPC))</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Talent Development/TL_competition_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Talent Development/TL_competition_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Talent Development/CL_Guiding.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Talent Development/ML_scrabble.png">
+</div>
+<p></p>
 <p></p>
