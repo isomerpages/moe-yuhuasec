@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Talent Development.md
       - Aesthetics Craft & Technology.md
       - CCE/.keep
       - CCE/Character & Citizenship Education.md

@@ -10,6 +10,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/54758207041_6678ba9dad_k.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_13_at_11_06_11_AM.jpg">
+</div>
 <h3>Background</h3>
 <p>Both Yuhua Secondary and Shuqun Secondary have a long history of excellence
 and success in Volleyball. This strength in Volleyball continued with the
@@ -34,44 +38,98 @@ embody teamwork, discipline and resilience.</p>
 <p>Boys</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain</strong>: Fabian Lim Kai Feng(3 Responsibilty)</p>
+<p><strong>Captain</strong>: Kuan Yan Rui (3 Connect)</p>
 </li>
 <li>
-<p><strong>Vice-captain</strong>: Mak Jun Rong Deon(3 Resilience)</p>
+<p><strong>Vice-captain</strong>: Javier Lee Jun Hong (3 Connect)</p>
+</li>
+<li>
+<p><strong>Vice-captain</strong>: Mohamed Raquib Rayn bin Mohamed Reduwan
+(3 Contribute)</p>
 <p></p>
 </li>
 </ul>
 <p>Girls</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain</strong>: Goh Zi Xuan (3 Flourish)</p>
+<p><strong>Captain</strong>: Nurul Amelyana binte Zaini (3 Care)</p>
 </li>
 <li>
-<p><strong>Vice-captain</strong>: Joey Teh Liu xuan(3 Adaptability)</p>
+<p><strong>Vice-captain</strong>: Nurbaqirah binte M Zahaid (3 Care)</p>
 </li>
 <li>
-<p><strong>Vice-captain</strong>: Darlyn bong yee fang(3 Responsibilty)</p>
+<p><strong>Vice-captain</strong>: Ayris Sophia binte Asri (3 Care)</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/53658055043_7d28ea31f4_c.jpg">
 </div>
 <h3><strong>Key Events / Achievements</strong></h3>
-<p><strong>Taiwan Trip November (2023)</strong>
+<p><strong>China Trip November (2025)</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_10_at_3_54_07_PM___Bey_Kian_Chu_Clement.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_10_at_3_54_07_PM__1____Bey_Kian_Chu_Clement.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_10_at_3_52_30_PM___Bey_Kian_Chu_Clement.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_10_at_3_52_28_PM___Bey_Kian_Chu_Clement.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_10_at_3_52_29_PM___Bey_Kian_Chu_Clement.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_10_at_3_52_26_PM___Bey_Kian_Chu_Clement.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_10_at_3_52_30_PM__1____Bey_Kian_Chu_Clement.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p><strong>Taiwan Trip November (2023)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__4_.png">
 </div>
 <p></p>
-<p><strong>2025: C Division Boys</strong>
+<p><strong>2025</strong>
+</p>
+<p><strong>B Division Boys</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>West Zone 3rd Runner up</p>
+</li>
+<li>
+<p>National Top 16</p>
+</li>
+</ul>
+<p><strong>C Division Boys</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>National School Games League 2 Runners-up</p>
 </li>
 </ul>
-<p><strong>2024: B division Boys</strong>
+<p><strong>2024</strong>
+</p>
+<p><strong>B division Boys</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -81,7 +139,16 @@ embody teamwork, discipline and resilience.</p>
 <p>National Top 4</p>
 </li>
 </ul>
-<p><strong>2023: C division Boys</strong>
+<p><strong>C Division Girls</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National School Games League 2 Champion</p>
+</li>
+</ul>
+<p><strong>2023</strong>
+</p>
+<p><strong>C division Boys</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
