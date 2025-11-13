@@ -127,6 +127,12 @@ Promotion Committee (MLLPC))</p>
 <br>Students participate in external competitions like SYF Youth Festival
 and Chingay for additional exposure to the local arts scene.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Talent Development/Chingay.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Talent Development/SYF_Youth_Fest.png">
+</div>
 <p></p>
 <p></p>
