@@ -10,6 +10,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/54758207041_6678ba9dad_k.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_13_at_11_06_11_AM.jpg">
+</div>
 <h3>Background</h3>
 <p>Both Yuhua Secondary and Shuqun Secondary have a long history of excellence
 and success in Volleyball. This strength in Volleyball continued with the
