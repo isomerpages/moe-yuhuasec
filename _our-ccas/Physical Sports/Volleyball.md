@@ -60,9 +60,45 @@ embody teamwork, discipline and resilience.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/53658055043_7d28ea31f4_c.jpg">
 </div>
 <h3><strong>Key Events / Achievements</strong></h3>
-<p><strong>Taiwan Trip November (2023)</strong>
+<p><strong>China Trip November (2025)</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_10_at_3_54_07_PM___Bey_Kian_Chu_Clement.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_10_at_3_54_07_PM__1____Bey_Kian_Chu_Clement.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_10_at_3_52_30_PM___Bey_Kian_Chu_Clement.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_10_at_3_52_28_PM___Bey_Kian_Chu_Clement.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_10_at_3_52_29_PM___Bey_Kian_Chu_Clement.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_10_at_3_52_26_PM___Bey_Kian_Chu_Clement.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_10_at_3_52_30_PM__1____Bey_Kian_Chu_Clement.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p><strong>Taiwan Trip November (2023)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__4_.png">
 </div>
