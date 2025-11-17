@@ -30,7 +30,7 @@ role of Science in our lives</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Talent Development/Picture1.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Talent Development/Picture1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -122,8 +122,8 @@ Promotion Committee (MLLPC))</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Talent Development/ML_scrabble.png">
 </div>
-<h4><strong>Art and Music Talent Development Programme</strong></h4>
-<p>
+<h4><strong>Craft &amp; Technology Talent Development Programme</strong></h4>
+<p><strong>Art and Music Talent Development Programme</strong>
 <br>Students participate in external competitions like SYF Youth Festival
 and Chingay for additional exposure to the local arts scene.</p>
 <p></p>
@@ -134,5 +134,30 @@ and Chingay for additional exposure to the local arts scene.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Talent Development/SYF_Youth_Fest.png">
 </div>
+<p><strong>Nutrition &amp; Food Science Talent Development Programme</strong>
+</p>
+<p>Selected NFS students undergo leadership training and mentoring with RespectSG,
+and have the opportunity to experience the F&amp;B industry through a three-week
+work attachment.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Talent Development/NFS_TDP_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Talent Development/NFS_TDP_4.jpg">
+</div>
+<p><strong>Design &amp; Technology Talent Development Programme</strong>
+</p>
+<p>The Sec 3 kokedama workshop provided D&amp;T students with the opportunity
+to experience the challenges gardeners face when making kokedama, helping
+them build empathy and design meaningful, user-focused kokedama holders.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Talent Development/DT_TDP_1.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
