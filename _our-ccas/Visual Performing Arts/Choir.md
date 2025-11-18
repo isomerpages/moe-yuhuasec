@@ -120,6 +120,13 @@ Panelists (Nationwide approach due to Covid-19)</p>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_desig.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_2025_outside_SOTA.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YHSS_CNY_Concert_2025___Pamela_He_Hui_Mei.jpg">
@@ -130,6 +137,9 @@ Panelists (Nationwide approach due to Covid-19)</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_VIA_Day.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Concert_Attendance__YST___Pamela_He_Hui_Mei.jpg">
 </div>
 <p></p>
@@ -139,5 +149,9 @@ Panelists (Nationwide approach due to Covid-19)</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_girls___Pamela_He_Hui_Mei.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_Bonding_Day_2025.jpg">
 </div>
 <p></p>

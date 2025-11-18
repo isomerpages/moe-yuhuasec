@@ -49,10 +49,10 @@ inspire and guide the Band towards new musical heights — true to our motto:
 <p>Ethan Lim Zen Feng (3 Flourish)</p>
 <p></p>
 <p></p>
+<h3>Key Events</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2gg.png">
 </div>
-<h3>Key Events</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Aesthetics Day 2022 Performance Collaboration with Dance CCA</p>
@@ -102,9 +102,8 @@ at Singapore Raffles Music College</p>
 <p>SYF AP 2025 (Certificate of Distinction)</p>
 </li>
 </ul>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -115,12 +114,30 @@ at Singapore Raffles Music College</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3u.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4u.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_17_at_6_56_58_PM__1_.jpg">
 </div>
-</th>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_17_at_7_00_37_PM.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_17_at_6_56_58_PM.jpg">
+</div>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -129,11 +146,29 @@ at Singapore Raffles Music College</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5u.png">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4u.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6u.png">
 </div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8u.jpg">
+</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -143,17 +178,9 @@ at Singapore Raffles Music College</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7u.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture8u.jpg">
-</div>
-</td>
 </tr>
 </tbody>
 </table>
-<p><a href="https://drive.google.com/open?id=1D2KXQCWkexUutAGEB0sJh0Ps9Nw81VrO&amp;usp=drive_copy" rel="noopener nofollow" target="_blank">Click to watch us in action!</a>
-</p>
 <h3>Social Media</h3>
 <p>Follow our Harmonica Band on Instagram: @yhhbfamily</p>
 <p><a href="https://www.instagram.com/yhhbfamily/" rel="noopener nofollow" target="_blank">https://www.instagram.com/yhhbfamily/</a>
