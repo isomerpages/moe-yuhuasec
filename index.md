@@ -57,6 +57,7 @@ sections:
       button: Visit here!
       url: www.cta.nie.edu.sg
       image: /images/NIE2.png
+      alt: NIE Caring Teacher Awards
   - infopic:
       title: Yearbook
       id: infopic
