@@ -71,6 +71,7 @@ to change.</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <p><strong>2. Inquiry-Rich and Hands-on Science Experiences</strong>
 </p>
 <p>Students take part in hands-on investigations that help them make sense
@@ -126,9 +127,8 @@ manage it, which led to an extended workshop where they experimented with
 different clean-up methods. Using droppers, spoons, straws, and cotton
 wool, students compared approaches, discussed their strengths and limitations,
 and observed a teacher demonstration of hair as an effective oil absorber.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -137,9 +137,6 @@ and observed a teacher demonstration of hair as an effective oil absorber.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Oil_Spill_Collage.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
