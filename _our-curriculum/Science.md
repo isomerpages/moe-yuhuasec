@@ -166,11 +166,8 @@ biodegradable materials together, applying scientific thinking to sustainability
 <p>STEM stations placed around the school provide open, low-barrier entry
 points for students to explore concepts beyond the classroom. These stations
 foster curiosity, agency, and independent learning.</p>
-<p><strong><em>&lt;Insert STEM Stations Photo&gt;</em></strong>
-</p>
 <hr>
-<p><strong>Science Competitions</strong>
-</p>
+<h4><strong>Science Competitions</strong></h4>
 <p>To stretch students with strong interest and aptitude, the department
 sends participants to national and international competitions such as:</p>
 <ul data-tight="true" class="tight">
@@ -194,7 +191,7 @@ sends participants to national and international competitions such as:</p>
 <p><strong>STEM Challenge</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AU_Big_Science_Competition_Collage.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/AU_Big_Science_Competition_Collage.png">
 </div>
 </li>
 </ul>
