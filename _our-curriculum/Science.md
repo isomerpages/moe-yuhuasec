@@ -14,6 +14,7 @@ instructors committed to nurturing curious, confident, and future-ready
 learners. Through meaningful learning experiences, authentic inquiry, and
 strong collaboration across disciplines, we inspire students to explore,
 question, and appreciate the world of Science.</p>
+<hr>
 <h4><strong>Our Vision</strong></h4>
 <p>A collaborative Science team that inspires curiosity and empowers every
 learner to explore, question, and grow as a confident, lifelong inquirer.</p>
@@ -21,6 +22,7 @@ learner to explore, question, and grow as a confident, lifelong inquirer.</p>
 <p>We collaborate to design meaningful Science learning experiences that
 spark curiosity, nurture e21CCs, and empower students to think critically
 and inquire confidently about the world around them.</p>
+<hr>
 <h4><strong>Signature Programme(s)</strong></h4>
 <p>Our programmes weave research-driven innovation, curriculum alignment,
 and purposeful use of school platforms to deepen inquiry and strengthen
@@ -72,6 +74,22 @@ to change.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>2. Inquiry-Rich and Hands-on Science Experiences</strong>
+</p>
+<p>Students take part in hands-on investigations that help them make sense
+of scientific concepts through real-world applications.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Separation Techniques: Coke vs. Coke Zero</strong>
+<br>Students applied scientific methods to verify sugar content in beverages.</p>
+</li>
+<li>
+<p><strong>Turmeric Natural Indicator<br></strong>Students explored acids,
+bases, and pH levels using a natural colour-changing indicator.</p>
 <p></p>
+<p></p>
+<p></p>
+</li>
+</ul>
 <p></p>
 <p></p>
