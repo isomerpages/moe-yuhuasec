@@ -52,14 +52,14 @@ to change.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="science" src="/images/ALP.png">
+<img style="width: 50%;" height="auto" width="100%" alt="science" src="/images/ALP.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Waterpods_Collage.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Waterpods_Collage.png">
 </div>
 </td>
 </tr>
@@ -92,14 +92,14 @@ bases, and pH levels using a natural colour-changing indicator.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Coke_Zero_Collage.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Coke_Zero_Collage.png">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tumeric_Collage.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Tumeric_Collage.png">
 </div>
 </td>
 </tr>
@@ -135,14 +135,14 @@ and observed a teacher demonstration of hair as an effective oil absorber.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Oil_Spill_Collage.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Oil_Spill_Collage.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<p><strong>4. Collaboration and Partnerships</strong>
+<p><strong>. Collaboration and Partnerships</strong>
 </p>
 <p>Collaboration within the department strengthens instructional practice.
 Teachers co-design lessons, share expertise, and support one another in
@@ -153,7 +153,7 @@ enhancing inquiry-based learning.</p>
 biodegradable materials together, applying scientific thinking to sustainability.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="science" src="/images/Bioplastics_Collage.png">
+<img style="width: 75%;" height="auto" width="100%" alt="science" src="/images/Bioplastics_Collage.png">
 </div>
 <hr>
 <p><strong>5. STEM Learning Stations</strong>
@@ -186,7 +186,7 @@ sends participants to national and international competitions such as:</p>
 <p><strong>STEM Challenge</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/AU_Big_Science_Competition_Collage.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/AU_Big_Science_Competition_Collage.png">
 </div>
 </li>
 </ul>
