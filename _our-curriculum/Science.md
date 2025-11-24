@@ -14,9 +14,6 @@ instructors committed to nurturing curious, confident, and future-ready
 learners. Through meaningful learning experiences, authentic inquiry, and
 strong collaboration across disciplines, we inspire students to explore,
 question, and appreciate the world of Science.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science%201.jpg">
-</div>
 <h4><strong>Our Vision</strong></h4>
 <p>A collaborative Science team that inspires curiosity and empowers every
 learner to explore, question, and grow as a confident, lifelong inquirer.</p>
@@ -25,4 +22,9 @@ learner to explore, question, and grow as a confident, lifelong inquirer.</p>
 spark curiosity, nurture e21CCs, and empower students to think critically
 and inquire confidently about the world around them.</p>
 <h4><strong>Signature Programme(s)</strong></h4>
+<p>Our programmes weave research-driven innovation, curriculum alignment,
+and purposeful use of school platforms to deepen inquiry and strengthen
+students' STEM confidence.</p>
+<p></p>
+<p></p>
 <p></p>
