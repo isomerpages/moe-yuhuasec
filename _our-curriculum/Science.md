@@ -7,24 +7,23 @@ variant: tiptap
 <h1><strong>Science</strong></h1>
 <h3>Our Team</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2024_science.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Science Dept" src="/images/New_Dept_Photo.jpg">
 </div>
-<h3>Department Introduction</h3>
-<p>The Yuhua Science Department comprises of 15 dedicated and caring Science
-teachers, as well as STEM instructors (Laboratory).</p>
+<p>The Science Department comprises a dedicated team of teachers and STEM
+instructors committed to nurturing curious, confident, and future-ready
+learners. Through meaningful learning experiences, authentic inquiry, and
+strong collaboration across disciplines, we inspire students to explore,
+question, and appreciate the world of Science.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science%201.jpg">
 </div>
-<p>The Department takes reference from MOE’s Science Curriculum Framework,
-which encapsulates the thrust of Science education in Singapore to prepare
-our students to be sufficiently adept as effective citizens, be able to
-function in and contribute to an increasingly technologically-driven society.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_10_07_132558.png">
-</div>
-<h3>Vision</h3>
-<p>&nbsp;A department that espouses the joy of learning Science through emphasis
-on the skills and values central to the practice of Science</p>
+<h4><strong>Our Vision</strong></h4>
+<p>A collaborative Science team that inspires curiosity and empowers every
+learner to explore, question, and grow as a confident, lifelong inquirer.</p>
+<h4><strong>Our Mission</strong></h4>
+<p>We collaborate to design meaningful Science learning experiences that
+spark curiosity, nurture e21CCs, and empower students to think critically
+and inquire confidently about the world around them.</p>
 <h3>Signature Programme(s)</h3>
 <p><strong>Science Competitions</strong>
 </p>
