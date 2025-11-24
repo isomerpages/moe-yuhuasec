@@ -135,15 +135,16 @@ and observed a teacher demonstration of hair as an effective oil absorber.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Oil_Spill_Collage.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Oil_Spill_Collage.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
-<p><strong>. Collaboration and Partnerships</strong>
+<p><strong>4. Collaboration and Partnerships</strong>
 </p>
+<p></p>
 <p>Collaboration within the department strengthens instructional practice.
 Teachers co-design lessons, share expertise, and support one another in
 enhancing inquiry-based learning.</p>
