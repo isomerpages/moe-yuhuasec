@@ -193,4 +193,3 @@ sends participants to national and international competitions such as:</p>
 </li>
 </ul>
 <p></p>
-<p></p>
