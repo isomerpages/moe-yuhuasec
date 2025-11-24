@@ -83,7 +83,69 @@ of scientific concepts through real-world applications.</p>
 <li>
 <p><strong>Turmeric Natural Indicator<br></strong>Students explored acids,
 bases, and pH levels using a natural colour-changing indicator.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Coke_Zero_Collage.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tumeric_Collage.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><strong>3. Contemporary Issues (CI) Sharing: Connecting Science to the Real World</strong>
+</p>
+<p>CI Sharing is a schoolwide platform where students explore current Science-related
+issues and connect them to classroom concepts.</p>
+<p>Examples include:</p>
+<p><strong>“The Unofficial Guide to Being Human” Exhibit</strong>
+</p>
+<p>Students examined the science behind screen time—how it affects learning,
+vision, and focus—linking their observations to concepts learned in Science
+lessons.</p>
+<p><strong>Plastic Pollution</strong>
+</p>
+<p>Students explored how plastics impact communities and ecosystems, laying
+the foundation for later Design Thinking activities and water pod prototyping.</p>
+<p><strong>Singapore Oil Spill in June 2024</strong>
+</p>
+<p>Students learned about the incident and the strategies used locally to
+manage it, which led to an extended workshop where they experimented with
+different clean-up methods. Using droppers, spoons, straws, and cotton
+wool, students compared approaches, discussed their strengths and limitations,
+and observed a teacher demonstration of hair as an effective oil absorber.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Oil_Spill_Collage.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 </li>
