@@ -147,7 +147,57 @@ and observed a teacher demonstration of hair as an effective oil absorber.</p>
 </tbody>
 </table>
 <p></p>
+<p><strong>4. Collaboration and Partnerships</strong>
+</p>
+<p>Collaboration within the department strengthens instructional practice.
+Teachers co-design lessons, share expertise, and support one another in
+enhancing inquiry-based learning.</p>
+<p>Partnerships with parents further enrich students’ experiences.</p>
+<p>
+<br><strong>Parent–Child STEM Workshop: Bioplastics<br></strong>Families explored
+biodegradable materials together, applying scientific thinking to sustainability.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="science" src="/images/Bioplastics_Collage.png">
+</div>
+<hr>
+<p><strong>5. STEM Learning Stations</strong>
+</p>
+<p>STEM stations placed around the school provide open, low-barrier entry
+points for students to explore concepts beyond the classroom. These stations
+foster curiosity, agency, and independent learning.</p>
+<p><strong><em>&lt;Insert STEM Stations Photo&gt;</em></strong>
+</p>
+<hr>
+<p><strong>Science Competitions</strong>
+</p>
+<p>To stretch students with strong interest and aptitude, the department
+sends participants to national and international competitions such as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Australian Big Science Competition</strong>
+</p>
+</li>
+<li>
+<p><strong>Ignite Skills Challenge</strong>
+</p>
+</li>
+<li>
+<p><strong>Singapore Junior Biology, Chemistry &amp; Physics Olympiads</strong>
+</p>
+</li>
+<li>
+<p><strong>Singapore National Crystal Growing Challenge</strong>
+</p>
+</li>
+<li>
+<p><strong>STEM Challenge</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AU_Big_Science_Competition_Collage.png">
+</div>
+</li>
+</ul>
 </li>
 </ul>
 <p></p>
