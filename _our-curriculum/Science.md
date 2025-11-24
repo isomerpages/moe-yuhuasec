@@ -25,6 +25,36 @@ and inquire confidently about the world around them.</p>
 <p>Our programmes weave research-driven innovation, curriculum alignment,
 and purposeful use of school platforms to deepen inquiry and strengthen
 students' STEM confidence.</p>
+<p><strong>1. STEM and Design Thinking in Science Learning</strong>
+</p>
+<p>We integrate Design Thinking into Science lessons and Applied Learning
+Programme (ALP) experiences to help students understand how scientific
+knowledge contributes to real-world solutions.</p>
+<p>Using plastic pollution as a schoolwide Contemporary Issues (CI) theme,
+students first examined the environmental impact of plastics to build empathy
+and awareness. They then engaged with STEM Learning Corners in the library,
+where authentic materials and curated activities guided them to define
+key challenges and ideate alternatives.</p>
+<p>Students who wished to extend their learning joined workshops to prototype
+water pods, exploring spherification and testing how changes in material
+concentration influenced membrane strength and texture. This process gave
+students a hands-on<strong> </strong>experience of how scientists study
+sustainable alternatives to plastics, showing them that they too can contribute
+to change.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waterpods_Collage.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
