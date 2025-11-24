@@ -146,7 +146,7 @@ and observed a teacher demonstration of hair as an effective oil absorber.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<hr>
 <p><strong>4. Collaboration and Partnerships</strong>
 </p>
 <p>Collaboration within the department strengthens instructional practice.
