@@ -90,7 +90,6 @@ bases, and pH levels using a natural colour-changing indicator.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Coke_Zero_Collage.png">
 </div>
@@ -98,7 +97,6 @@ bases, and pH levels using a natural colour-changing indicator.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tumeric_Collage.png">
 </div>
