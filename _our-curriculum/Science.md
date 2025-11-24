@@ -52,7 +52,7 @@ to change.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="science" src="/images/ALP.png">
+<img style="width: 75%;" height="auto" width="100%" alt="science" src="/images/ALP.png">
 </div>
 </td>
 </tr>
