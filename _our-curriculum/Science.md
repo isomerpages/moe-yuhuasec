@@ -50,13 +50,10 @@ to change.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>&lt;Insert Design Thinking Framework&gt;<br>&lt;Insert ALP Booth Photo&gt;</em></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="science" src="/images/ALP.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -68,7 +65,7 @@ to change.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>Water Pod Activity</em></strong>
+<p><strong><em>ALP &amp; Water Pod Activity</em></strong>
 </p>
 </td>
 </tr>
