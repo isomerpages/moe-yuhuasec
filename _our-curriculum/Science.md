@@ -63,12 +63,6 @@ to change.</p>
 </div>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><em>ALP &amp; Water Pod Activity</em></strong>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <hr>
@@ -191,6 +185,23 @@ sends participants to national and international competitions such as:</p>
 </div>
 </li>
 </ul>
+<hr>
+<p><strong>6. Sec 2 Science Talent Development Programme (2025)</strong>
+</p>
+<p>Launched in 2025, this pilot programme engages high-interest students
+in deeper inquiry through hands-on experiments and real-world investigations
+that extend beyond the formal curriculum.</p>
+<p></p>
+<p><strong>Watch our Sec 2 students in action:<br></strong><a href="https://www.youtube.com/watch?v=y93XPV6UrTw" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=y93XPV6UrTw</a>
+</p>
+<hr>
+<p><strong>7. Inspiring Students to Thrive</strong>
+</p>
+<p>Through these initiatives, students develop strong inquiry habits, confidence
+in STEM, and an appreciation for how Science shapes global and local issues.
+Our focus on Design Thinking, real-world relevance, and authentic problem-solving
+nurtures empathy, creativity, and resilience—dispositions essential for
+lifelong learning.</p>
 </li>
 </ul>
 <p></p>
