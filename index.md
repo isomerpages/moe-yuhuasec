@@ -21,6 +21,15 @@ sections:
         - title: Calendar of Events
           description: Click here!
           url: /useful-information-and-links/school-calendar
+  - infobar:
+      title: GCE N-LEVEL RESULTS RELEASE ON 18 DEC 2025
+      subtitle: GCE N-LEVEL RESULTS RELEASE
+      id: infobar
+      description: Dear parents / guardians, please click on the following link to see
+        the information relevant to the release of GCE N-Level results on 18 Dec
+        2025.
+      button: Information for Parents
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
   - infopic:
       title: Open House
       subtitle: The Yuhua Heartbeat
