@@ -30,15 +30,15 @@ sections:
         2025.
       button: Information for Parents
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
-  - infopic:
-      title: Open House
-      subtitle: The Yuhua Heartbeat
-      id: infopic
-      description: "29th Nov (Sat): 8AM-1PM"
-      button: Click here!
-      url: https://sites.google.com/moe.edu.sg/yhss-e-openhouse?usp=sharing
-      image: /images/WhatsApp_Image_2025_10_30_at_11_30_36_AM.jpg
-      alt: Image alt text
+  - infobar:
+      title: ECG on Post-Sec pathway and Sec 5 application form
+      subtitle: ECG and Sec 5 application
+      id: infobar
+      description: Dear students receiving your N-Level results, please click on the
+        link below for information about post-secondary pathways and the
+        application form for Sec 5.
+      button: ECG and Sec 5 application
+      url: https://sites.google.com/moe.edu.sg/yhstdasst?usp=sharing
   - infopic:
       title: YH Café
       subtitle: Yuhua in the news
@@ -49,14 +49,6 @@ sections:
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
       alt: Image alt text
-  - infobar:
-      title: Secondary 2 Subject Selection
-      subtitle: Sec 2 Subject Selection 2025
-      id: infobar
-      description: You may find the slides for the subject selection exercise for Sec
-        2 and FAQs under Information for Parents.
-      button: Information for Parents
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
   - infopic:
       title: NIE Caring Teacher Awards
       subtitle: "#NIECTA2026"
