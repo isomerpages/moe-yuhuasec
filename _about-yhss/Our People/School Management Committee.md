@@ -15,7 +15,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="mailto:YUHUA_SS@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kevin Pang</a>
+<p><a href="mailto:YUHUA_SS@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tang Hsin Wei</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -52,7 +52,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:TAN_CHEK_HENG@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Joshua Tan</a>
+<p><a href="mailto:lee_ngean_khim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Andy Lee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,7 +162,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (internal)
+<p>HOD
 <br>Science</p>
 </td>
 </tr>
