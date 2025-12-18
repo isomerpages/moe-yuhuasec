@@ -15,9 +15,9 @@ sections:
         - title: YHSS Flickr page
           description: Access our school photos here!
           url: https://flickr.com/photos/197130688@N02/albums
-        - title: Yuhua Open House
-          description: Click here!
-          url: https://sites.google.com/moe.edu.sg/yhss-e-openhouse?usp=sharing
+        - title: Secondary 1 Registration (2026)
+          description: For students posted to YHSS
+          url: https://sites.google.com/moe.edu.sg/2026sec1reg/sec-one-registration-for-2026
         - title: Calendar of Events
           description: Click here!
           url: /useful-information-and-links/school-calendar
