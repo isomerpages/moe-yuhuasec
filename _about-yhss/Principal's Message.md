@@ -5,59 +5,36 @@ description: ""
 variant: tiptap
 ---
 <h1>Principal's Message</h1>
-<p>On behalf of the school, my warmest greetings to all in this new year!
-I hope all Yuhuans hada wonderful break with your loved ones, all ready
-to start school. To all our new Secondary One students and families: my
-heartiest welcome!&nbsp;</p>
-<p>I lead Yuhua Secondary School with a new rallying theme each year – to
-unite all staff, students, and stakeholders with a common purpose. This
-year, the rallying theme is especially close to my heart: <strong>‘Be The Change, From Inside Out’.</strong> There
-are so many compelling reasons for this rallying theme, and I’ll outline
-them below.&nbsp;</p>
-<p>Firstly, it is my fervent desire to build generations of Yuhuans who are
-ready for the future. The future can be scary and challenging – and as
-a school, we must always prepare our students to guard against the triple
-evils of <strong>I-C-U</strong>:,</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Individualism and Instant Gratification</p>
-</li>
-<li>
-<p>Change and Uncertainty and</p>
-</li>
-<li>
-<p>Unhealthy Well Being Trends.</p>
-</li>
-</ol>
-<p>To do so, character comes first – and we must build resolute <strong>Above All, CARE3 values</strong> and
-a strong moral compass in each and every Yuhuan, to <strong>Be The Change, From Inside Out.</strong>
-</p>
-<p>Secondly, to build Yuhuan Changemakers – we equip our students to <strong>Care, Connect and Contribute with a Design Thinking Mindset</strong>.
-The future world needs not just problem solvers – but problem seekers.
-‘Care, Connect, Contribute’ speaks of a Design Thinking mindset, where
-every Yuhuan adopts empathy and curiosity to connect with issues they are
-passionate about, applying all that they have learnt to contribute towards
-change. Beginning from school, at home and into the larger society, our
-hope is to build Yuhuans who truly live out what it means to <strong>Be The Change.</strong>
-</p>
-<p>Lastly, this rallying theme transfers agency, ownership and power to each
-and every Yuhuan.&nbsp; We must <strong>believe in the ability and capacity of all Yuhuans to Be The Change.</strong> This
-rallying theme calls on each and every one of us – in school, and as stakeholders
-– to be entrusted with the power to make change within our own sphere of
-control.</p>
-<p>Put into context, this rallying theme is nothing new. In <strong>MOE’s Excellence in Action 2024</strong>,
-the school had the opportunity to share our approach to build our signature
-‘Care, Connect,Contribute’ with all school leaders and educators in Singapore.
-Do take time to view this video (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/eia2024markettalk-yhss</a>)
-to appreciate the history, ethos and passion of our school in building
-Yuhua Changemakers.</p>
-<p>As we head into 2025, I look forward to how Yuhuans role-model what it
-means to <strong>Be The Change, From Inside Out.</strong> Do follow our Instagram<strong> </strong>(@yuhuasecondaryschool)
-and Facebook (@yuhuass) as we share further highlights and<strong> </strong>achievements
-of our Yuhuan community over the year.</p>
-<p>I hope you are as excited as I am with 2025, and I look forward to your
-continued support and partnership in your child / ward’s education journey
-at Yuhua Secondary. Together, let’s Be The Change, From Inside Out!</p>
 <p></p>
-<p>Mr Kevin Pang
-<br>Principal, Yuhua Secondary School</p>
+<p></p>
+<p>Dear Parents, Students and Visitors of Yuhua Secondary School</p>
+<p>A Happy 2026 to you!</p>
+<p>I am Mr Tang Hsin Wei, and I’m privileged to be appointed the new principal
+of Yuhua Secondary in December 2025. As an educator for over 20 years,
+I have previously taught and guided students in 4 schools and worked in
+MOE Headquarters. I look forward to getting to meet and interact with all
+of you soon.</p>
+<p>Yuhua’s mission is to nurture students of character and purpose who <strong>Care</strong>, <strong>Connect</strong> and <strong>Contribute</strong>.
+Through our school curriculum, <a href="https://www.yuhuasec.moe.edu.sg/our-ccas/Visual-Performing-Arts/concert-band/" rel="noopener noreferrer nofollow" target="_blank">CCAs</a> and
+&nbsp;distinctive programmes of <a href="https://www.yuhuasec.moe.edu.sg/our-programmes/applied-learning-alp/" rel="noopener noreferrer nofollow" target="_blank">Yuhua Changemakers</a> and
+<a href="https://www.yuhuasec.moe.edu.sg/our-programmes/learning-for-life-llp/" rel="noopener noreferrer nofollow" target="_blank">M.E.L.O.D.Y</a>, Yuhuans will develop values of empathy and curiosity
+to connect with issues they are passionate about, and apply their skills
+and knowledge to contribute towards making a difference to their communities.</p>
+<p></p>
+<p>In recent years, our alumni <a href="https://www.facebook.com/yuhuass/posts/lee-kuan-yew-all-round-excellence-award-2023the-lky-are-is-a-national-level-awar/747894294013033/" rel="noopener noreferrer nofollow" target="_blank">Kei Win</a>,
+<a href="https://www.beritaharian.sg/singapura/niat-penuhi-amanah-arwah-ibu-banggakan-bapa-corak-remaja-jadi-pelajar-cemerlang-gce-n?fbclid=IwdGRzaAOx-7hjbGNrA7H68XNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHvg-I_IkzdZKJR7mxUfoHMlJYo8teGBXysOeG4cTSlMqoMLUH6Yj7QhTjhnF&amp;brid=WJ6tlK8d4k6it1lieoLUnQ&amp;sfnsn=wa" rel="noopener noreferrer nofollow" target="_blank">Puteri</a>and <a href="https://www.tamilmurasu.com.sg/community/dream-born-mothers-work-environment" rel="noopener noreferrer nofollow" target="_blank">Sharlynn</a> were
+profiled by the media for their exemplary character and achievements. For
+the 2<sup>nd</sup> consecutive year, the school’s cut-off point has improved,
+reflecting an increasing preference among primary 6 parents and students
+who indicated Yuhua in their secondary school choices. &nbsp;&nbsp;</p>
+<p>My colleagues and I are committed to nurture Yuhuans to develop their
+character and talents to flourish in school and in life. We also aim to
+partner parents in a respectful and collaborative manner so that we can
+work together to provide a caring and enabling environment for Yuhuans
+to grow and learn.</p>
+<p>Please check out our inviting <a href="https://sites.google.com/moe.edu.sg/yhss-e-openhouse/our-facilities/yh-cafe-our-canteen" rel="noopener noreferrer nofollow" target="_blank">school facilities</a> and
+do follow us on <a href="https://www.instagram.com/yuhuasecondaryschool/" rel="noopener noreferrer nofollow" target="_blank">Instagram&nbsp;(@yuhuasecondaryschool)</a> and
+<a href="https://www.facebook.com/yuhuass/" rel="noopener noreferrer nofollow" target="_blank">Facebook (@yuhuass)</a>to feel the vibes and heartbeat of the Yuhuan community.</p>
+<p>Wishing you a fruitful 2026 ahead!</p>
+<p>Mr Tang Hsin Wei</p>
+<p>Principal</p>
