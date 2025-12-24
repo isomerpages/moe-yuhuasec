@@ -6,6 +6,9 @@ variant: tiptap
 ---
 <h1>Principal's Message</h1>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Tang_Hsin_Wei.jpg">
+</div>
 <p></p>
 <p>Dear Parents, Students and Visitors of Yuhua Secondary School</p>
 <p>A Happy 2026 to you!</p>
@@ -20,7 +23,9 @@ Through our school curriculum, <a href="https://www.yuhuasec.moe.edu.sg/our-ccas
 <a href="https://www.yuhuasec.moe.edu.sg/our-programmes/learning-for-life-llp/" rel="noopener noreferrer nofollow" target="_blank">M.E.L.O.D.Y</a>, Yuhuans will develop values of empathy and curiosity
 to connect with issues they are passionate about, and apply their skills
 and knowledge to contribute towards making a difference to their communities.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/54953476031_09e8b08a73_b.jpg">
+</div>
 <p>In recent years, our alumni <a href="https://www.facebook.com/yuhuass/posts/lee-kuan-yew-all-round-excellence-award-2023the-lky-are-is-a-national-level-awar/747894294013033/" rel="noopener noreferrer nofollow" target="_blank">Kei Win</a>,
 <a href="https://www.beritaharian.sg/singapura/niat-penuhi-amanah-arwah-ibu-banggakan-bapa-corak-remaja-jadi-pelajar-cemerlang-gce-n?fbclid=IwdGRzaAOx-7hjbGNrA7H68XNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHvg-I_IkzdZKJR7mxUfoHMlJYo8teGBXysOeG4cTSlMqoMLUH6Yj7QhTjhnF&amp;brid=WJ6tlK8d4k6it1lieoLUnQ&amp;sfnsn=wa" rel="noopener noreferrer nofollow" target="_blank">Puteri</a>and <a href="https://www.tamilmurasu.com.sg/community/dream-born-mothers-work-environment" rel="noopener noreferrer nofollow" target="_blank">Sharlynn</a> were
 profiled by the media for their exemplary character and achievements. For
