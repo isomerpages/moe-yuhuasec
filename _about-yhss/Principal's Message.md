@@ -30,7 +30,7 @@ and knowledge to contribute towards making a difference to their communities.</p
 <a href="https://www.beritaharian.sg/singapura/niat-penuhi-amanah-arwah-ibu-banggakan-bapa-corak-remaja-jadi-pelajar-cemerlang-gce-n?fbclid=IwdGRzaAOx-7hjbGNrA7H68XNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHvg-I_IkzdZKJR7mxUfoHMlJYo8teGBXysOeG4cTSlMqoMLUH6Yj7QhTjhnF&amp;brid=WJ6tlK8d4k6it1lieoLUnQ&amp;sfnsn=wa" rel="noopener noreferrer nofollow" target="_blank">Puteri</a>and <a href="https://www.tamilmurasu.com.sg/community/dream-born-mothers-work-environment" rel="noopener noreferrer nofollow" target="_blank">Sharlynn</a> were
 profiled by the media for their exemplary character and achievements. For
 the 2<sup>nd</sup> consecutive year, the school’s cut-off point has improved,
-reflecting an increasing preference among primary 6 parents and students
+reflecting an increasing preference among Primary 6 parents and students
 who indicated Yuhua in their secondary school choices. &nbsp;&nbsp;</p>
 <p>My colleagues and I are committed to nurture Yuhuans to develop their
 character and talents to flourish in school and in life. We also aim to
