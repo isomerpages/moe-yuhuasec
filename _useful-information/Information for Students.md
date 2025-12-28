@@ -4,7 +4,11 @@ permalink: /useful-information-and-links/information-for-students/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Information for Students 2025</strong></h1>
+<h1><strong>Information for Students</strong></h1>
+<h4><strong>Timetables for 2026 Semester 1</strong></h4>
+<p>Please find the class timetables for each level below.</p>
+<p></p>
+<p></p>
 <h4><strong>Subject Selection for Sec 2 (2025) for Sec 3(2026)</strong></h4>
 <p>The instructions for checking the Sec 3 subject and form class allocation
 are appended below.</p>
