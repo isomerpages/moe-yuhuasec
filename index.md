@@ -22,6 +22,14 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infobar:
+      title: Class Timetables for Semester 1 (2026)
+      subtitle: timetable for sem 1 2026
+      id: infobar
+      description: Dear students, please find the class timetables for your class by
+        clicking on the link below.
+      button: Information for Students
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
+  - infobar:
       title: Secondary 1 Registration (2026)
       subtitle: Sec 1 posting (2026)
       id: infobar
@@ -30,15 +38,6 @@ sections:
         Yuhua Secondary School.
       button: Secondary 1 Registration (2026)
       url: https://sites.google.com/moe.edu.sg/2026sec1reg/sec-one-registration-for-2026
-  - infobar:
-      title: GCE N-LEVEL RESULTS RELEASE ON 18 DEC 2025
-      subtitle: GCE N-LEVEL RESULTS RELEASE
-      id: infobar
-      description: Dear parents / guardians, please click on the following link to see
-        the information relevant to the release of GCE N-Level results on 18 Dec
-        2025.
-      button: Information for Parents
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
   - infobar:
       title: ECG on Post-Sec pathway and Sec 5 application form
       subtitle: ECG and Sec 5 application
