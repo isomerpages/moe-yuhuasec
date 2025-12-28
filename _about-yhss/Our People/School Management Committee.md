@@ -178,7 +178,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:HONG_WEI_LI@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shirlyn Hong</a>
+<p><a href="mailto:lim_mei_fern_ruth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ruth Lim</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -258,7 +258,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhamad_fairoz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Fairoz</a>
+<p><a href="mailto:muhamad_fairoz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhamad Fairoz</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -322,8 +322,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (internal)</p>
-<p>Lower Secondary Science</p>
+<p>Subject Head (internal) Lower Secondary Science</p>
 </td>
 </tr>
 <tr>
@@ -364,12 +363,11 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong><a href="mailto:CHEW_CHONG_KIAT@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chew Chong Kiat</a></strong>
-</p>
+<p>Mr Chew Chong Kiat</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Master Teacher
-<br>Mathematics</p>
+<p><strong>Master Teacher <br>Mathematics</strong>
+</p>
 </th>
 </tr>
 <tr>
@@ -428,8 +426,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-<p>Educational Support</p>
+<p>Senior Teacher Educational Support</p>
 </td>
 </tr>
 </tbody>
