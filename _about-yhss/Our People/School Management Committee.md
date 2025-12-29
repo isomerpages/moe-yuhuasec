@@ -322,7 +322,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (internal) Lower Secondary Science</p>
+<p>Subject Head (internal)</p>
+<p>Lower Secondary Science</p>
 </td>
 </tr>
 <tr>
@@ -426,7 +427,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher Educational Support</p>
+<p>Senior Teacher</p>
+<p>Educational Support</p>
 </td>
 </tr>
 </tbody>
