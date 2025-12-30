@@ -4,12 +4,24 @@ permalink: /about-yhss/principals-message/
 description: ""
 variant: tiptap
 ---
-<h1>Principal's Message</h1>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Tang_Hsin_Wei.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Tang_Hsin_Wei.jpg">
 </div>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<h1>Principal's Message</h1>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Dear Parents, Students and Visitors of Yuhua Secondary School</p>
 <p>A Happy 2026 to you!</p>
 <p>I am Mr Tang Hsin Wei, and I’m privileged to be appointed the new principal
