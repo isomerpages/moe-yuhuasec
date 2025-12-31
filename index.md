@@ -48,16 +48,6 @@ sections:
       button: ECG and Sec 5 application
       url: https://sites.google.com/moe.edu.sg/yhstdasst?usp=sharing
   - infopic:
-      title: YH Café
-      subtitle: Yuhua in the news
-      description: Our canteen was featured in Lianhe Zaobao. An inviting space for
-        students to dine and play amidst lush greenery, it's definitely been a
-        big hit!
-      button: click here to read the article!
-      url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
-      image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
-      alt: Image alt text
-  - infopic:
       title: NIE Caring Teacher Awards
       subtitle: "#NIECTA2026"
       id: infopic
@@ -89,4 +79,23 @@ sections:
           description: ""
           linktext: Learn more
           url: https://www.yuhuasec.moe.edu.sg/files/2025_YHSS_Start_Of_Year_Slides_from_P__Upper_Sec_PTM_.pdf
+  - infopic:
+      title: YH Café
+      subtitle: Yuhua in the news
+      description: Our canteen was featured in Lianhe Zaobao. An inviting space for
+        students to dine and play amidst lush greenery, it's definitely been a
+        big hit!
+      button: click here to read the article!
+      url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
+      image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
+      alt: Image alt text
+  - infopic:
+      title: Outstanding Youth in Education Award
+      id: infopic
+      description: Nominate an inspiring teacher or colleague for this prestigious
+        award by scanning the QRcode
+      button: Click here!
+      url: https://go.gov.sg/oyea2026
+      image: /images/OYEA.jpg
+      alt: Image alt text
 ---
