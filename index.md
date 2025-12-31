@@ -59,9 +59,8 @@ sections:
       title: ECG on Post-Sec pathway and Sec5 application form
       subtitle: ECG and Sec 5 application
       id: infobar
-      description: Dear students receiving your N-Level results, please click on the
-        link below for information about post-secondary pathways and the
-        application form for Sec 5.
+      description: Please click on the link below for information about post-secondary
+        pathways and the application form for Sec 5.
       button: ECG and Sec5 application
       url: https://sites.google.com/moe.edu.sg/yhstdasst?usp=sharing
   - infopic:
