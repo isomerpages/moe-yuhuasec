@@ -30,6 +30,15 @@ sections:
       url: https://go.gov.sg/oyea2026
       image: /images/OYEA.jpg
       alt: Image alt text
+  - infopic:
+      title: President's Award for Teachers
+      id: infopic
+      description: Nominate an inspiring teacher or colleague for this prestigious
+        award by scanning the QRcode
+      button: Clickhere!
+      url: https://go.gov.sg/pat2026
+      image: /images/PAT.jpg
+      alt: Image alt text
   - infobar:
       title: Class Timetables for Semester 1 (2026)
       subtitle: timetable for sem 1 2026
@@ -86,14 +95,5 @@ sections:
       button: click here to read the article!
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
-      alt: Image alt text
-  - infopic:
-      title: President's Award for Teachers
-      id: infopic
-      description: Nominate an inspiring teacher or colleague for this prestigious
-        award by scanning the QRcode
-      button: Clickhere!
-      url: https://go.gov.sg/pat2026
-      image: /images/PAT.jpg
       alt: Image alt text
 ---
