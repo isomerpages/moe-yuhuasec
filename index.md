@@ -22,16 +22,6 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infopic:
-      title: NIE Caring Teacher Awards
-      subtitle: "#NIECTA2026"
-      id: infopic
-      description: 'Nominate caring teachers for "The NIE Caring Teacher
-        Awards"  #NIECTA2026!  Closing Date: 31 Dec 2025.'
-      button: Visit here!
-      url: www.cta.nie.edu.sg
-      image: /images/NIE2.png
-      alt: NIE Caring Teacher Awards
-  - infopic:
       title: Outstanding Youth in Education Award
       id: infopic
       description: Nominate an inspiring teacher or colleague for this prestigious
@@ -48,6 +38,16 @@ sections:
       button: Click here!
       url: https://go.gov.sg/pat2026
       image: /images/PAT.jpg
+  - infopic:
+      title: NIE Caring Teacher Awards
+      subtitle: "#NIECTA2026"
+      id: infopic
+      description: 'Nominate caring teachers for "The NIE Caring Teacher
+        Awards"  #NIECTA2026!  Closing Date: 31 Dec 2025.'
+      button: Visit here!
+      url: www.cta.nie.edu.sg
+      image: /images/NIE2.png
+      alt: NIE Caring Teacher Awards
   - infobar:
       title: Class Timetables for Semester 1 (2026)
       subtitle: timetable for sem 1 2026
