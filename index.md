@@ -35,9 +35,10 @@ sections:
       id: infopic
       description: Nominate an inspiring teacher or colleague for this prestigious
         award by scanning the QRcode
-      button: Click here!
+      button: Clickhere!
       url: https://go.gov.sg/pat2026
       image: /images/PAT.jpg
+      alt: Image alt text
   - infobar:
       title: Class Timetables for Semester 1 (2026)
       subtitle: timetable for sem 1 2026
