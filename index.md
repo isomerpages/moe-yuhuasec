@@ -38,16 +38,6 @@ sections:
       button: Click here!
       url: https://go.gov.sg/pat2026
       image: /images/PAT.jpg
-  - infopic:
-      title: NIE Caring Teacher Awards
-      subtitle: "#NIECTA2026"
-      id: infopic
-      description: 'Nominate caring teachers for "The NIE Caring Teacher
-        Awards"  #NIECTA2026!  Closing Date: 31 Dec 2025.'
-      button: Visit here!
-      url: www.cta.nie.edu.sg
-      image: /images/NIE2.png
-      alt: NIE Caring Teacher Awards
   - infobar:
       title: Class Timetables for Semester 1 (2026)
       subtitle: timetable for sem 1 2026
@@ -66,7 +56,7 @@ sections:
       button: Secondary 1 Registration (2026)
       url: https://sites.google.com/moe.edu.sg/2026sec1reg/sec-one-registration-for-2026
   - infobar:
-      title: ECG on Post-Sec pathway and Sec 5 application form
+      title: ECG on Post-Sec pathway and Sec5 application form
       subtitle: ECG and Sec 5 application
       id: infobar
       description: Dear students receiving your N-Level results, please click on the
