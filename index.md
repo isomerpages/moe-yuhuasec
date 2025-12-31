@@ -40,6 +40,13 @@ sections:
       image: /images/PAT.jpg
       alt: Image alt text
   - infobar:
+      title: Term 1 Letter to Parents
+      subtitle: Term 1 letter to parents
+      id: infobar
+      description: Please click on the link below to access the Term 1 Letter to Parents.
+      button: Click here
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
+  - infobar:
       title: Class Timetables for Semester 1 (2026)
       subtitle: timetable for sem 1 2026
       id: infobar

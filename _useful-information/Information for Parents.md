@@ -6,6 +6,11 @@ variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
 <hr>
+<h2>2026 Term 1 Letter to Parents</h2>
+<p>Dear Parents/Guardians, you may access the Term 1 Letter to Parents via
+the link provided below:</p>
+<p><a href="/files/YHSS_2026_Term_1_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Term 1 Letter to Parents</a>
+</p>
 <h2>Release of GCE N-Level results on 18 Dec 2025</h2>
 <p>Dear Parents/Guardians of Sec 4N students,</p>
 <p>The results of the 2025 Singapore-Cambridge GCE N(A)- and N(T)-Level Examinations
