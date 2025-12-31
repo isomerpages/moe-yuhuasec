@@ -98,4 +98,13 @@ sections:
       url: https://go.gov.sg/oyea2026
       image: /images/OYEA.jpg
       alt: Image alt text
+  - infopic:
+      title: President's Award for Teachers
+      id: infopic
+      description: Nominate an inspiring teacher or colleague for this prestigious
+        award by scanning the QRcode
+      button: Click here!
+      url: https://go.gov.sg/pat2026
+      image: /images/PAT.jpg
+      alt: Image alt text
 ---
