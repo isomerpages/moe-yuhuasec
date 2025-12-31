@@ -21,6 +21,23 @@ sections:
         - title: Calendar of Events
           description: Click here!
           url: /useful-information-and-links/school-calendar
+  - infopic:
+      title: Outstanding Youth in Education Award
+      id: infopic
+      description: Nominate an inspiring teacher or colleague for this prestigious
+        award by scanning the QRcode
+      button: Click here!
+      url: https://go.gov.sg/oyea2026
+      image: /images/OYEA.jpg
+      alt: Image alt text
+  - infopic:
+      title: President's Award for Teachers
+      id: infopic
+      description: Nominate an inspiring teacher or colleague for this prestigious
+        award by scanning the QRcode
+      button: Click here!
+      url: https://go.gov.sg/pat2026
+      image: /images/PAT.jpg
   - infobar:
       title: Class Timetables for Semester 1 (2026)
       subtitle: timetable for sem 1 2026
@@ -39,34 +56,13 @@ sections:
       button: Secondary 1 Registration (2026)
       url: https://sites.google.com/moe.edu.sg/2026sec1reg/sec-one-registration-for-2026
   - infobar:
-      title: ECG on Post-Sec pathway and Sec 5 application form
+      title: ECG on Post-Sec pathway and Sec5 application form
       subtitle: ECG and Sec 5 application
       id: infobar
-      description: Dear students receiving your N-Level results, please click on the
-        link below for information about post-secondary pathways and the
-        application form for Sec 5.
-      button: ECG and Sec 5 application
+      description: Please click on the link below for information about post-secondary
+        pathways and the application form for Sec 5.
+      button: ECG and Sec5 application
       url: https://sites.google.com/moe.edu.sg/yhstdasst?usp=sharing
-  - infopic:
-      title: YH Café
-      subtitle: Yuhua in the news
-      description: Our canteen was featured in Lianhe Zaobao. An inviting space for
-        students to dine and play amidst lush greenery, it's definitely been a
-        big hit!
-      button: click here to read the article!
-      url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
-      image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
-      alt: Image alt text
-  - infopic:
-      title: NIE Caring Teacher Awards
-      subtitle: "#NIECTA2026"
-      id: infopic
-      description: 'Nominate caring teachers for "The NIE Caring Teacher
-        Awards"  #NIECTA2026!  Closing Date: 31 Dec 2025.'
-      button: Visit here!
-      url: www.cta.nie.edu.sg
-      image: /images/NIE2.png
-      alt: NIE Caring Teacher Awards
   - infopic:
       title: Yearbook
       id: infopic
@@ -89,4 +85,14 @@ sections:
           description: ""
           linktext: Learn more
           url: https://www.yuhuasec.moe.edu.sg/files/2025_YHSS_Start_Of_Year_Slides_from_P__Upper_Sec_PTM_.pdf
+  - infopic:
+      title: YH Café
+      subtitle: Yuhua in the news
+      description: Our canteen was featured in Lianhe Zaobao. An inviting space for
+        students to dine and play amidst lush greenery, it's definitely been a
+        big hit!
+      button: click here to read the article!
+      url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
+      image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
+      alt: Image alt text
 ---

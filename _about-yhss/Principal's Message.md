@@ -4,12 +4,24 @@ permalink: /about-yhss/principals-message/
 description: ""
 variant: tiptap
 ---
-<h1>Principal's Message</h1>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Tang_Hsin_Wei.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Tang_Hsin_Wei.jpg">
 </div>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<h1>Principal's Message</h1>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Dear Parents, Students and Visitors of Yuhua Secondary School</p>
 <p>A Happy 2026 to you!</p>
 <p>I am Mr Tang Hsin Wei, and I’m privileged to be appointed the new principal
@@ -24,7 +36,7 @@ Through our school curriculum, <a href="https://www.yuhuasec.moe.edu.sg/our-ccas
 to connect with issues they are passionate about, and apply their skills
 and knowledge to contribute towards making a difference to their communities.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/54953476031_09e8b08a73_b.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/54953476031_09e8b08a73_b.jpg">
 </div>
 <p>In recent years, our alumni <a href="https://www.facebook.com/yuhuass/posts/lee-kuan-yew-all-round-excellence-award-2023the-lky-are-is-a-national-level-awar/747894294013033/" rel="noopener noreferrer nofollow" target="_blank">Kei Win</a>,
 <a href="https://www.beritaharian.sg/singapura/niat-penuhi-amanah-arwah-ibu-banggakan-bapa-corak-remaja-jadi-pelajar-cemerlang-gce-n?fbclid=IwdGRzaAOx-7hjbGNrA7H68XNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHvg-I_IkzdZKJR7mxUfoHMlJYo8teGBXysOeG4cTSlMqoMLUH6Yj7QhTjhnF&amp;brid=WJ6tlK8d4k6it1lieoLUnQ&amp;sfnsn=wa" rel="noopener noreferrer nofollow" target="_blank">Puteri</a>and <a href="https://www.tamilmurasu.com.sg/community/dream-born-mothers-work-environment" rel="noopener noreferrer nofollow" target="_blank">Sharlynn</a> were
