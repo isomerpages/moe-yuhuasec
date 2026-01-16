@@ -6,8 +6,9 @@ variant: tiptap
 ---
 <h1><strong>Mathematics</strong></h1>
 <h3>Our Team</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2024_mathematics.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics.jpg">
 </div>
 <h3>CURRICULUM OBJECTIVES:</h3>
 <ul data-tight="true" class="tight">
@@ -83,7 +84,7 @@ to improved academic performance and a stronger grasp of mathematical principles
 <p>CHAN ZHI HNG 4 Contribute</p>
 <p>JOEL LI JUN HUI 4 Contribute</p>
 <p>TAN JUN HON 4 Contribute</p>
-<h5><strong>ALL SECONDARY SINGAPORE MATHEMATICS COMPETITION 2023:</strong> </h5>
+<h5><strong>ALL SECONDARY SINGAPORE MATHEMATICS COMPETITION 2023:</strong></h5>
 <p><strong>Certification of Participation</strong>
 <br>4NA: Ho Jun Jie – 4 Adaptability
 <br>Richard Chen Fu Hai – 4 Respect
