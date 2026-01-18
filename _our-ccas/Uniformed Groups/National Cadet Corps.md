@@ -52,7 +52,6 @@ towards wherever he is.</p>
 <br>OIC: Mr Desmond Wee</p>
 <p>2IC: Mr Muhammad Ilyas Abdussam</p>
 <p>Teacher:</p>
-<p>Mr Muhamad Fairoz</p>
 <p>Mr Muhammad Syafiq Saad</p>
 <p></p>
 <h3>CCA Leaders</h3>
