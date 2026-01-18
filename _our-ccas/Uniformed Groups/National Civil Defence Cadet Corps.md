@@ -26,7 +26,7 @@ and emergencies.</p>
 <p>Mr Alvin Ng Kiat Hou (OIC)</p>
 </li>
 <li>
-<p>Ms Ellavarasi D/O Kulasajagaran</p>
+<p>Ms Ellavarasi D/O Kulasajagaran (2IC)</p>
 </li>
 <li>
 <p>Ms Tan Boon Swan</p>
