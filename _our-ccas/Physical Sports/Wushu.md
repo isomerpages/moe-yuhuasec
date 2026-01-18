@@ -32,10 +32,8 @@ and confidence. Our team awaits you, a future Kung Fu Master!</p>
 <p><strong>Teachers in charge:</strong>
 <br>Ms Chow Wan Ling (OIC)
 <br>Mdm Wang Run Jia (2IC)
-<br>Mdm Yang Yan
 <br>Ms Cheong Ai Hwa
-<br>
-</p>
+<br>Ms Chiquita</p>
 <p><strong>Student Leaders:</strong>
 </p>
 <p><strong>Captains</strong>: Isaac Ng Yifeng and Tew Shi Xuan Klise</p>
