@@ -24,13 +24,10 @@ competitions, and providing audio-visual support for school events.</p>
 <h3>Teachers in Charge</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Quek Poh Noi (OIC)</p>
+<p>Ms Shahidah Binte Safii (OIC)</p>
 </li>
 <li>
-<p>Ms Shahidah Bte Safii (2IC)</p>
-</li>
-<li>
-<p>Ms Fang Qing</p>
+<p>Ms Asmah Beevi (2IC)</p>
 </li>
 <li>
 <p>Mdm Lalitha</p>
