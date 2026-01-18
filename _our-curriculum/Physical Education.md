@@ -42,10 +42,8 @@ in adventurous outdoor activities (e.g. rock wall climbing, challenge rope
 course, kayaking, tent pitching, orienteering) and apply school values
 in an authentic outdoor setting.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/26___Camps.jpg">
 </div>
 <p></p>
