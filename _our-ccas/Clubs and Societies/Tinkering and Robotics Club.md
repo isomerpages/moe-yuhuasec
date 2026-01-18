@@ -25,8 +25,7 @@ thoughtful innovators and problem-solvers for the future.</p>
 <h3>Teachers in Charge</h3>
 <p>Mr Sim Lit Sen (OIC)
 <br>Mr Daniel Tan Wee Meng (2IC)
-<br>Ms Muliyahna Binte Sani
-<br>Mr Low Chee Wah</p>
+<br>Ms Muliyahna Binte Sani</p>
 <h3>Student Leaders</h3>
 <p><strong>President: </strong>SHELYN LOW XIN YU (3 Flourish)</p>
 <p><strong>Vice President: </strong>SACHIN VIJAYANANTHAN (3 Resilience)</p>
