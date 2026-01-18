@@ -6,8 +6,9 @@ variant: tiptap
 ---
 <h1><strong>Humanities</strong></h1>
 <h3>Our Team</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2024_HUMANITIES.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/26___Humanities.jpg">
 </div>
 <h3>Department Introduction</h3>
 <p>The department aims to nurture positivity through the Appreciation and
