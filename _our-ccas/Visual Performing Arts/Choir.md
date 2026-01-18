@@ -35,10 +35,10 @@ even to the wider society in meaningful ways.</p>
 <p>Ms Pamela He (OIC)</p>
 </li>
 <li>
-<p>Mrs Serene Ang (2IC)</p>
+<p>Mrs Liang Mei Xuan (2IC)</p>
 </li>
 <li>
-<p>Mrs Liang Mei Xuan</p>
+<p>Ms Glenda Ng</p>
 </li>
 </ul>
 <p><strong>Conductors:</strong>
