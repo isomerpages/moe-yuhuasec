@@ -6,8 +6,9 @@ variant: tiptap
 ---
 <h1><strong>Mother Tongue Languages</strong></h1>
 <h3>Our Team</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2024_Mothertongue.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/26___Mother_Tongue_Languages.jpg">
 </div>
 <h3>Department Introduction</h3>
 <p>Mother Tongue Languages (MTL) Department aims to nurture our students
