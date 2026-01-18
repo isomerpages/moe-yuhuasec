@@ -32,9 +32,8 @@ inspire and guide the Band towards new musical heights — true to our motto:
 <h3>Our Team</h3>
 <p><strong>Teachers</strong>
 <br>Ms Shamim Nisa Binte Yassin (OIC)
-<br>Mr Tan Han Liang Shawn (2IC)
-<br>Ms Eileen Teng
-<br>Mr Chew Kechang</p>
+<br>Ms Eileen Teng (2IC)
+<br>Ms Angelyn Khoo</p>
 <h3>Student Leaders</h3>
 <p></p>
 <div class="isomer-image-wrapper">
