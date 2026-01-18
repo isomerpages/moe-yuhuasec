@@ -44,16 +44,16 @@ and movement.</p>
 <h3>Our Team</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Suhana Zainal (OIC)</p>
+<p>Mdm Chan May Foon (OIC)</p>
 </li>
 <li>
-<p>Ms Grace Tan (2IC)</p>
+<p>Mdm Kavitha (2IC)</p>
 </li>
 <li>
 <p>Mr Raguvaran</p>
 </li>
 <li>
-<p>Mdm Kavitha</p>
+<p>Mdm Wahidah</p>
 </li>
 </ul>
 <p></p>
