@@ -61,7 +61,7 @@ using simple phrases and sentences</p>
 <p><strong>Melayuhua Drama Production</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__26_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/26_MY.png">
 </div>
 <p>As part of enriching students’ acquisition of Malay language, Yuhua Secondary
 Malay language unit, exposes students to literary text as part of its ApT
