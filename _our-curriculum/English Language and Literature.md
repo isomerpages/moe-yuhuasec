@@ -63,13 +63,8 @@ Examples of the Term Projects include the following :
 <br>iii. Travel brochure design and feature writing for Sec 3.</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__39_.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/05f64892_9e26_4a62_9069_c5ae7a4e313a.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/b59410bf_b051_4504_a005_bcfdc3d98bfd.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_tt.png">
 </div>
 <p></p>
