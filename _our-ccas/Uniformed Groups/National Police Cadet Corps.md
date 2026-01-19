@@ -25,10 +25,9 @@ in the world.</p>
 <p><strong>NPCC Values:</strong>&nbsp;Resilience Integrity Service Excellence</p>
 <h3>Our Team</h3>
 <p><strong>Teacher Officers:</strong>
-<br>Mr Mohamed Azmil (OIC)
-<br>Ms Ong Hui Lin (2IC)
-<br>Mr Lee Yi Xin
-<br>Ms Duan Linxin</p>
+<br>Ms Ong Hui Lin (OIC)
+<br>Ms Duan Linxin (2IC)
+<br>Mr Lee Yi Xin</p>
 <p><strong>Star Leaders:</strong>
 <br><strong>NPCC Chairman:</strong>
 <br>Lee Cheng Xin (3 Flourish)
