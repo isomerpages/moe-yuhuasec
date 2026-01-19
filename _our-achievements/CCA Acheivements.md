@@ -6,13 +6,15 @@ variant: tiptap
 ---
 <h1><strong>CCA Achievements</strong></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/53668641762_b67d2c3f62_c.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_04_22_at_9_42_58_AM__1_.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_04_30_at_5_04_11_PM__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/54724878917_2405d7ad6c_k.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/54758582804_4d3d3f3f82_k.jpg">
 </div>
 <h3>Co-Curricular Activities in Yuhua</h3>
 <p>Co-Curricular Activities are important platforms for Yuhuans to explore
@@ -439,16 +441,21 @@ in.</p>
 <p>Beyond these accomplishments as a group, we have our students who excelled
 individually in their CCAs, receiving awards and accolades for their drive
 to excel in their areas of passion and interest.</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="3">
+<h4>2025</h4>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <p>CCA</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -457,65 +464,6 @@ to excel in their areas of passion and interest.</p>
 <th rowspan="1" colspan="1">
 <p>Achievements</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Boys Brigade</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Goh Kun Ming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Boys Brigade Founders Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Boys Brigade</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>On Wee Chuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Boys’ Brigade HQ - Best Boy Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Canoeing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Goh Kai Kiat David</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 4 in semi finals for NSG Canoeing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Canoeing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Goh Kai Kiat David</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NSG Sportsmanship Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -523,13 +471,9 @@ to excel in their areas of passion and interest.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gregg Siah</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NCC outstanding Cadet Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2025</p>
 </td>
 </tr>
 <tr>
@@ -543,51 +487,6 @@ to excel in their areas of passion and interest.</p>
 <td rowspan="1" colspan="1">
 <p>NCC outstanding Cadet Award</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mark Jachin Gumban</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCC outstanding Cadet Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Muhamad Iman bin Ismail</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCC outstanding Cadet Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Saravanan Bharat Kumar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCC outstanding Cadet Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -600,9 +499,6 @@ to excel in their areas of passion and interest.</p>
 <td rowspan="1" colspan="1">
 <p>NCDCC Unit Best Cadet Award</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2025</p>
 </td>
 </tr>
 <tr>
@@ -617,9 +513,6 @@ to excel in their areas of passion and interest.</p>
 <p>SCDF-NCDCC Pinnacle Award</p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>2025</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -633,135 +526,6 @@ to excel in their areas of passion and interest.</p>
 <p>SCDF-NCDCC Pinnacle Award</p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCDCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hyra Musfira Putri Mustafa Kamal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCDCC Unit Best Cadet Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCDCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hyra Musfira Putri Mustafa Kamal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SCDF-NCDCC Pinnacle Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCDCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nur Ayuni Binte Abdullah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SCDF-NCDCC Pinnacle Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCDCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Goh Kai Kiat David</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SCDF-NCDCC Pinnacle Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCDCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Goh Kai Kiat David</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCDCC Unit Best Cadet Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCDCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Izzati Zarifah Binte Ros'asni</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCDCC Unit Best Cadet Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCDCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Izzati Zarifah Binte Ros'asni</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SCDF-NCDCC Pinnacle Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCDCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mohamad Irfan Syahmi Bin Mohamad Rozi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCDCC Unit Best Cadet Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCDCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mohamad Irfan Syahmi Bin Mohamad Rozi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SCDF-NCDCC Pinnacle Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -773,9 +537,6 @@ to excel in their areas of passion and interest.</p>
 <td rowspan="1" colspan="1">
 <p>Best Unit Cadet (Female)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>2025</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -786,9 +547,6 @@ to excel in their areas of passion and interest.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Best Unit Cadet (Female)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2025</p>
 </td>
 </tr>
 <tr>
@@ -803,9 +561,6 @@ to excel in their areas of passion and interest.</p>
 <p>SPF-NPCC Badge</p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>2025</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -817,8 +572,87 @@ to excel in their areas of passion and interest.</p>
 <td rowspan="1" colspan="1">
 <p>SPF-NPCC Badge</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>2025</p>
+<p>Wushu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Chun Sheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10th World Kungfu Championship in Emei Mountain, Chengdu</p>
+<p>3 × Second Prize</p>
+<p>1 × Third Prize</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<h4><strong>2024</strong></h4>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>CCA</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mark Jachin Gumban</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC outstanding Cadet Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCDCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hyra Musfira Putri Mustafa Kamal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC Unit Best Cadet Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCDCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hyra Musfira Putri Mustafa Kamal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCDF-NCDCC Pinnacle Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCDCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Ayuni Binte Abdullah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCDF-NCDCC Pinnacle Award</p>
 </td>
 </tr>
 <tr>
@@ -831,9 +665,6 @@ to excel in their areas of passion and interest.</p>
 <td rowspan="1" colspan="1">
 <p>Best Unit Cadet (Female)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -844,9 +675,6 @@ to excel in their areas of passion and interest.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Best Unit Cadet (Female)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2024</p>
 </td>
 </tr>
 <tr>
@@ -860,9 +688,6 @@ to excel in their areas of passion and interest.</p>
 <td rowspan="1" colspan="1">
 <p>SPF-NPCC Badge</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -873,9 +698,6 @@ to excel in their areas of passion and interest.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPF-NPCC Badge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2024</p>
 </td>
 </tr>
 <tr>
@@ -888,8 +710,75 @@ to excel in their areas of passion and interest.</p>
 <td rowspan="1" colspan="1">
 <p>SPF-NPCC Badge</p>
 </td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h4><strong>2023</strong></h4>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Achievements</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Kun Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys Brigade Founders Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhamad Iman bin Ismail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC outstanding Cadet Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCDCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Kai Kiat David</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCDF-NCDCC Pinnacle Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCDCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Kai Kiat David</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCDCC Unit Best Cadet Award</p>
 </td>
 </tr>
 <tr>
@@ -900,10 +789,7 @@ to excel in their areas of passion and interest.</p>
 <p>Chua Chee Yang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Best Unit Cadet (Male)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
+<p>SPF-NPCC Badge</p>
 </td>
 </tr>
 <tr>
@@ -916,9 +802,6 @@ to excel in their areas of passion and interest.</p>
 <td rowspan="1" colspan="1">
 <p>Best Unit Cadet (Female)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -929,9 +812,6 @@ to excel in their areas of passion and interest.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPF-NPCC Pinnacle Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
 </td>
 </tr>
 <tr>
@@ -944,181 +824,16 @@ to excel in their areas of passion and interest.</p>
 <td rowspan="1" colspan="1">
 <p>SPF-NPCC Pinnacle Award</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NPCC</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Yoke Ting Belinda (NPCC)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NPCC Best Unit Cadet Award (Female)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NPCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Leon Lau Wei Liang (NPCC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NPCC Best Unit Cadet Award (Male)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NPCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim Chao Jie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SPF-NPCC Badge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NPCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Anisa Binte Mohammad Ashraful</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SPF-NPCC Badge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tinkering and Robotics Club</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ong Chen Teck Brayden</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Make X Spark Online Competition- Singapore National Competition Overall
-Champion Intermediate Category and Young Designer award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tinkering and Robotics Club</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ric Neo Jun Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Make X Spark Online Competition- Singapore National Competition Overall
-Champion Intermediate Category and Young Designer award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tinkering and Robotics Club</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chan Zhi Hng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Make X Spark Online Competition- Singapore National Competition Young
-Innovator award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tinkering and Robotics Club</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chew Shi An Ryan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Make X Spark Online Competition- Singapore National Competition Young
-Innovator award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wushu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cadee Chew Yi Xuan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-(Zhou Yi Xuan)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NSG Sportsmanship Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wushu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ryan De Leon Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NSG Sportsmanship Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wushu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lorander Goh Hui Kee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NSG Sportsmanship Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wushu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cheng Kei Win</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NSG Sportsmanship Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
+<p></p>
 </td>
 </tr>
 </tbody>
