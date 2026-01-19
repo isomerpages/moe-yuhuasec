@@ -6,6 +6,10 @@ variant: tiptap
 ---
 <h1><strong>Academic and Learning Achievements</strong></h1>
 <h2>2025</h2>
+<h4><strong> International Joint Schools Mathematics Competition 2025</strong></h4>
+<p>Jerren Tiang Jia He (3 Flourish) - Top Talent Award</p>
+<p>Chong Zhong Wei (4 Flourish) - Top Talent Award, First Runner-Up Award
+(Senior Secondary Category)</p>
 <h4><strong>Visitors’ Favourite Art Installation for Chingay 2025 Joyous ART-Venture</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
