@@ -6,6 +6,16 @@ variant: tiptap
 ---
 <h1><strong>Academic and Learning Achievements</strong></h1>
 <h2>2025</h2>
+<h4><strong>International Joint Schools Mathematics Competition 2025</strong></h4>
+<p>Jerren Tiang Jia He (3 Flourish) - Top Talent Award</p>
+<p>Chong Zhong Wei (4 Flourish) - Top Talent Award, First Runner-Up Award
+(Senior Secondary Category)</p>
+<h4><strong>National Financial Literacy Challenge 2025</strong></h4>
+<p>Stella Tan, Arish Danish, Cheng Teng Lun, Fajhar and Toh Jia Xin from
+3 Resilience - Top 10</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/550856363_1319524883516635_132736890974656867_n.jpg">
+</div>
 <h4><strong>Visitors’ Favourite Art Installation for Chingay 2025 Joyous ART-Venture</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>

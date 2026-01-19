@@ -46,6 +46,20 @@ in the world.</p>
 <img style="width:70%" height="auto" width="100%" src="/images/yhssnpcc2.png">
 </div>
 <h3>Milestones</h3>
+<h4><strong>Overseas Trips:</strong></h4>
+<p>NPCC Hong Kong Immersion Trip 2025</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/586210793_1375576861244770_6250227086435014121_n.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/585887707_1375576641244792_6763628156720910119_n.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/584650087_1375576611244795_9166300764575544268_n.jpg">
+</div>
 <h5><strong>Proficiency Badges:</strong></h5>
 <p><strong>Sec1</strong>: Campcraft, Police Procedure, Crime Prevention,
 Road Safety, Total Defence Bronze, 3rd Class Drill</p>
