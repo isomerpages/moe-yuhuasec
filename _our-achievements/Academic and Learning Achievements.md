@@ -10,7 +10,7 @@ variant: tiptap
 <p>Jerren Tiang Jia He (3 Flourish) - Top Talent Award</p>
 <p>Chong Zhong Wei (4 Flourish) - Top Talent Award, First Runner-Up Award
 (Senior Secondary Category)</p>
-<h4><strong>National Financial Literacy Challenge 2025 </strong></h4>
+<h4><strong>National Financial Literacy Challenge 2025</strong></h4>
 <p>Stella Tan, Arish Danish, Cheng Teng Lun, Fajhar and Toh Jia Xin from
 3 Resilience - Top 10</p>
 <div class="isomer-image-wrapper">
