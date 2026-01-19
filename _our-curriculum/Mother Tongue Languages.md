@@ -80,6 +80,35 @@ showcasing students’ talent through Melayuhua drama production, it not
 only enriches the learning experience of Malay language and culture but
 also integrates 21st Century Competencies of communication, collaboration
 and instilling confidence in students.</p>
+<p><strong>新空下National Schools Xinyao Singing And Songwriting Competition 2025:</strong>
+</p>
+<p><strong>Singing (Solo) Category Champion</strong>: Yogi Tan You Qi</p>
+<p><strong>Singing (Group) Category 2nd Runner Up</strong>: Yogi Tan You
+Qi, Vanessa Lee</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/54695211279_2654bf52af_c.jpg">
+</div>
+<p>As part of enriching students' acquisition of Chinese language and culture,
+the Yuhua Secondary Mother Tongue Department's Talent Development Programme
+exposes students to authentic musical expression through prestigious national
+platforms. Students not only develop their vocal and performance skills,
+but they also expand their artistic understanding by engaging in competitive
+singing and songwriting opportunities that showcase their talents on a
+broader stage.</p>
+<p>In encouraging the authentic use of the Chinese language and as an extension
+of the Talent Development Programme, the department supports student participation
+in the biennial Xin Kong Xia National Schools Xinyao Singing and Songwriting
+Competition. This prestigious competition, jointly organised by the Committee
+to Promote Chinese Language Learning, TCR Music Station, Lianhe Zaobao
+and Jurong Pioneer Junior College, acts as an experiential and immersive
+platform in cultivating communication, performance excellence and collaborative
+skills.</p>
+<p>At the Grand Finals, Yuhuans Yogi Tan (1 Respect) and Vanessa Lee (2 Resilience)
+engaged in linguistic and cultural exploration through creative musical
+expression. Through interactive performances with peers and support from
+teachers, students were empowered to embrace artistic challenges with confidence,
+contributing to their overall development as resilient and adaptable individuals.</p>
 <p><strong>CL Unit- Cultural Immersion Programme to Wuxi and Shanghai</strong>
 </p>
 <div class="isomer-image-wrapper">
