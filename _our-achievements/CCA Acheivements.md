@@ -160,10 +160,10 @@ Performing Arts groups have done the school proud in recent years.</p>
 <p>Participated in Singapore Youth Festival - Certificate of Accomplishment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Selected to participate in NDP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Selected to participate in NDP</p>
 </td>
 </tr>
 <tr>
@@ -371,7 +371,7 @@ in.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National School Games B Division Football League Four</p>
-<p></p>
+<p>(Top 8)</p>
 </td>
 </tr>
 <tr>
