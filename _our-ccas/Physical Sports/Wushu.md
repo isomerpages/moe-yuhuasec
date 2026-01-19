@@ -58,12 +58,12 @@ Nur Intan Marshanda Binti Ghani</p>
 </li>
 </ul>
 <h3>Achievements</h3>
+<p>B Division Girls National School Games, Group routine – 7th placing</p>
+<h4>Ng Chun Sheng (2 Care) – Singapore Wushu Team:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>B Division Girls National School Games, Group routine – 7th placing</p>
-</li>
-<li>
-<p>Ng Chun Sheng (2 Care) – Singapore Wushu Team:</p>
+<p>10th World Kungfu Championship in Emei Mountain, Chengdu — 3 × Second
+Prize, 1 × Third Prize</p>
 </li>
 <li>
 <p>Represented Singapore in Macau International Wushu Elite Competition &amp;
@@ -94,6 +94,8 @@ top 7)</p>
 <p>Men's Flexible/Soft-weapon routines Group C - Second Place</p>
 </li>
 </ul>
+<p></p>
+<p></p>
 <p></p>
 <h4>Social Media</h4>
 <p>&nbsp;<a href="https://instagram.com/yhsswushu?igshid=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank">Yhss Wushu Instagram</a>
