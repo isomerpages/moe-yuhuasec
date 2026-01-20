@@ -8,42 +8,10 @@ third_nav_title: Yuhua’s Cornerstone Programme
 <p><strong>YEAHub(Yuhua Engagement Activity Hub)</strong>
 <br>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/YEAHUB1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/26_Yeahhub.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YEAHUB.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 images/Term1_Yeahub.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2023 images/yeahub_term1.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p>Many of the YEAHub afterschool activities are initiated by the students
 who often provide the school with suggestions to the type of activities
 they enjoy. As a result, many of the YEAHub activities have become mainstay
@@ -67,7 +35,7 @@ and positive friendships.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YEAHUB_FOOTBALL.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Unti.jpg">
 </div>
 </td>
 </tr>
