@@ -564,8 +564,12 @@ variant: tiptap
 <p><strong>5 Flourish</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><a href="mailto:ONG_JEOK_MUI@moe.edu.sg" rel="noopener nofollow" target="_blank">MS JENNY ONG</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wahidah_salamon@schools.gov.sg" rel="noopener nofollow" target="_blank">MS WAHIDAH</a>
 </p>
 </td>
 </tr>
