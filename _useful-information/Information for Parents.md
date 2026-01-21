@@ -11,40 +11,6 @@ variant: tiptap
 the link provided below:</p>
 <p><a href="/files/YHSS_2026_Term_1_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Term 1 Letter to Parents</a>
 </p>
-<h2>Release of GCE N-Level results on 18 Dec 2025</h2>
-<p>Dear Parents/Guardians of Sec 4N students,</p>
-<p>The results of the 2025 Singapore-Cambridge GCE N(A)- and N(T)-Level Examinations
-will be released on Thursday, 18 December 2025.</p>
-<p><strong>Collection Details:</strong>
-</p>
-<p>Students are to report to the school hall by 1.45pm.</p>
-<p>Students must be in proper school uniform and adhere to the school's grooming
-standards when collecting their results.</p>
-<p>Parents are welcome to join their children during the result release.</p>
-<p><strong>Important Briefings:</strong>
-</p>
-<p>Following the release of results, there will be briefings on the following:</p>
-<p>• Application to the Institute of Technical Education (ITE) and Posting
-results</p>
-<p>• Direct-Entry Scheme to Polytechnic Programme (DPP)</p>
-<p>• Polytechnic Foundation Programme (PFP)</p>
-<p>Students are strongly encouraged to attend these briefings as they provide
-important information on education and career pathways.</p>
-<p><strong>Collection by Proxy:</strong>
-</p>
-<p>If your child/ward is unable to collect their results in person, you may
-appoint a proxy to do so on their behalf. The proxy must bring the following
-documents for verification:</p>
-<p>• Signed authorization form from the student</p>
-<p>• Proxy's identification document (NRIC/birth certificate/passport)</p>
-<p>Students who require assistance with proxy arrangements and authorization
-form should contact their form teachers directly.</p>
-<p>For more details, please visit: <a href="https://www.moe.gov.sg/news/press-releases/20251211-release-of-2025-singapore-cambridge-gce-na-nt-level-examination-results-on-18-december-2025" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20251211-release-of-2025-singapore-cambridge-gce-na-nt-level-examination-results-on-18-december-2025</a>
-</p>
-<p>Results day can be an emotional time for both students and parents. Regardless
-of the outcome, please know that we are here to support your child/ward
-in their next steps. Every student has unique strengths and potential,
-and there are multiple pathways to success.</p>
 <h3>Financial Assistance Scheme (FAS) 2026</h3>
 <p>Please click&nbsp;<a href="/files/MOE_FAS_Application_Form_2026_final.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information on FAS or refer to the&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>&nbsp;for
