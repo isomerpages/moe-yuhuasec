@@ -364,7 +364,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="Chew_Chong_Kiat@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Chew Chong Kiat</a>
+<p><a href="mailto:chew_chong_kiat@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Chew Chong Kiat</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -434,7 +434,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="Asmah_Beevi_A_Kamaludin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Asmah Beevi</a>
+<p><a href="mailto:Asmah_Beevi_A_Kamaludin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Asmah Beevi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
