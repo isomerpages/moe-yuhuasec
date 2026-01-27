@@ -16,14 +16,14 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><em>Secondary One </em>
+<p><em>Secondary One</em>
 </p>
-<p><em>PTM  </em>Part 1</p>
+<p><em>PTM </em>Part 1</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><em>Secondary One </em>
+<p><em>Secondary One</em>
 </p>
-<p><em>PTM  </em>Part 2</p>
+<p><em>PTM </em>Part 2</p>
 </th>
 </tr>
 </tbody>
