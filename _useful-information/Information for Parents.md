@@ -6,7 +6,27 @@ variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
 <hr>
-<h2>2026 Term 1 Letter to Parents</h2>
+<h4>Dear Parents/Guardians,</h4>
+<p><em>Thank you for attending our Secondary One Parent-Teacher Meeting last Tuesday on 20 Jan 2026. It was wonderful to see so many of you connecting with our school community. Please find the presentation material attached for your reference. Thank you.</em>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><em>Secondary One Parent-Teacher Meeting </em>Part 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><em>Secondary One Parent-Teacher Meeting </em>Part 2</p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<h3>2026 Term 1 Letter to Parents</h3>
 <p>Dear Parents/Guardians, you may access the Term 1 Letter to Parents via
 the link provided below:</p>
 <p><a href="/files/YHSS_2026_Term_1_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Term 1 Letter to Parents</a>
