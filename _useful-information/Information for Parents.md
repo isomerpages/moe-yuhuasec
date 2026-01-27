@@ -16,16 +16,19 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><em>Secondary One Parent-Teacher Meeting </em>Part 1</p>
+<p><em>Secondary One </em>
+</p>
+<p><em>PTM </em>Part 1</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><em>Secondary One Parent-Teacher Meeting </em>Part 2</p>
+<p><em>Secondary One </em>
+</p>
+<p><em>PTM </em>Part 2</p>
 </th>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
+<p>________________________________________________________________</p>
 <h3>2026 Term 1 Letter to Parents</h3>
 <p>Dear Parents/Guardians, you may access the Term 1 Letter to Parents via
 the link provided below:</p>
