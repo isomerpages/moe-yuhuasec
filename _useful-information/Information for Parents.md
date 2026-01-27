@@ -26,7 +26,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>________________________________________________________________</p>
+<p>_______________________________________________________________</p>
 <h3>2026 Term 1 Letter to Parents</h3>
 <p>Dear Parents/Guardians, you may access the Term 1 Letter to Parents via
 the link provided below:</p>
