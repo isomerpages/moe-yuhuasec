@@ -16,15 +16,11 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><em>Secondary One</em>
-</p>
-<p><em>PTM reference slides</em>
-</p>
-<p><em>Part 1</em>
+<p><em>Secondary One PTM reference slides Part 1</em>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><em>Secondary One reference slides PTM Part 2</em>
+<p><em>Secondary One PTM reference slides Part 2</em>
 </p>
 </th>
 </tr>
