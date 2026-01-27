@@ -17,11 +17,15 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><em><a href="/files/2026_S1_PTM_Slides_for_parents_final_part_1of_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary One PTM reference slides Part 1</a></em>
+<p><em><a href="/files/2026_S1_PTM_Slides_for_parents_final_part_1of_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary One PTM Reference slides</a></em>
+</p>
+<p><em><a href="/files/2026_S1_PTM_Slides_for_parents_final_part_1of_2.pdf" rel="noopener noreferrer nofollow" target="_blank"> Part 1</a></em>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><em><a href="/files/2026_S1_PTM_Slides_for_parents_final_part_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary One PTM reference slides Part 2</a></em>
+<p><em><a href="/files/2026_S1_PTM_Slides_for_parents_final_part_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary One PTM Reference slides </a></em>
+</p>
+<p><em><a href="/files/2026_S1_PTM_Slides_for_parents_final_part_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Part 2</a></em>
 </p>
 </th>
 </tr>
