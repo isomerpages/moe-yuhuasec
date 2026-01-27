@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
 <hr>
-<h3><strong>2026: Secondary One Parent-Teacher Meeting slides</strong></h3>
+<h4><strong>2026: Secondary One Parent-Teacher Meeting slides</strong></h4>
 <p>Dear Parents/Guardians,</p>
 <p><em>Thank you for attending our Secondary One Parent-Teacher Meeting last Tuesday on 20 Jan 2026. It was wonderful to see so many of you connecting with our school community. Please find the presentation material attached for your reference. Thank you.</em>&nbsp;</p>
 <table style="minWidth: 50px">
@@ -17,23 +17,23 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><em>Secondary One PTM reference slides Part 1</em>
+<p><em><a href="/files/2026_S1_PTM_Slides_for_parents_final_part_1of_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary One PTM reference slides Part 1</a></em>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><em>Secondary One PTM reference slides Part 2</em>
+<p><em><a href="/files/2026_S1_PTM_Slides_for_parents_final_part_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary One PTM reference slides Part 2</a></em>
 </p>
 </th>
 </tr>
 </tbody>
 </table>
 <p>_______________________________________________________________</p>
-<h3>2026 Term 1 Letter to Parents</h3>
+<h4><strong>2026 Term 1 Letter to Parents</strong></h4>
 <p>Dear Parents/Guardians, you may access the Term 1 Letter to Parents via
 the link provided below:</p>
 <p><a href="/files/YHSS_2026_Term_1_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Term 1 Letter to Parents</a>
 </p>
-<h3>Financial Assistance Scheme (FAS) 2026</h3>
+<h4><strong>Financial Assistance Scheme (FAS) 2026</strong></h4>
 <p>Please click&nbsp;<a href="/files/MOE_FAS_Application_Form_2026_final.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information on FAS or refer to the&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>&nbsp;for
 further information.</p>
@@ -58,8 +58,7 @@ email the required documents together with the completed form to&nbsp;
 Noraini.&nbsp;&nbsp;Alternatively, the form and documents can be submitted/mailed
 to the school’s General Office.</p>
 <hr>
-<p><strong>2026 Booklists</strong>
-</p>
+<h4><strong>2026 Booklists</strong></h4>
 <p>Secondary 2 (2026)</p>
 <p><a href="/files/YHSS_2026_S2_G1.pdf" rel="noopener nofollow" target="_blank">Sec 2 G1</a>
 </p>
