@@ -5,6 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Students</strong></h1>
+<hr>
+<p>The schedule of Yuhuans weighted assessments for Term1 as follows:</p>
+<p></p>
+<hr>
+<p></p>
 <h4><strong>Timetables for 2026 Semester 1</strong></h4>
 <p>Please find the class timetables for each level below.</p>
 <p><a href="/files/Timetables for 2026 Sem 1/2026_Sem_1_TT_29_Dec_Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 (2026)</a>
