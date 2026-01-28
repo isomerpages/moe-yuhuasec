@@ -6,6 +6,38 @@ variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
 <hr>
+<p>The schedule of Yuhuans weighted assessments for Term1 as follows:</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Sec 1 WA1_Parent Letter 2026</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 2 WA1_Parent Letter 2026 </strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 3 WA1_Parent Letter 2026 </strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 4 WA1_Parent Letter 2026</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <h4><strong>2026: Secondary One Parent-Teacher Meeting slides</strong></h4>
 <p>Dear Parents/Guardians,</p>
 <p><em>Thank you for attending our Secondary One Parent-Teacher Meeting last Tuesday on 20 Jan 2026. It was wonderful to see so many of you connecting with our school community. Please find the presentation material attached for your reference. Thank you.</em>&nbsp;</p>
