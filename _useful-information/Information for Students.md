@@ -27,14 +27,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/files/Sec_3_WA1_Parent_Letter_2026__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA1_Parent Letter 2026</a></strong>
-<a href="/files/Sec_3_WA1_Parent_Letter_2026__final_.pdf" rel="noopener nofollow" target="_blank">file</a>
 </p>
 </td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p><a href="/files/Sec_1_WA1_Parent_Letter_2026__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4&amp;5 WA1_Parent Letter 2026</a>
-<a href="/files/Sec_4_5_WA1_Parent_Letter_2026__final_.pdf" rel="noopener nofollow" target="_blank">file</a>
 </p>
 </th>
 </tr>
