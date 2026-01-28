@@ -144,6 +144,36 @@ through the use of career-related tools and information.</p>
 <p>Click <a href="https://schoolibrary.moe.edu.sg/yuhuasec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener nofollow" target="_blank">here</a> to
 access the School Library Management System.
 <br>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="/files/Sec_1_WA1_Parent_Letter_2026__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA1_Parent Letter 2026</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
 <br>
 <br>
