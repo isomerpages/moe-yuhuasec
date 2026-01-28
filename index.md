@@ -22,6 +22,14 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infobar:
+      title: 2026 TERM 1 WA1 Schedule
+      subtitle: 2026 WA1
+      id: infobar
+      description: Please refer to the Information for Parents as well as the
+        Information for Students webpage.
+      button: Information for Students
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
+  - infobar:
       title: Term 1 Letter to Parents
       subtitle: Term 1 letter to parents
       id: infobar
@@ -72,12 +80,4 @@ sections:
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
       alt: Image alt text
-  - infobar:
-      title: 2026 TERM1 WA1 Schedule
-      subtitle: Add informational text
-      id: infobar
-      description: Please refer to the Information for Parents as well as the
-        Information for Students webpage.
-      button: CLECK HERE
-      url: https://cms.isomer.gov.sg/sites/moe-yuhuasec/folders/useful-information/editPage/Information%20for%20Parents.md
 ---
