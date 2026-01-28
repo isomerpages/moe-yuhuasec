@@ -62,19 +62,6 @@ sections:
       url: https://drive.google.com/file/d/1cSL9Ngm7nnIj6x8raOWHhbEcKl163s6Z/view?usp=drive_web
       alt: Image alt text
       image: /images/yhssllp4.png
-  - textcards:
-      title: 2025 Upper Secondary PTM materials
-      id: textcards
-      description: Text card description
-      cards:
-        - title: ECG and Academic Sharing slides
-          description: ""
-          linktext: Learn more
-          url: https://www.yuhuasec.moe.edu.sg/files/Slides_for_Upper_Sec_PTM.pdf
-        - title: Principal's sharing slides for Upper Sec PTM
-          description: ""
-          linktext: Learn more
-          url: https://www.yuhuasec.moe.edu.sg/files/2025_YHSS_Start_Of_Year_Slides_from_P__Upper_Sec_PTM_.pdf
   - infopic:
       title: YH Café
       subtitle: Yuhua in the news
@@ -85,4 +72,12 @@ sections:
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
       alt: Image alt text
+  - infobar:
+      title: 2026 TERM1 WA1 Schedule
+      subtitle: Add informational text
+      id: infobar
+      description: Please refer to the Information for Parents as well as the
+        Information for Students webpage.
+      button: CLECK HERE
+      url: https://cms.isomer.gov.sg/sites/moe-yuhuasec/folders/useful-information/editPage/Information%20for%20Parents.md
 ---

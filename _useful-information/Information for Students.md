@@ -5,6 +5,42 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Students</strong></h1>
+<hr>
+<p>The schedule of Yuhuans weighted assessments for Term1 as follows:</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="/files/Sec_1_WA1_Parent_Letter_2026__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA1_Parent Letter 2026</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Sec_2_WA1_Parent_Letter_2026__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 WA1_Parent Letter 2026</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Sec_3_WA1_Parent_Letter_2026__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA1_Parent Letter 2026</a></strong>
+<a href="/files/Sec_3_WA1_Parent_Letter_2026__final_.pdf" rel="noopener nofollow" target="_blank">file</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="/files/Sec_1_WA1_Parent_Letter_2026__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4&amp;5 WA1_Parent Letter 2026</a>
+<a href="/files/Sec_4_5_WA1_Parent_Letter_2026__final_.pdf" rel="noopener nofollow" target="_blank">file</a>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
+<hr>
 <h4><strong>Timetables for 2026 Semester 1</strong></h4>
 <p>Please find the class timetables for each level below.</p>
 <p><a href="/files/Timetables for 2026 Sem 1/2026_Sem_1_TT_29_Dec_Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 (2026)</a>
@@ -15,13 +51,12 @@ variant: tiptap
 </p>
 <p><a href="/files/Timetables for 2026 Sem 1/2026_Sem_1_TT_29_Dec_Sec_4_5.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 (2026)</a>
 </p>
-<p></p>
+<hr>
 <h4><strong>Subject Selection for Sec 2 (2025) for Sec 3(2026)</strong></h4>
 <p>The instructions for checking the Sec 3 subject and form class allocation
 are appended below.</p>
 <p><a href="/files/Instructions_on_how_to_check_Sec_3_subject_allocation.pdf" rel="noopener nofollow" target="_blank">Instructions on how to check Sec 3 subject allocation</a>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -31,7 +66,7 @@ are appended below.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>G3 subject combinations</strong>
+<p><strong>3 subject combinations</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -139,6 +174,8 @@ through the use of career-related tools and information.</p>
 <p>Click <a href="https://schoolibrary.moe.edu.sg/yuhuasec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener nofollow" target="_blank">here</a> to
 access the School Library Management System.
 <br>
+</p>
+<p>
 <br>
 <br>
 <br>

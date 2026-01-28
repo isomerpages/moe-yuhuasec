@@ -6,6 +6,39 @@ variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
 <hr>
+<p>The schedule of Yuhuans weighted assessments for Term1 as follows:</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="/files/Sec_1_WA1_Parent_Letter_2026__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA1_Parent Letter 2026</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Sec_2_WA1_Parent_Letter_2026__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 WA1_Parent Letter 2026</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Sec_3_WA1_Parent_Letter_2026__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA1_Parent Letter 2026</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Sec_4_5_WA1_Parent_Letter_2026__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4&amp;5 WA1_Parent Letter 2026</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <h4><strong>2026: Secondary One Parent-Teacher Meeting slides</strong></h4>
 <p>Dear Parents/Guardians,</p>
 <p><em>Thank you for attending our Secondary One Parent-Teacher Meeting last Tuesday on 20 Jan 2026. It was wonderful to see so many of you connecting with our school community. Please find the presentation material attached for your reference. Thank you.</em>&nbsp;</p>
