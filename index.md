@@ -72,4 +72,12 @@ sections:
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
       alt: Image alt text
+  - infobar:
+      title: 2026 TERM1 WA1 Schedule
+      subtitle: Add informational text
+      id: infobar
+      description: Please refer to the Information for Parents as well as the
+        Information for Students webpage.
+      button: CLECK HERE
+      url: https://cms.isomer.gov.sg/sites/moe-yuhuasec/folders/useful-information/editPage/Information%20for%20Parents.md
 ---
