@@ -62,19 +62,6 @@ sections:
       url: https://drive.google.com/file/d/1cSL9Ngm7nnIj6x8raOWHhbEcKl163s6Z/view?usp=drive_web
       alt: Image alt text
       image: /images/yhssllp4.png
-  - textcards:
-      title: 2025 Upper Secondary PTM materials
-      id: textcards
-      description: Text card description
-      cards:
-        - title: ECG and Academic Sharing slides
-          description: ""
-          linktext: Learn more
-          url: https://www.yuhuasec.moe.edu.sg/files/Slides_for_Upper_Sec_PTM.pdf
-        - title: Principal's sharing slides for Upper Sec PTM
-          description: ""
-          linktext: Learn more
-          url: https://www.yuhuasec.moe.edu.sg/files/2025_YHSS_Start_Of_Year_Slides_from_P__Upper_Sec_PTM_.pdf
   - infopic:
       title: YH Café
       subtitle: Yuhua in the news
