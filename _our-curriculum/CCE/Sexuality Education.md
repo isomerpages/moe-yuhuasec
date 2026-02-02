@@ -89,12 +89,13 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Secondary 1</p>
+<p><a href="/files/2026_Info_on_SEd_sec1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Secondary 2</strong>
+<p><strong><a href="/files/2026_Info_on_SEd_Sec2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a></strong>
 </p>
 </td>
 </tr>
