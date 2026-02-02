@@ -84,11 +84,13 @@ sense of self-worth, personal conviction and an understanding of the possible
 consequences of sexual behaviour.</p>
 <p></p>
 </li>
-</ol>
+<li>
 <p>Through the Sexuality Education lessons, secondary students will have
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
+</li>
+</ol>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sed1.png">
