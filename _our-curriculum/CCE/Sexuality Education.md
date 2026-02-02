@@ -83,75 +83,144 @@ of the possible consequences of sexual behaviour.&nbsp;</p>
 have the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1_1.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1_2.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S2_1.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S2_2.png">
-</div>
-<p><strong><s>&nbsp;</s></strong>
+<p><strong>At YUHUA SECONDARY SCHOOL, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S2_3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S3_1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S3_2.png">
-</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S4_1.png">
-</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S4_2.png">
-</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S4_3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S5_1.png">
-</div>
-<p><strong><em><s><u>eTeens</u></s></em><s><u> Programme</u></s></strong><s>:</s>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <ol start="8" data-tight="true" class="tight">
 <li>
-<p><em><s>eTeens</s></em><s> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. </s><em><s>eTeens</s></em><s> is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the </s><em><s>eTeens</s></em><s> programme is that students are empowered to make wise, informed and sensible decisions.</s>
-</p>
+<p><em>eTeens</em> is a programme that was developed by Health Promotion Board,
+in collaboration with the Ministry of Education, to provide Secondary 3
+students with accurate information on STIs, HIV and protection from a health
+perspective. With the formation of the Communicable Diseases Agency (CDA)
+on 1 April 2025, the programme would now be managed by CDA’s Training and
+Education Division instead of HPB. <em>eTeens</em> is conducted in two segments
+– a mass talk segment and a classroom-based programme. The desired outcome
+of the <em>eTeens</em> programme is that students are empowered to make wise,
+informed and sensible decisions to protect themselves from sexually transmitted
+infectious diseases.</p>
+</li>
+<li>
+<p>Students are taught skills such as decision-making, assertiveness and
+negotiation to say “no” to sex and negative peer pressure. They also learn
+that the impact of STIs/HIV extends beyond themselves and involves their
+family, and the importance of responsible decision-making and seeking help.
+Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<ol start="9" data-tight="true" class="tight">
+<p><strong>At YUHUA SECONDARY SCHOOL, the <em>eTeens</em> programme will be implemented as follows in 2026:&nbsp;</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Topics/Lessons</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programme Learning Objectives</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time Period</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mass Talk delivered through a pre-recorded video</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and provide knowledge
+on:</p>
+<p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
+what it is, how it spreads, how to prevent infection mainly through ABC
+(abstinence, being faithful, correct, and consistent condom use), consequences
+and impact</p>
+<p>&nbsp;</p>
+<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure)</p>
+<p>&nbsp;</p>
+<p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
+way, including avenues for help-seeking.</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 Week 6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Classroom-based Lesson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to negotiate their way out
+of a risky situation by applying skills of assertiveness and responsible
+decision-making</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 Week 7</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;Information for Parents</strong>
+</p>
+<ol start="10" data-tight="true" class="tight">
 <li>
-<p><s>Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.</s>
-</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot__290_.png">
-</div>
-<h4><s>INFORMATION FOR PARENTS</s></h4>
-<p></p>
-<p><s>10. Parents may opt their children out of the Sexuality Education lessons, </s><em><s>eTeens</s></em><s> and/or supplementary sexuality education programmes by MOE-approved external providers.</s>
-</p>
-<p><s>11. Parents who wish to opt their children out of the </s><strong><s>Sexuality Education lessons</s></strong><s> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="/files/ANNEX_A_MOE_Sexuality_Education_Parent_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed form is to be submitted by 14/2/2025.</s>
-</p>
-<p><s>12. Parents who wish to opt their children out of the </s><strong><em><s>eTeens</s></em><s> programme</s></strong><s> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="/files/ANNEX_B__eTeens_Parent_Opt_out_Form.pdf" rel="noopener nofollow" target="_blank">here.</a> The completed form is to be submitted by 14/2/2025.</s>
-</p>
-<p><s>13. Parents can contact the school at <a href="mailto:yuhua_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yuhua_ss@moe.edu.sg</a> or 65661985 for discussion or to seek clarification about the school’s Sexuality Education programme.</s>
-</p>
-<p></p>
+<p>Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or
+supplementary sexuality education programmes by MOE-approved external providers.</p>
+</li>
+<li>
+<p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also available <a href="#_ANNEX_A" rel="noopener noreferrer nofollow" target="_blank">here</a><u>.</u> The completed form is to be submitted
+by <strong>6 February 2026</strong>.</p>
+</li>
+<li>
+<p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also available <a href="#_ANNEX_B" rel="noopener noreferrer nofollow" target="_blank">here</a>. &nbsp;The completed form is to be submitted
+by <strong>6 February 2026</strong>.</p>
+</li>
+<li>
+<p>Parents can contact the school at <a href="mailto:yuhua_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yuhua_ss@moe.edu.sg</a> or 65661985 for
+discussion or to seek clarification about the school’s Sexuality Education
+programme</p>
 <p></p>
 </li>
 </ol>
