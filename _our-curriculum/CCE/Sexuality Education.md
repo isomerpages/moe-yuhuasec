@@ -101,13 +101,13 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Secondary 3</strong>
+<p><strong><a href="/files/2026_Info_on_SEd_sec3.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Secondary 4 and 5</strong>
+<p><strong><a href="/files/2026_Info_on_SEd_sec4n5.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 and 5</a></strong>
 </p>
 </td>
 </tr>
