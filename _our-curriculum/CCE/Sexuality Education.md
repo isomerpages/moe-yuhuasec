@@ -34,18 +34,19 @@ that are premised on the family as the basic unit of society.</p>
 </li>
 <li>
 <p>The <strong>Key Messages</strong> of Sexuality Education are:&nbsp;</p>
-</li>
-</ol>
-<p>(a)&nbsp;Love and respect yourself as you love and respect others;</p>
-<p>(b)&nbsp;Build positive relationships based on love and respect (which
-are the foundation for strong families);</p>
-<p>(c)&nbsp;Make responsible decisions for yourself, your family and society;
+<p>(a) Love and respect yourself as you love and respect others;</p>
+<p>(b) Build positive relationships based on love and respect (which are
+the foundation for strong families)</p>
+<p>(c) Make responsible decisions for yourself, your family and society;
 and</p>
 <p>(d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-<p>&nbsp;You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p></p>
+<p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
+</li>
+</ol>
 <p><strong>OVERVIEW OF YUHUA SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong>
 </p>
 <ol start="4" data-tight="true" class="tight">
@@ -55,13 +56,17 @@ curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
 Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
+<p></p>
 </li>
-</ol>
-<p>5.&nbsp;The subjects that incorporate topics on sexuality include:</p>
-<p>a.&nbsp;&nbsp;&nbsp; Science</p>
-<p>b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)</p>
-<p><strong><u>Sexuality Education Lessons</u></strong>:</p>
-<ol start="6" data-tight="true" class="tight">
+<li>
+<p>The subjects that incorporate topics on sexuality include:</p>
+<p></p>
+<p>(a) Science</p>
+<p>(b) Character and Citizenship Education (CCE)</p>
+<p></p>
+<p><strong><u>Sexuality Education Lessons:</u></strong>
+</p>
+</li>
 <li>
 <p>The values and attitudes of our youth towards sexuality are increasingly
 shaped by their peers, exposure to the media, popular culture and the internet.
