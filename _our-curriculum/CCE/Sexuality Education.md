@@ -36,15 +36,16 @@ that are premised on the family as the basic unit of society.</p>
 <p>The <strong>Key Messages</strong> of Sexuality Education are:&nbsp;</p>
 </li>
 </ol>
-<p>(a)&nbsp;Love and respect yourself as you love and respect others;</p>
-<p>(b)&nbsp;Build positive relationships based on love and respect (which
-are the foundation for strong families);</p>
-<p>(c)&nbsp;Make responsible decisions for yourself, your family and society;
+<p>(a) Love and respect yourself as you love and respect others;</p>
+<p>(b) Build positive relationships based on love and respect (which are
+the foundation for strong families)</p>
+<p>(c) Make responsible decisions for yourself, your family and society;
 and</p>
 <p>(d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-<p>&nbsp;You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p></p>
+<p>&nbsp;You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p><strong>OVERVIEW OF YUHUA SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong>
 </p>
