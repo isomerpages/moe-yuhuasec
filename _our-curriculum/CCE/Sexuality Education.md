@@ -22,9 +22,6 @@ beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
 </li>
 <li>
-<p></p>
-</li>
-<li>
 <p>The <strong>Goals</strong> of Sexuality Education are to:&nbsp;</p>
 <p>(a)&nbsp;Support students in managing their physiological, social and
 emotional changes as they grow up and develop safe and healthy relationships.</p>
