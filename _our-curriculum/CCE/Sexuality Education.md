@@ -205,14 +205,14 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also available <a href="#_ANNEX_A" rel="noopener noreferrer nofollow" target="_blank">here</a><u>.</u> The completed form is to be submitted
-by <strong>6 February 2026</strong>.</p>
+at the start of the year and is also available <a href="/files/2026_Annex_A_Parent_Opt_out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a><u>.</u> The
+completed form is to be submitted by <strong>6 February 2026</strong>.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also available <a href="#_ANNEX_B" rel="noopener noreferrer nofollow" target="_blank">here</a>. &nbsp;The completed form is to be submitted
-by <strong>6 February 2026</strong>.</p>
+at the start of the year and is also available<a href="/files/2026_Annex_B_eTeens_Opt_out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"> here. </a>&nbsp;The
+completed form is to be submitted by <strong>6 February 2026</strong>.</p>
 </li>
 <li>
 <p>Parents can contact the school at <a href="mailto:yuhua_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yuhua_ss@moe.edu.sg</a> or 65661985 for
