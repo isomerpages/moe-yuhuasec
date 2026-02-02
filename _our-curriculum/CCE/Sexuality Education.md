@@ -90,39 +90,36 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
 <p></p>
-<p><strong>At YUHUA SECONDARY SCHOOL, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><a href="/files/2026_Info_on_SEd_sec1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/2026_Info_on_SEd_Sec2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/2026_Info_on_SEd_sec3.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/2026_Info_on_SEd_sec4n5.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 and 5</a></strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sed1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sed2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sed3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sed4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sed5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sed6.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sed7.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sed8.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sed9.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sed10.png">
+</div>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <ol start="8" data-tight="true" class="tight">
 <li>
@@ -146,66 +143,10 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<p><strong>At YUHUA SECONDARY SCHOOL, the <em>eTeens</em> programme will be implemented as follows in 2026:&nbsp;</strong>
-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Topics/Lessons</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Programme Learning Objectives</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Time Period</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mass Talk delivered through a pre-recorded video</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Raise awareness and provide knowledge on:</p>
-<p>a) Sexually transmitted infectious diseases (STIs and HIV): what it is,
-how it spreads, how to prevent infection mainly through ABC (abstinence,
-being faithful, correct, and consistent condom use), consequences and impact</p>
-<p>&nbsp;</p>
-<p>b) Skills for respecting boundaries (e.g. decision-making, assertiveness,
-negotiation to say ‘no’ to peer pressure)</p>
-<p>&nbsp;c)&nbsp;Managing relationships and risky situations in a healthy
-way, including avenues for help-seeking.</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Classroom-based Lesson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Learn to negotiate their way out of a risky situation by applying skills
-of assertiveness and responsible decision-making</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sed11.png">
+</div>
 <p><strong>&nbsp;Information for Parents</strong>
 </p>
 <ol start="10" data-tight="true" class="tight">
