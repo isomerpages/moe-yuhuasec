@@ -4,8 +4,7 @@ permalink: /useful-contact-numbers/
 variant: tiptap
 description: ""
 ---
-<h3>Who can you contact if your friend/s or you need counselling support outside school hours:</h3>
-<p></p>
+<h4>Who can you contact if your friend/s or you need counselling support outside school hours:</h4>
 <h4>Crisis Helpline and Suicide Prevention</h4>
 <p><strong>IMH Mental Helpline (24 hour)</strong>
 </p>
