@@ -2,7 +2,6 @@ collections:
   useful-information:
     output: true
     order:
-      - Useful Contact Numbers.md
       - Direct School Admissions (DSA).md
       - Information for Parents.md
       - Information for Staff.md
@@ -13,3 +12,4 @@ collections:
       - Personal Learning Device (PLD)/Parental support for PLD usage.md
       - Personal Learning Device (PLD)/FAQs.md
       - School Calendar.md
+      - Useful Contact Numbers.md
