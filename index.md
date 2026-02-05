@@ -15,9 +15,6 @@ sections:
         - title: YHSS Flickr page
           description: Access our school photos here!
           url: https://flickr.com/photos/197130688@N02/albums
-        - title: Secondary 1 Registration (2026)
-          description: For students posted to YHSS
-          url: https://sites.google.com/moe.edu.sg/2026sec1reg/sec-one-registration-for-2026
         - title: Calendar of Events
           description: Click here!
           url: /useful-information-and-links/school-calendar
@@ -44,15 +41,6 @@ sections:
         clicking on the link below.
       button: Information for Students
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
-  - infobar:
-      title: Secondary 1 Registration (2026)
-      subtitle: Sec 1 posting (2026)
-      id: infobar
-      description: Welcome to Yuhua Secondary School! Click on the link below to go to
-        the website for the Secondary 1 Registration for students posted to
-        Yuhua Secondary School.
-      button: Secondary 1 Registration (2026)
-      url: https://sites.google.com/moe.edu.sg/2026sec1reg/sec-one-registration-for-2026
   - infobar:
       title: ECG on Post-Sec pathway and Sec5 application form
       subtitle: ECG and Sec 5 application
