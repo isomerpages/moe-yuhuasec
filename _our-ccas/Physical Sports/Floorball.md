@@ -28,15 +28,14 @@ on a yearly basis.</p>
 <br>Mrs Jenny Ong</p>
 <p><strong>Student Leaders:</strong>
 <br><em>B Division:</em>
-<br><strong>Captain</strong>: FAWWAZ BIN MOHAMED ASIK (3 CONTRIBUTE)</p>
-<p><strong>Vice-captain</strong>: RISHI GABRIEL S/O SELVA RAJA (3 RESILIENCE)</p>
-<p><strong>Vice-captain</strong>: RYAN RIFQI DARWISH BIN MOHAMAD LATIFF (3
-RESILIENCE)</p>
+<br><strong>Captain</strong>: FAWWAZ BIN MOHAMED ASIK</p>
+<p><strong>Vice-captain</strong>: RISHI GABRIEL S/O SELVA RAJA</p>
+<p><strong>Vice-captain</strong>: RYAN RIFQI DARWISH BIN MOHAMAD LATIFF</p>
 <p></p>
 <p><em>C Division:</em>
-<br><strong>Captain</strong>: AYDEN ANG (2 CONTRIBUTE)</p>
-<p><strong>Vice-captain</strong>: LIM JIA AN ZACHARY (2 CONNECT)</p>
-<p><strong>Vice-captain</strong>: KHOO ER QUAN (2 RESILIENCE)</p>
+<br><strong>Captain</strong>: AYDEN ANG</p>
+<p><strong>Vice-captain</strong>: LIM JIA AN ZACHARY</p>
+<p><strong>Vice-captain</strong>: KHOO ER QUAN</p>
 <h3>Key Events of the Year</h3>
 <ul data-tight="true" class="tight">
 <li>
