@@ -78,10 +78,23 @@ and dedication will allow us to build on the Yuhua Concert Band’s legacy.</p>
 <br><strong>Band Leader</strong>: AMBER LEE ZHI YAO
 <br><strong>Band Leader</strong>: DANICK THAW TAR MIN</p>
 <h4><strong>Key events/Achievements:</strong></h4>
-<p>-Concert Band Mini Concert 2024
-<br>- Singapore Youth Festival Arts Presentation (2023, 2021, 2019)
-<br>- National Day Parade Military Tattoo 2023
-<br>- MOE National Day Observance Ceremony Recording (2022)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Day Parade 2025 Combined Schools Bands</p>
+</li>
+<li>
+<p>Concert Band Mini Concert 2024</p>
+</li>
+<li>
+<p>Singapore Youth Festival Arts Presentation (2023, 2021, 2019)</p>
+</li>
+<li>
+<p>National Day Parade Military Tattoo 2023</p>
+</li>
+<li>
+<p>MOE National Day Observance Ceremony Recording (2022)</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_04_22_at_9_42_58_AM.jpg">
 </div>
