@@ -34,18 +34,18 @@ learning experiences.</p>
 <p><strong>Student Leaders</strong>
 </p>
 <p><strong>President</strong>:</p>
-<p>NURIN IRDINA BINTE MOHAMED MAZLAN (3 RESPECT)</p>
+<p>NURIN IRDINA BINTE MOHAMED MAZLAN</p>
 <p><strong>Vice-President:</strong>
 </p>
-<p>MEDINAH BINTE MUSA (3 CARE)</p>
+<p>MEDINAH BINTE MUSA</p>
 <p><strong>EXCO Members:</strong>
 </p>
-<p>LEANA NG YI XUAN (2 RESPECT)</p>
-<p>HONG JING XUAN (2 RESPONSIBILITY)</p>
-<p>NAYLI BINTE RAMLAN (2 RESPONSIBILITY)</p>
-<p>KEIRA LIM XUAN TONG (2 RESILIENCE)</p>
-<p>LEE XU LE (2 CONTRIBUTE)</p>
-<p>TAN ZHEN HONG (3 RESILIENCE)</p>
+<p>LEANA NG YI XUAN</p>
+<p>HONG JING XUAN</p>
+<p>NAYLI BINTE RAMLAN</p>
+<p>KEIRA LIM XUAN TONG</p>
+<p>LEE XU LE</p>
+<p>TAN ZHEN HONG</p>
 <p></p>
 <h3>Key Events of the Year</h3>
 <p><strong>Student Librarians @ Work:</strong>
