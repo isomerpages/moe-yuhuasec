@@ -72,7 +72,7 @@ and dedication will allow us to build on the Yuhua Concert Band’s legacy.</p>
 <p>Ms Koh Li Yun Jamie (OIC)</p>
 <p>Mr Kenneth Yeo (2IC)</p>
 <p>Ms Sunarti Bte Abdul Wahab</p>
-<p>Mr Arfah Lubis</p>
+<p>Ms Arfah Lubis</p>
 <p>Ms Wu Xiaoying</p>
 <p></p>
 <p><strong>Student Leaders:</strong> 
