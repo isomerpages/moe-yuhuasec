@@ -39,13 +39,13 @@ inspire and guide the Band towards new musical heights — true to our motto:
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_10_at_11_43_16_AM.jpg">
 </div>
-<p><strong>Chairperson:</strong> Toh Zixun (3 Flourish)</p>
-<p><strong>Sectional Leaders</strong>: Esther Poon Qi Hua (3 Responsibility)</p>
-<p>Emerald Win (3 Resilience)</p>
-<p>Callie Eng Yan Ying (3 Flourish)</p>
-<p>Lim Ming Ze (3 Flourish)</p>
-<p><strong>Quarter Masters</strong>: Toh Shi An (3 Connect)</p>
-<p>Ethan Lim Zen Feng (3 Flourish)</p>
+<p><strong>Chairperson:</strong> Toh Zixun</p>
+<p><strong>Sectional Leaders</strong>: Esther Poon Qi Hua</p>
+<p>Emerald Win</p>
+<p>Callie Eng Yan Ying</p>
+<p>Lim Ming Ze</p>
+<p><strong>Quarter Masters</strong>: Toh Shi An</p>
+<p>Ethan Lim Zen Feng</p>
 <p></p>
 <p></p>
 <h3>Key Events</h3>
