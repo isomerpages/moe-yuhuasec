@@ -30,15 +30,15 @@ in the world.</p>
 <br>Mr Lee Yi Xin</p>
 <p><strong>Star Leaders:</strong>
 <br><strong>NPCC Chairman:</strong>
-<br>Lee Cheng Xin (3 Flourish)
+<br>Lee Cheng Xin
 <br><strong>Head of Training:</strong>
-<br>Vengatesan Sadhvini (3 Flourish)
+<br>Vengatesan Sadhvini
 <br><strong>NPCC Vice-Chairman (Administration):</strong>
-<br>Wong Jing Yi (3 Flourish)
+<br>Wong Jing Yi
 <br><strong>NPCC Vice-Chairman (Communications):</strong>
-<br>K Rubikkaa (3 Connect)
+<br>K Rubikkaa
 <br><strong>NPCC Vice-Chairman (Well-being):</strong>
-<br>Advita C Raj (3 Care)</p>
+<br>Advita C Raj</p>
 <p>
 <br>
 </p>
