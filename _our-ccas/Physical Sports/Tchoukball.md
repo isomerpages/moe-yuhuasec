@@ -46,16 +46,15 @@ players to the National Squad to play overseas in Malaysia and Taiwan.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>B Captain: Leon Djunaedi (3 Flourish), Gurneet Judge Bjarne (3 Resilience)</p>
-<p>B Vice: Pang Cheng Yi (3 Contribute), Syarah Huriyah (3 Resilience)</p>
+<p>B Captain: Leon Djunaedi , Gurneet Judge Bjarne</p>
+<p>B Vice: Pang Cheng Yi, Syarah Huriyah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>C Captain: Thien Zi Qian Raphael (2 Respect), Dayang Nuratiqah Binte Abu
-Hassan (2 Respect)</p>
-<p>C Vice: Muhammad Dean Kahiel Bin Mohamad Nizar (2 Respect), Nur Izzah
-Qistina Binte Muhammad Fadhlin (2 Contribute)</p>
+<p>C Captain: Thien Zi Qian Raphael, Dayang Nuratiqah Binte Abu Hassan</p>
+<p>C Vice: Muhammad Dean Kahiel Bin Mohamad Nizar, Nur Izzah Qistina Binte
+Muhammad Fadhlin</p>
 </td>
 </tr>
 </tbody>
