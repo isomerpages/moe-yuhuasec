@@ -27,10 +27,10 @@ thoughtful innovators and problem-solvers for the future.</p>
 <br>Mr Daniel Tan Wee Meng (2IC)
 <br>Ms Muliyahna Binte Sani</p>
 <h3>Student Leaders</h3>
-<p><strong>President: </strong>SHELYN LOW XIN YU (3 Flourish)</p>
-<p><strong>Vice President: </strong>SACHIN VIJAYANANTHAN (3 Resilience)</p>
-<p><strong>EXCO 1: </strong>TEO KAI HUI, CELESTE (3 Care)</p>
-<p><strong>EXCO 2: </strong>SER KAI LUN, DAVIS (3 Flourish)</p>
+<p><strong>President: </strong>SHELYN LOW XIN YU</p>
+<p><strong>Vice President: </strong>SACHIN VIJAYANANTHAN</p>
+<p><strong>EXCO 1: </strong>TEO KAI HUI, CELESTE</p>
+<p><strong>EXCO 2: </strong>SER KAI LUN, DAVIS</p>
 <h3>Key Events/ Achievements</h3>
 <p></p>
 <p><strong>AWARDS</strong>
