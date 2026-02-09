@@ -62,11 +62,11 @@ know more about our CCA!&nbsp;</p>
 <p>You may also approach any of our friendly seniors who will be able to
 share with you more about our dance spirit &amp; Yuhua Secondary School!</p>
 <h3>CCA Leaders</h3>
-<p><strong>President:&nbsp;</strong>Kayle Lee Jia En (3 Flourish)</p>
-<p><strong>Vice President: </strong>Alya Maisarah Binte Norhisham (3 Contribute)</p>
-<p><strong>Vice President:&nbsp;</strong>Gan Yee Shin (3 Flourish)</p>
-<p><strong>Welfare:&nbsp;</strong>Jayaraman Mansikaa (3 Connect)</p>
-<p><strong>Publicity i/c:&nbsp;</strong>Phang Rui Ivy (3 Contribute)</p>
+<p><strong>President:&nbsp;</strong>Kayle Lee Jia En</p>
+<p><strong>Vice President: </strong>Alya Maisarah Binte Norhisham</p>
+<p><strong>Vice President:&nbsp;</strong>Gan Yee Shin</p>
+<p><strong>Welfare:&nbsp;</strong>Jayaraman Mansikaa</p>
+<p><strong>Publicity i/c:&nbsp;</strong>Phang Rui Ivy</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
