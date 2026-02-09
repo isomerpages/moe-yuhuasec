@@ -53,9 +53,9 @@ even to the wider society in meaningful ways.</p>
 </ul>
 <p><strong>2025 - 2026 Student Leaders</strong>
 </p>
-<p><strong>President</strong>: Eva Tan Yi En (3 Connect)</p>
-<p><strong>Vice-President</strong>: Lam Hui Xin Gloria (3 Flourish)</p>
-<p><strong>Secretary</strong>: Villanueva Aivelle Leighanne Abanes (3 Flourish)</p>
+<p><strong>President</strong>: Eva Tan Yi En</p>
+<p><strong>Vice-President</strong>: Lam Hui Xin Gloria</p>
+<p><strong>Secretary</strong>: Villanueva Aivelle Leighanne Abanes</p>
 <h4>Key Events/Achievements:</h4>
 <table style="minWidth: 25px">
 <colgroup>

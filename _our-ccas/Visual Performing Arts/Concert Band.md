@@ -72,13 +72,13 @@ and dedication will allow us to build on the Yuhua Concert Band’s legacy.</p>
 <p>Ms Koh Li Yun Jamie (OIC)</p>
 <p>Mr Kenneth Yeo (2IC)</p>
 <p>Ms Sunarti Bte Abdul Wahab</p>
-<p>Mr Arfah Lubis</p>
+<p>Ms Arfah Lubis</p>
 <p>Ms Wu Xiaoying</p>
 <p></p>
 <p><strong>Student Leaders:</strong> 
-<br><strong>Band Leader</strong>: NORFASANAZ BINTE MUHAMMAD NORASIF (3 Respect)
-<br><strong>Band Leader</strong>: AMBER LEE ZHI YAO (3 Connect))
-<br><strong>Band Leader</strong>: DANICK THAW TAR MIN (3 Connect)&nbsp;</p>
+<br><strong>Band Leader</strong>: NORFASANAZ BINTE MUHAMMAD NORASIF
+<br><strong>Band Leader</strong>: AMBER LEE ZHI YAO
+<br><strong>Band Leader</strong>: DANICK THAW TAR MIN</p>
 <h4><strong>Key events/Achievements:</strong></h4>
 <p>-Concert Band Mini Concert 2024
 <br>- Singapore Youth Festival Arts Presentation (2023, 2021, 2019)

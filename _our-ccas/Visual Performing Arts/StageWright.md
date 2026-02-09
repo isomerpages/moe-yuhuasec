@@ -31,8 +31,8 @@ while showing their talents.</p>
 <br>Ms Rathiya
 <br>Mdm Rafilah</p>
 <h3>Student Leaders</h3>
-<p><strong>President: </strong>Krishnarajan Jeeva Karunya (3 Care)</p>
-<p><strong>Vice President:</strong> Nur Aisyah binte Nur Muhamed (3 Flourish)</p>
+<p><strong>President: </strong>Krishnarajan Jeeva Karunya</p>
+<p><strong>Vice President:</strong> Nur Aisyah binte Nur Muhamed</p>
 <h3>Key Events of the Year</h3>
 <ul data-tight="true" class="tight">
 <li>
