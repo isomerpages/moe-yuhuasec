@@ -19,6 +19,14 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infobar:
+      title: 16 February 2026 HBL Lesson Plans
+      subtitle: HBL Lesson Plans
+      id: infobar
+      description: Please refer to the link below for the individual class subject
+        lesson plans for 16 February HBL.
+      button: subject lesson plans
+      url: https://sites.google.com/moe.edu.sg/yhss-hbl/blended-learning/hbl-subject-plans-2026
+  - infobar:
       title: 2026 TERM 1 WA1 Schedule
       subtitle: 2026 WA1
       id: infobar
@@ -41,14 +49,6 @@ sections:
         clicking on the link below.
       button: Information for Students
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
-  - infobar:
-      title: ECG on Post-Sec pathway and Sec5 application form
-      subtitle: ECG and Sec 5 application
-      id: infobar
-      description: Please click on the link below for information about post-secondary
-        pathways and the application form for Sec 5.
-      button: ECG and Sec5 application
-      url: https://sites.google.com/moe.edu.sg/yhstdasst?usp=sharing
   - infopic:
       title: Yearbook
       id: infopic
