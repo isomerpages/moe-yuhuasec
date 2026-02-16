@@ -6,7 +6,25 @@ variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
 <hr>
-<p>The schedule of Yuhuans weighted assessments for Term1 as follows:</p>
+<h4><strong>2026: Upper Secondary Parent-Teacher Meeting slides</strong></h4>
+<p>Dear Parents/Guardians,</p>
+<p><em>Thank you for attending our Upper Secondary Parent-Teacher Meeting on 5 Feb 2026. It was wonderful to see so many of you connecting with our school community. Please find the presentation material attached for your reference. Thank you.</em>&nbsp;</p>
+<p><strong><a href="/files/Upper Sec PTM 2026/Upper_Sec_PTM_2026_For_Sch_Website.pdf" rel="noopener nofollow" target="_blank">Upper Sec PTM 2026 Slides</a></strong>
+</p>
+<p><strong><a href="/files/Upper Sec PTM 2026/ECG_PTM_for_Sec_4_O_Level.pdf" rel="noopener nofollow" target="_blank">ECG slides for Sec 4 &amp; 5 (O-Level)</a></strong>
+</p>
+<p><strong><a href="/files/Upper Sec PTM 2026/ECG_PTM_for_Sec_4_NA_Level.pdf" rel="noopener nofollow" target="_blank">ECG slides for Sec 4 NA</a></strong>
+</p>
+<p><strong><a href="/files/Upper Sec PTM 2026/ECG_PTM_for_Sec_4_NT_Level.pdf" rel="noopener nofollow" target="_blank">ECG slides for Sec 4 NT</a></strong>
+</p>
+<p><strong><a href="/files/Upper Sec PTM 2026/ECG_PTM_for_Sec_3_G3.pdf" rel="noopener nofollow" target="_blank">ECG slides for Sec 3 G3</a></strong>
+</p>
+<p><strong><a href="/files/Upper Sec PTM 2026/ECG_PTM_for_Sec_3_G2.pdf" rel="noopener nofollow" target="_blank">ECG slides for Sec 3 G2</a></strong>
+</p>
+<p><strong><a href="/files/Upper Sec PTM 2026/ECG_PTM_for_Sec_3_G1.pdf" rel="noopener nofollow" target="_blank">ECG slides for Sec 3 G1</a></strong>
+</p>
+<h4><strong>Weighted Assessment 1</strong></h4>
+<p>The schedule of Yuhuans' weighted assessments for Term 1 is as follows:</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
