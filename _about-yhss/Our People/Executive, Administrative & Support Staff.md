@@ -168,7 +168,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="8" colspan="1">
+<td rowspan="7" colspan="1">
 <p><strong>OPERATIONS SUPPORT TEAM</strong>
 </p>
 </td>
@@ -209,14 +209,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM TOH LAY HWA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR YA'AKOB BIN MOHD YASIN</p>
 </td>
 </tr>
 <tr>
