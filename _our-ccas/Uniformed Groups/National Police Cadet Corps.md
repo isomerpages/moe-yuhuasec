@@ -35,19 +35,19 @@ in the world.</p>
 </p>
 <p>Dollesin Amira Nieva Norcio</p>
 <p>Muhammad Nor Iqbal Bin Nordin</p>
-<p>⁠<strong>Head of Training: </strong>
+<p>⁠<strong>Head of Training:</strong>
 </p>
 <p>Harith Bin Hanuar</p>
-<p><strong>Head of Logistics: </strong>
+<p><strong>Head of Logistics:</strong>
 </p>
 <p>Ngai Yuk Xin</p>
-<p>⁠<strong>Head of Admin: </strong>
+<p>⁠<strong>Head of Admin:</strong>
 </p>
 <p>Trishya Isabell Tan Rui En</p>
-<p><strong>Head of Media: </strong>
+<p><strong>Head of Media:</strong>
 </p>
 <p>Gunasekaran Bhavya</p>
-<p><strong>Head of Cohesion: </strong>
+<p><strong>Head of Cohesion:</strong>
 </p>
 <p>Khong Ke Xuan</p>
 <p></p>
