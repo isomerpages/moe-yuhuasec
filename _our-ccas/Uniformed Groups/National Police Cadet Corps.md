@@ -29,16 +29,28 @@ in the world.</p>
 <br>Ms Duan Linxin (2IC)
 <br>Mr Lee Yi Xin</p>
 <p><strong>Star Leaders:</strong>
-<br><strong>NPCC Chairman:</strong>
-<br>Lee Cheng Xin
-<br><strong>Head of Training:</strong>
-<br>Vengatesan Sadhvini
-<br><strong>NPCC Vice-Chairman (Administration):</strong>
-<br>Wong Jing Yi
-<br><strong>NPCC Vice-Chairman (Communications):</strong>
-<br>K Rubikkaa
-<br><strong>NPCC Vice-Chairman (Well-being):</strong>
-<br>Advita C Raj</p>
+<br>
+</p>
+<p><strong>Co-chairperson:</strong>
+</p>
+<p>Dollesin Amira Nieva Norcio</p>
+<p>Muhammad Nor Iqbal Bin Nordin</p>
+<p>⁠<strong>Head of Training: </strong>
+</p>
+<p>Harith Bin Hanuar</p>
+<p><strong>Head of Logistics: </strong>
+</p>
+<p>Ngai Yuk Xin</p>
+<p>⁠<strong>Head of Admin: </strong>
+</p>
+<p>Trishya Isabell Tan Rui En</p>
+<p><strong>Head of Media: </strong>
+</p>
+<p>Gunasekaran Bhavya</p>
+<p><strong>Head of Cohesion: </strong>
+</p>
+<p>Khong Ke Xuan</p>
+<p></p>
 <p>
 <br>
 </p>
