@@ -19,14 +19,6 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infobar:
-      title: 16 February 2026 HBL Lesson Plans
-      subtitle: HBL Lesson Plans
-      id: infobar
-      description: Please refer to the link below for the individual class subject
-        lesson plans for 16 February HBL.
-      button: subject lesson plans
-      url: https://sites.google.com/moe.edu.sg/yhss-hbl/blended-learning/hbl-subject-plans-2026
-  - infobar:
       title: 2026 TERM 1 WA1 Schedule
       subtitle: 2026 WA1
       id: infobar
