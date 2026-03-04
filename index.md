@@ -60,4 +60,13 @@ sections:
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
       alt: Image alt text
+  - infopic:
+      title: English Award
+      subtitle: Inspiring Teacher of
+      id: infopic
+      description: Nominate a deserving English Teacher today! The nomination period
+        will end on Monday, 6 Apr 26 at 5 pm. Nomination forms are available at
+        the General Office
+      button: Button Text
+      alt: Image alt text
 ---
