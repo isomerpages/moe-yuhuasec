@@ -18,6 +18,17 @@ sections:
         - title: Calendar of Events
           description: Click here!
           url: /useful-information-and-links/school-calendar
+  - infopic:
+      title: Inspiring English Teacher
+      subtitle: Nominate your
+      id: infopic
+      description: Nominate a deserving English Teacher today! The nomination period
+        will end on Monday, 6 Apr 26 at 5 pm. Nomination forms are available at
+        the General Office
+      button: More info
+      alt: Image alt text
+      url: https://www.languagecouncils.sg/goodenglish/
+      image: /images/english_teacher.jpg
   - infobar:
       title: 2026 TERM 1 WA1 Schedule
       subtitle: 2026 WA1
