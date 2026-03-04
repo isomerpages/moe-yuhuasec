@@ -19,7 +19,7 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infopic:
-      title: inspiring English teacher
+      title: Inspiring English Teacher
       subtitle: Nominate your
       id: infopic
       description: Nominate a deserving English Teacher today! The nomination period
