@@ -67,6 +67,8 @@ sections:
       description: Nominate a deserving English Teacher today! The nomination period
         will end on Monday, 6 Apr 26 at 5 pm. Nomination forms are available at
         the General Office
-      button: Button Text
+      button: More info
       alt: Image alt text
+      url: https://www.languagecouncils.sg/goodenglish/
+      image: /images/english_teacher.jpg
 ---
