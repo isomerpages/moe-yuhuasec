@@ -5,11 +5,72 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Academic and Learning Achievements</strong></h1>
+<h2>2026</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM__4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM__6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM__7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM__8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM__10.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM__11.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM__13.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM__14.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM__15.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM__17.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM__18.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM_19.jpg">
+</div>
 <h2>2025</h2>
-<h4><strong>International Joint Schools Mathematics Competition 2025</strong></h4>
-<p>Jerren Tiang Jia He (3 Flourish) - Top Talent Award</p>
-<p>Chong Zhong Wei (4 Flourish) - Top Talent Award, First Runner-Up Award
-(Senior Secondary Category)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM__2.jpg">
+</div>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Chong Zhong Wei</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Champion Award (Junior Secondary)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>4 Flourish</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Top 4-10%</p>
+</th>
+</tr>
+</tbody>
+</table>
 <h4><strong>National Financial Literacy Challenge 2025</strong></h4>
 <p>Stella Tan, Arish Danish, Cheng Teng Lun, Fajhar and Toh Jia Xin from
 3 Resilience - Top 10</p>
