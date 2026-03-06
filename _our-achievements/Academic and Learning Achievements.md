@@ -9,13 +9,19 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM__4.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_STEM_Student_Achievements_pdf.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM__7.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM__10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_STEM_Student_Achievements_pdf__1_.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_STEM_Student_Achievements_pdf__2_.jpg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM__11.jpg">
 </div>
@@ -23,7 +29,10 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM__13.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM__15.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_STEM_Student_Achievements_pdf__3_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_STEM_Student_Achievements_pdf__4_.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM__17.jpg">
@@ -32,7 +41,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM__18.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM_19.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_STEM_Student_Achievements_pdf__5_.jpg">
 </div>
 <h2>2025</h2>
 <div class="isomer-image-wrapper">
