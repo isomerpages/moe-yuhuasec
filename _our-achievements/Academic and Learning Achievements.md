@@ -5,11 +5,160 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Academic and Learning Achievements</strong></h1>
+<h2>2026</h2>
+<h4><strong>Science TDP student achievements</strong></h4>
+<p><strong>Online STEM Competitions</strong>
+</p>
+<p>Our Science TDP students have also taken initiative to participate in
+a variety of online STEM competitions organised by international bodies
+such as the Asian Gifted Education Association and have performed exceedingly
+well when benchmarked against their peers from other parts of the world.</p>
+<p><a href="https://drive.google.com/file/d/1U6QnUW71Dlm-IkeENiabHWT4y8H1mMTk/view?usp=sharing" rel="noopener nofollow" target="_blank">2026 STEM Student Achievements</a>
+</p>
+<p><strong>Australian Big Science Competition 2025</strong>
+</p>
+<p>Our Science TDP students performed well at the Australian Big Science
+Competition, which is an international competition involving over 40000
+students worldwide. This competition assesses knowledge in different scientific
+domains, data-handling skills, experimental planning and familiarity with
+scientific inferences and conclusions.</p>
+<p>We are proud to share that we have <strong><em>2 students achieving the coveted Distinction award (top 15% of world) </em></strong>and <strong><em>9 students achieving the Credit award (top 35% of world)</em></strong>.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Australian Big Science Competition 2025</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Rui Qi Charis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Contribute</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Winson Phua Jing Xiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Contribute</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fan Zhenyi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Adaptability</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Saket Srivatsa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Adaptability</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Pin Han, Darren</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Leana Ng Yi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ahmmed Johan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wong Ting Er Phoebe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Naik Kunj Umang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Connect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Wen Zhuo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Connect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Woo Jie En Jayden</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Connect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2>2025</h2>
-<h4><strong>International Joint Schools Mathematics Competition 2025</strong></h4>
-<p>Jerren Tiang Jia He (3 Flourish) - Top Talent Award</p>
-<p>Chong Zhong Wei (4 Flourish) - Top Talent Award, First Runner-Up Award
-(Senior Secondary Category)</p>
 <h4><strong>National Financial Literacy Challenge 2025</strong></h4>
 <p>Stella Tan, Arish Danish, Cheng Teng Lun, Fajhar and Toh Jia Xin from
 3 Resilience - Top 10</p>
