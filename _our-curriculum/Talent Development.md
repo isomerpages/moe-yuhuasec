@@ -56,9 +56,7 @@ Competition, which is an international competition involving over 40000
 students worldwide. This competition assesses knowledge in different scientific
 domains, data-handling skills, experimental planning and familiarity with
 scientific inferences and conclusions.</p>
-<p>We are proud to share that we have 2 students achieving the coveted Distinction
-award (top 15% of world) and 9 students achieving the Credit award (top
-35% of world).</p>
+<p>We are proud to share that we have <strong><em>2 students achieving the coveted Distinction award (top 15% of world) </em></strong>and <strong><em>9 students achieving the Credit award (top 35% of world)</em></strong>.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
