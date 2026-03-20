@@ -26,7 +26,7 @@ practical activities that will allow them exposure to Science as applied
 in our lives, fostering greater civic literacy and appreciation for the
 role of Science in our lives</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/y93XPV6UrTw?si=lEmF90ara5sKFFOA"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/y93XPV6UrTw?si=lEmF90ara5sKFFOA"></iframe>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -40,6 +40,12 @@ role of Science in our lives</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Talent Development/Picture3.png">
 </div>
+<p>Our Science TDP students have also taken initiative to participate in
+a variety of online STEM competitions organised by international bodies
+such as the Asian Gifted Education Association and have performed exceedingly
+well when benchmarked against their peers from other parts of the world.</p>
+<p></p>
+<p></p>
 <p></p>
 <h4><strong>Mathematics Talent Development Programme</strong></h4>
 <p></p>
