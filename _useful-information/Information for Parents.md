@@ -29,39 +29,6 @@ the link provided below:</p>
 </p>
 <p><strong><a href="/files/Upper Sec PTM 2026/ECG_PTM_for_Sec_3_G1.pdf" rel="noopener nofollow" target="_blank">ECG slides for Sec 3 G1</a></strong>
 </p>
-<h4><strong>Weighted Assessment 1</strong></h4>
-<p>The schedule of Yuhuans' weighted assessments for Term 1 is as follows:</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><a href="/files/Sec_1_WA1_Parent_Letter_2026__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA1_Parent Letter 2026</a>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sec_2_WA1_Parent_Letter_2026__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 WA1_Parent Letter 2026</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sec_3_WA1_Parent_Letter_2026__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA1_Parent Letter 2026</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sec_4_5_WA1_Parent_Letter_2026__final_.pdf" rel="noopener nofollow" target="_blank">Sec 4&amp;5 WA1 Parent Letter 2026</a></strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <hr>
 <h4><strong>2026: Secondary One Parent-Teacher Meeting slides</strong></h4>
 <p>Dear Parents/Guardians,</p>
@@ -89,11 +56,6 @@ the link provided below:</p>
 </tbody>
 </table>
 <p>_______________________________________________________________</p>
-<h4><strong>2026 Term 1 Letter to Parents</strong></h4>
-<p>Dear Parents/Guardians, you may access the Term 1 Letter to Parents via
-the link provided below:</p>
-<p><a href="/files/YHSS_2026_Term_1_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Term 1 Letter to Parents</a>
-</p>
 <h4><strong>Financial Assistance Scheme (FAS) 2026</strong></h4>
 <p>Please click&nbsp;<a href="/files/MOE_FAS_Application_Form_2026_final.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information on FAS or refer to the&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE website</a>&nbsp;for
