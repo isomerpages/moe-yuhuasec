@@ -30,14 +30,6 @@ sections:
       url: https://www.languagecouncils.sg/goodenglish/
       image: /images/english_teacher.jpg
   - infobar:
-      title: 2026 TERM 1 WA1 Schedule
-      subtitle: 2026 WA1
-      id: infobar
-      description: Please refer to the Information for Parents as well as the
-        Information for Students webpage.
-      button: Information for Students
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
-  - infobar:
       title: Term 1 Letter to Parents
       subtitle: Term 1 letter to parents
       id: infobar
