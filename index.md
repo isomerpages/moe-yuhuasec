@@ -31,9 +31,9 @@ sections:
       image: /images/english_teacher.jpg
   - infobar:
       title: Term 2 Letter to Parents
-      subtitle: Term 1 letter to parents
+      subtitle: Term 2 letter to parents
       id: infobar
-      description: Please click on the link below to access the Term 1 Letter to Parents.
+      description: Please click on the link below to access the Term 2 Letter to Parents.
       button: Click here
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
   - infobar:
