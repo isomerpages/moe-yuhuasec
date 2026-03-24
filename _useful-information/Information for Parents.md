@@ -6,7 +6,13 @@ variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
 <hr>
-<h4><strong>2026: Upper Secondary Parent-Teacher Meeting slides</strong></h4>
+<h4><strong>2026 Term 2 Letter to Parents</strong></h4>
+<p>Dear Parents/Guardians, you may access the Term 1 Letter to Parents via
+the link provided below:</p>
+<p><a href="/files/YHSS_2026_Term_1_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Term 2 Letter to Parents</a>
+</p>
+<p><strong>2026: Upper Secondary Parent-Teacher Meeting slides</strong>
+</p>
 <p>Dear Parents/Guardians,</p>
 <p><em>Thank you for attending our Upper Secondary Parent-Teacher Meeting on 5 Feb 2026. It was wonderful to see so many of you connecting with our school community. Please find the presentation material attached for your reference. Thank you.</em>&nbsp;</p>
 <p><strong><a href="/files/Upper Sec PTM 2026/Upper_Sec_PTM_2026_For_Sch_Website.pdf" rel="noopener nofollow" target="_blank">Upper Sec PTM 2026 Slides</a></strong>
