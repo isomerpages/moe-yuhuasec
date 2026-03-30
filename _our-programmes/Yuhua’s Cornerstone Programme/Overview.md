@@ -6,6 +6,7 @@ description: ""
 image: /images/corner_stone.png
 third_nav_title: Yuhua’s Cornerstone Programme
 ---
+<h4><strong>Introduction</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/corner_stone.png">
 </div>
@@ -27,8 +28,7 @@ on Maslow’s Hierarchy of Needs.</p>
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/cornerstone2.png">
 </div>
 <p></p>
-<p><strong>The YEAHub Room</strong>
-</p>
+<h4><strong>The YEAHub Room</strong></h4>
 <p>The YEAHub room is a dedicated safe space to enable both structured programmes
 and informal relationship-building opportunities, operating during and
 after school hours. It is resourced with personnel and equipment that invites
@@ -66,8 +66,7 @@ out with friends.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>The Cornerstone Team</strong>
-</p>
+<h4><strong>The Cornerstone Team</strong></h4>
 <p>The Cornerstone team has three dedicated Pastoral Care Officers, who are
 stationed daily in the YEAHub. They are adults who reach out to the students
 by lending a listening ear to their various challenges and engage the students
