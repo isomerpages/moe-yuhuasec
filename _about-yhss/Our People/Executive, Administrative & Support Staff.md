@@ -68,21 +68,14 @@ variant: tiptap
 <p><strong>STEM SUPPORT TEAM</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>STEM Instructor</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>MR NOOR HAZEMI B RIBOT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>STEM Instructor</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>MR MOHD AYUB BIN ANANG</p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>STEM Instructor</p>
