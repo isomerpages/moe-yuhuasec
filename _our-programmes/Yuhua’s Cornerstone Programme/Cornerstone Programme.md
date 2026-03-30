@@ -6,8 +6,7 @@ description: ""
 third_nav_title: Yuhua’s Cornerstone Programme
 ---
 <p></p>
-<p><strong>YEAHub Activities</strong>
-</p>
+<h4><strong>YEAHub Activities</strong></h4>
 <p></p>
 <p>YEAHub activities provide meaningful engagement opportunities for students
 beyond regular school hours, taking place every Monday, Wednesday, and
@@ -95,8 +94,7 @@ bonds, creating a supportive community that extends beyond the classroom.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Developing Students' Socio-Emotional Competencies and Mental Resilience</strong>
-</p>
+<h4><strong>Developing Students' Socio-Emotional Competencies and Mental Resilience</strong></h4>
 <p>Our Cornerstone Programme includes targeted workshops and groupwork sessions
 designed to support students who would benefit from additional guidance
 in developing their socio-emotional competencies and mental resilience.</p>
