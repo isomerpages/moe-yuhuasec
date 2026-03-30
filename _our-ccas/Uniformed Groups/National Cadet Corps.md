@@ -53,7 +53,7 @@ towards wherever he is.</p>
 <p>2IC: Mr Muhammad Ilyas Abdussam</p>
 <p>Teacher:</p>
 <p>Mr Muhammad Syafiq Saad</p>
-<p>Ms Shafiyah Rosli</p>
+<p>Ms Shafiyah bte Rosli</p>
 <p></p>
 <h3>CCA Leaders</h3>
 <table style="minWidth: 50px">
