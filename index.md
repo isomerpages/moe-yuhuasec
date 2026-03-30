@@ -29,6 +29,16 @@ sections:
       alt: Image alt text
       url: https://www.languagecouncils.sg/goodenglish/
       image: /images/english_teacher.jpg
+  - infopic:
+      title: Distinguished Chinese Language Teachers Awards
+      subtitle: Nomination for
+      id: infopic
+      description: Nominate a deserving Chinese Teacher today! The nomination period
+        has started and will end on Thursday, 30 Apr 2026.
+      button: Button Text
+      url: https://contest.sph.com.sg/campaigns/dclta
+      image: /images/chinese_tr.jpg
+      alt: Image alt text
   - infobar:
       title: Term 2 Letter to Parents
       subtitle: Term 2 letter to parents
@@ -62,15 +72,5 @@ sections:
       button: click here to read the article!
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
-      alt: Image alt text
-  - infopic:
-      title: Distinguished Chinese Language Teachers Awards
-      subtitle: Nomination for
-      id: infopic
-      description: Nominate a deserving Chinese Teacher today! The nomination period
-        has started and will end on Thursday, 30 Apr 2026.
-      button: Button Text
-      url: https://contest.sph.com.sg/campaigns/dclta
-      image: /images/chinese_tr.jpg
       alt: Image alt text
 ---
