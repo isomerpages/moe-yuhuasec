@@ -31,8 +31,8 @@ while showing their talents.</p>
 <br>Ms Rathiya
 <br>Mdm Rafilah</p>
 <h3>Student Leaders</h3>
-<p><strong>President: </strong>Krishnarajan Jeeva Karunya</p>
-<p><strong>Vice President:</strong> Nur Aisyah binte Nur Muhamed</p>
+<p><strong>President: </strong>ROWE ASHA WIDYARANI</p>
+<p><strong>Vice President:</strong> LIM JING QUAN</p>
 <h3>Key Events of the Year</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -63,6 +63,17 @@ CNY Concert 2024, Aesthetics Day 2024</p>
 </ul>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/55096047751_4e83dcb10b_o.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/55095171982_6ecffe693c_o.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/55096319454_9bafefc705_o.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/syf1.jpg">
 </div>
