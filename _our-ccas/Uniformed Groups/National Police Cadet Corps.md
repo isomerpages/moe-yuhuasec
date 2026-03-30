@@ -25,9 +25,21 @@ in the world.</p>
 <p><strong>NPCC Values:</strong>&nbsp;Resilience Integrity Service Excellence</p>
 <h3>Our Team</h3>
 <p><strong>Teacher Officers:</strong>
-<br>Ms Ong Hui Lin (OIC)
-<br>Ms Duan Linxin (2IC)
-<br>Mr Lee Yi Xin</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Ong Hui Lin (OIC)</p>
+</li>
+<li>
+<p>Ms Duan Linxin (2IC)</p>
+</li>
+<li>
+<p>Mr Lee Yi Xin</p>
+</li>
+<li>
+<p>Mr Chong Tat Wai</p>
+</li>
+</ul>
 <p><strong>Star Leaders:</strong>
 <br>
 </p>
