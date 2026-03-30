@@ -78,21 +78,14 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Student Welfare Officer</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>MR JOEL SHASHIKUMAR S/O PREMKUMAR</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior ECG Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS TOH SU QI</p>
-</td>
-</tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>ECG Counsellor</p>
