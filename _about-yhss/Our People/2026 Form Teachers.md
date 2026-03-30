@@ -89,7 +89,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Chong_Tat_Wai_B@moe.edu.sg" rel="noopener nofollow" target="_blank">MR CHONG TAT WAI </a>
+<p><a href="Chong_Tat_Wai_B@moe.edu.sg" rel="noopener nofollow" target="_blank">MR CHONG TAT WAI</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -224,7 +224,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS CHIQUITA SERAFIM</p>
+<p><a href="Chiquita_Serafim_Panjaitan@moe.edu.sg" rel="noopener nofollow" target="_blank">MS CHIQUITA SERAFIM</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -623,7 +624,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Athirah_Syahirah_Shaul_Hameed@moe.edu.sg" rel="noopener nofollow" target="_blank">MS ATHIRAH SYAHIRAH BINTE SHAUL HAMEED </a>
+<p><a href="Athirah_Syahirah_Shaul_Hameed@moe.edu.sg" rel="noopener nofollow" target="_blank">MS ATHIRAH SYAHIRAH BINTE SHAUL HAMEED</a>
 </p>
 </td>
 </tr>
