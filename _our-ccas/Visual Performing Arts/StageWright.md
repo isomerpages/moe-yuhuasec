@@ -40,7 +40,7 @@ while showing their talents.</p>
 </li>
 <li>
 <p>Performances for school events - Teachers’ Day Performance (video) 2023;
-CNY Concert 2024, Aesthetics Day 2024</p>
+CNY Concert 2025, Aesthetics Day 2025</p>
 </li>
 <li>
 <p>Mini drama festival: students conceptualise and write their own scripts</p>
