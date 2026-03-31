@@ -88,7 +88,7 @@ third_nav_title: Our People
 <tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ECG Counsellor</p>
+<p>Senior ECG Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR ELVIS SIO</p>
