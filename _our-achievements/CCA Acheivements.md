@@ -27,110 +27,6 @@ values and worked as a team to make it possible.</p>
 review and are benchmarked with other schools by their respective headquarters.
 We are glad to share that our Uniformed Groups grow from strength to strength
 and were recognized for their efforts over the years.</p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>CCA</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2021 (Awarded in 2022)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2022(awarded in 2023)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2023(Awarded in 2024)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2024 (Awarded in 2025)</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NPCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>UOPA Gold</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>UOPA Gold</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>UOPA - Distinction (Gold)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>URA - Certificate of Distinction</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>URA - Certificate of Participation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Unit Recognition Award - Certificate of Accomplishment</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NCDCC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>UOPA - Distinction (Gold)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Boys Brigade</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>JM Fraser Silver and JM Frasier Award (Excellence with Distinction) 2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>JM Fraser Distinction</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>JM Fraser Award (Excellence with Distinction) 2024</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Visual &amp; Performing Arts (VPA)</strong>
-</p>
-<p>Our Visual and Performing Arts groups have also been a source of school
-pride, and do well nationally as well. They participate in public performances
-and the bi-annual Singapore Youth Festival (SYF) organized by the Arts
-Education Branch. The SYF provides an opportunity for our Yuhuans to demonstrate
-their talents and be benchmarked against other schools. Our Visual and
-Performing Arts groups have done the school proud in recent years.</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -144,7 +40,92 @@ Performing Arts groups have done the school proud in recent years.</p>
 <p>CCA</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>2021</p>
+<p>2023(Awarded in 2024)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2024 (Awarded in 2025)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2025 (Awarded in 2026)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>UOPA - Distinction (Gold)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Recognition Award - Certificate of Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Recognition Award - Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCDCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>UOPA - Distinction (Gold)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>UOPA -</p>
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JM Fraser Award (Excellence with Distinction) 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Visual &amp; Performing Arts (VPA)</strong>
+</p>
+<p>Our Visual and Performing Arts groups have also been a source of school
+pride, and do well nationally as well. They participate in public performances
+and the bi-annual Singapore Youth Festival (SYF) organized by the Arts
+Education Branch. The SYF provides an opportunity for our Yuhuans to demonstrate
+their talents and be benchmarked against other schools. Our Visual and
+Performing Arts groups have done the school proud in recent years.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>CCA</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>2023</p>
@@ -158,9 +139,6 @@ Performing Arts groups have done the school proud in recent years.</p>
 <p>Concert Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participated in Singapore Youth Festival - Certificate of Accomplishment</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Selected to participate in NDP</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -170,10 +148,6 @@ Performing Arts groups have done the school proud in recent years.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Harmonica Band</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participated in Singapore Youth Festival - Certificate of Distinction
-&amp; Accomplishment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participated in Singapore Youth Festival - Certificate of Distinction</p>
@@ -187,10 +161,6 @@ Performing Arts groups have done the school proud in recent years.</p>
 <td rowspan="1" colspan="1">
 <p>Stagewright
 <br>(English Drama)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participated in Singapore Youth Festival - Certificate of Distinction
-&amp; Accomplishment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
@@ -208,9 +178,6 @@ Performing Arts groups have done the school proud in recent years.</p>
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participated in Singapore Youth Festival through recording (no benchmarking)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -220,9 +187,6 @@ Performing Arts groups have done the school proud in recent years.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Dance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participated in Singapore Youth Festival - Certificate of Accomplishment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participated in Singapore Youth Festival - Certificate of Accomplishment</p>
@@ -255,10 +219,6 @@ in.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
@@ -270,17 +230,14 @@ in.</p>
 <p><strong>2025</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>2026</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
 <p>Volleyball Boys</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>West Zone C Division Volleyball Championships - 3rd</p>
-<p></p>
-<p>National C Division Volleyball Championships - Top 8</p>
-<p></p>
-<p>West Zone B Division Volleyball Championships - 5th</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>West Zone B Division National School Games - 5th in group rounds</p>
@@ -299,19 +256,15 @@ in.</p>
 <p></p>
 <p>C Division National School Games League 2 Runners-up</p>
 </td>
+<td rowspan="3" colspan="1">
+<p>2nd Place in West Zone Championship</p>
+</td>
 </tr>
 <tr></tr>
 <tr></tr>
 <tr>
 <td rowspan="3" colspan="1">
 <p>Volleyball Girls</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>West Zone C Division Volleyball Championships - 4th</p>
-<p></p>
-<p>National C Division Volleyball Championships - Top 8</p>
-<p></p>
-<p>West Zone B Division Volleyball Championships - top 8 (4th in group rounds)</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>West Zone B Division National School Games - top 6 in group rounds</p>
@@ -325,17 +278,23 @@ in.</p>
 <p>Participated in West Zone B Division National School Games</p>
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
-<tr></tr>
-<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Floorball Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd in Group Rounds National School Games</p>
-<p></p>
-<p>Participated in C Division National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participated in B Division National School Games</p>
@@ -354,13 +313,13 @@ in.</p>
 <p></p>
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Football Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd in Group Rounds (NSG)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National School Games B Division Football League Four (top 8)</p>
@@ -374,56 +333,60 @@ in.</p>
 <p>National School Games B Division Football League Four</p>
 <p>(Top 8)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p>Tchoukball Boys</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Inter-School B Division Tchoukball Championships - top 5</p>
+<p>Participated in B Division National School Games</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Participated in B Division National School Games</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Participated in B Division National School Games</p>
 <p></p>
-<p>Inter-School C Division Tchoukball Championships - top 8</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>Participated in B Division National School Games</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Participated in B Division National School Games</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Participated in B Division National School Games</p>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
-<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p>Tchoukball Girls</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Inter-School B Division Tchoukball Championships - top 5</p>
+<p>Participated in B Division National School Games</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Participated in B Division National School Games</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Participated in B Division National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<p>Inter-School C Division Tchoukball Championships - top 7</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Participated in B Division National School Games</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Participated in B Division National School Games</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Participated in B Division National School Games</p>
 </td>
 </tr>
-<tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Wushu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore National Wushu Competition 2022 (Group event)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Participated in National School Games (Boys &amp; Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -431,6 +394,9 @@ in.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participated in National School Games (Boys &amp; Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
