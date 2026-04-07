@@ -37,15 +37,17 @@ inspire and guide the Band towards new musical heights — true to our motto:
 <h3>Student Leaders</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_10_at_11_43_16_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_03_19_at_10_32_16_AM.jpg">
 </div>
-<p><strong>Chairperson:</strong> Toh Zixun</p>
-<p><strong>Sectional Leaders</strong>: Esther Poon Qi Hua</p>
-<p>Emerald Win</p>
-<p>Callie Eng Yan Ying</p>
-<p>Lim Ming Ze</p>
-<p><strong>Quarter Masters</strong>: Toh Shi An</p>
-<p>Ethan Lim Zen Feng</p>
+<p><strong>President: </strong>Zi Jie</p>
+<p><strong>Vice-president: </strong>Wira</p>
+<p><strong>SL First High: </strong>Jun Liang</p>
+<p><strong>SL Second High: </strong>Wan Yee</p>
+<p><strong>SL Tenor: </strong>Ziqi</p>
+<p><strong>SL Bass/Horn/Chord/Perc: </strong>Jayden</p>
+<p><strong>QM: </strong>Kieran</p>
+<p><strong>QM: </strong>Qing Long</p>
+<p><strong>Secretary: </strong>Leonidas</p>
 <p></p>
 <p></p>
 <h3>Key Events</h3>
