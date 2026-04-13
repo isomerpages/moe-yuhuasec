@@ -6,8 +6,8 @@ variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
 <hr>
-<h4><strong>2026 Term 2 Letter to Parents</strong></h4>
-<p>Dear Parents/Guardians, you may access the Term 1 Letter to Parents via
+<h4><strong>MESSAGE BY PRINCIPAL FOR TERM 2 2026</strong></h4>
+<p>Dear Parents/Guardians, you may access the Term 2 Letter to Parents via
 the link provided below:</p>
 <p><a href="/files/YHSS_2026_Term_2_Letter.pdf" rel="noopener nofollow" target="_blank">2026 Term 2 Letter to Parents</a>
 </p>
