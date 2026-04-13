@@ -28,13 +28,13 @@ the link provided below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_3_WA2_Parent_Letter_2026__final_.pdf" rel="noopener nofollow" target="_blank">Sec3_WA2_Parent Letter_2026</a>
+<p><strong><a href="/files/Sec_3_WA2_Parent_Letter_2026__final_.pdf" rel="noopener nofollow" target="_blank">Sec3_WA2_Parent Letter_2026</a></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_45_WA2_Parent_Letter_2026__final_.pdf" rel="noopener nofollow" target="_blank">Sec4&amp;5_WA2_Parent Letter_2026</a>
+<p><strong><a href="/files/Sec_45_WA2_Parent_Letter_2026__final_.pdf" rel="noopener nofollow" target="_blank">Sec4&amp;5_WA2_Parent Letter_2026</a></strong>
 </p>
 </td>
 </tr>
