@@ -19,10 +19,9 @@ sections:
           description: Click here!
           url: /useful-information-and-links/school-calendar
   - infobar:
-      title: Term 2 Letter to Parents
-      subtitle: Term 2 letter to parents
+      title: WA2 Term 2 Letter to Parents
       id: infobar
-      description: Please click on the link below to access the Term 2 Letter to Parents.
+      description: Please click on the link below to access the WA2 Matters.
       button: Click here
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
   - infopic:
