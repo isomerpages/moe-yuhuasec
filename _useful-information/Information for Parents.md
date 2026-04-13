@@ -6,6 +6,33 @@ variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
 <hr>
+<h3>Term 2 Weighted Assessment 2026 Information</h3>
+<p>Dear Parents/Guardians, you may access the Term 2 Letter to Parents via
+the link provided below:</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="/files/Sec_1_WA2_Parent_Letter_2026__final_.pdf" rel="noopener nofollow" target="_blank">Sec1_WA2_Parent Letter_2026</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <h4><strong>MESSAGE BY PRINCIPAL FOR TERM 2 2026</strong></h4>
 <p>Dear Parents/Guardians, you may access the Term 2 Letter to Parents via
 the link provided below:</p>
@@ -198,5 +225,5 @@ perform a simple one-time onboarding process.&nbsp;</p>
 </p>
 </li>
 </ul>
-<p></p>
+<hr>
 <p></p>
