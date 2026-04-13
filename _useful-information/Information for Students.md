@@ -6,7 +6,10 @@ variant: tiptap
 ---
 <h1><strong>Information for Students</strong></h1>
 <hr>
-<p>The schedule of Yuhuans weighted assessments for Term1 as follows:</p>
+<p>The schedule of Yuhuans weighted assessments for Term 2 as follows:</p>
+<h3>Term 2 Weighted Assessment 2026 Information</h3>
+<p>Dear Parents/Guardians, you may access the WA2 Term 2 Letter to Parents
+via the link provided below:</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -14,27 +17,27 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Sec_1_WA1_Parent_Letter_2026__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 WA1_Parent Letter 2026</a>
+<p><a href="/files/Sec_1_WA2_Parent_Letter_2026__final_.pdf" rel="noopener nofollow" target="_blank">Sec1_WA2_Parent Letter_2026</a>
 </p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sec_2_WA1_Parent_Letter_2026__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 WA1_Parent Letter 2026</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sec_3_WA1_Parent_Letter_2026__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 WA1_Parent Letter 2026</a></strong>
-</p>
-</td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Sec_4_5_WA1_Parent_Letter_2026__final_.pdf" rel="noopener nofollow" target="_blank">Sec 4&amp;5 WA1 Parent Letter 2026</a>
+<p><a href="/files/Sec_2_WA2_Parent_Letter_2026__final_.pdf" rel="noopener nofollow" target="_blank">Sec2_WA2_Parent Letter_2026</a>
 </p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Sec_3_WA2_Parent_Letter_2026__final_.pdf" rel="noopener nofollow" target="_blank">Sec3_WA2_Parent Letter_2026</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Sec_45_WA2_Parent_Letter_2026__final_.pdf" rel="noopener nofollow" target="_blank">Sec4&amp;5_WA2_Parent Letter_2026</a></strong>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
