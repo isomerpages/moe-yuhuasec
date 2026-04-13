@@ -18,6 +18,12 @@ sections:
         - title: Calendar of Events
           description: Click here!
           url: /useful-information-and-links/school-calendar
+  - infobar:
+      title: WA2 Term 2 Letter to Parents
+      id: infobar
+      description: Please click on the link below to access the WA2 Matters.
+      button: Click here
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
   - infopic:
       title: Distinguished Chinese Language Teachers Awards
       subtitle: Nomination for
@@ -28,13 +34,6 @@ sections:
       url: https://contest.sph.com.sg/campaigns/dclta
       image: /images/chinese_tr.jpg
       alt: Image alt text
-  - infobar:
-      title: Term 2 Letter to Parents
-      subtitle: Term 2 letter to parents
-      id: infobar
-      description: Please click on the link below to access the Term 2 Letter to Parents.
-      button: Click here
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
   - infobar:
       title: Class Timetables for Semester 1 (2026)
       subtitle: timetable for sem 1 2026
