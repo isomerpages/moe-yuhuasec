@@ -7,8 +7,8 @@ variant: tiptap
 <h1><strong>Information for Parents</strong></h1>
 <hr>
 <h3>Term 2 Weighted Assessment 2026 Information</h3>
-<p>Dear Parents/Guardians, you may access the Term 2 Letter to Parents via
-the link provided below:</p>
+<p>Dear Parents/Guardians, you may access the WA2 Term 2 Letter to Parents
+via the link provided below:</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
