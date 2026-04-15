@@ -31,7 +31,7 @@ MOE Headquarters. I look forward to getting to meet and interact with all
 of you soon.</p>
 <p>Yuhua’s mission is to nurture students of character and purpose who <strong>Care</strong>, <strong>Connect</strong> and <strong>Contribute</strong>.
 Through our school curriculum, <a href="https://www.yuhuasec.moe.edu.sg/our-ccas/Visual-Performing-Arts/concert-band/" rel="noopener noreferrer nofollow" target="_blank">CCAs</a> and
-&nbsp;distinctive programmes of <a href="https://www.yuhuasec.moe.edu.sg/our-programmes/applied-learning-alp/" rel="noopener noreferrer nofollow" target="_blank">Yuhua Changemakers</a> and
+&nbsp;distinctive programmes of <a href="https://iamlearningbydesign.sg/resources/stories-from-the-creative-frontier/from-awareness-to-empathy-and-action/" rel="noopener noreferrer nofollow" target="_blank">Yuhua Changemakers</a> and
 <a href="https://www.yuhuasec.moe.edu.sg/our-programmes/learning-for-life-llp/" rel="noopener noreferrer nofollow" target="_blank">M.E.L.O.D.Y</a>, Yuhuans will develop values of empathy and curiosity
 to connect with issues they are passionate about, and apply their skills
 and knowledge to contribute towards making a difference to their communities.</p>
