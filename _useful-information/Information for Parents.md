@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h4><strong>2026: Sec2 Secondary Parent-Engagement session slides</strong></h4>
 <p>Dear Parents/Guardians,</p>
-<p><em>Thank you for attending our Upper Secondary Parent-Teacher Meeting on 1oth April 2026. It was wonderful to see so many of you connecting with our school community. Please find the presentation material attached for your reference. Thank you.</em>&nbsp;</p>
+<p><em>Thank you for attending our Upper Secondary Parent-Teacher Meeting on 10th April 2026. It was wonderful to see so many of you connecting with our school community. Please find the presentation material attached for your reference. Thank you.</em>&nbsp;</p>
 <p><a href="/files/2026_S2_Parent_Engagement_Session_PG.pdf" rel="noopener nofollow" target="_blank">2026_S2_Parent Engagement Session slides</a>
 </p>
 <hr>
