@@ -6,10 +6,10 @@ variant: tiptap
 ---
 <h1><strong>Direct School Admissions (DSA)</strong></h1>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__49_.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Farm_Natural_Photo_Collage__1_.png">
+</div>
 <p><strong>Direct School Admission (DSA) 2026</strong>
 </p>
 <p>Direct School Admission for secondary schools (DSA-Sec) allows students
