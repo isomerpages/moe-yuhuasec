@@ -18,6 +18,13 @@ sections:
         - title: Calendar of Events
           description: Click here!
           url: /useful-information-and-links/school-calendar
+  - infopic:
+      title: DSA 2026
+      id: infopic
+      button: click here for more information
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/direct-school-admissions-dsa/
+      image: /images/WhatsApp_Image_2026_04_17_at_2_48_04_PM.jpg
+      alt: Image alt text
   - infobar:
       title: WA2 Term 2 Letter to Parents
       id: infobar
