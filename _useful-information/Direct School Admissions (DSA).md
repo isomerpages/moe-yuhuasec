@@ -195,7 +195,7 @@ August 2026.</p>
 <p></p>
 <p><strong>HOW TO APPLY</strong>
 </p>
-<p>Fo<strong>r </strong>instructions on application, please refer to <a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
+<p><strong>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 6 May 2026, 11am to 2 Jun 2026, 4.30pm. For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a></strong>
 </p>
 <p></p>
 <p><strong>Key Dates:</strong>
