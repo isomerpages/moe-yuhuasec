@@ -179,5 +179,13 @@ embody teamwork, discipline and resilience.</p>
 <p>B division</p>
 <p></p>
 <h4><strong>Our Alumni</strong></h4>
-<p></p>
+<p>The <strong>VSG-Lui Tiow Kar Volleyball Scholarship</strong>, established
+in 2018 by Volleyball Singapore, recognises promising young athletes with
+the drive to pursue their volleyball dreams. It remains the first scholarship
+of its kind in Singapore Volleyball.</p>
+<p><strong>Deon Mak</strong> and <strong>Ong Chua Wen</strong> (Class of 2024)
+are proud recipients of this scholarship.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/561276643_1340157394786717_7656377256778367081_n.jpg">
+</div>
 <p></p>
