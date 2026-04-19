@@ -102,7 +102,7 @@ and dedication will allow us to build on the Yuhua Concert Band’s legacy.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_04_22_at_9_43_09_AM__3_.jpg">
 </div>
 <p></p>
-<h4><strong>Our Alumni</strong></h4>
+<h4><strong>Taking their Passion to the Next Level </strong></h4>
 <p>Read more about how Graeden's experiences as a member of Yuhua's Concert
 Band have shaped him!</p>
 <p><a href="https://www.schoolbag.edu.sg/story/what-performing-arts-ccas-really-teach-students/?utm_source=facebook+sb+article&amp;utm_medium=social&amp;utm_campaign=cca+21cc+artseducation" rel="noopener nofollow" target="_blank">Click here to read.</a>
