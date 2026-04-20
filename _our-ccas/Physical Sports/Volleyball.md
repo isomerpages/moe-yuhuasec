@@ -178,7 +178,7 @@ embody teamwork, discipline and resilience.</p>
 <p>Shuqun-Yuhua Alumni Cup (December):</p>
 <p>B division</p>
 <p></p>
-<h4><strong>Taking their Passion to the Next Level </strong></h4>
+<h4><strong>Taking their Passion to the Next Level</strong></h4>
 <p>The <strong>VSG-Lui Tiow Kar Volleyball Scholarship</strong>, established
 in 2018 by Volleyball Singapore, recognises promising young athletes with
 the drive to pursue their volleyball dreams. It remains the first scholarship
