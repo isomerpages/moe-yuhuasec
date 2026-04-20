@@ -38,26 +38,24 @@ embody teamwork, discipline and resilience.</p>
 <p>Boys</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain</strong>: Kuan Yan Rui</p>
+<p><strong>Captain</strong>: Joel Joshua @ Joel Bin Abdul Jalil</p>
 </li>
 <li>
-<p><strong>Vice-captain</strong>: Javier Lee Jun Hong</p>
+<p><strong>Vice-captain</strong>: Lim Yew Rong</p>
 </li>
 <li>
-<p><strong>Vice-captain</strong>: Mohamed Raquib Rayn bin Mohamed Reduwan</p>
+<p><strong>Vice-captain</strong>: Eric Ng Hong Yi</p>
 <p></p>
 </li>
 </ul>
 <p>Girls</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain</strong>: Nurul Amelyana binte Zaini</p>
+<p><strong>Captain</strong>: Nurzafeerah Binte Mohamad Rizal</p>
 </li>
 <li>
-<p><strong>Vice-captain</strong>: Nurbaqirah binte M Zahaid</p>
-</li>
-<li>
-<p><strong>Vice-captain</strong>: Ayris Sophia binte Asri</p>
+<p><strong>Vice-captain</strong>: Wai Hnin Aye</p>
+<p></p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -178,7 +176,7 @@ embody teamwork, discipline and resilience.</p>
 <p>Shuqun-Yuhua Alumni Cup (December):</p>
 <p>B division</p>
 <p></p>
-<h4><strong>Taking their Passion to the Next Level </strong></h4>
+<h4><strong>Taking their Passion to the Next Level</strong></h4>
 <p>The <strong>VSG-Lui Tiow Kar Volleyball Scholarship</strong>, established
 in 2018 by Volleyball Singapore, recognises promising young athletes with
 the drive to pursue their volleyball dreams. It remains the first scholarship
