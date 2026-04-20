@@ -155,6 +155,7 @@ instrument for the Concert Band or Harmonica Band.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Harmonica Band</p>
+<p>(Boys &amp; Girls)</p>
 </td>
 </tr>
 <tr>
