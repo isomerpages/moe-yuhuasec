@@ -38,26 +38,24 @@ embody teamwork, discipline and resilience.</p>
 <p>Boys</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain</strong>: Kuan Yan Rui</p>
+<p><strong>Captain</strong>: JOEL JOSHUA @ JOEL BIN ABDUL JALIL</p>
 </li>
 <li>
-<p><strong>Vice-captain</strong>: Javier Lee Jun Hong</p>
+<p><strong>Vice-captain</strong>: LIM YEW RONG</p>
 </li>
 <li>
-<p><strong>Vice-captain</strong>: Mohamed Raquib Rayn bin Mohamed Reduwan</p>
+<p><strong>Vice-captain</strong>: ERIC NG HONG YI</p>
 <p></p>
 </li>
 </ul>
 <p>Girls</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain</strong>: Nurul Amelyana binte Zaini</p>
+<p><strong>Captain</strong>: NURZAFEERAH BINTE MOHAMAD RIZAL</p>
 </li>
 <li>
-<p><strong>Vice-captain</strong>: Nurbaqirah binte M Zahaid</p>
-</li>
-<li>
-<p><strong>Vice-captain</strong>: Ayris Sophia binte Asri</p>
+<p><strong>Vice-captain</strong>: WAI HNIN AYE</p>
+<p></p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
