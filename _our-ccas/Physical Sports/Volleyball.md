@@ -38,23 +38,23 @@ embody teamwork, discipline and resilience.</p>
 <p>Boys</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain</strong>: JOEL JOSHUA @ JOEL BIN ABDUL JALIL</p>
+<p><strong>Captain</strong>: Joel Joshua @ Joel Bin Abdul Jalil</p>
 </li>
 <li>
-<p><strong>Vice-captain</strong>: LIM YEW RONG</p>
+<p><strong>Vice-captain</strong>: Lim Yew Rong</p>
 </li>
 <li>
-<p><strong>Vice-captain</strong>: ERIC NG HONG YI</p>
+<p><strong>Vice-captain</strong>: Eric Ng Hong Yi</p>
 <p></p>
 </li>
 </ul>
 <p>Girls</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Captain</strong>: NURZAFEERAH BINTE MOHAMAD RIZAL</p>
+<p><strong>Captain</strong>: Nurzafeerah Binte Mohamad Rizal</p>
 </li>
 <li>
-<p><strong>Vice-captain</strong>: WAI HNIN AYE</p>
+<p><strong>Vice-captain</strong>: Wai Hnin Aye</p>
 <p></p>
 </li>
 </ul>
