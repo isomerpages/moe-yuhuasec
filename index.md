@@ -7,9 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Yuhua Secondary School
-      background: /images/yhss.gif
-      button: Contact Us
+      background: /images/Untitled_dewrqrwrsign__12_.png
       url: /contact-us/
       key_highlights:
         - title: YHSS Flickr page
@@ -18,6 +16,7 @@ sections:
         - title: Calendar of Events
           description: Click here!
           url: /useful-information-and-links/school-calendar
+      variant: image
   - infopic:
       title: DSA 2026
       id: infopic
