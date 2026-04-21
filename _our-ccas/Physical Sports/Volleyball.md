@@ -29,13 +29,15 @@ embody teamwork, discipline and resilience.</p>
 </div>
 <h3>Our Team</h3>
 <p><strong>Teachers: </strong>
-<br>Mr Clement Bey (OIC)
+</p>
+<p>Mr Clement Bey (OIC)
 <br>Mr Isaac Tan (2IC)
 <br>Girls Team: Ms Shamsiah
 <br>Boys Team: Mr Soong Yu-Juan</p>
-<p><strong>Student Leaders:</strong>
+<p><strong>Student Leaders:    </strong> 
 </p>
-<p>Boys</p>
+<p><u>Boys</u>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Captain</strong>: Joel Joshua @ Joel Bin Abdul Jalil</p>
@@ -48,7 +50,8 @@ embody teamwork, discipline and resilience.</p>
 <p></p>
 </li>
 </ul>
-<p>Girls</p>
+<p><u>Girls</u>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Captain</strong>: Nurzafeerah Binte Mohamad Rizal</p>
