@@ -286,6 +286,6 @@ chosen school for the duration of the programme.</p>
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for from year 1-4.</p>
 <p>For further queries, you may contact the General Office at 65661985 (Monday
-to Friday – 8.00am to 5,00 pm) or email us at <a href="mailto:yuhua_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yuhua_ss@moe.edu.sg</a>
+to Friday – 8.00am to 5.00 pm) or email us at <a href="mailto:yuhua_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yuhua_ss@moe.edu.sg</a>
 </p>
 <p></p>
