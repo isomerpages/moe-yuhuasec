@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Untitled_derwsign__12_.png
+      background: /images/yhss.gif
       url: /contact-us/
       key_highlights:
         - title: YHSS Flickr page
