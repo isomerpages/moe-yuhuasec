@@ -16,7 +16,9 @@ sections:
         - title: Calendar of Events
           description: Click here!
           url: /useful-information-and-links/school-calendar
-      variant: image
+      variant: center
+      button: Contact Us
+      title: Yuhua Secondary School
   - infopic:
       title: DSA 2026
       id: infopic
