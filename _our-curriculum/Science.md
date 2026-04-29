@@ -160,7 +160,7 @@ as sodium alginate can be obtained from natural sources like seaweed.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science Dept/IMG_20260425_WA0047.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Science Dept/IMG_20260425_WA0047.jpg">
 </div>
 <p></p>
 <p></p>
