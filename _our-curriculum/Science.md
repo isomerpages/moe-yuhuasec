@@ -150,6 +150,15 @@ biodegradable materials together, applying scientific thinking to sustainability
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="science" src="/images/Bioplastics_Collage.png">
 </div>
+<p></p>
+<p><strong>Community engagement<br></strong>Our students from the Sec 2 Science
+Talent Development Programme engaged the community on the making of bioplastics
+using sodium alginate solution and calcium chloride solution during the
+PCF Yuhua Earth Day in April 2026. This is a more sustainable alternative
+to the traditional plastic materials made from derivatives of crude oil,
+as sodium alginate can be obtained from natural sources like seaweed.</p>
+<p></p>
+<p></p>
 <hr>
 <p><strong>5. STEM Learning Stations</strong>
 </p>
