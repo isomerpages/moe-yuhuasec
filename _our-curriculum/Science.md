@@ -159,6 +159,19 @@ to the traditional plastic materials made from derivatives of crude oil,
 as sodium alginate can be obtained from natural sources like seaweed.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science Dept/IMG_20260425_WA0047.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science Dept/IMG_20260425_WA0013.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science Dept/20260425_104059__1_.jpg">
+</div>
 <hr>
 <p><strong>5. STEM Learning Stations</strong>
 </p>
@@ -213,4 +226,5 @@ nurtures empathy, creativity, and resilience—dispositions essential for
 lifelong learning.</p>
 </li>
 </ul>
+<p></p>
 <p></p>
