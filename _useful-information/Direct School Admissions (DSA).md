@@ -12,9 +12,28 @@ variant: tiptap
 </div>
 <p><strong>Direct School Admission (DSA) 2026</strong>
 </p>
-<p>Direct School Admission for secondary schools (DSA-Sec) allows students
-to apply for a place in the school based on their interest, aptitude and
-potential, beyond academic achievements.</p>
+<p>Direct School Admission (DSA-Sec) offers students the opportunity to join
+Yuhua Secondary School based on their interests, aptitudes and potential—beyond
+academic achievements. At Yuhua, we welcome students with talents in both
+the performing arts and sports through our CCAs: Choir, Concert Band, Harmonica
+Band and Volleyball. As one of only four schools in Singapore to offer
+the Enhanced Music Programme (EMP), and as a G3 Music Centre for students
+from other schools, Yuhua provides a distinctive pathway for those passionate
+about music. Our robust music ecosystem nurtures students with the competencies
+and dispositions to pursue further studies and even future careers in the
+arts, should they choose to do so. Complementing this is our LLP, MELODY
+(Music Empowered Learners, Our Dynamic Yuhuans), which creates authentic
+and engaging arts experiences that support holistic development, with multiple
+platforms for students to showcase their talents.</p>
+<p>Beyond the performing arts, our Volleyball CCA stands as a strong pillar
+in our sporting landscape, with teams that have consistently performed
+well at the National School Games. More importantly, the programme goes
+beyond competition—providing meaningful opportunities for students to grow
+in confidence, resilience and teamwork. Through regular overseas exchanges
+and training trips, our student-athletes also develop key 21st century
+competencies such as global awareness and cross-cultural understanding.
+Together, these experiences reflect Yuhua’s commitment to nurturing well-rounded
+individuals who are ready to thrive and contribute at the next level.</p>
 <p>Yuhua Secondary School will be offering Direct School Admission in the
 following areas of talent through their associated CCAs:</p>
 <table style="minWidth: 75px">

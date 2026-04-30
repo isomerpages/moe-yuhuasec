@@ -150,6 +150,28 @@ biodegradable materials together, applying scientific thinking to sustainability
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="science" src="/images/Bioplastics_Collage.png">
 </div>
+<p></p>
+<p><strong>Community engagement<br></strong>Our students from the Sec 2 Science
+Talent Development Programme engaged the community on the making of bioplastics
+using sodium alginate solution and calcium chloride solution during the
+PCF Yuhua Earth Day in April 2026. This is a more sustainable alternative
+to the traditional plastic materials made from derivatives of crude oil,
+as sodium alginate can be obtained from natural sources like seaweed.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Science Dept/IMG_20260425_WA0047.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Science Dept/IMG_20260425_WA0013.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Science Dept/20260425_104059__1_.jpg">
+</div>
 <hr>
 <p><strong>5. STEM Learning Stations</strong>
 </p>
@@ -204,4 +226,5 @@ nurtures empathy, creativity, and resilience—dispositions essential for
 lifelong learning.</p>
 </li>
 </ul>
+<p></p>
 <p></p>
