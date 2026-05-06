@@ -12,8 +12,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/516193753_1251398003662657_4928824057654533028_n.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/54758582804_4d3d3f3f82_k.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/688730266_1520047913464330_6172746887979458148_n.jpg">
 </div>
 <h3>Co-Curricular Activities in Yuhua</h3>
 <p>Co-Curricular Activities are important platforms for Yuhuans to explore
@@ -258,6 +259,8 @@ in.</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>2nd Place in West Zone Championship</p>
+<p></p>
+<p>2nd Place in B Division National School Games</p>
 </td>
 </tr>
 <tr></tr>
