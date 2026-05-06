@@ -258,6 +258,8 @@ in.</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>2nd Place in West Zone Championship</p>
+<p></p>
+<p>2nd Place in B Division National School Games</p>
 </td>
 </tr>
 <tr></tr>
