@@ -28,13 +28,13 @@ embody teamwork, discipline and resilience.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/53647324362_b8828f2db7_c.jpg">
 </div>
 <h3>Our Team</h3>
-<p><strong>Teachers: </strong>
+<p><strong>Teachers:</strong>
 </p>
 <p>Mr Clement Bey (OIC)
 <br>Mr Isaac Tan (2IC)
 <br>Girls Team: Ms Shamsiah
 <br>Boys Team: Mr Soong Yu-Juan</p>
-<p><strong>Student Leaders:    </strong> 
+<p><strong>Student Leaders:</strong>
 </p>
 <p><u>Boys</u>
 </p>
@@ -113,6 +113,7 @@ embody teamwork, discipline and resilience.</p>
 <p><strong>B Division Boys</strong>
 </p>
 <p>Second Place in West Zone Championship, 2026</p>
+<p>Second Place in National School Games, 2026</p>
 <p><strong>2025</strong>
 </p>
 <p><strong>B Division Boys</strong>
