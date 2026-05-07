@@ -12,6 +12,9 @@ variant: tiptap
 </div>
 <p><strong>Direct School Admission (DSA) 2026</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4tF8kO0X4rM?si=GRtB9udGqYtLXnFg"></iframe>
+</div>
 <p>Direct School Admission (DSA-Sec) offers students the opportunity to join
 Yuhua Secondary School based on their interests, aptitudes and potential—beyond
 academic achievements. At Yuhua, we welcome students with talents in both
