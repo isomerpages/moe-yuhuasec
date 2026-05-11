@@ -27,6 +27,9 @@ to hone our choristers’ musical knowledge and skills. We also believe in
 nurturing our choristers beyond their passion in music; to be active learners
 and responsible citizens who will be able to contribute to the school and
 even to the wider society in meaningful ways.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/I7byXTT681o?si=_0tIjr37aswyMWXv"></iframe>
+</div>
 <h3>Our Team</h3>
 <p><strong>Teachers:</strong>
 </p>
