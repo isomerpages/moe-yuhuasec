@@ -4,6 +4,15 @@ permalink: /useful-information-and-links/information-for-parents/
 description: ""
 variant: tiptap
 ---
+<h4>Education &amp; Career Guidance (ECG) microsite:</h4>
+<p>Dear parents &amp; students, you can access the ECG microsite to obtain
+more information on the JC-DSA, Poly EAE and ITE EAE process and the upcoming
+workshops by different institutions to equip your child/ward to prepare
+for EAE. Click on the photo for ECG Microsite website.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG1.png">
+</div>
+<hr>
 <h4><strong>2026: Sec2 Secondary Parent-Engagement session slides</strong></h4>
 <p>Dear Parents/Guardians,</p>
 <p><em>Thank you for attending our Upper Secondary Parent-Teacher Meeting on 10th April 2026. It was wonderful to see so many of you connecting with our school community. Please find the presentation material attached for your reference. Thank you.</em>&nbsp;</p>
