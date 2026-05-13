@@ -20,11 +20,11 @@ sections:
       button: Contact Us
       title: Yuhua Secondary School
   - infopic:
-      title: ECG @YHSS portal
+      title: Education & Career Guidance (ECG) microsite
       subtitle: The
       id: infopic
-      description: The ECG @YHSS portal provides Education and Career guidance (ECG)
-        to help you navigate your education and career journey.
+      description: Students can access the ECG microsite for more information on the
+        JC-DSA, Poly EAE, and ITE EAE processes.
       button: more info click here!
       url: https://sites.google.com/moe.edu.sg/yhssecg/home
       image: /images/ECG1.png
