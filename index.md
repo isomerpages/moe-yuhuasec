@@ -20,6 +20,13 @@ sections:
       button: Contact Us
       title: Yuhua Secondary School
   - infopic:
+      title: DSA 2026
+      id: infopic
+      button: click here for more information
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/direct-school-admissions-dsa/
+      image: /images/WhatsApp_Image_2026_04_17_at_2_48_04_PM.jpg
+      alt: Image alt text
+  - infopic:
       title: Education & Career Guidance (ECG) microsite
       subtitle: The
       id: infopic
@@ -28,13 +35,6 @@ sections:
       button: more info click here!
       url: https://sites.google.com/moe.edu.sg/yhssecg/home
       image: /images/ECG1.png
-      alt: Image alt text
-  - infopic:
-      title: DSA 2026
-      id: infopic
-      button: click here for more information
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/direct-school-admissions-dsa/
-      image: /images/WhatsApp_Image_2026_04_17_at_2_48_04_PM.jpg
       alt: Image alt text
   - infobar:
       title: WA2 Term 2 Letter to Parents
