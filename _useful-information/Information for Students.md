@@ -6,6 +6,16 @@ variant: tiptap
 ---
 <h1><strong>Information for Students</strong></h1>
 <hr>
+<h4>Education &amp; Career Guidance (ECG) microsite:</h4>
+<p>Dear students,</p>
+<p>you can access the ECG microsite to obtain more information on the JC-DSA,
+Poly EAE and ITE EAE process and the upcoming workshops by different institutions
+to equip your child/ward to prepare for EAE. Click on the below photo for
+"ECG Microsite".</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG1.png">
+</div>
+<hr>
 <h3>Term 2 Weighted Assessment 2026 Information</h3>
 <p>The schedule of Yuhuans weighted assessments for Term 2 as follows:</p>
 <table style="minWidth: 25px">
