@@ -11,7 +11,7 @@ Poly EAE and ITE EAE process and the upcoming workshops by different institution
 to equip your child/ward to prepare for EAE. Click on the below photo for
 "ECG Microsite".</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG1.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/ECG1.png">
 </div>
 <hr>
 <h4><strong>2026: Sec2 Secondary Parent-Engagement session slides</strong></h4>
