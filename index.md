@@ -42,16 +42,6 @@ sections:
       description: Please click on the link below to access the WA2 Matters.
       button: Click here
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
-  - infopic:
-      title: Distinguished Chinese Language Teachers Awards
-      subtitle: Nomination for
-      id: infopic
-      description: Nominate a deserving Chinese Teacher today! The nomination period
-        has started and will end on Thursday, 30 Apr 2026.
-      button: Button Text
-      url: https://contest.sph.com.sg/campaigns/dclta
-      image: /images/chinese_tr.jpg
-      alt: Image alt text
   - infobar:
       title: Class Timetables for Semester 1 (2026)
       subtitle: timetable for sem 1 2026
@@ -70,6 +60,15 @@ sections:
       alt: Image alt text
       image: /images/yhssllp4.png
   - infopic:
+      title: Parent Engagement Session
+      subtitle: Secondary 2
+      id: infopic
+      description: Please click on the link below to access the Sec2 PTM Matters.
+      button: Click here
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
+      image: /images/sec2.png
+      alt: Image alt text
+  - infopic:
       title: YH Café
       subtitle: Yuhua in the news
       description: Our canteen was featured in Lianhe Zaobao. An inviting space for
@@ -78,14 +77,5 @@ sections:
       button: click here to read the article!
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
-      alt: Image alt text
-  - infopic:
-      title: Parent Engagement Session
-      subtitle: Secondary 2
-      id: infopic
-      description: Please click on the link below to access the Sec2 PTM Matters.
-      button: Click here
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
-      image: /images/sec2.png
       alt: Image alt text
 ---
