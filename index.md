@@ -78,4 +78,14 @@ sections:
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
       image: /images/sec2.png
       alt: Image alt text
+  - infopic:
+      title: ECG @YHSS portal
+      subtitle: The
+      id: infopic
+      description: The ECG @YHSS portal provides Education and Career guidance (ECG)
+        to help you navigate your education and career journey.
+      button: more info click here!
+      url: https://sites.google.com/moe.edu.sg/yhssecg/home
+      image: /images/ECG1.png
+      alt: Image alt text
 ---
