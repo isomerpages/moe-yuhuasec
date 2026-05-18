@@ -28,6 +28,10 @@ a new era under the baton of Mr Joseph Chong.</p>
 <p>We believe that dedication leads to excellence, and that our hard work
 and dedication will allow us to build on the Yuhua Concert Band’s legacy.</p>
 <p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/G1vZ4iJiGwA?si=UxnVu3YGs5N_CCCM"></iframe>
+</div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
