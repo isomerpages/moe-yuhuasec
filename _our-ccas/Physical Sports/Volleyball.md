@@ -31,10 +31,10 @@ embody teamwork, discipline and resilience.</p>
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2FtxDCOtOd8?si=5PA8bNfLXFNNZ9Uc"></iframe>
 </div>
 <p></p>
+<h3>Our Team</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/53647324362_b8828f2db7_c.jpg">
 </div>
-<h3>Our Team</h3>
 <p><strong>Teachers:</strong>
 </p>
 <p>Mr Clement Bey (OIC)
