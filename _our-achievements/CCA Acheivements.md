@@ -22,8 +22,7 @@ their interests, learn new skills and build character. We are proud of
 the recognition given to our CCAs and individual Yuhuans for their efforts
 and excellence, and more importantly, how they have lived out the school’s
 values and worked as a team to make it possible.</p>
-<p><strong>Uniformed Groups (UG)</strong>
-</p>
+<h4><strong>Uniformed Groups (UG)</strong></h4>
 <p>As part of their programs, our Uniformed Groups go through an annual performance
 review and are benchmarked with other schools by their respective headquarters.
 We are glad to share that our Uniformed Groups grow from strength to strength
@@ -61,7 +60,7 @@ and were recognized for their efforts over the years.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>UOPA - Distinction (Gold)</p>
 </td>
 </tr>
 <tr>
@@ -109,8 +108,7 @@ and were recognized for their efforts over the years.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Visual &amp; Performing Arts (VPA)</strong>
-</p>
+<h4><strong>Visual &amp; Performing Arts (VPA)</strong></h4>
 <p>Our Visual and Performing Arts groups have also been a source of school
 pride, and do well nationally as well. They participate in public performances
 and the bi-annual Singapore Youth Festival (SYF) organized by the Arts
@@ -199,8 +197,10 @@ Performing Arts groups have done the school proud in recent years.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Sports</strong>
-</p>
+<h4><strong>Sports</strong></h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_LBgxjRRTz8?si=Xwe4Rt46EESK4mYL"></iframe>
+</div>
 <p>Our Sports CCAs are strong in their development of character, and through
 this, our Yuhuans do their best to live up to the values of grit and resilience,
 demonstrating good sportsmanship through all competitions that they participate
@@ -404,8 +404,7 @@ in.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Student CCA Achievements</strong>
-</p>
+<h3><strong>Student CCA Achievements</strong></h3>
 <p>Beyond these accomplishments as a group, we have our students who excelled
 individually in their CCAs, receiving awards and accolades for their drive
 to excel in their areas of passion and interest.</p>
