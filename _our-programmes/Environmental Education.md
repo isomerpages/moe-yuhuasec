@@ -98,6 +98,37 @@ the flora and fauna of our 4 gardens to our staff and students.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/env_6.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/env_7.png">
+</div>
+<p></p>
+<h4><strong>Youth Technopreneur Challenge</strong></h4>
+<p>The Youth Technopreneur Challenge enabled our students to explore creative
+ways to improve lives of people around them with the help of technology.
+the YHSS team designed Kiapable, a digital food clip that helps the elderly
+and busy adults track expiring food in their pantries. the journey equipped
+students with skills in using Design Thinking in their project development,
+financial planning and presentation skills to pitch their product to a
+team of esteemed judges.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/env_8.png">
+</div>
+<p></p>
+<h3><strong>Achievements</strong></h3>
+<p>We are proud to share these recognitions for 2025:</p>
+<p><strong>School Green Awards — Yellow Flame Award</strong> recognising our
+sustained efforts across energy, water, waste, biodiversity, and environmental
+education.</p>
+<p><strong>Green Schools@Southwest — Platinum Award</strong> affirming YHSS
+as a leading green school in the Southwest district.</p>
+<p><strong>Sustainability Youth Festival — 2nd Place (Fluttering Haven Team 2.0)</strong> —
+We are thrilled that our Fluttering Haven team clinched 2nd place. From
+preschool workshops to community roadshows to their creative Butterfly
+Personality Test, their passion and dedication — guided by mentor Ms Tan
+Boon Swan — made them thoroughly deserving of this win. Congratulations!
+🏆</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
