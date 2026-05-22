@@ -6,8 +6,9 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h1><strong>National Police Cadet Corps</strong></h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/yhssnpcc1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/55257932512_535fae7c09_c.jpg">
 </div>
 <h2>Background:</h2>
 <p>NPCC is an organisation that firmly believes in the development of character,
@@ -178,8 +179,9 @@ Advanced CSI</p>
 <p><strong>Unit Overall Proficiency Award:</strong>
 <br>The Yuhua NPCC unit achieved the Distinction standard for the Unit Overall
 Proficiency Award (UOPA) in 2023.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/yhssnpcc10.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/55258830281_69fa6aedb8_k.jpg">
 </div>
 <p><strong>Recipients of SPF-NPCC Badge</strong>
 <br>Station Inspector Nurdini Aliah Binte Yuslim Yanis (4 Connect)
