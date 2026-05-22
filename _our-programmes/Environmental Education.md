@@ -129,6 +129,9 @@ Boon Swan — made them thoroughly deserving of this win. Congratulations!
 🏆</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/env_10.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
