@@ -42,52 +42,23 @@ teamwork as leaders inspire and guide their peers to achieve shared goals.</p>
 their potential and making a positive difference.</p>
 </li>
 </ol>
-<h3>Project Gratitude</h3>
-<p>Celebrating our unsung heroes at Project Gratitude! Our Student Councilors
-and Secondary 2 Chairpersons joined forces to design engaging activities,
-showing appreciation for the invaluable behind-the-scenes contributions
-of our non-teaching staff. Here's to strengthening bonds and acknowledging
-their incredible support!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Project_gratitude.png">
-</div>
-<h4>2024 SC Events Photo Gallery:</h4>
-<p><strong>First Day of School:</strong>
-</p>
+<h3></h3>
+<h4><strong>First Day of School:</strong></h4>
 <p>Kickstarting the school year with a burst of color and warmth! Our dedicated
 student councilors transformed the foyer into a welcoming haven, helping
 everyone ease into the new term with friendly smiles and supportive hearts.
 Here's to a fantastic start and a year full of new opportunities!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/First_Day_of_School__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SC___First_Day_of_School.png">
 </div>
-<p><strong>Secondary 1 Orientation:</strong>
-</p>
-<p>Welcoming our new Secondary 1 students with enthusiasm and support! Our
-amazing student councillors led the orientation, guiding them through fun
-activities to break the ice and build new friendships in their new school
-environment. Here’s to a great start and a year of exciting adventures
-ahead!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/student_leadership.jpg">
-</div>
-<p><strong>Investiture:</strong>
-</p>
+<h4><strong>Investiture:</strong></h4>
 <p>Celebrating the transition of leadership at our Investiture ceremony,
 where we honor the dedication of outgoing student leaders and welcome the
 fresh perspectives of those stepping into new roles. Here's to a future
 full of innovation and inspiration!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_leaders.jpg">
-</div>
-<p><strong>Teachers’ Day Celebration:</strong>
-</p>
-<p>Honoring our incredible teachers on Teachers' Day! Our Student Councillors
-took the lead in planning and executing a memorable celebration filled
-with lively performances, fun games, and engaging quizzes. It was a day
-of joy, laughter, and appreciation for the amazing educators who inspire
-us every day!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="teachers day" src="/images/student_leadership_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SC_Investiture_2026.png">
 </div>
 <p></p>
