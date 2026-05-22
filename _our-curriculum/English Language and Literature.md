@@ -66,12 +66,12 @@ Yuhua, students do not just go through the usual pen-and-paper test. At
 every level, students complete a Term&nbsp;Project as one of the Weighted
 Assessments. These projects aim to develop specific skills in the students.
 Examples of the Term Projects include the following :
-<br>i. VLOG for Sec 3
-<br>ii. Analysis of pop songs for Sec 2 Literature&nbsp;
-<br>iii. Travel brochure design and feature writing for Sec 3.</p>
+<br>i. Poster Design and Podcast for Secondary 1 English</p>
+<p>ii. Travel VLOG for Secondary 3 English
+<br>iii. Analysis of pop songs for Secondary 2 Literature&nbsp;
+<br>iv. Creative Writing for Secondary 3 Literature</p>
 </li>
 </ul>
-<p></p>
 <h4>World Book Day 2026</h4>
 <p></p>
 <div class="isomer-image-wrapper">
