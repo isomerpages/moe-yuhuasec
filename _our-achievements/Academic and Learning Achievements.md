@@ -7,12 +7,12 @@ variant: tiptap
 <h1><strong>Academic and Learning Achievements</strong></h1>
 <h2>2026</h2>
 <h4><strong>OCBC TSYF Changemaker Challenge</strong></h4>
-<p>Our Fluttering Haven Team 2.0 participated in the Sustainability Youth
-Festival and clinched <strong>2nd Place</strong>, a strong performance that
-reflects their commitment to conserving Singapore's native butterfly species.
-Building on Team 1.0's work in 2025, the team reached out to the community
-through workshops, Green Market roadshows and a Native Butterfly Personality
-Test for youths.</p>
+<p>Our Fluttering Haven Team 2.0 participated in the 'OCBC Sustainability
+Youth Festival' and clinched <strong>2nd Place</strong>, a strong performance
+that reflects their commitment to conserving Singapore's native butterfly
+species. Building on Team 1.0's work in 2025, the team reached out to the
+community through workshops, Green Market roadshows and a Native Butterfly
+Personality Test for youths.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -34,7 +34,6 @@ Test for youths.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><strong>Science TDP student achievements</strong></h4>
 <p><strong>Online STEM Competitions</strong>
 </p>
