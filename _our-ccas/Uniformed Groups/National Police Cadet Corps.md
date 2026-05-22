@@ -63,14 +63,46 @@ in the world.</p>
 <p><strong>Head of Cohesion:</strong>
 </p>
 <p>Khong Ke Xuan</p>
-<p></p>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/yhssnpcc2.png">
-</div>
 <h3>Milestones</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/55193212088_3ffd8894ed_k.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/55193464940_b705cbe385_k.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/55258971828_79f31aab11_k.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/55193211518_be96c84ea3_k.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Overseas Trips:</strong></h4>
 <p>NPCC Hong Kong Immersion Trip 2025</p>
 <p></p>
@@ -108,7 +140,7 @@ Gold, 1st Class Drill</p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/yhssnpcc4.png">
 </div>
-<h5><strong>Courses / Activities:</strong><br></h5>
+<h5><strong>Courses / Activities:</strong></h5>
 <p><strong>Sec 1:</strong> 
 <br>Field Cooking, Swearing-In, Games Day, CSI (Level 1)
 <br><strong>Sec 2:</strong> 
@@ -135,7 +167,6 @@ Advanced CSI</p>
 <img style="width:50%" height="auto" width="100%" src="/images/yhssnpcc8.png">
 </div>
 <p><strong>HQ Parades:</strong>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
