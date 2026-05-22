@@ -426,18 +426,6 @@ to excel in their areas of passion and interest.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wushu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ng Chun Seng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NSG A Division Boys - 1st International Cudgel -</p>
-<p>2nd Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>NPCC</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -507,6 +495,18 @@ to excel in their areas of passion and interest.</p>
 <p>
 <br>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wushu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Chun Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG A Division Boys - 1st International Cudgel -</p>
+<p>2nd Place</p>
 </td>
 </tr>
 </tbody>
