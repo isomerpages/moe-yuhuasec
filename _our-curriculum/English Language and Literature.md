@@ -47,6 +47,14 @@ organised this year include the following :
 <br>iv. WBD Essay Challenge&nbsp;</p>
 </li>
 <li>
+<p><strong>Participation in the Plain English Speaking Awards (PESA) to develop students’ confidence and proficiency in spoken English. </strong>Through
+workshops, mentoring sessions and competition preparation, students are
+given opportunities to refine their public speaking, pronunciation and
+presentation skills while learning to communicate effectively and confidently
+before an audience. Selected students also represent the school in the
+annual national competition.</p>
+</li>
+<li>
 <p><strong>As for Literature, the Literature Unit organised the following activities to deepen students’ interest and increase&nbsp;engagement in Literature:</strong>&nbsp;
 <br>i. Blackout Poetry&nbsp;
 <br>ii. Flash Fiction&nbsp;
@@ -64,7 +72,14 @@ Examples of the Term Projects include the following :
 </li>
 </ul>
 <p></p>
+<h4>World Book Day 2026</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_tt.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WBD_2026__2_.png">
 </div>
+<h4>Plain English Speaking Awards (PESA) 2024 </h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PESA.png">
+</div>
+<p></p>
 <p></p>
