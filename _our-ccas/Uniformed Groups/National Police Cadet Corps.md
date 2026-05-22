@@ -267,9 +267,6 @@ Advanced CSI</p>
 <p>OEV to Hong Kong (Sec 3)</p>
 </li>
 </ul>
-<h5></h5>
-<p></p>
-<p></p>
 <h5>SOCIAL MEDIA:</h5>
 <p><a href="https://www.instagram.com/yhssnpcc/" rel="noopener noreferrer nofollow" target="_blank">YHSS NPCC INSTAGRAM</a>&nbsp;<strong>https://www.instagram.com/yhssnpcc/</strong>
 </p>
