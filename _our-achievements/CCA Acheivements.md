@@ -5,10 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>CCA Achievements</strong></h1>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Achievements_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Achievements_w.png">
 </div>
 <h3>Co-Curricular Activities in Yuhua</h3>
 <p>Co-Curricular Activities are important platforms for Yuhuans to explore
@@ -407,6 +405,118 @@ to excel in their areas of passion and interest.</p>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="3">
+<h4>2026</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievements</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Khong Ke Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best Unit Cadet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ngai Yuk Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best Unit Cadet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Harith Bin Hanuar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF–NPCC Badge Award</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dollesin Amira Nieva Norcio</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF–NPCC Badge Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCDCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WO Raihanah Binte Abdul Rahman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCDF–NCDCC Pinnacle Award</p>
+<p>Unit Best Cadet Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCDCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WO Soo Kai Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCDF–NCDCC Pinnacle Award</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wushu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Chun Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG A Division Boys - 1st International Cudgel -</p>
+<p>2nd Place</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <td rowspan="1" colspan="3">
 <h4>2025</h4>
 </td>
@@ -493,7 +603,7 @@ to excel in their areas of passion and interest.</p>
 <p>Candy Koh Tian Tian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Best Unit Cadet (Female)</p>
+<p>Best Unit Cadet</p>
 </td>
 </tr>
 <tr>
@@ -504,7 +614,7 @@ to excel in their areas of passion and interest.</p>
 <p>Wong Jing Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Best Unit Cadet (Female)</p>
+<p>Best Unit Cadet</p>
 </td>
 </tr>
 <tr>
