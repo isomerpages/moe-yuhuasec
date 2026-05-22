@@ -24,42 +24,10 @@ Police Force to fight crime and keep Singapore safe.</p>
 in Singapore, one that actively helps to make Singapore the safest place
 in the world.</p>
 <p><strong>NPCC Values:</strong>&nbsp;Resilience Integrity Service Excellence</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/55193212088_3ffd8894ed_k.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/55193212088_3ffd8894ed_k.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/55193464940_b705cbe385_k.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/55258971828_79f31aab11_k.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/55193211518_be96c84ea3_k.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <h3>Our Team</h3>
 <p><strong>Teacher Officers:</strong>
 </p>
@@ -99,9 +67,11 @@ in the world.</p>
 <p><strong>Head of Cohesion:</strong>
 </p>
 <p>Khong Ke Xuan</p>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/55193464940_b705cbe385_k.jpg">
+</div>
+<p></p>
 <h3>Milestones</h3>
 <h4><strong>Overseas Trips:</strong></h4>
 <p>NPCC Hong Kong Immersion Trip 2025</p>
