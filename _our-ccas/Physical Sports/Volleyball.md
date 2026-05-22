@@ -11,9 +11,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/688730266_1520047913464330_6172746887979458148_n.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/54758207041_6678ba9dad_k.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_13_at_11_06_11_AM.jpg">
@@ -32,8 +29,9 @@ embody teamwork, discipline and resilience.</p>
 </div>
 <p></p>
 <h3>Our Team</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/53647324362_b8828f2db7_c.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BV_26.png">
 </div>
 <p><strong>Teachers:</strong>
 </p>
@@ -68,8 +66,9 @@ embody teamwork, discipline and resilience.</p>
 <p></p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/53658055043_7d28ea31f4_c.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BV_27.png">
 </div>
 <h3><strong>Key Events / Achievements</strong></h3>
 <div class="iframe-wrapper">

@@ -58,8 +58,42 @@ Nur Intan Marshanda Binti Ghani</p>
 </li>
 </ul>
 <h3>Achievements</h3>
-<p>B Division Girls National School Games, Group routine – 7th placing</p>
-<h4>Ng Chun Sheng (2 Care) – Singapore Wushu Team:</h4>
+<h4>2026</h4>
+<p><strong>Ng Chun Seng:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NSG Wushu Championship 2026 - A Division Boys - 1st International Cudgel
+- 2nd Place</p>
+</li>
+</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_22_at_8_43_41_AM.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_22_at_8_43_42_AM.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<h4>2025</h4>
+<p><strong>B Division Girls National School Games, Group routine – 7th placing</strong>
+</p>
+<p><strong>Ng Chun Sheng – Singapore Wushu Team:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>10th World Kungfu Championship in Emei Mountain, Chengdu — 3 × Second

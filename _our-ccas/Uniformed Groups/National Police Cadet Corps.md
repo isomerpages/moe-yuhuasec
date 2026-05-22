@@ -6,8 +6,9 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h1><strong>National Police Cadet Corps</strong></h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/yhssnpcc1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/55257932512_535fae7c09_c.jpg">
 </div>
 <h2>Background:</h2>
 <p>NPCC is an organisation that firmly believes in the development of character,
@@ -23,6 +24,10 @@ Police Force to fight crime and keep Singapore safe.</p>
 in Singapore, one that actively helps to make Singapore the safest place
 in the world.</p>
 <p><strong>NPCC Values:</strong>&nbsp;Resilience Integrity Service Excellence</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/55193212088_3ffd8894ed_k.jpg">
+</div>
 <h3>Our Team</h3>
 <p><strong>Teacher Officers:</strong>
 </p>
@@ -40,35 +45,124 @@ in the world.</p>
 <p>Mr Chong Tat Wai</p>
 </li>
 </ul>
-<p><strong>Star Leaders:</strong>
-<br>
+<p></p>
+<p><strong>Co-chairpersons:</strong>
 </p>
-<p><strong>Co-chairperson:</strong>
-</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Dollesin Amira Nieva Norcio</p>
+</li>
+<li>
 <p>Muhammad Nor Iqbal Bin Nordin</p>
+</li>
+</ul>
 <p>⁠<strong>Head of Training:</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Harith Bin Hanuar</p>
+</li>
+</ul>
 <p><strong>Head of Logistics:</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Ngai Yuk Xin</p>
+</li>
+</ul>
 <p>⁠<strong>Head of Admin:</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Trishya Isabell Tan Rui En</p>
+</li>
+</ul>
 <p><strong>Head of Media:</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Gunasekaran Bhavya</p>
+</li>
+</ul>
 <p><strong>Head of Cohesion:</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Khong Ke Xuan</p>
+</li>
+</ul>
 <p></p>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/yhssnpcc2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/55193464940_b705cbe385_k.jpg">
 </div>
+<p></p>
+<h3><strong>Achievements:</strong></h3>
+<p><strong>Unit Overall Proficiency Award:</strong>
+<br>The Yuhua NPCC unit achieved the Distinction standard for the Unit Overall
+Proficiency Award (UOPA) in 2025.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/55258830281_69fa6aedb8_k.jpg">
+</div>
+<p><strong>Recipients of SPF-NPCC Badge</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Harith Bin Hanuar (4 Contribute)</p>
+</li>
+<li>
+<p>Dollesin Amira Nieva Norcio (4 Flourish)</p>
+</li>
+</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/55259234400_be1bee025e_k.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/55258971603_b5d1cd1279_k.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong>Best Unit Cadet Award:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Khong Ke Xuan (4 Responsibility)</p>
+</li>
+<li>
+<p>Ngai Yuk Xin (4 Connect)</p>
+</li>
+</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/55258829916_f6c88c6f74_k.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/55258829971_146e2f9d70_k.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h3>Milestones</h3>
 <h4><strong>Overseas Trips:</strong></h4>
 <p>NPCC Hong Kong Immersion Trip 2025</p>
@@ -107,7 +201,7 @@ Gold, 1st Class Drill</p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/yhssnpcc4.png">
 </div>
-<h5><strong>Courses / Activities:</strong><br></h5>
+<h5><strong>Courses / Activities:</strong></h5>
 <p><strong>Sec 1:</strong> 
 <br>Field Cooking, Swearing-In, Games Day, CSI (Level 1)
 <br><strong>Sec 2:</strong> 
@@ -134,7 +228,6 @@ Advanced CSI</p>
 <img style="width:50%" height="auto" width="100%" src="/images/yhssnpcc8.png">
 </div>
 <p><strong>HQ Parades:</strong>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -174,25 +267,6 @@ Advanced CSI</p>
 <p>OEV to Hong Kong (Sec 3)</p>
 </li>
 </ul>
-<h5><strong>External Programmes / Achievements:</strong></h5>
-<p><strong>Unit Overall Proficiency Award:</strong>
-<br>The Yuhua NPCC unit achieved the Distinction standard for the Unit Overall
-Proficiency Award (UOPA) in 2023.</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/yhssnpcc10.png">
-</div>
-<p><strong>Recipients of SPF-NPCC Badge</strong>
-<br>Station Inspector Nurdini Aliah Binte Yuslim Yanis (4 Connect)
-<br>Station Inspector Chua Yu Xuan (4 Care)
-<br>Staff Sergeant Evelyn Quah Xiang Boon (4 Adaptability)</p>
-<p><strong>Special Mention</strong>
-<br>Station Inspector Ngoo Yu Xuan (4 Resilience)</p>
-<p><strong>Best Unit Cadet Award 2024:</strong>
-<br>Staff Sergeant Nur Laiqah Binte Irman (4 Connect)
-<br>Staff Sergeant Gwendolyn Jas Lee (4 Contribute)</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/yhssnpcc11.png">
-</div>
 <h5>SOCIAL MEDIA:</h5>
 <p><a href="https://www.instagram.com/yhssnpcc/" rel="noopener noreferrer nofollow" target="_blank">YHSS NPCC INSTAGRAM</a>&nbsp;<strong>https://www.instagram.com/yhssnpcc/</strong>
 </p>

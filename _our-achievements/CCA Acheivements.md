@@ -5,16 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>CCA Achievements</strong></h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_04_22_at_9_42_58_AM__1_.jpg">
-</div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/516193753_1251398003662657_4928824057654533028_n.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/688730266_1520047913464330_6172746887979458148_n.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Achievements_2026.png">
 </div>
 <h3>Co-Curricular Activities in Yuhua</h3>
 <p>Co-Curricular Activities are important platforms for Yuhuans to explore
@@ -198,9 +192,6 @@ Performing Arts groups have done the school proud in recent years.</p>
 </tbody>
 </table>
 <h4><strong>Sports</strong></h4>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_LBgxjRRTz8?si=Xwe4Rt46EESK4mYL"></iframe>
-</div>
 <p>Our Sports CCAs are strong in their development of character, and through
 this, our Yuhuans do their best to live up to the values of grit and resilience,
 demonstrating good sportsmanship through all competitions that they participate
