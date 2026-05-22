@@ -14,35 +14,10 @@ Centre for students from other schools. YHSS’ unique programme also aims
 to develop students into competent and well-rounded musicians who possess
 the competencies and dispositions to pursue different higher education
 and career pathways in music, if they wish to.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EMP_27.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p>YHSS’ EMP students will have opportunities to pursue deeper learning in
 various musical pursuits. Through an in-depth study of various musical
 traditions, such as Western Classical music, Asian Music, Jazz, and Pop,
@@ -52,18 +27,14 @@ participate in diverse enrichment activities, such as masterclasses with
 industry professionals, learning journeys to higher education institutions
 and cultural groups, and combined schools’ camps and showcase platforms
 organised by the Ministry of Education.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.jpg">
-</div>
 <p>At Yuhua Secondary School, all students will have access to well-equipped
 teaching rooms, practice studios, and performance spaces. The school also
 has a rich variety of instruments and learning resources to cater to different
 interests and learning needs.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EMP_26.png">
 </div>
+<p></p>
 <p>Students who are interested to study G3 Music at Secondary Three should
 note the following:</p>
 <p><strong>At Secondary One:</strong>
