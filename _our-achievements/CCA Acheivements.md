@@ -8,7 +8,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Achievements_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Achievements_w.png">
 </div>
 <h3>Co-Curricular Activities in Yuhua</h3>
 <p>Co-Curricular Activities are important platforms for Yuhuans to explore
@@ -426,13 +426,25 @@ to excel in their areas of passion and interest.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Wushu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Chun Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG A Division Boys - 1st International Cudgel -</p>
+<p>2nd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>NPCC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Khong Ke Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Best Unit Cadet</p>
 </td>
 </tr>
 <tr>
@@ -443,7 +455,7 @@ to excel in their areas of passion and interest.</p>
 <p>Ngai Yuk Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Best Unit Cadet</p>
 </td>
 </tr>
 <tr>
@@ -462,35 +474,39 @@ to excel in their areas of passion and interest.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NPCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dollesin Amira Nieva Norcio</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>SPF–NPCC Badge Award</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NCDCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>WO Raihanah Binte Abdul Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SCDF–NCDCC Pinnacle Award</p>
+<p>Unit Best Cadet Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCDCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WO Soo Kai Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SCDF–NCDCC Pinnacle Award</p>
+<p>
+<br>
+</p>
 </td>
 </tr>
 </tbody>
@@ -589,7 +605,7 @@ to excel in their areas of passion and interest.</p>
 <p>Candy Koh Tian Tian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Best Unit Cadet (Female)</p>
+<p>Best Unit Cadet</p>
 </td>
 </tr>
 <tr>
@@ -600,7 +616,7 @@ to excel in their areas of passion and interest.</p>
 <p>Wong Jing Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Best Unit Cadet (Female)</p>
+<p>Best Unit Cadet</p>
 </td>
 </tr>
 <tr>
