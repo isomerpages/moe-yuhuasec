@@ -32,45 +32,5 @@ for 2025!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/55284779023_a242be2a85_k.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/green_schools1.jpg">
-</div>
-<p></p>
-<p></p>
-<h4>Mr Pang, Our Principal with the Civil Defence (CD) Ready School Award!</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SCDF%20CD%20readyWith%20Mr%20Pang.jpg">
-</div>
-<h4>Our School Achievements</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>S/No</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievements</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Green Schools @ South West Award Ceremony -3 Stars Award for Year 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
 <p></p>
