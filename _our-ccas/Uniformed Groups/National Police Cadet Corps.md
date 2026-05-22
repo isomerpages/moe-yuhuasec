@@ -178,8 +178,7 @@ Advanced CSI</p>
 <h5><strong>External Programmes / Achievements:</strong></h5>
 <p><strong>Unit Overall Proficiency Award:</strong>
 <br>The Yuhua NPCC unit achieved the Distinction standard for the Unit Overall
-Proficiency Award (UOPA) in 2023.</p>
-<p></p>
+Proficiency Award (UOPA) in 2023 and 2025.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/55258830281_69fa6aedb8_k.jpg">
 </div>
