@@ -5,8 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>CCA Achievements</strong></h1>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Achievements_w.png">
 </div>
