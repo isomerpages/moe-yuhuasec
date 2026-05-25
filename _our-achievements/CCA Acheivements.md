@@ -503,8 +503,7 @@ to excel in their areas of passion and interest.</p>
 <p>Ng Chun Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NSG A Division Boys - 1st International Cudgel -</p>
-<p>2nd Place</p>
+<p>NSG A Division Boys - 1st International Cudgel - 2nd Place</p>
 </td>
 </tr>
 </tbody>
