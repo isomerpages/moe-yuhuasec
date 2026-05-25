@@ -89,12 +89,12 @@ Civil Defence knowledge</p>
 </ul>
 <h4><strong>NCDCC Service Month – CPR</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC_26.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/NCDCC_26.jpg">
 </div>
 <p></p>
 <h4><strong>Passing-out Parade</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC_27.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/NCDCC_27.jpg">
 </div>
 <h2><strong>Achievements</strong></h2>
 <h3><strong>SCDF - NCDCC Pinnacle Award</strong></h3>
