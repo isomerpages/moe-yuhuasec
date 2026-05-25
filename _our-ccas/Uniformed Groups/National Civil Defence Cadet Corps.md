@@ -7,20 +7,18 @@ variant: tiptap
 ---
 <h1><strong>National Civil Defence Cadet Corps</strong></h1>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC_2025_Background___Alvin_Ng.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSCF5190.jpg">
 </div>
-<h3>Background</h3>
+<h2><strong>Background</strong></h2>
 <p>Yuhua NCDCC aims to equip our cadets with the Triangle of Life skills,
-which are basic firefighting, first aid and CPR+AED. We have experienced
-significant growth since our inception, increasing our intake over the
-years to a healthy cohort of 70 cadets at present
-<br>Yuhua NCDCC trains our cadets to be ready for adversity and equips them
-with the practical skills which may prove crucial in the face of dangers
-and emergencies.</p>
-<h3>Our Team</h3>
-<p><strong>Teachers:</strong>
-</p>
+namely firefighting, first aid and CPR+AED. We have experienced significant
+growth since our inception, increasing our intake over the years to a healthy
+cohort of 80 cadets. Yuhua NCDCC trains our cadets to be ready for adversities
+and impart to them practical skills that save lives.</p>
+<h2><strong>Our Team</strong></h2>
+<h4><strong>Teachers:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Mr Alvin Ng Kiat Hou (OIC)</p>
@@ -35,25 +33,19 @@ and emergencies.</p>
 <p>Ms Athirah Syahirah bte Shaul Hameed</p>
 </li>
 </ul>
-<p><strong>Student Leaders:</strong>
-</p>
+<h4><strong>Student Leaders:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Unit Sergeant Major (USM): SGT Raihanah Binte Abdul Rahman</p>
+<p>Unit Sergeant Major (USM): SGT NUR FARISHA BINTE MOHAMMAD ZURAID</p>
 </li>
 <li>
-<p>Assistant Sergeant Major (ASM): SGT Soo Kai Ting</p>
+<p>Assistant Sergeant Major (ASM): SGT MUHAMMAD AMMAR HAIKAL BIN YUSOFF</p>
 </li>
 <li>
-<p>Regiment Sergeant Major (RSM): SGT Harshni D/O Teena Thayalan</p>
+<p>Regiment Sergeant Major (RSM): SGT NURUL DIYANAH BINTE KAMAL</p>
 </li>
 </ul>
-<h3>Key Events of the Year</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC_2025_Training_Programme___Alvin_Ng.jpg">
-</div>
-<p><strong>Training Programme</strong>&nbsp;</p>
+<h2><strong>Training Programme</strong>&nbsp;</h2>
 <p>Yuhua NCDCC provides opportunities for our cadets to hone their leadership
 and communication skills while serving the school through the administering
 of first aid during school events such as Sports Day and Emergency Evacuation
@@ -65,16 +57,11 @@ Civil Defence knowledge through visits to notable sites like the Civil
 Defence Heritage Gallery and Civil Defence shelters. The cadets put their
 skills to the test by participating in events organised by the Home Team
 Academy, including the Urban Adventure Challenge and Precision Drill Competition.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC_2025_Key_Events___Alvin_Ng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC_2025_Training_Programme___Alvin_Ng.jpg">
 </div>
-<p><strong>Key events of the year</strong>
-</p>
+<h3><strong>Key events of the year</strong></h3>
 <ul data-tight="true" class="tight">
-<li>
-<p>Yuhua NCDCC Unit Camp</p>
-</li>
 <li>
 <p>Courses aligned with the Cadet Proficiency Badge Scheme (CPBS)</p>
 </li>
@@ -96,14 +83,21 @@ Civil Defence knowledge</p>
 <li>
 <p>Precision Drill Competition</p>
 </li>
+<li>
+<p>Passing-out Parade for the secondary 4 cadets</p>
+</li>
 </ul>
-<h3>Achievements</h3>
-<p></p>
+<h4><strong>NCDCC Service Month – CPR</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC_2025_Achievements___Alvin_Ng.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/NCDCC_26.jpg">
 </div>
-<p><strong>SSCDF - NCDCC Pinnacle Award</strong>
-</p>
+<p></p>
+<h4><strong>Passing-out Parade</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/NCDCC_27.jpg">
+</div>
+<h2><strong>Achievements</strong></h2>
+<h3><strong>SCDF - NCDCC Pinnacle Award</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>The SCDF - NCDCC Pinnacle award is presented to the most outstanding cadet
@@ -112,31 +106,29 @@ uniform group.</p>
 </li>
 <li>
 <p>The recipients of this award are:
-<br>Warrant Officer Hyra Musfira Putri Mustafa Kamal
-<br>Warrant Officer Nur Ayuni Binte Abdullah</p>
+<br>Warrant Officer RAIHANAH BINTE ABDUL RAHMAN
+<br>Warrant Officer SOO KAI TING</p>
 </li>
 </ul>
-<p><strong>Unit Best Cadet Award</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_22_at_3_20_07_PM__2_.jpg">
+</div>
+<h3><strong>Unit Best Cadet Award</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>The Unit Best Cadet award is presented to the most outstanding cadet in
 the unit, one who has contributed immensely to the unit’s development.</p>
 </li>
 <li>
-<p>The recipient of this award is Warrant Officer Hyra Musfira Putri Mustafa
-Kamal</p>
+<p>The recipient of this award is Warrant Officer RAIHANAH BINTE ABDUL RAHMAN</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__3_.png">
-</div>
-<p><strong>Unit Overall Proficiency Award</strong>
-</p>
+<h3><strong>Unit Overall Proficiency Award</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>The Yuhua NCDCC unit achieved the Distinction standard for the Unit Overall
-Proficiency Award (UOPA) in 2023.</p>
+Proficiency Award (UOPA) in 2025.</p>
 </li>
 </ul>
 <p></p>
