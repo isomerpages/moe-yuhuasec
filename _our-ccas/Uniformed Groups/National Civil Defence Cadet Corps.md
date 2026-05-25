@@ -7,8 +7,9 @@ variant: tiptap
 ---
 <h1><strong>National Civil Defence Cadet Corps</strong></h1>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC_2025_Background___Alvin_Ng.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSCF5190.jpg">
 </div>
 <h2><strong>Background</strong></h2>
 <p>Yuhua NCDCC aims to equip our cadets with the Triangle of Life skills,
@@ -109,8 +110,9 @@ uniform group.</p>
 <br>Warrant Officer SOO KAI TING</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC_28.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_22_at_3_20_07_PM__2_.jpg">
 </div>
 <h3><strong>Unit Best Cadet Award</strong></h3>
 <ul data-tight="true" class="tight">
