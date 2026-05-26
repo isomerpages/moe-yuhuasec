@@ -204,7 +204,7 @@ handling skills.</p>
 <p>The NPCC Annual Parade (NPAP) is the flagship event in the NPCC calendar.
 It marks the celebration of the NPCC Day and cadets from all the units
 come together to form the parade contingents.</p>
-<p>Participants:</p>
+<p><strong>Participants</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ahmmed Johan - Guard-of-Honour Contingent
