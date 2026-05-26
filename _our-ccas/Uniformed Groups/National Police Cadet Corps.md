@@ -288,7 +288,9 @@ Advanced CSI</p>
 <p>Sec 1-3: Unit Annual Camp cum Field Cooking
 <br>Sec 2: Adventure Training Camp (ATC) in NPCC Camp Resilience, Pulau Ubin</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC_Camps.png">
+</div>
 <p><strong>HQ Parades:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -300,6 +302,9 @@ Advanced CSI</p>
 </li>
 <li>
 <p>National Day Parade</p>
+</li>
+<li>
+<p></p>
 </li>
 </ul>
 <h4><strong>Competitions</strong></h4>
@@ -326,8 +331,7 @@ photography, and bloodstain pattern analysis.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC_CSI.png">
 </div>
-</li>
-<li>
+<p></p>
 <p><strong><u>Campcraft Competition (biannual) 2025</u></strong>
 </p>
 <p></p>
