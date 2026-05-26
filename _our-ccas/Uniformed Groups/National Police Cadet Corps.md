@@ -10,7 +10,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/55257932512_535fae7c09_c.jpg">
 </div>
-<h2>Background:</h2>
+<h3>Background:</h3>
 <p>NPCC is an organisation that firmly believes in the development of character,
 leadership and resilience. Training has evolved from just drills to include
 more structured and interesting training programs. Through a myriad of
@@ -29,8 +29,7 @@ in the world.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/55193212088_3ffd8894ed_k.jpg">
 </div>
 <h3>Our Team</h3>
-<p><strong>Teacher Officers:</strong>
-</p>
+<h4><strong><u>Teacher Officers:</u></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Ms Ong Hui Lin (OIC)</p>
@@ -45,53 +44,74 @@ in the world.</p>
 <p>Mr Chong Tat Wai</p>
 </li>
 </ul>
+<h4><strong><u>Executive Committee 2026-2027</u></strong></h4>
+<p><strong>Chairperson</strong>: Karthikeyan Ganika</p>
+<p><strong>Vice-Chairperson</strong>: Nur Rayyana Balqis Binte Mohamad Umar</p>
+<p><strong>Head-of-Training</strong>: Ahmmed Johan</p>
+<p><strong>Head of Logistics</strong>: Yau Yu Xuan Crystal</p>
+<p><strong>Head of Admin &amp; Media</strong>: Jecoliah Yee Jing Yu</p>
 <p></p>
-<p><strong>Co-chairpersons:</strong>
+<h4><strong><u>Our Volunteers:</u></strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Honorary Officers (HO)</u></strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Dollesin Amira Nieva Norcio</p>
-</li>
-<li>
-<p>Muhammad Nor Iqbal Bin Nordin</p>
-</li>
-</ul>
-<p>⁠<strong>Head of Training:</strong>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Senior Cadet Inspector (SCI) &amp; Cadet Inspectors (CI)</u></strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Harith Bin Hanuar</p>
-</li>
-</ul>
-<p><strong>Head of Logistics:</strong>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Alumni</u></strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ngai Yuk Xin</p>
-</li>
-</ul>
-<p>⁠<strong>Head of Admin:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Trishya Isabell Tan Rui En</p>
-</li>
-</ul>
-<p><strong>Head of Media:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Gunasekaran Bhavya</p>
-</li>
-</ul>
-<p><strong>Head of Cohesion:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Khong Ke Xuan</p>
-</li>
-</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HO </strong>Ng Xinni</p>
 <p></p>
+<p><strong>HO </strong>Mohammad Hafiz</p>
+<p></p>
+<p><strong>HO </strong>Joel Kuah</p>
+<p></p>
+<p><strong>HO </strong>Fat Yong Cong Jason</p>
+<p></p>
+<p><strong>HO </strong>Beh Rui Xuan</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SCI </strong>Aloysius Lim</p>
+<p></p>
+<p><strong>CI </strong>Chew Jun Liang</p>
+<p></p>
+<p><strong>CI </strong>Bong Wan Hua</p>
+<p></p>
+<p><strong>CI </strong>Taw Jie Fong</p>
+<p></p>
+<p><strong>P/CI </strong>Nurdini Aliah</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thanaphat</p>
+<p></p>
+<p>Jun Kang</p>
+<p></p>
+<p>Glendon</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/55193464940_b705cbe385_k.jpg">
 </div>
