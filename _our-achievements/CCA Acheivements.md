@@ -471,6 +471,43 @@ to excel in their areas of passion and interest.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Jecoliah Yee Jing Yu</p>
+</li>
+<li>
+<p>Gubbala Karthika Lakshmi Sri Santhoshi</p>
+</li>
+<li>
+<p>Jannatul Nisha</p>
+</li>
+<li>
+<p>Violene Tan</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>.22 Revolver Shooting Competition 2026</p>
+<p>Team Category (Girls): 7th placing overall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jecoliah Yee Jing Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>.22 Revolver Shooting Competition 2026</p>
+<p>Individual Category (Girls): 8th placing overall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>NCDCC</p>
 </td>
 <td rowspan="1" colspan="1">
