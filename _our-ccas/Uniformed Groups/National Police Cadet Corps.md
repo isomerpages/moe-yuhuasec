@@ -183,6 +183,20 @@ Proficiency Award (UOPA) in 2025.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p><strong><u>.22 Revolver Shooting Competition 2026</u></strong>
+</p>
+<p>Annual inter-unit marksmanship event brings together cadets from different
+units to demonstrate their shooting proficiency and firearms handling skills.</p>
+<p><strong>Team Category (Girls): 7th placing overall</strong>
+</p>
+<p>Jecoliah Yee Jing Yu</p>
+<p>Gubbala Karthika Lakshmi Sri Santhoshi</p>
+<p>Jannatul Nisha</p>
+<p>Violene Tan</p>
+<p><strong>Individual Category (Girls): 8th placing overall</strong>
+</p>
+<p>Jecoliah Yee Jing Yu (3 Resilience)</p>
 <h3>Milestones</h3>
 <h4><strong>Overseas Trips:</strong></h4>
 <p>NPCC Hong Kong Immersion Trip 2025</p>
@@ -214,7 +228,7 @@ Gold, 1st Class Drill</p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/yhssnpcc3.png">
 </div>
-<h5><strong>Visits:</strong><br></h5>
+<h5><strong>Visits:</strong></h5>
 <p>Sec 1: Police Heritage Centre (PHC)
 <br>Sec 2: Neighbourhood Police Centre (NPC)
 <br>Sec 3: Home Team Gallery (HTG)</p>
@@ -261,21 +275,38 @@ Advanced CSI</p>
 </li>
 </ul>
 <h4><strong>Competitions</strong></h4>
+<p><strong><u>.22 Revolver Shooting Competition 2026</u></strong>
+</p>
+<p>Annual inter-unit marksmanship event brings together cadets from different
+units to demonstrate their shooting proficiency and firearms handling skills.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>.22 Shooting Competition</p>
+<p>Selected Cadets from Sec 3 (2026)</p>
+</li>
+</ul>
+<p><strong><u>Crime Scene Investigation (CSI) Competition (biannual) 2025</u></strong>
+</p>
+<p>The National Police Cadet Corps (NPCC) Inter-Unit Crime Scene Investigation
+(CSI) Competition&nbsp;challenges secondary school cadets to apply forensic
+skills in simulated crime scenarios. Participants are required to manage
+complex crime scenes and demonstrate technical skills such as fingerprinting,
+photography, and bloodstain pattern analysis.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Selected cadets from Sec 2 (2025)</p>
+<p></p>
 </li>
 <li>
-<p>.38 Shooting Competition</p>
+<p><strong><u>Campcraft Competition (biannual) 2025</u></strong>
+</p>
+<p></p>
+<p>An integral part of NPCC training,&nbsp;Campcraft Competition was introduced
+to promote team spirit, upgrade campcraft skills, raise efficiency in conducting
+outdoor activities and nurture a stronger competitive inclination.</p>
+<p></p>
 </li>
 <li>
-<p>Inter-unit Drills Competition (bi-annual)</p>
-</li>
-<li>
-<p>X-Challenge (bi-annual)</p>
-</li>
-<li>
-<p>Youth Video Competition</p>
+<p>Selected cadets from Sec 3 (2025)</p>
 </li>
 </ul>
 <h5><strong>Overseas Educational Visit by HQ:</strong></h5>
