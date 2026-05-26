@@ -194,9 +194,8 @@ Performing Arts groups have done the school proud in recent years.</p>
 this, our Yuhuans do their best to live up to the values of grit and resilience,
 demonstrating good sportsmanship through all competitions that they participate
 in.</p>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -206,10 +205,6 @@ in.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>CCA</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2023</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -228,9 +223,6 @@ in.</p>
 <tr>
 <td rowspan="3" colspan="1">
 <p>Volleyball Boys</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>West Zone B Division National School Games - 5th in group rounds</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Mintonette Cup 4th (Under 16 Boys)</p>
@@ -257,9 +249,6 @@ in.</p>
 <tr>
 <td rowspan="3" colspan="1">
 <p>Volleyball Girls</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>West Zone B Division National School Games - top 6 in group rounds</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Participated in West Zone B Division National School Games</p>
@@ -294,11 +283,6 @@ in.</p>
 <p>Participated in C Division National School Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participated in B Division National School Games</p>
-<p></p>
-<p>Participated in C Division National School Games</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>C Division National School Games League 3 Runners-up</p>
 <p></p>
 <p>Participated in B Division National School Games</p>
@@ -306,15 +290,12 @@ in.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Participated in B Division National School Games</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Football Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games B Division Football League Four (top 8)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National School Games B Division Football -League Four</p>
@@ -338,9 +319,6 @@ in.</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Participated in B Division National School Games</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Participated in B Division National School Games</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -355,9 +333,6 @@ in.</p>
 <tr>
 <td rowspan="2" colspan="1">
 <p>Tchoukball Girls</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Participated in B Division National School Games</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Participated in B Division National School Games</p>
@@ -386,9 +361,6 @@ in.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participated in National School Games (Boys &amp; Girls)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
