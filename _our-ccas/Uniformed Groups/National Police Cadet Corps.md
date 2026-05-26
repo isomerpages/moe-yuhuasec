@@ -322,36 +322,10 @@ photography, and bloodstain pattern analysis.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Selected cadets from Sec 2 (2025)</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_26_at_11_01_09_AM__4_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC_CSI.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_26_at_11_01_16_AM.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_26_at_11_01_16_AM__1_.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
 </li>
 <li>
 <p><strong><u>Campcraft Competition (biannual) 2025</u></strong>
