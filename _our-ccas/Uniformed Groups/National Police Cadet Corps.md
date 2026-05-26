@@ -217,6 +217,43 @@ come together to form the parade contingents.</p>
 <p>Nur Rayyana Balqis Binte Mohamad Umar - School Flag Party</p>
 </li>
 </ul>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_26_at_11_01_17_AM__3_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_26_at_11_01_17_AM__1_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_26_at_11_01_17_AM__2_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_26_at_11_01_17_AM.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Milestones</h3>
 <h4><strong>Overseas Trips:</strong></h4>
 <p>NPCC Hong Kong Immersion Trip 2025</p>
@@ -283,13 +320,8 @@ Advanced CSI</p>
 <h5><strong>Camps:</strong></h5>
 <p>Sec 1-3: Unit Annual Camp cum Field Cooking
 <br>Sec 2: Adventure Training Camp (ATC) in NPCC Camp Resilience, Pulau Ubin</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/yhssnpcc7.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/yhssnpcc8.png">
-</div>
+<p></p>
 <p><strong>HQ Parades:</strong>
 </p>
 <ul data-tight="true" class="tight">
