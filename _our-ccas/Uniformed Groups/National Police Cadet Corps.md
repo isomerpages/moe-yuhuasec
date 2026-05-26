@@ -186,8 +186,9 @@ Proficiency Award (UOPA) in 2025.</p>
 <p></p>
 <p><strong><u>.22 Revolver Shooting Competition 2026</u></strong>
 </p>
-<p>Annual inter-unit marksmanship event brings together cadets from different
-units to demonstrate their shooting proficiency and firearms handling skills.</p>
+<p>Annual inter-unit marksmanship event that brings together cadets from
+different units to demonstrate their shooting proficiency and firearms
+handling skills.</p>
 <p><strong>Team Category (Girls): 7th placing overall</strong>
 </p>
 <p>Jecoliah Yee Jing Yu</p>
