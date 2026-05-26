@@ -304,6 +304,25 @@ Advanced CSI</p>
 </li>
 </ul>
 <h4><strong>Competitions</strong></h4>
+<p><strong><u>Inter-unit drill competition 2026 (Prelims)</u></strong>
+</p>
+<p>A bi-annual event that provides cadets with the opportunity to demonstrate
+discipline, teamwork, and drill competency. Participants are assessed on
+their coordination, bearing, teamwork, and overall execution during the
+competition.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Selected cadets from Sec 2 and 3</p>
+</li>
+<li>
+<p>Squad Commander: Yau Yu Xuan Crystal (3 Flourish)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC_Drill_Comp.png">
+</div>
+</li>
+</ul>
+<p></p>
 <p><strong><u>.22 Revolver Shooting Competition 2026</u></strong>
 </p>
 <p>Annual inter-unit marksmanship event brings together cadets from different
