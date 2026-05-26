@@ -197,6 +197,22 @@ units to demonstrate their shooting proficiency and firearms handling skills.</p
 <p><strong>Individual Category (Girls): 8th placing overall</strong>
 </p>
 <p>Jecoliah Yee Jing Yu (3 Resilience)</p>
+<p></p>
+<p><strong><u>NPCC Annual Parade (NPAP) 2026</u></strong>
+</p>
+<p>The NPCC Annual Parade (NPAP) is the flagship event in the NPCC calendar.
+It marks the celebration of the NPCC Day and cadets from all the units
+come together to form the parade contingents.</p>
+<p>Participants:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ahmmed Johan - Guard-of-Honour Contingent
+<br>(Led by H/INSP Ng Xinni - GOH Contingent Commander)</p>
+</li>
+<li>
+<p>Nur Rayyana Balqis Binte Mohamad Umar - School Flag Party</p>
+</li>
+</ul>
 <h3>Milestones</h3>
 <h4><strong>Overseas Trips:</strong></h4>
 <p>NPCC Hong Kong Immersion Trip 2025</p>
