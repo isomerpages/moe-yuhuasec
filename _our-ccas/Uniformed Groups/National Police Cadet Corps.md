@@ -258,16 +258,14 @@ Gold, 1st Class Drill</p>
 <p>First Aid certification (2024)</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/yhssnpcc3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC_Enrichment.png">
 </div>
 <h5><strong>Visits:</strong></h5>
 <p>Sec 1: Police Heritage Centre (PHC)
 <br>Sec 2: Neighbourhood Police Centre (NPC)
 <br>Sec 3: Home Team Gallery (HTG)</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/yhssnpcc4.png">
-</div>
 <h5><strong>Courses / Activities:</strong></h5>
 <p><strong>Sec 1:</strong> 
 <br>Field Cooking, Swearing-In, Games Day, CSI (Level 1)
@@ -302,8 +300,6 @@ Advanced CSI</p>
 </li>
 <li>
 <p>National Day Parade</p>
-</li>
-<li>
 <p></p>
 </li>
 </ul>
