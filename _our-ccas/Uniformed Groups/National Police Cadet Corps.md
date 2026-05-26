@@ -197,7 +197,10 @@ handling skills.</p>
 <p>Violene Tan</p>
 <p><strong>Individual Category (Girls): 8th placing overall</strong>
 </p>
-<p>Jecoliah Yee Jing Yu (3 Resilience)</p>
+<p>Jecoliah Yee Jing Yu</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_26_at_11_01_17_AM__5_.jpg">
+</div>
 <p></p>
 <p><strong><u>NPCC Annual Parade (NPAP) 2026</u></strong>
 </p>
@@ -240,8 +243,17 @@ Ambassador (PYA), Markmanship, Homefront Security (HFS), Total Defence
 Gold, 1st Class Drill</p>
 <p><strong>Sec.4</strong>: Best Unit Cadet (BUC), SPF-NPCC Badge</p>
 <h5><strong>Enrichment:</strong></h5>
-<p>One-Star Kayaking certification (2023)
-<br>First Aid certification (2024)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Introduction to Climbing &amp; Abseiling (2025)</p>
+</li>
+<li>
+<p>One-Star Kayaking certification (2023)</p>
+</li>
+<li>
+<p>First Aid certification (2024)</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/yhssnpcc3.png">
 </div>
@@ -311,6 +323,35 @@ photography, and bloodstain pattern analysis.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Selected cadets from Sec 2 (2025)</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_26_at_11_01_09_AM__4_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_26_at_11_01_16_AM.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_26_at_11_01_16_AM__1_.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 </li>
 <li>
@@ -326,6 +367,43 @@ outdoor activities and nurture a stronger competitive inclination.</p>
 <p>Selected cadets from Sec 3 (2025)</p>
 </li>
 </ul>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_26_at_11_01_15_AM__1_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_26_at_11_01_15_AM__3_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_26_at_11_01_15_AM__2_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_26_at_11_01_15_AM__4_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h5><strong>Overseas Educational Visit by HQ:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
