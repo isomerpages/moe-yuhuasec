@@ -217,43 +217,10 @@ come together to form the parade contingents.</p>
 <p>Nur Rayyana Balqis Binte Mohamad Umar - School Flag Party</p>
 </li>
 </ul>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_26_at_11_01_17_AM__3_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC_NPAP.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_26_at_11_01_17_AM__1_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_26_at_11_01_17_AM__2_.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_26_at_11_01_17_AM.jpg">
-</div>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h3>Milestones</h3>
 <h4><strong>Overseas Trips:</strong></h4>
 <p>NPCC Hong Kong Immersion Trip 2025</p>
@@ -399,43 +366,10 @@ outdoor activities and nurture a stronger competitive inclination.</p>
 <p>Selected cadets from Sec 3 (2025)</p>
 </li>
 </ul>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_26_at_11_01_15_AM__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC_Campcraft__2_.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_26_at_11_01_15_AM__3_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_26_at_11_01_15_AM__2_.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_26_at_11_01_15_AM__4_.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <h5><strong>Overseas Educational Visit by HQ:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
