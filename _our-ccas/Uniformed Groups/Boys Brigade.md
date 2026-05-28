@@ -96,10 +96,8 @@ Roll), JM Fraser Award 2024 (Excellence)</p>
 </li>
 <li>
 <p>BB 95th Anniversary Carnival and Dinner</p>
-<p></p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_28_at_10_48_04_AM__1_.jpg">
 </div>
