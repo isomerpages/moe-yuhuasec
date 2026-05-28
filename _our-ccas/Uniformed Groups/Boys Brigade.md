@@ -8,7 +8,7 @@ variant: tiptap
 <h1><strong>Boys' Brigade</strong></h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_22_at_7_06_40_AM___Pin_Liang_Jeffrey_Poh.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSCF8713.jpg">
 </div>
 <h3>Background</h3>
 <p>The Boys’ Brigade (BB) seeks to nurture youth through values-based leadership
@@ -81,9 +81,14 @@ a positive difference in their community.</p>
 <h3>Achievements:</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p>J M Fraser Award for Excellence 2025</p>
+</li>
+<li>
+<p>JM Fraser Award (Excellence with Distinction) 2024</p>
+</li>
+<li>
 <p>BB Blaze 2023 (Bronze Honour Roll), BB Character Quest 2023 (Bronze Honour
 Roll), Founder’s Award 2023 (SSG Goh Kun Ming), JM Fraser Award 2023 (Distinction)</p>
-<p></p>
 </li>
 <li>
 <p>BB Blaze 2024 (Bronze Honour Roll), BB Character Quest 2024 (Bronze Honour
@@ -91,15 +96,10 @@ Roll), JM Fraser Award 2024 (Excellence)</p>
 </li>
 <li>
 <p>BB 95th Anniversary Carnival and Dinner</p>
-<p></p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/95th_Anniversary_Dinner.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20251010_200647___Pin_Liang_Jeffrey_Poh__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_28_at_10_48_04_AM__1_.jpg">
 </div>
 <h3>Social Media</h3>
 <p>&nbsp;<a href="https://www.bb.org.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.bb.org.sg</a>

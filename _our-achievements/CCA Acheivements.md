@@ -95,7 +95,7 @@ and were recognized for their efforts over the years.</p>
 <p>JM Fraser Award (Excellence with Distinction) 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>J M Fraser Award for Excellence 2025</p>
 </td>
 </tr>
 </tbody>
