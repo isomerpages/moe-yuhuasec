@@ -84,7 +84,7 @@ a positive difference in their community.</p>
 <p>J M Fraser Award for Excellence 2025</p>
 </li>
 <li>
-<p></p>
+<p>JM Fraser Award (Excellence with Distinction) 2024</p>
 </li>
 <li>
 <p>BB Blaze 2023 (Bronze Honour Roll), BB Character Quest 2023 (Bronze Honour
@@ -99,12 +99,9 @@ Roll), JM Fraser Award 2024 (Excellence)</p>
 <p></p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/95th_Anniversary_Dinner.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20251010_200647___Pin_Liang_Jeffrey_Poh__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_05_28_at_10_48_04_AM__1_.jpg">
 </div>
 <h3>Social Media</h3>
 <p>&nbsp;<a href="https://www.bb.org.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.bb.org.sg</a>
