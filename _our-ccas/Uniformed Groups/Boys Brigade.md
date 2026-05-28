@@ -8,7 +8,7 @@ variant: tiptap
 <h1><strong>Boys' Brigade</strong></h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_22_at_7_06_40_AM___Pin_Liang_Jeffrey_Poh.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSCF8713.jpg">
 </div>
 <h3>Background</h3>
 <p>The Boys’ Brigade (BB) seeks to nurture youth through values-based leadership
