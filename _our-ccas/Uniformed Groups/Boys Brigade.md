@@ -81,9 +81,14 @@ a positive difference in their community.</p>
 <h3>Achievements:</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p>J M Fraser Award for Excellence 2025</p>
+</li>
+<li>
+<p></p>
+</li>
+<li>
 <p>BB Blaze 2023 (Bronze Honour Roll), BB Character Quest 2023 (Bronze Honour
 Roll), Founder’s Award 2023 (SSG Goh Kun Ming), JM Fraser Award 2023 (Distinction)</p>
-<p></p>
 </li>
 <li>
 <p>BB Blaze 2024 (Bronze Honour Roll), BB Character Quest 2024 (Bronze Honour
