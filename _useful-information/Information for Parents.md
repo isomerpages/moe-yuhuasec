@@ -9,10 +9,7 @@ variant: tiptap
 <p>you can access the ECG microsite to obtain more information on the JC-DSA,
 Poly EAE and ITE EAE process and the upcoming workshops by different institutions
 to equip your child/ward to prepare for EAE. Click on the below photo for
-"ECG Microsite".</p>
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/ECG1.png">
-</div>
+"ECG Microsite".</p><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/yhssecg/home"><img style="width: 25%;" height="auto" width="100%" alt="" src="/images/ECG1.png"></a>
 <hr>
 <h4><strong>2026: Sec2 Secondary Parent-Engagement session slides</strong></h4>
 <p>Dear Parents/Guardians,</p>
