@@ -8,7 +8,7 @@ variant: tiptap
 <h1><strong>Choir</strong></h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_SYF_2025___Pamela_He_Hui_Mei.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHOIR__1___1_.jpg">
 </div>
 <h3>Background</h3>
 <p>Formed in 2016, the Yuhua Secondary School Choir is an energetic CCA that
