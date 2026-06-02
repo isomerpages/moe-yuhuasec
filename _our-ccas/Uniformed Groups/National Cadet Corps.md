@@ -8,7 +8,7 @@ variant: tiptap
 <h1><strong>National Cadet Corps</strong></h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture16a.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC__2_.jpg">
 </div>
 <h3>Background</h3>
 <p>Our NCC cadets are trained in a variety of skills, starting with a focus

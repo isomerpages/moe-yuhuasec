@@ -6,8 +6,9 @@ third_nav_title: Physical Sports
 variant: tiptap
 ---
 <h1><strong>Tchoukball</strong></h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tchouk_ball.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TCHOUKBALL__1_.jpg">
 </div>
 <h3>Background</h3>
 <p>Tchoukball is a relatively new sport that is gaining popularity in Singapore.

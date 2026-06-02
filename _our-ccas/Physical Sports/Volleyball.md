@@ -8,12 +8,12 @@ variant: tiptap
 <h1><strong>Volleyball</strong></h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/688730266_1520047913464330_6172746887979458148_n.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VOLLEYBALL_BOYS__1_.jpg">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_11_13_at_11_06_11_AM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VOLLEYBALL_GIRLS__1_.jpg">
 </div>
 <h3>Background</h3>
 <p>Both Yuhua Secondary and Shuqun Secondary have a long history of excellence

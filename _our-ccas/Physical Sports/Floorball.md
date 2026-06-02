@@ -8,7 +8,7 @@ variant: tiptap
 <h1><strong>Floorball</strong></h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/54749974023_3f22ce573b_k.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FLOORBALL__1_.jpg">
 </div>
 <h3>Background</h3>
 <p>The Yuhua Floorball Team was formed at the beginning of 2019 with the

@@ -8,7 +8,7 @@ variant: tiptap
 <h1><strong>National Police Cadet Corps</strong></h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/55257932512_535fae7c09_c.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC__1_.jpg">
 </div>
 <h3>Background:</h3>
 <p>NPCC is an organisation that firmly believes in the development of character,

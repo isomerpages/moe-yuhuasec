@@ -8,7 +8,7 @@ variant: tiptap
 <h1><strong>Football</strong></h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For_Football_CCA_Website____Yiting_Bo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FOOTBALL__1_.jpg">
 </div>
 <h3>Background</h3>
 <p>Formed in 2019, the Yuhua Football Team has developed a strong sense of

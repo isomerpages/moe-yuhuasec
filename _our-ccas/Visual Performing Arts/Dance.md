@@ -9,7 +9,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Page_Banner___Suhana_Zainal.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DANCE__1_.jpg">
 </div>
 <h3>Background</h3>
 <p>Our Yuhua Secondary School dance club is a vibrant and exciting co-curricular
