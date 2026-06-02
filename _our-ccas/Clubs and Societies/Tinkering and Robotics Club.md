@@ -8,7 +8,7 @@ variant: tiptap
 <h1><strong>Tinkering and Robotics Club</strong></h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG20240326151311.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TINKERING___ROBOTICS_CLUB__1_.jpg">
 </div>
 <h3>Background of Robotics Club</h3>
 <p>Yuhua's Tinkering and Robotics Club encourages students to showcase creativity
