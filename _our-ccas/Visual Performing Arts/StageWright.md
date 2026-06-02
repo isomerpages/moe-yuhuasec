@@ -7,8 +7,9 @@ variant: tiptap
 ---
 <h1><strong>StageWright</strong></h1>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STAGEWRIGHT__1_.jpg">
 </div>
 <h3>Background</h3>
 <p>The Yuhua Stagewright Society was started in 2013, in an attempt to offer
