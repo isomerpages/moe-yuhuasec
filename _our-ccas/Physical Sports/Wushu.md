@@ -8,7 +8,7 @@ variant: tiptap
 <h1><strong>Wushu</strong></h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Group_pic_with_Mr_Pang_Jurong_Spring_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/02_WUSHU___1_.jpg">
 </div>
 <h3>Background</h3>
 <p>The Yuhua Wushu Team was established in March 2008, under the influence
