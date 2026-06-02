@@ -9,7 +9,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSCF5190.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCDCC__1_.jpg">
 </div>
 <h2><strong>Background</strong></h2>
 <p>Yuhua NCDCC aims to equip our cadets with the Triangle of Life skills,
