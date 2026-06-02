@@ -8,7 +8,7 @@ variant: tiptap
 <h1><strong>Concert Band</strong></h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_31_at_4_01_54_PM__3_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CONCERT_BAND__1_.jpg">
 </div><pre><code>       Our Motto: "Dedication Leads to Excellence"</code></pre>
 <h3>Background</h3>
 <p>The school merger in 2019 resulted in the merger of the Concert Bands
