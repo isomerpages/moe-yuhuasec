@@ -8,7 +8,7 @@ variant: tiptap
 <h1><strong>Harmonica Band</strong></h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HARMONICA_BAND__1_.jpg">
 </div>
 <h3>Background</h3>
 <p>Formed in 1986, the Yuhua Harmonica Band has grown into a close-knit family
