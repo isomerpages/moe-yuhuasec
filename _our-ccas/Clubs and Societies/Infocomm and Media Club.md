@@ -6,8 +6,10 @@ third_nav_title: Clubs and Societies
 variant: tiptap
 ---
 <h1><strong>Infocomm and Media Club</strong></h1>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/1%20(2).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/INFOCOMM___MEDIA_CLUB__1_.jpg">
 </div>
 <h3>Background</h3>
 <p>Yuhua Infocomm and Media Club teachers aim to provide its members with
