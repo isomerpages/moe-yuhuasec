@@ -62,6 +62,17 @@ session, or perform for an audience.</p>
 <h3><strong>Achievements</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
+<p>SYF Youth Station Project Original Songs 2026:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Youth Station Select - Live! (Lower Secondary Category)</p>
+</li>
+<li>
+<p>Youth Station Select - Live! (Open Category)</p>
+</li>
+</ul>
+</li>
+<li>
 <p>新空下National Schools Xinyao Singing And Songwriting Competition 2025:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -90,7 +101,7 @@ session, or perform for an audience.</p>
 <p>Top 10 and Honourable Mention (Lower Secondary Category)</p>
 </li>
 <li>
-<p>Top 10 (Open Category</p>
+<p>Top 10 (Open Category)</p>
 </li>
 </ul>
 </li>
