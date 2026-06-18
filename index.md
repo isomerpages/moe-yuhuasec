@@ -51,15 +51,6 @@ sections:
       button: Information for Students
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
   - infopic:
-      title: Yearbook
-      id: infopic
-      description: Click on the link below to find out more about the events and
-        achievements of our school
-      button: Link to YHSS YEARBOOK
-      url: https://drive.google.com/file/d/1cSL9Ngm7nnIj6x8raOWHhbEcKl163s6Z/view?usp=drive_web
-      alt: Image alt text
-      image: /images/yhssllp4.png
-  - infopic:
       title: Parent Engagement Session
       subtitle: Secondary 2
       id: infopic
