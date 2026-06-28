@@ -4,6 +4,13 @@ permalink: /useful-information-and-links/information-for-parents/
 description: ""
 variant: tiptap
 ---
+<p>Term 3 Letter to Parents</p>
+<p>Dear Parents/Guardians, you may access the Term 3 Letter to Parents via
+the link provided below:</p>
+<p><a href="/files/YHSS_2026_Term_3_Letter_Sec_1_3.pdf" rel="noopener nofollow" target="_blank">Secondary 1 to 3</a>
+</p>
+<p><a href="/files/YHSS_2026_Term_3_Letter_Sec_4_5.pdf" rel="noopener nofollow" target="_blank">Secondary 4 and 5</a>
+</p>
 <h4>Education &amp; Career Guidance (ECG) microsite:</h4>
 <p>Dear parents,</p>
 <p>you can access the ECG microsite to obtain more information on the JC-DSA,
