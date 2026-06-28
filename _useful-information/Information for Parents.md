@@ -4,7 +4,7 @@ permalink: /useful-information-and-links/information-for-parents/
 description: ""
 variant: tiptap
 ---
-<p>Term 3 Letter to Parents</p>
+<h4>Term 3 Letter to Parents</h4>
 <p>Dear Parents/Guardians, you may access the Term 3 Letter to Parents via
 the link provided below:</p>
 <p><a href="/files/YHSS_2026_Term_3_Letter_Sec_1_3.pdf" rel="noopener nofollow" target="_blank">Secondary 1 to 3</a>
@@ -23,41 +23,6 @@ to equip your child/ward to prepare for EAE. Click on the below photo for
 <p><em>Thank you for attending our Upper Secondary Parent-Teacher Meeting on 10th April 2026. It was wonderful to see so many of you connecting with our school community. Please find the presentation material attached for your reference. Thank you.</em>&nbsp;</p>
 <p><a href="/files/2026_S2_Parent_Engagement_Session_PG.pdf" rel="noopener nofollow" target="_blank">2026_S2_Parent Engagement Session slides</a>
 </p>
-<hr>
-<h3>Term 2 Weighted Assessment 2026 Information</h3>
-<p>Dear Parents/Guardians, you may access the WA2 Term 2 Letter to Parents
-via the link provided below:</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><a href="/files/Sec_1_WA2_Parent_Letter_2026__final_.pdf" rel="noopener nofollow" target="_blank">Sec1_WA2_Parent Letter_2026</a>
-</p>
-</th>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p><a href="/files/Sec_2_WA2_Parent_Letter_2026__final_.pdf" rel="noopener nofollow" target="_blank">Sec2_WA2_Parent Letter_2026</a>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sec_3_WA2_Parent_Letter_2026__final_.pdf" rel="noopener nofollow" target="_blank">Sec3_WA2_Parent Letter_2026</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sec_45_WA2_Parent_Letter_2026__final_.pdf" rel="noopener nofollow" target="_blank">Sec4&amp;5_WA2_Parent Letter_2026</a></strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <hr>
 <h4><strong>MESSAGE BY PRINCIPAL FOR TERM 2 2026</strong></h4>
 <p>Dear Parents/Guardians, you may access the Term 2 Letter to Parents via
