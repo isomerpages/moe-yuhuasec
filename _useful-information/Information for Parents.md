@@ -4,6 +4,7 @@ permalink: /useful-information-and-links/information-for-parents/
 description: ""
 variant: tiptap
 ---
+<h1><strong>Information for Parents</strong></h1>
 <h4>Term 3 Letter to Parents</h4>
 <p>Dear Parents/Guardians, you may access the Term 3 Letter to Parents via
 the link provided below:</p>
