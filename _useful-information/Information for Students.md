@@ -8,14 +8,7 @@ variant: tiptap
 <hr>
 <h4><strong>Timetables for 2026 Semester 2</strong></h4>
 <p>Please find the class timetables for each level below.</p>
-<p><a href="/files/Timetables for 2026 Sem 1/2026_Sem_1_TT_29_Dec_Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 (2026)</a>
-</p>
-<p><a href="/files/Timetables for 2026 Sem 1/2026_Sem_1_TT_29_Dec_Sec_2.pdf" rel="noopener nofollow" target="_blank">Sec 2 (2026)</a>
-</p>
-<p><a href="/files/Timetables for 2026 Sem 1/2026_Sem_1_TT_29_Dec_Sec_3.pdf" rel="noopener nofollow" target="_blank">Sec 3 (2026)</a>
-</p>
-<p><a href="/files/Timetables for 2026 Sem 1/2026_Sem_1_TT_29_Dec_Sec_4_5.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 (2026)</a>
-</p>
+<p></p>
 <h4>Education &amp; Career Guidance (ECG) microsite:</h4>
 <p>Dear students,</p>
 <p>you can access the ECG microsite to obtain more information on the JC-DSA,
