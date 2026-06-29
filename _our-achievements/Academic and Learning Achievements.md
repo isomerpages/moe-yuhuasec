@@ -6,6 +6,417 @@ variant: tiptap
 ---
 <h1><strong>Academic and Learning Achievements</strong></h1>
 <h2>2026</h2>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>Australian Big Science Competition</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan Ding Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>High Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheng Yingzhe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Curiosity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Darren Chua Zi Xiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Han Xu Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Kai Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Caitlin Zoe Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Connect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shwe Eain Sann</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Connect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wong Ting Er Phoebe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ann Boon Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Contribute</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zarin Lim Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Contribute</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tong Qing Long</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Contribute</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Harinivedaa Kabirbabu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Koh Rui Qi Charis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leana Ng Yi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Naik Kunj Umang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Winson Phua Jing Xiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Credit</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>UK Biology Challenge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choo Jia Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yew Quan Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Koh Rui Qi Charis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lam Hui Xin Gloria</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kayla Lee Jia En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Soo Kai Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ty Sofia Trish Lorrane Uy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jayden Teh Churui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kee Teng Zhi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wong Ting Er Phoebe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yau Yu Xuan Crystal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Highly Commended</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>SYF Youth Station Showcase</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
