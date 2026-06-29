@@ -51,15 +51,6 @@ sections:
       image: /images/ECG1.png
       alt: Image alt text
   - infopic:
-      title: Parent Engagement Session
-      subtitle: Secondary 2
-      id: infopic
-      description: Please click on the link below to access the Sec2 PTM Matters.
-      button: Click here
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
-      image: /images/sec2.png
-      alt: Image alt text
-  - infopic:
       title: YH Café
       subtitle: Yuhua in the news
       description: Our canteen was featured in Lianhe Zaobao. An inviting space for
