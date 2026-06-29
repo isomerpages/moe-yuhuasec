@@ -108,7 +108,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:MOHAMED_NAZRI_HAMZAH@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohd Nazri B Hamzah</a>
+<p><a href="mailto:kwa_bee_hoon@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Kwa Bee Hoon</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
