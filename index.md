@@ -32,6 +32,14 @@ sections:
       description: Please click on the link below to access the Term 3 Letter to Parents
       button: Click HERE
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
+  - infobar:
+      title: Class Timetables for Semester 2 (2026)
+      subtitle: timetable for sem 2 2026
+      id: infobar
+      description: Dear students, please find the class timetables for your class by
+        clicking on the link below.
+      button: Information for Students
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
   - infopic:
       title: Education & Career Guidance (ECG) microsite
       subtitle: The
@@ -42,14 +50,6 @@ sections:
       url: https://sites.google.com/moe.edu.sg/yhssecg/home
       image: /images/ECG1.png
       alt: Image alt text
-  - infobar:
-      title: Class Timetables for Semester 1 (2026)
-      subtitle: timetable for sem 1 2026
-      id: infobar
-      description: Dear students, please find the class timetables for your class by
-        clicking on the link below.
-      button: Information for Students
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
   - infopic:
       title: Parent Engagement Session
       subtitle: Secondary 2
