@@ -26,6 +26,20 @@ sections:
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/direct-school-admissions-dsa/
       image: /images/WhatsApp_Image_2026_04_17_at_2_48_04_PM.jpg
       alt: Image alt text
+  - infobar:
+      title: Term 3 Letter to Parents
+      id: infobar
+      description: Please click on the link below to access the Term 3 Letter to Parents
+      button: Click HERE
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
+  - infobar:
+      title: Class Timetables for Semester 2 (2026)
+      subtitle: timetable for sem 2 2026
+      id: infobar
+      description: Dear students, please find the class timetables for your class by
+        clicking on the link below.
+      button: Information for Students
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
   - infopic:
       title: Education & Career Guidance (ECG) microsite
       subtitle: The
@@ -35,29 +49,6 @@ sections:
       button: more info click here!
       url: https://sites.google.com/moe.edu.sg/yhssecg/home
       image: /images/ECG1.png
-      alt: Image alt text
-  - infobar:
-      title: WA2 Term 2 Letter to Parents
-      id: infobar
-      description: Please click on the link below to access the WA2 Matters.
-      button: Click here
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
-  - infobar:
-      title: Class Timetables for Semester 1 (2026)
-      subtitle: timetable for sem 1 2026
-      id: infobar
-      description: Dear students, please find the class timetables for your class by
-        clicking on the link below.
-      button: Information for Students
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
-  - infopic:
-      title: Parent Engagement Session
-      subtitle: Secondary 2
-      id: infopic
-      description: Please click on the link below to access the Sec2 PTM Matters.
-      button: Click here
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
-      image: /images/sec2.png
       alt: Image alt text
   - infopic:
       title: YH Café

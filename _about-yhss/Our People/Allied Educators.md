@@ -26,7 +26,7 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="12" colspan="1">
+<td rowspan="13" colspan="1">
 <p><strong>STUDENT SUPPORT SERVICES <br><br>&nbsp;</strong>
 </p>
 </td>
@@ -35,6 +35,14 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>MS LEE SOO LANG LINDA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOH WERN YING</p>
 </td>
 </tr>
 <tr>
