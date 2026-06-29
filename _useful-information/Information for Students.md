@@ -8,13 +8,13 @@ variant: tiptap
 <hr>
 <h4><strong>Timetables for 2026 Semester 2</strong></h4>
 <p>Please find the class timetables for each level below.</p>
-<p><a href="/files/2026_Sem_2_Sec_1_25_Jun_CCA_added.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
+<p><a href="/files/Timetables for 2026 Sem 2/2026_Sem_2_Sec_1_28_Jun.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
 </p>
-<p><a href="/files/2026_Sem_2_Sec_2_25_Jun_CCA_added.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
+<p><a href="/files/Timetables for 2026 Sem 2/2026_Sem_2_Sec_2_28_Jun.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
 </p>
-<p><a href="/files/2026_Sem_2_Sec_3_25_Jun_CCA_added.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a>
+<p><a href="/files/Timetables for 2026 Sem 2/2026_Sem_2_Sec_3_28_Jun.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a>
 </p>
-<p><a href="/files/2026_Sem_2_Sec_4_5_25_Jun_CCA_added.pdf" rel="noopener nofollow" target="_blank">Secondary 4 &amp; 5</a>
+<p><a href="/files/Timetables for 2026 Sem 2/2026_Sem_2_Sec_4_5_28_Jun.pdf" rel="noopener nofollow" target="_blank">Secondary 4 &amp; 5</a>
 </p>
 <h4>Education &amp; Career Guidance (ECG) microsite:</h4>
 <p>Dear students,</p>
