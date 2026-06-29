@@ -126,65 +126,6 @@ to the school’s General Office.</p>
 <p><a href="/files/YHSS_2026_S5_NA.pdf" rel="noopener nofollow" target="_blank">Sec 5 Normal (Academic)</a>
 </p>
 <hr>
-<h4><strong>Subject Selection for Sec 2 (2025) for Sec 3(2026)</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>G3 subject combinations</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>G2 subject combinations</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>G1 subject combinations</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sec_2_Subject_Combination_for_2026_Sec_3G3_year_end__for_upload_.pdf" rel="noopener nofollow" target="_blank">Slides for G3 subject combinations</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sec_2_Subject_Combination_for_2026_Sec_3G2_year_end__for_upload_.pdf" rel="noopener nofollow" target="_blank">Slides for G2 subject combinations</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2025_Sec_2_Subject_Combination_for_2026_Sec_3G1_V1.pdf" rel="noopener nofollow" target="_blank">Slides for G1 subject combinations</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/FAQs_for_G3__2025_.pdf" rel="noopener nofollow" target="_blank">FAQs for G3 subject combinations</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/FAQs_for_G2__2025_.pdf" rel="noopener nofollow" target="_blank">FAQs for G2 subject combinations</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/FAQs_for_G1__2025_.pdf" rel="noopener nofollow" target="_blank">FAQs for G1 subject combinations</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
-<h3><strong>2025: Upper Secondary Parent-Teacher Meeting slides</strong></h3>
-<p>Dear Parents,
-<br>You may access the materials for the Upper Secondary Parent-Teacher Meeting
-below:</p>
-<p><a href="/files/Slides_for_Upper_Sec_PTM.pdf" rel="noopener noreferrer nofollow" target="_blank">ECG and Academic Sharing slides for Upper Sec PTM (2025)</a>
-</p>
-<p><a href="/files/2025_YHSS_Start_Of_Year_Slides_from_P__Upper_Sec_PTM_.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's sharing slides for Upper Sec PTM (2025)</a>
-</p>
-<hr>
 <h3>Student Handbook</h3>
 <p>Dear parents, you may access <a href="https://sites.google.com/moe.edu.sg/yhss-handbook-site/home?pli=1" rel="noopener noreferrer nofollow" target="_blank">YHSS Student Handbook</a> for
 more information on the expectations for students, academic matters and
