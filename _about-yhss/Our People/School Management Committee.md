@@ -213,7 +213,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head
-<br>Co-Curricular Activities</p>
+<br>Physical Education and CCA</p>
 </td>
 </tr>
 <tr>
