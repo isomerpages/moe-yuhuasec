@@ -224,15 +224,18 @@ towards wherever he is.</p>
 <p>Cadet Officer Course</p>
 </li>
 </ul>
-<h3>Achievements</h3>
+<h2><strong>Achievements</strong></h2>
+<h4><strong>NCC Unit Recognition (Distinction) 2025 </strong></h4>
+<h4><strong>NCC Outstanding Cadet Award 2025</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Unit Recognition 2024 (Distinction)</strong>
-</p>
+<p>KHOYRUL FAHMY BIN NENWARI</p>
 </li>
+</ul>
+<h4><strong>NCC Outstanding Cadet Award 2023</strong></h4>
+<ul data-tight="true" class="tight">
 <li>
-<p><strong>Outstanding Cadet Award(2023):</strong>
-<br>MUHAMAD IMAN BIN ISMAIL (4 RESPECT)</p>
+<p>MUHAMAD IMAN BIN ISMAIL (4 RESPECT)</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
