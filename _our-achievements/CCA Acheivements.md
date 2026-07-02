@@ -396,6 +396,17 @@ to excel in their areas of passion and interest.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>NCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Khoyrul Fahmy Bin Nenwar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC Outstanding Cadet Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>NPCC</p>
 </td>
 <td rowspan="1" colspan="1">
