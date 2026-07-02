@@ -225,7 +225,7 @@ towards wherever he is.</p>
 </li>
 </ul>
 <h2><strong>Achievements</strong></h2>
-<h4><strong>NCC Unit Recognition (Distinction) 2025 </strong></h4>
+<h4><strong>NCC Unit Recognition (Distinction) 2025</strong></h4>
 <h4><strong>NCC Outstanding Cadet Award 2025</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
