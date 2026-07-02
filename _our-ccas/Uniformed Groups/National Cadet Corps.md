@@ -232,12 +232,6 @@ towards wherever he is.</p>
 <p>KHOYRUL FAHMY BIN NENWARI</p>
 </li>
 </ul>
-<h4><strong>NCC Outstanding Cadet Award 2023</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>MUHAMAD IMAN BIN ISMAIL (4 RESPECT)</p>
-</li>
-</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NCC-2024" src="/images/Screenshot_2024_11_19_102956.png">
 </div>
