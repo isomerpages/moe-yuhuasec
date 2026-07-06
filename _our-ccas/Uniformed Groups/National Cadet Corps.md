@@ -47,6 +47,11 @@ a good level of physical fitness and adopts healthy eating habits.</p>
 strong sense of purpose to serve his team, school and nation. The cadet
 learns passionately to develop his own abilities and proactively contributes
 towards wherever he is.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_07_02_at_12_09_39_PM.jpg">
+</div>
 <h3>Our Team</h3>
 <p><strong>Teacher Officers:</strong>
 <br>OIC: Mr Desmond Wee</p>
@@ -232,6 +237,10 @@ towards wherever he is.</p>
 <p>KHOYRUL FAHMY BIN NENWARI</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_07_02_at_12_09_38_PM.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NCC-2024" src="/images/Screenshot_2024_11_19_102956.png">
 </div>
