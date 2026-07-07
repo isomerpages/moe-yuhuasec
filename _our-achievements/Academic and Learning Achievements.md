@@ -6,54 +6,6 @@ variant: tiptap
 ---
 <h1><strong>Academic and Learning Achievements</strong></h1>
 <h2>2026</h2>
-<h4>YMCA Plain English Speaking Awards (PESA)</h4>
-<p>The annual YMCA Plain English Speaking Awards (PESA) and Mandarin Speaking
-Awards (MSA) are national level speaking competitions aimed at students
-to develop their abilities and think and communicate effectively. Experiential
-learning trips are incorporated into the competition to enrich and inspire
-the participants.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ROWE ASHA WIDYARANI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Contribute</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NAIK UMANG SATISHKUMAR</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Flourish</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>NIE Mathematics Challenge (NIEMC)</strong></h4>
 <p>The NIE Mathematics Challenge (NIEMC) is an annual online event organised
 by NIE Mathematics and Mathematics Education Department since 2023.</p>
