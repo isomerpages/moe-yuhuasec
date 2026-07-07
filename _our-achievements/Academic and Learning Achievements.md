@@ -19,15 +19,15 @@ into the competition to enrich and inspire the participants.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<td rowspan="1" colspan="1">
+<p>IVY LIM XIN HUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Semi-finalist</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
