@@ -18,18 +18,6 @@ by NIE Mathematics and Mathematics Education Department since 2023.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TAY KAI JIE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Care</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of participation with high distinction</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>JERREN TIANG JIA HE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -49,6 +37,18 @@ by NIE Mathematics and Mathematics Education Department since 2023.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of participation with high distinction</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAY KAI JIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of participation with distinction</p>
 <p></p>
 </td>
 </tr>
