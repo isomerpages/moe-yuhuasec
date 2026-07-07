@@ -417,7 +417,7 @@ set in real-life, contemporary contexts.</p>
 </tbody>
 </table>
 <p></p>
-<h4>UK Biology Challenge</h4>
+<h4><strong>UK Biology Challenge</strong></h4>
 <p>The UK Biology Challenge is a competition organised by UK Biology Competitions,
 which aims to assess secondary school students in their knowledge of Biology
 and problem-solving skills. This is also a competition to identify students
