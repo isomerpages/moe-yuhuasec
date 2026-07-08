@@ -6,24 +6,239 @@ variant: tiptap
 ---
 <h1><strong>Academic and Learning Achievements</strong></h1>
 <h2>2026</h2>
-<table style="minWidth: 100px">
+<h4><strong>NIE Mathematics Challenge (NIEMC)</strong></h4>
+<p>The NIE Mathematics Challenge (NIEMC) is an annual online event organised
+by NIE Mathematics and Mathematics Education Department since 2023.</p>
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="4">
-<p><strong>Australian Big Science Competition</strong>
-</p>
+<td rowspan="1" colspan="1">
+<p>JERREN TIANG JIA HE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of participation with high distinction</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p>TAN JING HAN SALVADOR</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>3 Contribute</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of participation with high distinction</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAY KAI JIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of participation with distinction</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WOO JIE EN JAYDEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Contribute</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of participation with distinction</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MENG JUNYU SIMON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Contribute</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of participation with distinction</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHAN WEN XI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Curiosity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of participation with credit</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WEE KOK HOW RYAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of participation with credit</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM SI XI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of participation with credit</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WAI HNIN AYE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of participation with credit</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CAITLIN ZOE CHUA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Connect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of participation with credit</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ERIC NG HONG YI</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Contribute</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of participation with credit</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KOH RUI QI CHARIS</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of participation with credit</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NICHOLAS LI</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of participation with credit</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AHMMED JOHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of participation with credit</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YAU YU XUAN CRYSTAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of participation with credit</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VERON HENRY PINTO</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of participation with credit</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>⁠LEE EN YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Flourish</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of participation with credit</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Australian Big Science Competition</strong></h4>
+<p>The Big Science Competition is open to students in Years 7 to 10 globally.
+It’s a 50-minute, mixed format online science competition testing science
+knowledge, critical-thinking and problem-solving skills. Questions are
+set in real-life, contemporary contexts.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Chan Ding Xuan</p>
 </td>
@@ -36,9 +251,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Cheng Yingzhe</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -49,9 +261,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Darren Chua Zi Xiang</p>
 </td>
@@ -64,9 +273,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Han Xu Yan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -77,9 +283,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Tay Kai Jie</p>
 </td>
@@ -92,9 +295,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Caitlin Zoe Chua</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -105,9 +305,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Shwe Eain Sann</p>
 </td>
@@ -120,9 +317,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Wong Ting Er Phoebe</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -133,9 +327,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>9</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ann Boon Xuan</p>
 </td>
@@ -148,9 +339,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Zarin Lim Zhi Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,9 +349,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>11</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Tong Qing Long</p>
 </td>
@@ -176,9 +361,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Harinivedaa Kabirbabu</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -189,9 +371,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>13</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Koh Rui Qi Charis</p>
 </td>
@@ -204,9 +383,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Leana Ng Yi Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -218,9 +394,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Naik Kunj Umang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -231,9 +404,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>16</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Winson Phua Jing Xiang</p>
 </td>
@@ -247,24 +417,21 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 100px">
+<h4><strong>UK Biology Challenge</strong></h4>
+<p>The UK Biology Challenge is a competition organised by UK Biology Competitions,
+which aims to assess secondary school students in their knowledge of Biology
+and problem-solving skills. This is also a competition to identify students
+for their UK Biology Olympiads at A-Level.</p>
+<p>Globally, more than 47000 students from 700 schools participated in the
+competition.</p>
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="4">
-<p><strong>UK Biology Challenge</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Choo Jia Hui</p>
 </td>
@@ -277,9 +444,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Yew Quan Heng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -290,9 +454,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Koh Rui Qi Charis</p>
 </td>
@@ -305,9 +466,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Lam Hui Xin Gloria</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -318,9 +476,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Kayla Lee Jia En</p>
 </td>
@@ -333,9 +488,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Soo Kai Ting</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -346,9 +498,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ty Sofia Trish Lorrane Uy</p>
 </td>
@@ -361,9 +510,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Jayden Teh Churui</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -374,9 +520,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>9</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Kee Teng Zhi</p>
 </td>
@@ -389,9 +532,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Wong Ting Er Phoebe</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -402,9 +542,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>11</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Yau Yu Xuan Crystal</p>
 </td>
