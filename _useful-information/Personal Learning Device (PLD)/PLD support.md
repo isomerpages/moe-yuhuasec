@@ -24,6 +24,7 @@ here:</p>
 </p>
 <p>Blk 219 Henderson Road, #05-01/02/03/04, Henderson Industrial Park, Singapore
 159556</p>
+<p></p>
 <p><strong>Apple Store Jewel</strong>
 <br>78 Airport Boulevard
 <br>#02-234
