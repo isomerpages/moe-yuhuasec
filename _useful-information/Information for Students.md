@@ -12,21 +12,21 @@ variant: tiptap
 </p>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lower_Sec_HBL_Schedule.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Lower_Sec_HBL_Schedule.png">
 </div>
 <blockquote>
 <p><strong>Sec 3G1</strong>
 </p>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3G1_HBL_Schedule.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/3G1_HBL_Schedule.png">
 </div>
 <blockquote>
 <p><strong>Sec 3G2/G3</strong>
 </p>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3G3_HBL_Schedule.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/3G3_HBL_Schedule.png">
 </div>
 <h4><strong>Timetables for 2026 Semester 2</strong></h4>
 <p>Please find the class timetables for each level below.</p>
