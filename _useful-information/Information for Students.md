@@ -28,6 +28,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/3G3_HBL_Schedule.png">
 </div>
+<p><strong>Secondary 4 HBL</strong>
+</p>
+<p>•In view of on-going oral examinations, <strong>Secondary 4 students will be given practice papers </strong>by
+subject teachers to complete.</p>
 <h4><strong>Timetables for 2026 Semester 2</strong></h4>
 <p>Please find the class timetables for each level below.</p>
 <p><a href="/files/Timetables for 2026 Sem 2/2026_Sem_2_Sec_1_28_Jun.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
