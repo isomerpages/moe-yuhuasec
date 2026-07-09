@@ -7,18 +7,24 @@ variant: tiptap
 <h1><strong>Information for Students</strong></h1>
 <hr>
 <h4><strong>HBL Schedule for Term 3 Week 3</strong></h4>
+<blockquote>
 <p><strong>Lower Sec</strong>
 </p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lower_Sec_HBL_Schedule.png">
 </div>
+<blockquote>
 <p><strong>3G1</strong>
 </p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3G1_HBL_Schedule.png">
 </div>
+<blockquote>
 <p><strong>3G2/G3</strong>
 </p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3G3_HBL_Schedule.png">
 </div>
