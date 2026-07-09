@@ -12,22 +12,30 @@ variant: tiptap
 </p>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lower_Sec_HBL_Schedule.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Lower_Sec_HBL_Schedule.png">
 </div>
 <blockquote>
 <p><strong>Sec 3G1</strong>
 </p>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3G1_HBL_Schedule.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/3G1_HBL_Schedule.png">
 </div>
 <blockquote>
 <p><strong>Sec 3G2/G3</strong>
 </p>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3G3_HBL_Schedule.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/3G3_HBL_Schedule.png">
 </div>
+<p><strong>Secondary 4 HBL</strong>
+</p>
+<p>•In view of on-going oral examinations, <strong>Secondary 4 students will be given practice papers </strong>by
+subject teachers to complete.</p>
+<hr>
+<h3>Student HBL Site</h3>
+<p>Click&nbsp;<a href="https://sites.google.com/moe.edu.sg/yhss-hbl" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<hr>
 <h4><strong>Timetables for 2026 Semester 2</strong></h4>
 <p>Please find the class timetables for each level below.</p>
 <p><a href="/files/Timetables for 2026 Sem 2/2026_Sem_2_Sec_1_28_Jun.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
@@ -80,9 +88,6 @@ matters.</p>
 <hr>
 <h3>School Photos</h3>
 <p>You may access the school photos at this&nbsp;<a href="https://www.flickr.com/photos/197130688@N02/albums" rel="noopener noreferrer nofollow" target="_blank">album</a>.</p>
-<hr>
-<h3>Student HBL Site</h3>
-<p>Click&nbsp;<a href="https://sites.google.com/moe.edu.sg/yhss-hbl" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
 <h3>Baseline ICT Lessons</h3>
 <p>Click&nbsp;<a href="https://sites.google.com/moe.edu.sg/yhss-hbl/help-for-students/sec-1-baseline-ict-lesson?authuser=0" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
