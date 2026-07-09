@@ -9,7 +9,6 @@ variant: tiptap
 <p><strong>If students encounter any issues with the iPad, Apple Pencil or Keyboard case, please bring the items to the school iSEC centre first</strong>.
 Some issues can be resolved by the school staff immediately.</p>
 <h3>Device Warranty &amp; Insurance</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/warranty.png">
 </div>
@@ -21,13 +20,11 @@ Some issues can be resolved by the school staff immediately.</p>
 <li>
 <p>Visit any Apple Service Centre with damaged items. The centres are listed
 here:</p>
-</li>
-</ol>
-<p><strong>QCD@Westgate</strong>
-<br>3 Gateway Drive, #01-42
-<br>Singapore 608532
-<br>+65 6515 2010<a href="mailto:support_westgate@qcd-tech.com" rel="noopener noreferrer nofollow" target="_blank"><br><u>support_westgate@qcd-tech.com</u></a>
+<p><strong>Keppel Technology Solutions</strong>
 </p>
+<p>Blk 219 Henderson Road, #05-01/02/03/04, Henderson Industrial Park, Singapore
+159556</p>
+<p></p>
 <p><strong>Apple Store Jewel</strong>
 <br>78 Airport Boulevard
 <br>#02-234
@@ -38,9 +35,12 @@ here:</p>
 <br>Singapore, 238857
 <br>Contact: 1800 699 2824</p>
 <p><strong>Apple Store Marina Bay Sands</strong>
-<br>2 Bayfront Avenue, B2-06
+</p>
+<p>2 Bayfront Avenue, B2-06
 <br>Singapore, 018972
 <br>Contact: 1800 407 4949</p>
+</li>
+</ol>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
