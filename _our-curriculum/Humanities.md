@@ -78,7 +78,6 @@ and Contribute.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hum_1.jpg">
 </div>
-<p></p>
 <h4><strong>Conflict, Cooperation and Change: Exploring Global Diplomacy through Model United Nations</strong></h4>
 <p>Students participated in a Model United Nations experience as part of
 their learning through the ACE Framework, stepping into the role of diplomats
