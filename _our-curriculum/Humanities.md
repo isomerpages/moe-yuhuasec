@@ -30,7 +30,7 @@ environment.&nbsp;</p>
 <p>Comprehension of the past to understand the present.&nbsp;</p>
 </li>
 <li>
-<p>Envisioning of the future using reasoned arguments.\</p>
+<p>Envisioning of the future using reasoned arguments.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
