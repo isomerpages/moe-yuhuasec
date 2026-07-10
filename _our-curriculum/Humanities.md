@@ -36,31 +36,34 @@ environment.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities1.jpg">
 </div>
-<h3>Signature Programme(s)</h3>
-<p><strong>Sec 2 Integrated Humanities Fieldwork:</strong>
-</p>
-<p>In 2024, we have merged the Secondary 2 Integrated Humanities Fieldwork
-with Flourish Week. Through this fieldwork, designed using the Understanding
-by Design (UbD) model, students visit the Singapore River to answer the
-question, "How has the Singapore River evolved to meet the needs of a sustainable
-nation?" At the river, they are introduced to its heritage through engaging
-activities that immerse them in its sights, sounds, and smells, enhancing
-their appreciation and understanding of the river's rich history.</p>
-<p><strong>Sec 3 Integrated Humanities Fieldwork:</strong>
-</p>
-<p>Sec 3 Students will also embark on a fieldwork project that ties in the
-topic of Governance (from Social Studies) and Climate Change (Geography
-Elective/Geography). This fieldwork project is also designed based on UbD.
-Students will collect weather data for a period of 1 to 2 months, share
-data across the cohort, carry out research and observe the climatic trend.
-In their groups, students will then present the data, confirm the hypothesis
-and produce artefacts.</p>
-<p><strong>Docents Programme</strong>
-</p>
-<p>The Docents Programme, introduced in 2019, aims to nurture our students
-into confident leaders. Through this programme, students develop 21st-century
-skills through various activities. Some of the activities undertaken by
-the docents include webinars, presentations on contemporary issues, facilitation
-of learning journeys, and participation in Model United Nations. These
-experiences not only enhance their knowledge and skills but also prepare
-them to take on leadership roles in the future.</p>
+<h3><strong>Enabling Yuhuans to learn in authentic environments.</strong></h3>
+<h4><strong>Roots &amp; Rain: The Botanical Fieldwork</strong></h4>
+<p>What happens when learning steps out of the classroom and into the heart
+of nature?</p>
+<p>Over three immersive and&nbsp;energising&nbsp;days, our Secondary 1&nbsp;students
+embarked on ‘Roots &amp; Rain: The Botanical Fieldwork’ at the iconic Singapore
+Botanic Gardens. This fieldwork was carried out by the Geography Unit,
+with strong support from teachers across the Humanities Department. Despite
+the occasional drizzle, spirits remained high as students explored the
+lush 6-hectare tropical rainforest along the Rainforest Walking Trail -
+a living classroom rich with discovery.</p>
+<p>Immersed in the rich sights, sounds and textures of the rainforest - from
+towering trees to the crunch of leaf litter beneath the boardwalk - students
+developed a deeper appreciation of the complexity and beauty of this unique
+ecosystem. Taking on the role of geographers, they used their iPads to
+observe, document and analyse, gathering primary data on the rainforest’s
+characteristics, adaptations and human interactions. Through this, students
+strengthened their understanding of how natural environments function and
+how humans play a role within them. The fieldwork also prompted them to
+reflect on the impact of human activities and the importance of conservation
+efforts. Ultimately, students were encouraged to envision themselves as
+informed and responsible stewards, committed to sustaining such ecosystems
+for the future.</p>
+<p>‘Roots &amp; Rain’ was not just&nbsp;a fieldwork&nbsp;- it was an experience
+that brought Geography to life, sparking inquiry, deepening understanding,
+and inspiring action.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/geog.jpg">
+</div>
+<p></p>
