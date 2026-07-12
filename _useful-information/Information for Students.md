@@ -34,7 +34,7 @@ variant: tiptap
 subject teachers to complete.</p>
 <hr>
 <h3>Student HBL Site</h3>
-<p>Click&nbsp;<a href="https://sites.google.com/moe.edu.sg/yhss-hbl" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Click&nbsp;<a href="https://sites.google.com/moe.edu.sg/yhss-hbl/blended-learning/hbl-subject-plans-2026" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
 <h4><strong>Timetables for 2026 Semester 2</strong></h4>
 <p>Please find the class timetables for each level below.</p>
