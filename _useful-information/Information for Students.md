@@ -6,6 +6,33 @@ variant: tiptap
 ---
 <h1><strong>Information for Students</strong></h1>
 <hr>
+<p>Dear students,</p>
+<p>please access weighted assessment (WA3 )schedule for Term 3 using the
+link below:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Sec_1_WA3_Parent_Letter_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 WA3 schedule</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Sec_2_WA3_Parent_Letter_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 WA3 schedule</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Sec_3_WA3_Parent_Letter_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 WA3 schedule</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
 <h4><strong>HBL Schedule for Term 3 Week 3</strong></h4>
 <blockquote>
 <p><strong>Lower Sec</strong>
