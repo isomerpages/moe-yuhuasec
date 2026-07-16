@@ -8,12 +8,29 @@ variant: tiptap
 <h4>Term 3 Letter to Parents:</h4>
 <p>Dear Parents/Guardians, please access weighted assessment (WA3 )schedule
 for Term 3 using the link below:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Sec_1_WA3_Parent_Letter_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 WA3 schedule</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Sec_2_WA3_Parent_Letter_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 WA3 schedule</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Sec_3_WA3_Parent_Letter_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 WA3 schedule</a>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <p>Please access the <strong>Term 3 Message from Principal Mr Tang</strong> for
 the start of Term 3 using the link below:</p>
