@@ -27,18 +27,19 @@ sections:
       image: /images/WhatsApp_Image_2026_04_17_at_2_48_04_PM.jpg
       alt: Image alt text
   - infobar:
+      title: Term 3 Letter to Parents
+      id: infobar
+      description: Please click on the link below to access the Term 3 Letter to Parents
+      button: Click HERE
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
+      subtitle: WA3 Matters
+  - infobar:
       title: Semester 2 HBL
       subtitle: 13 July to 17 July (T3W3)
       id: infobar
       description: HBL schedule is available @
       button: HBL Subject Plans
       url: https://sites.google.com/moe.edu.sg/yhss-hbl/blended-learning/hbl-subject-plans-2026
-  - infobar:
-      title: Term 3 Letter to Parents
-      id: infobar
-      description: Please click on the link below to access the Term 3 Letter to Parents
-      button: Click HERE
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
   - infobar:
       title: Class Timetables for Semester 2 (2026)
       subtitle: timetable for sem 2 2026
