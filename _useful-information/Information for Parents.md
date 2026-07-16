@@ -5,9 +5,15 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Information for Parents</strong></h1>
-<h4>Term 3 Letter to Parents</h4>
-<p>Dear Parents/Guardians, you may access the Term 3 Letter to Parents via
-the link provided below:</p>
+<h4>Term 3 Letter to Parents:</h4>
+<p>Dear Parents/Guardians, please access weighted assessment (WA3 )schedule
+for Term 3 using the link below:</p>
+<p>Secondary 1 WA3 schedule</p>
+<p>Secondary 2 WA3 schedule</p>
+<p>Secondary 3 WA3 schedule</p>
+<hr>
+<p>Please access the <strong>Term 3 Message from Principal Mr Tang</strong> for
+the start of Term 3 using the link below:</p>
 <p><a href="/files/YHSS_2026_Term_3_Letter_Sec_1_3.pdf" rel="noopener nofollow" target="_blank">Secondary 1 to 3</a>
 </p>
 <p><a href="/files/YHSS_2026_Term_3_Letter_Sec_4_5.pdf" rel="noopener nofollow" target="_blank">Secondary 4 and 5</a>
