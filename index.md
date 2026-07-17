@@ -68,4 +68,11 @@ sections:
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
       alt: Image alt text
+  - infobar:
+      title: Preliminary Examination
+      subtitle: 2026 N Level and O Level
+      id: infobar
+      description: The examination schedule is available on the "Student Information" page
+      button: Student information
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
 ---
