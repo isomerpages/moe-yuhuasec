@@ -37,8 +37,9 @@ sections:
       title: Preliminary Examination
       subtitle: 2026 N Level and O Level
       id: infobar
-      description: The examination schedule is available @
-      button: '"Student Information" page'
+      description: Dear students, please find the prelim examination schedule by
+        clicking on the link below.
+      button: Student Information
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
   - infobar:
       title: Semester 2 HBL
