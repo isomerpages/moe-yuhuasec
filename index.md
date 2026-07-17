@@ -72,7 +72,7 @@ sections:
       title: Preliminary Examination
       subtitle: 2026 N Level and O Level
       id: infobar
-      description: The examination schedule is available on the "Student Information" page
-      button: Student information
+      description: The examination schedule is available @
+      button: '"Student Information" page'
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
 ---
