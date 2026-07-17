@@ -7,8 +7,8 @@ variant: tiptap
 <h1><strong>Information for Students</strong></h1>
 <hr>
 <p>Dear students,</p>
-<p>please access weighted assessment (WA3 )schedule for Term 3 using the
-link below:</p>
+<p>Please access the weighted assessment (WA3) schedule (Secondary 1-3) and
+Prelim examination(Secondary 4&amp;5) using the link below:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -32,7 +32,14 @@ link below:</p>
 </tr>
 </tbody>
 </table>
-<hr>
+<p><strong><a href="/files/2026_N_O_Level_Prelim_Schedule_v3.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 N Level and O Level Preliminary Examination</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_N_O_Level_Prelim_Schedule_v2_Page_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_N_O_Level_Prelim_Schedule_v2_Page_2.jpg">
+</div>
 <h4><strong>HBL Schedule for Term 3 Week 3</strong></h4>
 <blockquote>
 <p><strong>Lower Sec</strong>

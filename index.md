@@ -34,6 +34,14 @@ sections:
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
       subtitle: WA3 Matters
   - infobar:
+      title: Preliminary Examination
+      subtitle: 2026 N Level and O Level
+      id: infobar
+      description: Dear students, please find the prelim examination schedule by
+        clicking on the link below.
+      button: Student Information
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
+  - infobar:
       title: Semester 2 HBL
       subtitle: 13 July to 17 July (T3W3)
       id: infobar
