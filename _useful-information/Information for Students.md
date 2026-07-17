@@ -32,7 +32,8 @@ Prelim examination(Secondary 4&amp;5) using the link below:</p>
 </tr>
 </tbody>
 </table>
-<p>2026 N Level and O Level Preliminary Examination</p>
+<p><strong>2026 N Level and O Level Preliminary Examination</strong>
+</p>
 <p></p>
 <hr>
 <h4><strong>HBL Schedule for Term 3 Week 3</strong></h4>
