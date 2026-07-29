@@ -42,13 +42,6 @@ sections:
       button: Student Information
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
   - infobar:
-      title: Semester 2 HBL
-      subtitle: 13 July to 17 July (T3W3)
-      id: infobar
-      description: HBL schedule is available @
-      button: HBL Subject Plans
-      url: https://sites.google.com/moe.edu.sg/yhss-hbl/blended-learning/hbl-subject-plans-2026
-  - infobar:
       title: Class Timetables for Semester 2 (2026)
       subtitle: timetable for sem 2 2026
       id: infobar
@@ -75,5 +68,13 @@ sections:
       button: click here to read the article!
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
+      alt: Image alt text
+  - infopic:
+      title: Alumni Games Day is BACK! 🎉
+      id: infopic
+      description: Register now via the registration form and secure your spot!
+      button: 👉 More details
+      url: https://forms.gle/gtU5n5ip33YfCf74A
+      image: /images/AGD_2026_Poster.jpg
       alt: Image alt text
 ---
