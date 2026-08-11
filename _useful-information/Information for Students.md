@@ -34,7 +34,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><strong>HBL Schedule for Term 3 Week 3</strong></h4>
 <blockquote>
 <p><strong>Lower Sec</strong>
