@@ -32,14 +32,8 @@ Prelim examination(Secondary 4&amp;5) using the link below:</p>
 </tr>
 </tbody>
 </table>
-<p><strong><a href="/files/2026_N_O_Level_Prelim_Schedule_v3.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 N Level and O Level Preliminary Examination</a></strong>
+<p><strong><a href="/files/2026_N_O_Level_Prelim_Schedule_latest.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 N Level and O Level Preliminary Examination</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_N_O_Level_Prelim_Schedule_v2_Page_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_N_O_Level_Prelim_Schedule_v2_Page_2.jpg">
-</div>
 <h4><strong>HBL Schedule for Term 3 Week 3</strong></h4>
 <blockquote>
 <p><strong>Lower Sec</strong>
