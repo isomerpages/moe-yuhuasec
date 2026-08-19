@@ -307,8 +307,8 @@ in.</p>
 <p>(Top 8)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd Place in National School Games C Division Football League Two</p>
-<p></p>
+<p>National School Games C Division Football League Two</p>
+<p>(Third)</p>
 </td>
 </tr>
 <tr>
