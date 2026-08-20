@@ -84,6 +84,9 @@ and dedication will allow us to build on the Yuhua Concert Band’s legacy.</p>
 <h4><strong>Key events/Achievements:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
+<p>Singapore International Band Festival (SIBF) 2026 - Gold</p>
+</li>
+<li>
 <p>National Day Parade 2025 Combined Schools Bands</p>
 </li>
 <li>
