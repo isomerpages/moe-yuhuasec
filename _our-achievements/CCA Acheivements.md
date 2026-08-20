@@ -107,8 +107,9 @@ and the bi-annual Singapore Youth Festival (SYF) organized by the Arts
 Education Branch. The SYF provides an opportunity for our Yuhuans to demonstrate
 their talents and be benchmarked against other schools. Our Visual and
 Performing Arts groups have done the school proud in recent years.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -124,6 +125,9 @@ Performing Arts groups have done the school proud in recent years.</p>
 <th rowspan="1" colspan="1">
 <p>2025</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>2026</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -135,6 +139,9 @@ Performing Arts groups have done the school proud in recent years.</p>
 <td rowspan="1" colspan="1">
 <p>Selected to participate in NDP</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Singapore International Band Festival (SIBF) 2026 - Gold</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -145,6 +152,9 @@ Performing Arts groups have done the school proud in recent years.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participated in Singapore Youth Festival - Certificate of Distinction</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -163,6 +173,9 @@ Performing Arts groups have done the school proud in recent years.</p>
 <p></p>
 <p>Participated in Singapore Youth Festival - Certificate of Accomplishment</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -174,6 +187,9 @@ Performing Arts groups have done the school proud in recent years.</p>
 <td rowspan="1" colspan="1">
 <p>Participated in Singapore Youth Festival - Certificate of Accomplishment</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -184,6 +200,9 @@ Performing Arts groups have done the school proud in recent years.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participated in Singapore Youth Festival - Certificate of Accomplishment</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
