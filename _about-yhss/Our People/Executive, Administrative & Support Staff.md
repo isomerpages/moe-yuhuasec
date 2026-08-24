@@ -36,7 +36,7 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM PAPPU LALITHA</p>
+<p>MR ZULHAQIL BIN JUMAIL</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR ZULHAQIL BIN JUMAIL</p>
+<p>MDM PAPPU LALITHA</p>
 </td>
 </tr>
 <tr>
