@@ -64,7 +64,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="6" colspan="1">
 <p><strong>STEM SUPPORT TEAM</strong>
 </p>
 </td>
@@ -76,6 +76,14 @@ variant: tiptap
 </td>
 </tr>
 <tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Seah Siew Wee</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>STEM Instructor</p>
