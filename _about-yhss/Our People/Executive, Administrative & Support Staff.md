@@ -81,7 +81,7 @@ variant: tiptap
 <p>STEM Instructor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Seah Siew Wee</p>
+<p>Mr SEAH SIEW WEE</p>
 </td>
 </tr>
 <tr>
