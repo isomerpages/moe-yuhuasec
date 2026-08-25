@@ -278,20 +278,12 @@ in.</p>
 <p>Participated in West Zone B Division National School Games</p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="3" colspan="1">
+<p>National School Games C Division League 2 Runners-up,2026</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
+<tr></tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Floorball Boys</p>
