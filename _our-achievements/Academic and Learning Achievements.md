@@ -6,6 +6,11 @@ variant: tiptap
 ---
 <h1><strong>Academic and Learning Achievements</strong></h1>
 <h2>2026</h2>
+<h4><strong>Katapella 2026</strong></h4>
+<p>Jointly organised by the Malay Language Learning and Promotion Committee
+(MLLPC) and Mediacorp, Katapella aims to foster in students a deeper appreciation
+for the Malay language and culture beyond the classroom.</p>
+<p>Secondary School Category - Second Runner-up</p>
 <h4><strong>NIE Mathematics Challenge (NIEMC)</strong></h4>
 <p>The NIE Mathematics Challenge (NIEMC) is an annual online event organised
 by NIE Mathematics and Mathematics Education Department since 2023.</p>
