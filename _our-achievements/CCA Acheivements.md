@@ -279,7 +279,7 @@ in.</p>
 <p></p>
 </td>
 <td rowspan="3" colspan="1">
-<p>National School Games C Division League 2 Runners-up,2026</p>
+<p>National School Games C Division League 2 Runners-up</p>
 </td>
 </tr>
 <tr></tr>
