@@ -76,6 +76,13 @@ embody teamwork, discipline and resilience.</p>
 </div>
 <p><strong>2026</strong>
 </p>
+<p><strong>C Division Girls</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National School Games CDivision League 2 Runners-up,2026</p>
+</li>
+</ul>
 <p><strong>B Division Boys</strong>
 </p>
 <ul data-tight="true" class="tight">
