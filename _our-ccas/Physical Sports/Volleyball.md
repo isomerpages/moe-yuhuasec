@@ -80,7 +80,7 @@ embody teamwork, discipline and resilience.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>National School Games CDivision League 2 Runners-up,2026</p>
+<p>National School Games CDivision League 2 Runners-up</p>
 </li>
 </ul>
 <p><strong>B Division Boys</strong>
