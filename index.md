@@ -27,13 +27,6 @@ sections:
       image: /images/WhatsApp_Image_2026_04_17_at_2_48_04_PM.jpg
       alt: Image alt text
   - infobar:
-      title: Term 3 Letter to Parents
-      id: infobar
-      description: Please click on the link below to access the Term 3 Letter to Parents
-      button: Click HERE
-      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
-      subtitle: WA3 Matters
-  - infobar:
       title: Preliminary Examination
       subtitle: 2026 N Level and O Level
       id: infobar
@@ -41,6 +34,13 @@ sections:
         clicking on the link below.
       button: Student Information
       url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-students/
+  - infobar:
+      title: Term 3 Letter to Parents
+      id: infobar
+      description: Please click on the link below to access the Term 3 Letter to Parents
+      button: Click HERE
+      url: https://www.yuhuasec.moe.edu.sg/useful-information-and-links/information-for-parents/
+      subtitle: WA3 Matters
   - infobar:
       title: Class Timetables for Semester 2 (2026)
       subtitle: timetable for sem 2 2026
@@ -68,13 +68,5 @@ sections:
       button: click here to read the article!
       url: https://www.zaobao.com.sg/news/singapore/story20230227-1367207
       image: /images/WhatsApp Image 2023-02-27 at 062603.jpeg
-      alt: Image alt text
-  - infopic:
-      title: Alumni Games Day is BACK! 🎉
-      id: infopic
-      description: Register now via the registration form and secure your spot!
-      button: 👉 More details
-      url: https://forms.gle/gtU5n5ip33YfCf74A
-      image: /images/AGD_2026_Poster.jpg
       alt: Image alt text
 ---
